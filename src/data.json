@@ -13,7 +13,12 @@
         "孛羅丞相 (Bolad Chingsang)",
         "蓋海圖汗 (Gaykhatu)",
         "合贊汗 (Ghazan Khan)",
-        "卻俄尼亞底斯 (Gregory Chioniades)"
+        "卻俄尼亞底斯 (Gregory Chioniades)",
+        "阿八哈汗",
+        "瑪麗亞·帕里奧洛格娜",
+        "拜都汗",
+        "合贊汗",
+        "拜住"
       ],
       "tech": [
         "雕版印刷 (Woodblock printing)",
@@ -25,7 +30,25 @@
         "拉希迪莊園 (Rab'-e Rashidi)",
         "大不里士觀象台 (Tabriz Observatory)",
         "印鈔局 (Čāv-Khāna)"
-      ]
+      ],
+      "events": [
+        {
+          "year": "1243年",
+          "title": "克塞山戰役",
+          "description": "蒙古大將拜住擊潰羅姆蘇丹國，使其淪為伊兒汗國附庸，並引發大規模突厥部落西遷潮。"
+        },
+        {
+          "year": "1295年前",
+          "title": "拜都汗的宗教寬容",
+          "description": "拜都汗偏向基督教，允許在移動軍營中建立教堂，鞏固了與拜占庭的信任。"
+        },
+        {
+          "year": "1295年",
+          "title": "合贊汗伊斯蘭化",
+          "description": "合贊汗正式改宗伊斯蘭以獲取穆斯林貴族支持，開始拆除佛寺與限制教堂，宣告親基督聯盟終結。"
+        }
+      ],
+      "numericYear": 1200
     },
     {
       "id": "maragha",
@@ -46,7 +69,15 @@
       ],
       "infrastructure": [
         "馬拉蓋觀象台 (Maragheh observatory)"
-      ]
+      ],
+      "events": [
+        {
+          "year": "13世紀末",
+          "title": "技術轉讓的橋樑",
+          "description": "拜占庭學者格里高利·希奧尼亞德斯抵達此地的天文台學習，促成了波斯計算方法向君士坦丁堡的技術轉讓。"
+        }
+      ],
+      "numericYear": 1200
     },
     {
       "id": "baghdad",
@@ -66,7 +97,8 @@
       ],
       "infrastructure": [
         "景教宗主教座堂 (Patriarchate of the Church of the East)"
-      ]
+      ],
+      "numericYear": 1258
     },
     {
       "id": "dadu",
@@ -93,6 +125,21 @@
         "回回司天台 (Islamic Astronomical Bureau)",
         "印鈔局",
         "站赤/驛站中樞 (Yam Hub)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1271年",
+          "title": "忽必烈建立大元",
+          "description": "蒙古政權中原化，忽必烈定國號為大元，建都大都。",
+          "numericYear": 1271
+        },
+        {
+          "year": "1351年",
+          "title": "紅巾軍起義爆發",
+          "description": "元末天災人禍引發大規模農民起義，動搖了元朝的統治基礎。",
+          "numericYear": 1351
+        }
       ]
     },
     {
@@ -114,6 +161,15 @@
       "infrastructure": [
         "萬安宮 (Tumen Amgalan Ord)",
         "驛站總樞紐 (Yam Hub)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1206年",
+          "title": "成吉思汗建立大蒙古國",
+          "description": "鐵木真統一蒙古高原各部，被尊為成吉思汗，開啟了席捲歐亞大陸的全球擴張。",
+          "numericYear": 1206
+        }
       ]
     },
     {
@@ -127,7 +183,11 @@
       "people": [
         "拔都汗 (Batu Khan)",
         "月即別汗 (Ozbeg Khan)",
-        "伊本·巴圖塔 (Ibn Battuta)"
+        "伊本·巴圖塔 (Ibn Battuta)",
+        "那海",
+        "脫脫汗",
+        "歐芙洛緒涅",
+        "瑪麗亞 (巴亞倫)"
       ],
       "tech": [
         "伊斯蘭教 (Islam)",
@@ -136,7 +196,20 @@
       "infrastructure": [
         "驛站 (Yam)",
         "伊斯蘭蘇非大學 (Madrasa)"
-      ]
+      ],
+      "events": [
+        {
+          "year": "13世紀末",
+          "title": "與拜占庭的聯姻與協作",
+          "description": "強權人物那海與拜占庭公主歐芙洛緒涅私交，曾派遣4,000名騎兵協助拜占庭穩定色雷斯防線。"
+        },
+        {
+          "year": "14世紀初",
+          "title": "遏制巴爾幹擴張",
+          "description": "拜占庭透過將瑪麗亞(巴亞倫)嫁給脫脫汗，確立了北方防線穩定，確保對巴爾幹的支配地位。"
+        }
+      ],
+      "numericYear": 1200
     },
     {
       "id": "venice",
@@ -154,7 +227,8 @@
       ],
       "infrastructure": [
         "商埠 (Trading port)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "soltaniyeh",
@@ -175,7 +249,8 @@
       "infrastructure": [
         "完者都陵墓 (Dome of Soltaniyeh)",
         "天主教大主教區 (Archbishopric)"
-      ]
+      ],
+      "numericYear": 1300
     },
     {
       "id": "shangdu",
@@ -194,7 +269,8 @@
       "infrastructure": [
         "夏宮 (Summer Palace)",
         "驛站網絡 (Yam/Örtöö)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "caffa",
@@ -213,7 +289,8 @@
       ],
       "infrastructure": [
         "熱那亞商港 (Genoese port)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "kashgar",
@@ -232,7 +309,8 @@
       ],
       "infrastructure": [
         "綠洲驛站 (Oasis yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "tus",
@@ -253,7 +331,8 @@
       "infrastructure": [
         "政府辦公機構 (Government office)",
         "呼羅珊驛站 (Khurasan yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "paris",
@@ -273,7 +352,8 @@
       ],
       "infrastructure": [
         "王室宮廷 (Royal Court)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "rome",
@@ -292,7 +372,8 @@
       ],
       "infrastructure": [
         "羅馬教廷 (Papal Court)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "constantinople",
@@ -305,16 +386,59 @@
       "people": [
         "安德洛尼卡二世 (Andronikos II)",
         "拉班·掃馬 (Rabban Bar Sauma)",
-        "威廉·魯不魯乞 (William of Rubruck)"
+        "威廉·魯不魯乞 (William of Rubruck)",
+        "瑪麗亞·帕里奧洛格娜",
+        "歐芙洛緒涅",
+        "西奧多·梅托希特",
+        "格里高利·希奧尼亞德斯",
+        "約翰·阿克蘇赫"
       ],
       "tech": [
         "東正教 (Eastern Orthodoxy)",
-        "外交 (Diplomacy)"
+        "外交 (Diplomacy)",
+        "托勒密天文學",
+        "波斯計算方法",
+        "潛在突厥化"
       ],
       "infrastructure": [
         "教堂 (Churches)",
         "商港 (Trading port)"
-      ]
+      ],
+      "events": [
+        {
+          "year": "1204年-1260年代",
+          "title": "第四次十字軍東征與地緣重組",
+          "description": "十字軍攻陷君士坦丁堡，拜占庭中央權威瓦解並建立拉丁帝國。帝國被迫分裂，導致東部防線真空。"
+        },
+        {
+          "year": "13世紀中葉",
+          "title": "聯姻外交戰略",
+          "description": "拜占庭皇帝將公主視為外交資產，透過瑪麗亞·帕里奧洛格娜與伊兒汗國聯姻，及歐芙洛緒涅與金帳汗國聯姻，換取軍事與戰略支援。"
+        },
+        {
+          "year": "13世紀末",
+          "title": "東方天文學的引進",
+          "description": "學者格里高利·希奧尼亞德斯親自前往馬拉蓋天文台學習，將先進的波斯計算方法引進君士坦丁堡，提升日食預測精度，促成帕里奧洛格斯文藝復興。"
+        },
+        {
+          "year": "14世紀",
+          "title": "潛在突厥化與薩拉森翼裝事件",
+          "description": "君士坦丁堡賽馬場發生突厥冒險家滑翔墜落事件，展現拜占庭對異族技術的著迷。突厥精英與美學逐漸滲透進拜占庭社會高層。"
+        },
+        {
+          "year": "1261年",
+          "title": "拜占庭光復君士坦丁堡",
+          "description": "尼西亞帝國的米海爾八世收復舊都，帕里奧洛格斯王朝復辟，但帝國實力已大不如前。",
+          "numericYear": 1261
+        },
+        {
+          "year": "1389年-1396年",
+          "title": "鄂圖曼土耳其崛起與包圍",
+          "description": "歷經科索沃戰役與尼科波利斯戰役，鄂圖曼土耳其幾乎完全包圍了君士坦丁堡，拜占庭淪為附庸。",
+          "numericYear": 1396
+        }
+      ],
+      "numericYear": 1200
     },
     {
       "id": "urgench",
@@ -333,7 +457,8 @@
       ],
       "infrastructure": [
         "綠洲商路 (Oasis trade route)"
-      ]
+      ],
+      "numericYear": 1300
     },
     {
       "id": "qayaligh",
@@ -353,7 +478,8 @@
       "infrastructure": [
         "佛教寺院 (Idol temples)",
         "驛站 (Yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "tiflis",
@@ -373,7 +499,8 @@
       ],
       "infrastructure": [
         "修道院 (Convents)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "mosul",
@@ -392,7 +519,8 @@
       ],
       "infrastructure": [
         "作坊 (Workshops)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "bordeaux",
@@ -411,7 +539,8 @@
       ],
       "infrastructure": [
         "王室宮廷 (Royal Court)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "ani",
@@ -430,7 +559,8 @@
       ],
       "infrastructure": [
         "古城防禦與驛路 (City fortifications and routes)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "bukhara",
@@ -449,7 +579,8 @@
       "infrastructure": [
         "清真寺與市集 (Mosques and bazaars)",
         "驛站 (Yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "samarqand",
@@ -469,7 +600,8 @@
       ],
       "infrastructure": [
         "中亞驛站 (Central Asian yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "olon_sume",
@@ -493,7 +625,8 @@
         "景教教堂 (Nestorian Church)",
         "石刻墓碑 (Stone steles)",
         "邊防驛站 (Frontier Yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "hangzhou",
@@ -517,6 +650,15 @@
         "京杭大運河 (Grand Canal)",
         "驛站網絡 (Yam network)",
         "海運港口 (Seaport)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1276年",
+          "title": "元軍攻陷臨安",
+          "description": "元軍南下攻陷南宋都城臨安，俘獲宋恭帝，南宋朝廷南逃。",
+          "numericYear": 1276
+        }
       ]
     },
     {
@@ -540,7 +682,8 @@
       "infrastructure": [
         "皇家大道 (Royal Road/Shahrah)",
         "驛站 (Yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "quanzhou",
@@ -564,6 +707,15 @@
         "商埠海港 (Seaport)",
         "市舶司 (Maritime Trade Office)",
         "驛站 (Yam)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1279年",
+          "title": "崖山海戰與宋朝滅亡",
+          "description": "南宋殘餘勢力在崖山海戰中全軍覆沒，陸秀夫背負幼帝投海，元朝完成中國大統一。",
+          "numericYear": 1279
+        }
       ]
     },
     {
@@ -585,7 +737,8 @@
       "infrastructure": [
         "供水驛棚 (Wooden sheds/wells for travelers)",
         "海港 (Seaport)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "azov",
@@ -605,7 +758,8 @@
       "infrastructure": [
         "商埠 (Trading port)",
         "驛道起點 (Yam terminal)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "talas",
@@ -626,7 +780,8 @@
       "infrastructure": [
         "游牧大營 (Nomadic encampment)",
         "綠洲驛站 (Oasis yam)"
-      ]
+      ],
+      "numericYear": 1200
     },
     {
       "id": "gaocheng",
@@ -645,6 +800,48 @@
       ],
       "infrastructure": [
         "觀星台 (Gaocheng Astronomical Observatory)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "nanjing",
+      "name": "南京 (應天府)",
+      "coordinates": [
+        118.7969,
+        32.0603
+      ],
+      "description": "朱元璋的龍興之地。1356年攻佔集慶並改名應天府，作為基地穩步擴張，最終於1368年建立明朝，結束了蒙元的統治。",
+      "people": [
+        "朱元璋 (Hongwu Emperor)"
+      ],
+      "tech": [
+        "里甲制",
+        "火器廣泛應用"
+      ],
+      "infrastructure": [
+        "南京明城牆",
+        "明故宮"
+      ],
+      "numericYear": 1356,
+      "events": [
+        {
+          "year": "1356年",
+          "title": "朱元璋攻佔集慶",
+          "description": "朱元璋取得戰略基地，改名應天府，開始穩步擴張。",
+          "numericYear": 1356
+        },
+        {
+          "year": "1368年",
+          "title": "明朝建立",
+          "description": "朱元璋於南京稱帝，建立大明王朝。",
+          "numericYear": 1368
+        },
+        {
+          "year": "1398年",
+          "title": "朱元璋駕崩",
+          "description": "洪武時代結束，建文帝繼位，為後續的靖難之役埋下伏筆。",
+          "numericYear": 1398
+        }
       ]
     }
   ],
@@ -653,151 +850,346 @@
       "source": "dadu",
       "target": "qayaligh",
       "label": "宗教觀察與朝聖：拉班·掃馬與各方傳教士依賴大汗牌符與驛站網絡穿行中亞，途經海押立等綠洲，見證絲路上的宗教多元化。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1287
     },
     {
       "source": "qayaligh",
       "target": "ani",
       "label": "景教僧侶移動：掃馬與馬可斯繼續西行朝聖，抵達高加索邊境的阿尼古城，隨後因敘利亞戰亂無法前往耶路撒冷。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1260
     },
     {
       "source": "ani",
       "target": "baghdad",
       "label": "政治與神職轉換：滯留伊兒汗國後，朝聖者獲宗主教接見，馬可斯最終在巴格達被推選為東方教會新任總主教（雅巴拉哈三世）。",
-      "type": "people"
+      "type": "people",
+      "numericYear": 1260
     },
     {
       "source": "baghdad",
       "target": "constantinople",
       "label": "外交使團啟程：拉班·掃馬受伊兒汗阿魯渾派遣出使歐洲，經由黑海航線首先抵達拜占庭帝國的君士坦丁堡。",
-      "type": "people"
+      "type": "people",
+      "numericYear": 1287
     },
     {
       "source": "constantinople",
       "target": "rome",
       "label": "羅馬教廷神學交流：使團自君士坦丁堡航向義大利半島，抵達羅馬與教宗尼古拉四世互換聖餐，完成破天荒的東西方信仰對話。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1260
     },
     {
       "source": "rome",
       "target": "paris",
       "label": "尋求法蘭西同盟：掃馬自羅馬北上抵達巴黎，會見法王腓力四世，提議組建對抗馬木路克的軍事同盟。",
-      "type": "people"
+      "type": "people",
+      "numericYear": 1260
     },
     {
       "source": "paris",
       "target": "bordeaux",
       "label": "尋求英格蘭同盟：掃馬繼續前往英格蘭領地波爾多，會晤英王愛德華一世，完成了歐亞大陸極端遙遠的外交串聯。",
-      "type": "people"
+      "type": "people",
+      "numericYear": 1260
     },
     {
       "source": "constantinople",
       "target": "karakorum",
       "label": "天主教傳教士東進：法國國王使節魯不魯乞自君士坦丁堡出發，穿越欽察草原，抵達帝國舊都哈拉和林參與宗教大辯論。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1254
     },
     {
       "source": "tiflis",
       "target": "maragha",
       "label": "傳教網絡擴張：教宗使節與道明會士透過喬治亞的第比利斯進入伊兒汗國，在馬拉蓋等地建立天主教修道院。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1260
     },
     {
       "source": "sarai",
       "target": "tabriz",
       "label": "汗國交鋒與貿易：金帳汗國與伊兒汗國為爭奪高加索控制權頻繁交戰，但雙方首都之間仍有著難以割捨的黑海-裡海貿易紐帶。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1260
     },
     {
       "source": "urgench",
       "target": "sarai",
       "label": "疾病與商路：中亞重鎮玉龍傑赤與金帳汗國首都薩萊透過水陸驛道相連，此高效網絡在1340年代不幸加速了黑死病的傳播。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1340
     },
     {
       "source": "dadu",
       "target": "tabriz",
       "label": "印刷術與金融實驗：元代駐波斯丞相孛羅將大都的「交鈔」與雕版印刷技術引入大不里士。蓋海圖汗依此發行印有漢字與阿拉伯文的波斯紙幣（Čāv），雖致經濟崩潰，卻讓拉施特在《史集》中留下了中國印刷術的珍貴紀錄。",
-      "type": "tech"
+      "type": "tech",
+      "numericYear": 1290
     },
     {
       "source": "maragha",
       "target": "dadu",
       "label": "天文知識與儀器轉移：伊斯蘭天文學家將馬拉蓋觀象台的天文儀器設計與觀測數據帶入大都，協助元代編修曆法。",
-      "type": "tech"
+      "type": "tech",
+      "numericYear": 1260
     },
     {
       "source": "venice",
       "target": "dadu",
       "label": "商貿與文化考察：威尼斯商人馬可·波羅持大汗牌符經中亞驛道抵達大都，留下詳盡的驛站運作與紙幣紀錄。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1275
     },
     {
       "source": "dadu",
       "target": "shangdu",
       "label": "極速物流傳遞：依賴「站赤」急遞鋪系統，大都物資（如鮮果）能於一日內火速送達上都供大汗享用。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1260
     },
     {
       "source": "bukhara",
       "target": "dadu",
       "label": "跨文化官僚調動：元朝自中亞（如布哈拉）引進穆斯林行政官員與工匠至中原，同時亦派漢人治理西域，展現帝國的人力大盤整。",
-      "type": "people"
+      "type": "people",
+      "numericYear": 1260
     },
     {
       "source": "samarqand",
       "target": "dadu",
       "label": "天文儀器與人才東傳：西域天文學家札馬魯丁從中亞來到元大都，向忽必烈進獻七種西域天文儀器（如星盤、天球儀）及《萬年曆》，並出任首任回回司天台長，推動了伊斯蘭與中國天文學的平行發展。",
-      "type": "tech"
+      "type": "tech",
+      "numericYear": 1267
     },
     {
       "source": "olon_sume",
       "target": "dadu",
       "label": "景教社群移動與朝貢：汪古部作為大汗姻親與邊防守衛，其貴族與景教僧侶憑藉大汗核發的牌符（Paiza），透過驛站網絡頻繁往返大都，維持政治與信仰連結。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1260
     },
     {
       "source": "hangzhou",
       "target": "dadu",
       "label": "大運河與站赤物流：南宋故都的書籍、儀器、絲綢及巨量農業稅收，透過高效的京杭大運河與陸路「站赤（驛站）」系統，源源不絕地輸送至大都供朝廷調配。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1260
     },
     {
       "source": "nishapur",
       "target": "soltaniyeh",
       "label": "極速驛遞（Binchik Yam）：合贊汗改革驛政，杜絕官員濫用後，配備精良馬匹的專屬驛站讓持有緊急文書（Maktub）的使者能以每日超過三百公里的極速飛馳傳訊。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1295
     },
     {
       "source": "quanzhou",
       "target": "quilon",
       "label": "海上驛路與聯運外交：元朝使團與穆斯林旅行家伊本·巴圖塔，搭乘大型海船經由海上絲綢之路，穿越印度馬拉巴爾海岸的奎隆，進行香料商貿與跨國外交行動。",
-      "type": "people"
+      "type": "people",
+      "numericYear": 1260
     },
     {
       "source": "talas",
       "target": "maragha",
       "label": "戰亂區過境與驛網庇護：拉班·掃馬等景教使節於塔拉斯取得海都汗的通行政令後，依靠驛站補給穿越險阻的中亞戰區，最終安全抵達伊兒汗國的馬拉蓋。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1287
     },
     {
       "source": "maragha",
       "target": "tabriz",
       "label": "數理幾何西傳歐洲：拜占庭學者卻俄尼亞底斯（Gregory Chioniades）在伊兒汗國觀象台學習，將納西爾丁·圖西發明的「圖西雙圓」幾何模型及星盤技術翻譯成希臘文帶回君士坦丁堡，深遠影響了歐洲天文學與哥白尼日心說。",
-      "type": "tech"
+      "type": "tech",
+      "numericYear": 1290
     },
     {
       "source": "tus",
       "target": "tabriz",
       "label": "驛政與牌符（Paiza）制度改革：為解決使臣濫用驛站，合贊汗整頓驛政，規定驛馬限額並發放刻有持牌人姓名的新式牌符，同時設立極速驛遞（Bīnchīk Yām）與步遞系統，大幅提升了帝國的通訊紀律。",
-      "type": "trade"
+      "type": "trade",
+      "numericYear": 1295
     },
     {
       "source": "dadu",
       "target": "karakorum",
       "label": "文字創製與身分憑證：藏傳佛教高僧八思巴受忽必烈之命創製「八思巴字」。這種字母不僅被指定為統一帝國各語種的官方文字，更廣泛鑄刻於各驛道使者佩戴的金銀牌符（Gerege）上，成為大汗權威的直接視覺象徵。",
-      "type": "religion"
+      "type": "religion",
+      "numericYear": 1269
+    },
+    {
+      "source": "karakorum",
+      "target": "dadu",
+      "label": "政權南遷與中原化：忽必烈將帝國重心從草原遷至大都，建立元朝。",
+      "type": "people",
+      "numericYear": 1271
+    },
+    {
+      "source": "dadu",
+      "target": "hangzhou",
+      "label": "征服南宋：元軍南下攻陷臨安。",
+      "type": "trade",
+      "numericYear": 1276
+    },
+    {
+      "source": "nanjing",
+      "target": "dadu",
+      "label": "明軍北伐：朱元璋派徐達北伐，攻陷大都，將蒙古勢力驅逐出長城以北。",
+      "type": "people",
+      "numericYear": 1368
+    },
+    {
+      "source": "sarai",
+      "target": "constantinople",
+      "label": "戰略包圍：鄂圖曼土耳其逐步吞噬巴爾幹與小亞細亞，對君士坦丁堡形成包圍網。",
+      "type": "people",
+      "numericYear": 1389
+    }
+  ],
+  "tour": [
+    {
+      "cityId": "constantinople",
+      "title": "第四次十字軍東征與地緣重組",
+      "year": "1204年-1260年代",
+      "content": "拜占庭中央權威瓦解，被迫分裂，導致東部防線真空。即便帕里奧洛格斯王朝復辟，仍需面對更為碎片化的突厥小公國威脅。",
+      "numericYear": 1204
+    },
+    {
+      "cityId": "karakorum",
+      "title": "成吉思汗建立大蒙古國",
+      "year": "1206年",
+      "content": "鐵木真統一蒙古高原各部，被尊為成吉思汗，開啟了席捲歐亞大陸的全球擴張。",
+      "numericYear": 1206
+    },
+    {
+      "cityId": "tabriz",
+      "title": "克塞山戰役",
+      "year": "1243年",
+      "content": "蒙古大將拜住擊潰羅姆蘇丹國，使其淪為伊兒汗國附庸，並引發大規模突厥部落西遷潮。",
+      "numericYear": 1243
+    },
+    {
+      "cityId": "constantinople",
+      "title": "聯姻外交戰略",
+      "year": "13世紀中葉",
+      "content": "拜占庭皇帝將公主視為外交資產，透過瑪麗亞·帕里奧洛格娜與伊兒汗國聯姻，及歐芙洛緒涅與金帳汗國聯姻，換取軍事與戰略支援。",
+      "numericYear": 1250
+    },
+    {
+      "cityId": "constantinople",
+      "title": "拜占庭光復君士坦丁堡",
+      "year": "1261年",
+      "content": "尼西亞帝國的米海爾八世收復舊都，帕里奧洛格斯王朝復辟，但帝國實力已大不如前。",
+      "numericYear": 1261
+    },
+    {
+      "cityId": "dadu",
+      "title": "忽必烈建立大元",
+      "year": "1271年",
+      "content": "蒙古政權中原化，忽必烈定國號為大元，建都大都。",
+      "numericYear": 1271
+    },
+    {
+      "cityId": "hangzhou",
+      "title": "元軍攻陷臨安",
+      "year": "1276年",
+      "content": "元軍南下攻陷南宋都城臨安，俘獲宋恭帝，南宋朝廷南逃。",
+      "numericYear": 1276
+    },
+    {
+      "cityId": "quanzhou",
+      "title": "崖山海戰與宋朝滅亡",
+      "year": "1279年",
+      "content": "南宋殘餘勢力在崖山海戰中全軍覆沒，元朝完成中國大統一。",
+      "numericYear": 1279
+    },
+    {
+      "cityId": "sarai",
+      "title": "與拜占庭的聯姻與協作",
+      "year": "13世紀末",
+      "content": "強權人物那海與拜占庭公主歐芙洛緒涅私交，曾派遣4,000名騎兵協助拜占庭穩定色雷斯防線。",
+      "numericYear": 1290
+    },
+    {
+      "cityId": "maragha",
+      "title": "技術轉讓的橋樑",
+      "year": "13世紀末",
+      "content": "拜占庭學者格里高利·希奧尼亞德斯抵達此地的天文台學習，促成了波斯計算方法向君士坦丁堡的技術轉讓。",
+      "numericYear": 1290
+    },
+    {
+      "cityId": "constantinople",
+      "title": "東方天文學的引進",
+      "year": "13世紀末",
+      "content": "學者格里高利·希奧尼亞德斯親自前往馬拉蓋天文台學習，將先進的波斯計算方法引進君士坦丁堡，提升日食預測精度，促成帕里奧洛格斯文藝復興。",
+      "numericYear": 1290
+    },
+    {
+      "cityId": "tabriz",
+      "title": "拜都汗的宗教寬容",
+      "year": "1295年前",
+      "content": "拜都汗偏向基督教，允許在移動軍營中建立教堂，鞏固了與拜占庭的信任。",
+      "numericYear": 1295
+    },
+    {
+      "cityId": "tabriz",
+      "title": "合贊汗伊斯蘭化",
+      "year": "1295年",
+      "content": "合贊汗正式改宗伊斯蘭以獲取穆斯林貴族支持，開始拆除佛寺與限制教堂，宣告親基督聯盟終結。",
+      "numericYear": 1295
+    },
+    {
+      "cityId": "sarai",
+      "title": "遏制巴爾幹擴張",
+      "year": "14世紀初",
+      "content": "拜占庭透過將瑪麗亞(巴亞倫)嫁給脫脫汗，確立了北方防線穩定，確保對巴爾幹的支配地位。",
+      "numericYear": 1310
+    },
+    {
+      "cityId": "constantinople",
+      "title": "潛在突厥化與薩拉森翼裝事件",
+      "year": "14世紀",
+      "content": "君士坦丁堡賽馬場發生突厥冒險家滑翔墜落事件，展現拜占庭對異族技術的著迷。突厥精英與美學逐漸滲透進拜占庭社會高層。",
+      "numericYear": 1330
+    },
+    {
+      "cityId": "dadu",
+      "title": "紅巾軍起義爆發",
+      "year": "1351年",
+      "content": "元末天災人禍引發大規模農民起義，動搖了元朝的統治基礎。",
+      "numericYear": 1351
+    },
+    {
+      "cityId": "nanjing",
+      "title": "朱元璋攻佔集慶",
+      "year": "1356年",
+      "content": "朱元璋取得戰略基地，改名應天府，開始穩步擴張。",
+      "numericYear": 1356
+    },
+    {
+      "cityId": "nanjing",
+      "title": "明朝建立與元廷北逃",
+      "year": "1368年",
+      "content": "朱元璋於南京稱帝，徐達攻陷大都，元朝統治結束。",
+      "numericYear": 1368
+    },
+    {
+      "cityId": "constantinople",
+      "title": "鄂圖曼土耳其包圍",
+      "year": "1389年-1396年",
+      "content": "歷經科索沃戰役與尼科波利斯戰役，鄂圖曼土耳其幾乎完全包圍了君士坦丁堡，拜占庭淪為附庸。",
+      "numericYear": 1396
+    },
+    {
+      "cityId": "nanjing",
+      "title": "朱元璋駕崩與建文帝繼位",
+      "year": "1398年",
+      "content": "洪武時代結束，為後續的靖難之役埋下伏筆。",
+      "numericYear": 1398
     }
   ]
 }

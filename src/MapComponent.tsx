@@ -31,9 +31,12 @@ interface MapComponentProps {
   selectedCity: City | null;
   onCityClick: (city: City) => void;
   filters: Record<string, boolean>;
+  center?: [number, number];
+  zoom?: number;
+  currentYear: number;
 }
 
-export default function MapComponent({ data, selectedCity, onCityClick, filters }: MapComponentProps) {
+export default function MapComponent({ data, selectedCity, onCityClick, filters, center = [65, 40], zoom = 1, currentYear }: MapComponentProps) {
   // Determine connected cities for the selected city
   const connectedCityIds = useMemo(() => {
     const ids = new Set<string>();
@@ -69,7 +72,7 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters 
         height={600}
         style={{ width: "100%", height: "100%" }}
       >
-        <ZoomableGroup zoom={1} center={[65, 40]} minZoom={0.5} maxZoom={5}>
+        <ZoomableGroup zoom={zoom} center={center} minZoom={0.5} maxZoom={5}>
           <Geographies geography={geoUrl}>
             {({ geographies }) =>
               geographies.map((geo) => (
@@ -91,7 +94,7 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters 
 
           {/* Draw Routes */}
           {data.routes.map((route, i) => {
-            const isVisible = route.type ? filters[route.type] !== false : filters['trade'] !== false;
+            const isVisible = (route.type ? filters[route.type] !== false : filters['trade'] !== false) && route.numericYear <= currentYear;
             if (!isVisible) return null;
 
             const sourceCity = data.cities.find((c) => c.id === route.source);
@@ -115,7 +118,7 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters 
           })}
 
           {/* Draw Cities */}
-          {data.cities.map((city) => {
+          {data.cities.filter(city => city.numericYear <= currentYear).map((city) => {
             const isSelected = selectedCity?.id === city.id;
             const isConnected = connectedCityIds.has(city.id);
             const showName = isSelected || isConnected;
