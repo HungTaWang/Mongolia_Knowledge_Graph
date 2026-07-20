@@ -14,6 +14,7 @@ interface City {
   id: string;
   name: string;
   coordinates: number[];
+  numericYear: number;
 }
 
 interface Route {
@@ -21,6 +22,7 @@ interface Route {
   target: string;
   type?: string;
   label: string;
+  numericYear: number;
 }
 
 interface MapComponentProps {

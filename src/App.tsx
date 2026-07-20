@@ -3,7 +3,7 @@ import { Tooltip } from 'react-tooltip';
 import MapComponent from './MapComponent';
 import MiniGraph from './MiniGraph';
 import data from './data.json';
-import { Map as MapIcon, Users, Lightbulb, Building2, Route as RouteIcon } from 'lucide-react';
+import { Users, Lightbulb, Route as RouteIcon } from 'lucide-react';
 
 export default function App() {
   const [selectedCity, setSelectedCity] = useState<any>(null);
