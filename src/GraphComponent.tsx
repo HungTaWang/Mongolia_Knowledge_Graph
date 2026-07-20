@@ -35,7 +35,7 @@ const groupColors: Record<string, string> = {
 };
 
 export default function GraphComponent({ data, onNodeClick, selectedNode }: GraphComponentProps) {
-  const fgRef = useRef<any>();
+  const fgRef = useRef<any>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const [dimensions, setDimensions] = useState({ width: 800, height: 600 });
 
@@ -126,9 +126,6 @@ export default function GraphComponent({ data, onNodeClick, selectedNode }: Grap
         // Enable reading edges easily
         linkCanvasObjectMode={() => 'after'}
         linkCanvasObject={(link: any, ctx, globalScale) => {
-          const MAX_FONT_SIZE = 4;
-          const LABEL_NODE_MARGIN = Math.sqrt((link.target.val || 10)) * 2;
-          
           const start = link.source;
           const end = link.target;
           

@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import { useMemo } from "react";
 import {
   ComposableMap,
   Geographies,
@@ -13,7 +13,7 @@ const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 interface City {
   id: string;
   name: string;
-  coordinates: [number, number];
+  coordinates: number[];
 }
 
 interface Route {
@@ -103,8 +103,8 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters 
             return (
               <Line
                 key={i}
-                from={sourceCity.coordinates}
-                to={targetCity.coordinates}
+                from={sourceCity.coordinates as [number, number]}
+                to={targetCity.coordinates as [number, number]}
                 stroke={color}
                 strokeWidth={2}
                 strokeLinecap="round"
@@ -123,9 +123,13 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters 
             return (
               <Marker
                 key={city.id}
-                coordinates={city.coordinates}
+                coordinates={city.coordinates as [number, number]}
                 onClick={() => onCityClick(city)}
-                style={{ cursor: "pointer" }}
+                style={{
+                  default: { cursor: "pointer", outline: "none" },
+                  hover: { cursor: "pointer", outline: "none" },
+                  pressed: { cursor: "pointer", outline: "none" }
+                }}
               >
                 <circle
                   r={isSelected ? 8 : (isConnected ? 6 : 4)}

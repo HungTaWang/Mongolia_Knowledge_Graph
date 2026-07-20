@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import ForceGraph2D from 'react-force-graph-2d';
 
 interface MiniGraphProps {
