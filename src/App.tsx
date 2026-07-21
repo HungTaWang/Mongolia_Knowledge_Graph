@@ -2,15 +2,29 @@ import { useState, useRef, useEffect } from 'react';
 import { Tooltip } from 'react-tooltip';
 import MapComponent from './MapComponent';
 import MiniGraph from './MiniGraph';
+import GlobalGraph from './GlobalGraph';
 import data from './data.json';
-import { Users, Lightbulb, Route as RouteIcon, X } from 'lucide-react';
+import { Users, Lightbulb, Route as RouteIcon, X, Map as MapIcon, Network } from 'lucide-react';
 
-const glossaryKeys = Object.keys((data as any).glossary || {}).sort((a, b) => b.length - a.length);
-const glossaryRegex = glossaryKeys.length > 0 ? new RegExp(`(${glossaryKeys.join('|')})`, 'g') : null;
+const rawGlossaryKeys = Object.keys((data as any).glossary || {});
+const glossaryAliasMap: Record<string, string> = {};
+
+rawGlossaryKeys.forEach(k => {
+  glossaryAliasMap[k] = k;
+  const baseName = k.split(' (')[0].trim();
+  // Don't overwrite if baseName is already a full key for something else
+  if (baseName && baseName !== k && !glossaryAliasMap[baseName]) {
+    glossaryAliasMap[baseName] = k;
+  }
+});
+
+const allGlossaryKeys = Object.keys(glossaryAliasMap).sort((a, b) => b.length - a.length);
+const glossaryRegex = allGlossaryKeys.length > 0 ? new RegExp(`(${allGlossaryKeys.join('|')})`, 'g') : null;
 
 export default function App() {
   const [selectedCity, setSelectedCity] = useState<any>(null);
   const [modalContent, setModalContent] = useState<{title: string, desc: string, type: string} | null>(null);
+  const [viewMode, setViewMode] = useState<'map' | 'thoughts' | 'tech' | 'people'>('map');
   
   // Time Slider State
   const [currentYear, setCurrentYear] = useState(1276);
@@ -49,8 +63,17 @@ export default function App() {
     if (mapZoom < 3) setMapZoom(3);
   };
 
+  const handleGlobalGraphCityClick = (cityId: string) => {
+    const city = data.cities.find(c => c.id === cityId);
+    if (city) {
+      setViewMode('map');
+      handleCityClick(city);
+    }
+  };
+
   const handleEntityClick = (entityName: string) => {
-    const entity = (data as any).glossary?.[entityName];
+    const fullKey = glossaryAliasMap[entityName] || entityName;
+    const entity = (data as any).glossary?.[fullKey];
     if (!entity) return;
     
     if (entity.type === 'city') {
@@ -72,12 +95,13 @@ export default function App() {
     
     const parts = text.split(glossaryRegex);
     return parts.map((part, i) => {
-      if ((data as any).glossary?.[part]) {
+      const fullKey = glossaryAliasMap[part];
+      if (fullKey) {
         return (
           <span
             key={i}
             className="clickable-entity"
-            onClick={() => handleEntityClick(part)}
+            onClick={() => handleEntityClick(fullKey)}
           >
             {part}
           </span>
@@ -107,56 +131,83 @@ export default function App() {
     <div className="app-container">
       <Tooltip id="city-tooltip" style={{ zIndex: 100, backgroundColor: 'rgba(15, 23, 42, 0.9)', borderRadius: '6px' }} />
 
-      <div className="map-container">
-        <MapComponent 
-          data={data}
-          selectedCity={selectedCity}
-          onCityClick={handleCityClick}
-          filters={filters}
-          center={mapCenter}
-          zoom={mapZoom}
-          currentYear={currentYear}
-        />
+      <div className="map-container" style={{ position: 'relative' }}>
+        {/* View Mode Selector */}
+        <div style={{ position: 'absolute', top: 20, left: '50%', transform: 'translateX(-50%)', zIndex: 100, display: 'flex', gap: '8px', background: 'rgba(15, 23, 42, 0.8)', padding: '8px', borderRadius: '30px', boxShadow: '0 4px 6px rgba(0,0,0,0.3)' }}>
+          <button onClick={() => setViewMode('map')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'map' ? '#3b82f6' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'map' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
+            <MapIcon size={16} /> 地圖
+          </button>
+          <button onClick={() => setViewMode('thoughts')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'thoughts' ? '#9333ea' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'thoughts' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
+            <Network size={16} /> 思想
+          </button>
+          <button onClick={() => setViewMode('tech')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'tech' ? '#0284c7' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'tech' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
+            <Network size={16} /> 技術
+          </button>
+          <button onClick={() => setViewMode('people')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'people' ? '#ea580c' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'people' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
+            <Network size={16} /> 人物
+          </button>
+        </div>
+
+        {viewMode === 'map' ? (
+          <MapComponent 
+            data={data}
+            selectedCity={selectedCity}
+            onCityClick={handleCityClick}
+            filters={filters}
+            center={mapCenter}
+            zoom={mapZoom}
+            currentYear={currentYear}
+          />
+        ) : (
+          <GlobalGraph
+            data={data}
+            type={viewMode}
+            currentYear={currentYear}
+            onEntityClick={handleEntityClick}
+          />
+        )}
         
         {/* Time Slider Overlay */}
         <div className="time-slider-container">
           <div className="time-slider-header">
             <span>B.C. 800</span>
             <span className="current-year">{formatYear(currentYear)}</span>
-            <span>A.D. 1900</span>
+            <span>A.D. 2000</span>
           </div>
           <input 
             type="range" 
             className="time-slider" 
             min="-800" 
-            max="1900" 
+            max="2000" 
             value={currentYear} 
             onChange={(e) => setCurrentYear(parseInt(e.target.value, 10))}
           />
         </div>
 
-        <div className="filters-panel">
-          <h3>傳播路線過濾</h3>
-          <label className="filter-item">
-            <input type="checkbox" checked={filters.tech} onChange={() => toggleFilter('tech')} />
-            <span style={{ color: '#0ea5e9', fontWeight: 'bold' }}>─</span> 技術與科學 (Tech)
-          </label>
-          <label className="filter-item">
-            <input type="checkbox" checked={filters.religion} onChange={() => toggleFilter('religion')} />
-            <span style={{ color: '#a855f7', fontWeight: 'bold' }}>─</span> 宗教與思想 (Religion)
-          </label>
-          <label className="filter-item">
-            <input type="checkbox" checked={filters.people} onChange={() => toggleFilter('people')} />
-            <span style={{ color: '#f59e0b', fontWeight: 'bold' }}>─</span> 人物與使團 (People)
-          </label>
-        </div>
+        {viewMode === 'map' && (
+          <div className="filters-panel">
+            <h3>傳播路線過濾</h3>
+            <label className="filter-item">
+              <input type="checkbox" checked={filters.tech} onChange={() => toggleFilter('tech')} />
+              <span style={{ color: '#0ea5e9', fontWeight: 'bold' }}>─</span> 技術與科學 (Tech)
+            </label>
+            <label className="filter-item">
+              <input type="checkbox" checked={filters.religion} onChange={() => toggleFilter('religion')} />
+              <span style={{ color: '#a855f7', fontWeight: 'bold' }}>─</span> 宗教與思想 (Religion)
+            </label>
+            <label className="filter-item">
+              <input type="checkbox" checked={filters.people} onChange={() => toggleFilter('people')} />
+              <span style={{ color: '#f59e0b', fontWeight: 'bold' }}>─</span> 人物與使團 (People)
+            </label>
+          </div>
+        )}
       </div>
 
       <div className="info-panel">
         <div className="panel-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div style={{ cursor: 'pointer' }} onClick={handleBackToGlobal}>
-            <h1>宋元明朝知識圖譜</h1>
-            <p>蒙古帝國與西域之文化交流</p>
+            <h1>泓達歷史小屋</h1>
+            <p>以史為鏡，可以知興替</p>
           </div>
           {selectedCity && (
             <button onClick={handleBackToGlobal} style={{ padding: '6px 12px', background: '#e2e8f0', border: 'none', borderRadius: '4px', cursor: 'pointer' }}>
@@ -249,7 +300,7 @@ export default function App() {
           ) : (
             // 全域紀事視圖 (Global Chronicle Panel)
             <div className="global-chronicle" ref={chronicleRef}>
-              <h3 style={{ marginBottom: '8px', color: 'var(--text-main)' }}>📜 帝國擴張與文明傳播總覽</h3>
+              <h3 style={{ marginBottom: '8px', color: 'var(--text-main)' }}>📜 文明演進與知識傳播全史</h3>
               {data.tour.map((tourStep: any, index: number) => {
                 const isActive = tourStep.numericYear <= currentYear;
                 const isClosest = isActive && (index === data.tour.length - 1 || data.tour[index+1].numericYear > currentYear);
