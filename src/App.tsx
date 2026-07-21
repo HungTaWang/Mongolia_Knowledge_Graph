@@ -63,14 +63,6 @@ export default function App() {
     if (mapZoom < 3) setMapZoom(3);
   };
 
-  const handleGlobalGraphCityClick = (cityId: string) => {
-    const city = data.cities.find(c => c.id === cityId);
-    if (city) {
-      setViewMode('map');
-      handleCityClick(city);
-    }
-  };
-
   const handleEntityClick = (entityName: string) => {
     const fullKey = glossaryAliasMap[entityName] || entityName;
     const entity = (data as any).glossary?.[fullKey];
