@@ -1,0 +1,42 @@
+{
+  "newCities": [
+    { "id": "cahokia", "name": "卡霍基亞", "coordinates": [-90.062, 38.654], "description": "前哥倫布時期密西西比文化的核心，北美最大的原住民貿易與宗教中心。", "numericYear": 600 },
+    { "id": "jamestown", "name": "詹姆士敦", "coordinates": [-76.776, 37.211], "description": "英國在北美建立的第一個永久殖民地，美洲菸草農業的發源地。", "numericYear": 1607 },
+    { "id": "philadelphia", "name": "費城", "coordinates": [-75.165, 39.952], "description": "威廉·佩恩建立的宗教寬容之城，《獨立宣言》與《美國憲法》的誕生地。", "numericYear": 1681 },
+    { "id": "new_york", "name": "紐約", "coordinates": [-74.006, 40.712], "description": "原荷蘭新阿姆斯特丹，後成為美國工業化、貿易與大量移民的全球樞紐。", "numericYear": 1624 }
+  ],
+  "newRoutes": [
+    { "source": "jamestown", "target": "london", "label": "菸草與美洲農作物傳入歐洲", "type": "tech", "numericYear": 1613 },
+    { "source": "madrid", "target": "cahokia", "label": "歐洲病菌傳播重創原住民社會", "type": "people", "numericYear": 1500 },
+    { "source": "london", "target": "philadelphia", "label": "貴格會與宗教寬容思想移植北美", "type": "religion", "numericYear": 1681 },
+    { "source": "boston", "target": "philadelphia", "label": "清教徒自治精神演化為美國憲政", "type": "religion", "numericYear": 1787 },
+    { "source": "philadelphia", "target": "paris", "label": "《獨立宣言》思想催化法國大革命", "type": "religion", "numericYear": 1789 },
+    { "source": "new_york", "target": "london", "label": "鍍金時代：美國工業化反哺歐洲", "type": "tech", "numericYear": 1870 }
+  ],
+  "newTours": [
+    { "cityId": "cahokia", "title": "密西西比文化鼎盛時期", "year": "12世紀", "content": "卡霍基亞成為龐大貿易網路的中心，擁有高聳的僧侶墩，人口一度超越同期的倫敦，展現美洲原住民高度發達的城市文明。", "numericYear": 1150 },
+    { "cityId": "boston", "title": "易洛魁聯盟成立", "year": "15世紀中葉", "content": "北美東北部的五個部落組成易洛魁聯盟，以議會形式協商事務，其部落民主聯盟架構被認為對後來的美國憲法產生了影響。", "numericYear": 1450 },
+    { "cityId": "jamestown", "title": "詹姆士敦建立與菸草熱潮", "year": "1607", "content": "英國建立北美第一個永久殖民地。隨後引進的菸草成為經濟命脈，但也促使了第一批非洲奴隸被運往北美。", "numericYear": 1607 },
+    { "cityId": "philadelphia", "title": "發布獨立宣言", "year": "1776", "content": "北美十三殖民地發表《獨立宣言》，正式宣告脫離英國獨立，將啟蒙時代的「天賦人權」化為人類歷史上首個民主共和國的實踐。", "numericYear": 1776 },
+    { "cityId": "philadelphia", "title": "美國憲法正式實施", "year": "1789", "content": "《美國憲法》正式生效。它建立了一個強大但受制衡的中央政府，成為當今世界上最古老且仍持續運作的成文憲法。", "numericYear": 1789 },
+    { "cityId": "new_york", "title": "進入鍍金時代", "year": "19世紀末", "content": "在企業家精神與數百萬移民勞工的推動下，美國經歷了爆炸性的工業化，迅速崛起為全球最強大的工業國之一。", "numericYear": 1870 }
+  ],
+  "glossaryUpdates": {
+    "哥倫布大交換": {
+      "type": "tech",
+      "description": "15世紀末歐洲人抵達美洲後，引發的全球性動植物、人口與病菌的大規模交換。馬鈴薯與玉米改變了歐洲的飲食與人口結構；但同時，天花與麻疹等歐亞傳染病也對美洲原住民造成了毀滅性的打擊，徹底重塑了美洲的歷史。"
+    },
+    "易洛魁聯盟": {
+      "type": "religion",
+      "description": "由北美東北部五個（後為六個）原住民族所組成的強大部落聯盟。他們制定了《和平大律法》，透過酋長議會以民主共識的模式運作。這種複雜的政治架構不僅展現了原住民的政治智慧，更間接啟發了美國開國元勳們的聯邦制與憲政思想。"
+    },
+    "清教徒主義": {
+      "type": "religion",
+      "description": "源自16世紀英國的宗教改革運動，主張清除國教會中殘留的天主教元素。為了追求宗教自由，大批清教徒搭乘「五月花號」等船隻前往北美。他們簽署的《五月花號公約》強調自治與契約精神，成為美國民主憲政的文化基因。"
+    },
+    "鍍金時代": {
+      "type": "tech",
+      "description": "指美國從南北戰爭結束（1865年）到20世紀初的一段時期。美國經歷了前所未有的工業化與經濟擴張，鐵路網絡密佈，財富急劇累積。但同時也伴隨著嚴重的貧富差距、勞工剝削與政治腐敗，最終催生了後續的進步主義改革。"
+    }
+  }
+}

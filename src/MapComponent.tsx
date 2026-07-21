@@ -120,7 +120,7 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters,
           })}
 
           {/* Draw Cities */}
-          {data.cities.filter(city => city.numericYear <= currentYear).map((city) => {
+          {data.cities.map((city) => {
             const isSelected = selectedCity?.id === city.id;
             const isConnected = connectedCityIds.has(city.id);
             const showName = isSelected || isConnected;

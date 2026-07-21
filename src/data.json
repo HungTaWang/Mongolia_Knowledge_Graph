@@ -7,7 +7,7 @@
         46.2919,
         38.0773
       ],
-      "description": "伊兒汗國的科學與情報樞紐。孛羅丞相向蓋海圖汗介紹中原交鈔，促成以雕版印刷發行波斯紙幣（Čāv）的災難性實驗。拉施特在此建立拉希迪莊園，記錄了中國印刷術。拜占庭天文學家卻俄尼亞底斯亦在此觀象台學習，將西亞天文技術傳回歐洲。",
+      "description": "伊兒汗國的首都與重要科學情報樞紐。這裡是東西方貿易、文化與科技交流的中心，孛羅丞相在此介紹交鈔，拉施特在此建立拉希迪莊園，成為當時波斯地區的文化與知識重鎮。",
       "people": [
         "拉施特 (Rashid al-Din Hamadani)",
         "孛羅丞相 (Bolad Chingsang)",
@@ -57,7 +57,7 @@
         46.266,
         37.383
       ],
-      "description": "旭烈兀資助波斯學者圖西在此建立當時世上最先進的觀象台，館藏四十萬卷從巴格達搶救出的書籍。圖西在此編纂《伊兒汗星表》並發明「圖西雙圓」幾何模型，對後世歐洲哥白尼的日心說產生了深遠影響。",
+      "description": "位於伊朗西北部的歷史名城，旭烈兀在此資助波斯學者納西爾丁·圖西建立當時世界上最先進的馬拉蓋觀象台，成為伊斯蘭世界與蒙古帝國的天文學中心。",
       "people": [
         "旭烈兀 (Hulegu Khan)",
         "納西爾丁·圖西 (Nasir al-Din al-Tusi)"
@@ -86,7 +86,7 @@
         44.366,
         33.3152
       ],
-      "description": "1258年被旭烈兀攻陷。此地為東方教會（景教）總主教座堂所在地。景教僧侶拉班·掃馬西行時曾駐留，後來由馬可斯（雅巴拉哈三世）接任總主教。",
+      "description": "阿拔斯王朝的前首都，1258年被旭烈兀率領的蒙古軍隊攻陷，標誌著伊斯蘭黃金時代的終結。此後成為伊兒汗國的重要城市與東方教會（景教）總主教座堂所在地。",
       "people": [
         "旭烈兀 (Hulegu Khan)",
         "拉班·掃馬 (Rabban Bar Sauma)",
@@ -107,7 +107,7 @@
         116.4074,
         39.9042
       ],
-      "description": "蒙元帝國科技與文化的超級熔爐。藏傳佛教高僧八思巴在此為帝國創製「八思巴字」作為通用文字。西域學者札馬魯丁引進了星盤、天球儀等七種天文儀器並掌管回回司天台。郭守敬則在此融合各方數據，編修出精準度極高的《授時曆》。",
+      "description": "元朝的首都，由忽必烈汗下令建造。作為蒙古帝國的政治中心，大都是當時世界上最繁華、最多元文化的國際大都市之一，馬可·波羅等西方使節曾造訪此地。",
       "people": [
         "忽必烈汗 (Kublai Khan)",
         "八思巴 (Drogön Chögyal Phagpa)",
@@ -149,7 +149,7 @@
         102.8478,
         47.2103
       ],
-      "description": "蒙古帝國舊都。法國修士威廉·魯不魯乞抵達此地後，不僅參與了蒙哥汗舉辦的跨宗教大辯論，更在遊記中詳細記錄了東方人使用「紙幣」以及「毛筆」書寫的習慣，成為西方了解中國技術的先驅文獻。",
+      "description": "蒙古帝國早期的首都，由窩闊台汗建立。作為帝國的政治樞紐與驛站網絡的中心，吸引了來自歐亞大陸各地的商人、工匠與使節。",
       "people": [
         "蒙哥汗 (Mongke Khan)",
         "威廉·魯不魯乞 (William of Rubruck)"
@@ -179,7 +179,7 @@
         47.4345,
         47.1814
       ],
-      "description": "金帳汗國首都，伏爾加河畔的水陸聯運樞紐。控制俄羅斯諸公國的稅收與皮毛之路，城中清真寺與教堂並立，伊斯蘭教在此逐漸興盛。",
+      "description": "金帳汗國的首都，位於伏爾加河下游。它是東歐平原上最大的城市之一，也是連結俄羅斯、中亞與熱那亞黑海貿易網的重要商業樞紐。",
       "people": [
         "拔都汗 (Batu Khan)",
         "月即別汗 (Ozbeg Khan)",
@@ -218,7 +218,7 @@
         12.3155,
         45.4408
       ],
-      "description": "歐洲海上驛道與商貿網絡的重要起點。威尼斯商人持有大汗牌符經絲綢之路東行，促進了東西方地理知識與財富的交流。",
+      "description": "中世紀歐洲的海上貿易共和國。威尼斯商人（如馬可·波羅家族）積極拓展前往東方的貿易路線，在蒙古和平時期掌控了地中海與黑海的香料和絲綢貿易。",
       "people": [
         "馬可·波羅 (Marco Polo)"
       ],
@@ -237,7 +237,7 @@
         48.7969,
         36.4344
       ],
-      "description": "14世紀初成為伊兒汗國新首都。完者都統治時期在此建立宏偉陵墓。1318年羅馬教宗曾在此設立天主教大主教區，作為宣教據點。",
+      "description": "伊兒汗國完者都汗所建立的新首都。城內擁有宏偉的完者都陵墓，其巨大的穹頂展現了波斯伊斯蘭建築的巔峰，也是東西方貿易的交匯點。",
       "people": [
         "完者都 (Öljaitü)",
         "法蘭孔·德·佩魯斯 (Francon de Pérouse)"
@@ -259,7 +259,7 @@
         116.1833,
         42.3667
       ],
-      "description": "元朝夏都。透過極為高效的「站赤」系統與大都相連，新鮮物資能透過快馬與急遞鋪系統在極短時間內送達，體現驛站物流的高效。",
+      "description": "元朝的夏都，位於今內蒙古。忽必烈每年夏季會在此避暑與辦公，這裡是蒙古游牧傳統與中原農耕文明交織的象徵，西方稱之為「Xanadu」。",
       "people": [
         "忽必烈汗 (Kublai Khan)"
       ],
@@ -279,7 +279,7 @@
         35.3794,
         45.0319
       ],
-      "description": "黑海沿岸熱那亞貿易商埠，與金帳汗國進行頻繁貿易。1347年蒙古軍隊圍攻此城時，不幸成為黑死病向歐洲蔓延的突破口。",
+      "description": "熱那亞共和國在克里米亞半島建立的重要貿易殖民地（今費奧多西亞）。作為黑海貿易樞紐，也是後來黑死病傳入歐洲的起點之一。",
       "people": [
         "札尼別 (Jani Beg)"
       ],
@@ -299,7 +299,7 @@
         75.9892,
         39.4677
       ],
-      "description": "絲綢之路中段重鎮。在察合台汗國海都汗的戰亂中遭劫掠。拉班·掃馬與馬可斯西行朝聖時曾途經此地並目睹戰後慘狀。",
+      "description": "位於新疆塔里木盆地西緣的綠洲城市。自古便是絲綢之路北路與南路的交匯處，在察合台汗國統治下維持著繁榮的跨國貿易。",
       "people": [
         "海都 (Qaidu Khan)",
         "拉班·掃馬 (Rabban Bar Sauma)"
@@ -319,7 +319,7 @@
         59.5247,
         36.4522
       ],
-      "description": "伊兒汗國早期重建西亞的行政基地。行政長官阿魯渾·阿加在此推動了人口普查與戶賦（Qubchur）稅制改革，明定以專項稅收來支持驛站（Yam）與使節的差旅費，從而在制度上減少驛站對百姓的勒索。",
+      "description": "波斯東北部呼羅珊地區的古城，是眾多伊斯蘭學者、詩人與科學家的故鄉。著名的天文學家納西爾丁·圖西即誕生於此。",
       "people": [
         "闊里吉思 (Körgüz)",
         "阿魯渾·阿加 (Arghun Aqa)"
@@ -341,7 +341,7 @@
         2.3522,
         48.8566
       ],
-      "description": "歐洲外交中心。伊兒汗使節拉班·掃馬在此會見法王腓力四世，提議結盟對抗馬木路克。此地工匠布歇亦曾赴哈拉和林打造銀樹。",
+      "description": "中世紀歐洲的學術與政治中心。法國國王腓力四世曾在此接見來自伊兒汗國的景教使節拉班·掃馬，探討雙方針對穆斯林的軍事同盟。",
       "people": [
         "腓力四世 (Philip IV of France)",
         "拉班·掃馬 (Rabban Bar Sauma)",
@@ -362,7 +362,7 @@
         12.4922,
         41.8902
       ],
-      "description": "西方天主教會中心。景教僧侶拉班·掃馬代表伊兒汗國抵達此處，與教宗進行神學交流，是元代跨歐亞宗教與外交互動的巔峰。",
+      "description": "天主教的宗教中心。蒙古使節拉班·掃馬曾抵達羅馬教廷，並與教宗尼古拉四世會面，開啟了蒙古與羅馬教廷之間罕見的跨信仰外交對話。",
       "people": [
         "教宗尼古拉四世 (Pope Nicholas IV)",
         "拉班·掃馬 (Rabban Bar Sauma)"
@@ -382,7 +382,7 @@
         28.9784,
         41.0082
       ],
-      "description": "拜占庭帝國首都。魯不魯乞與拉班·掃馬西行或東進時皆以此為中轉站。掃馬曾在此會見安德洛尼卡二世，參觀東正教聖物。",
+      "description": "拜占庭帝國的首都。在蒙古西征後，拜占庭透過聯姻（如瑪麗亞·帕里奧洛格娜）與伊兒汗國及金帳汗國建立外交關係，成為東西方技術轉讓的橋樑。",
       "people": [
         "安德洛尼卡二世 (Andronikos II)",
         "拉班·掃馬 (Rabban Bar Sauma)",
@@ -447,7 +447,7 @@
         59.153,
         42.3304
       ],
-      "description": "中亞花剌子模舊都。魯不魯乞曾記載此地景教徒與穆斯林混居的獨特現象；14世紀中葉更是黑死病沿驛道蔓延的早期感染區。",
+      "description": "花剌子模的舊都，位於阿姆河三角洲。曾被成吉思汗夷為平地，但在金帳汗國統治下重建，成為絲綢之路上繁榮的伊斯蘭學術與商業中心。",
       "people": [
         "威廉·魯不魯乞 (William of Rubruck)"
       ],
@@ -467,7 +467,7 @@
         79.052,
         45.184
       ],
-      "description": "察合台汗國境內城鎮。魯不魯乞在此進入佛教寺廟觀察，並發現當地的基督徒因教義混淆而不使用十字架，展現出高度的宗教融合。",
+      "description": "察合台汗國早期的重要據點與中亞貿易名城，位於七河地區。拉班·掃馬等旅行家西行時曾途經此地，宗教文化多元。",
       "people": [
         "威廉·魯不魯乞 (William of Rubruck)"
       ],
@@ -488,7 +488,7 @@
         44.8271,
         41.7151
       ],
-      "description": "基督教喬治亞首都。1240年代天主教道明會士受教宗之命抵達此處與蒙古人接觸，後來成為西方傳教士進入伊兒汗國的重要前哨。",
+      "description": "喬治亞王國的首都。在被蒙古征服後，喬治亞軍隊常被徵調參與伊兒汗國的軍事行動，城市本身則是高加索地區的貿易重鎮。",
       "people": [
         "桂恰德 (Guichard of Cremone)",
         "教宗額我略九世 (Pope Gregory IX)"
@@ -509,7 +509,7 @@
         43.13,
         36.34
       ],
-      "description": "伊兒汗國文化重鎮。此地以精美的手抄本與金屬工藝聞名，拉班·掃馬朝聖途中曾穿越此地前往高加索，是帝國西部的藝術與驛傳樞紐。",
+      "description": "美索不達米亞北部的古城。在伊兒汗國治下，摩蘇爾的工匠以精湛的金屬工藝與鑲嵌技術聞名，作品融合了伊斯蘭與蒙古風格。",
       "people": [
         "拉班·掃馬 (Rabban Bar Sauma)"
       ],
@@ -529,7 +529,7 @@
         -0.5792,
         44.8378
       ],
-      "description": "歐洲西部重鎮。拉班·掃馬奉伊兒汗之命出使時，曾遠赴加斯科涅地區（波爾多一帶）會見英格蘭國王愛德華一世，商討建立反伊斯蘭軍事同盟。",
+      "description": "法國西南部的重要港口城市。伊兒汗國使節拉班·掃馬曾抵達此地，並會見了英格蘭國王愛德華一世，遞交了阿魯渾汗的結盟信函。",
       "people": [
         "愛德華一世 (Edward I)",
         "拉班·掃馬 (Rabban Bar Sauma)"
@@ -549,7 +549,7 @@
         43.5728,
         40.5075
       ],
-      "description": "喬治亞王國境內的古城。拉班·掃馬與馬可斯從元大都西行朝聖時，曾穿越中亞抵達此處，隨後因南方的戰亂而被迫轉往波斯。",
+      "description": "亞美尼亞的中世紀古都，有「千教堂之城」的美譽。在蒙古統治時期，阿尼仍維持著一定的商業繁榮，但隨後因地震與戰亂逐漸衰落。",
       "people": [
         "拉班·掃馬 (Rabban Bar Sauma)",
         "馬可斯 (Markos)"
@@ -569,7 +569,7 @@
         64.4286,
         39.7747
       ],
-      "description": "中亞伊斯蘭學術與商業中心。蒙古帝國時期，元朝曾指派漢人與契丹人官員至此管理穆斯林人口，展現了帝國跨地域官僚調動的特色。",
+      "description": "中亞著名的綠洲城市與伊斯蘭學術中心。成吉思汗西征時曾率軍奇襲此地，隨後在蒙古治下逐漸恢復，成為跨國貿易的重要節點。",
       "people": [
         "忽必烈汗 (Kublai Khan)"
       ],
@@ -589,7 +589,7 @@
         66.9749,
         39.6542
       ],
-      "description": "成吉思汗西征時期的重要接觸點。契丹裔重臣耶律楚材在此與當地穆斯林天文學家深度交流，掌握了「地理經度不同導致月食時差」的天文原理，並以此編纂了《麻答把曆》與《西征庚午元曆》。",
+      "description": "絲綢之路上最古老、最繁華的城市之一。位於中亞腹地，歷經蒙古西征破壞後，仍在察合台汗國與後來的帖木兒帝國中扮演核心角色。",
       "people": [
         "成吉思汗 (Genghis Khan)",
         "耶律楚材 (Yelü Chucai)"
@@ -610,7 +610,7 @@
         110.463,
         41.972
       ],
-      "description": "位於陰山以北的汪古部核心城鎮。作為大汗的姻親與邊防守衛，汪古部廣泛信仰東方教會（景教）。出土大量融合佛教卍字與蒙古圖騰的景教十字架，拉班·掃馬即出身於此族群。",
+      "description": "汪古部（信仰景教的突厥語游牧部落）的首府，位於今內蒙古達茂旗。是元朝與漠北聯繫的軍事與交通要衝，出土了大量景教石刻墓碑。",
       "people": [
         "闊里吉思王 (King George)",
         "阿剌兀思剔吉忽里 (Alaqush Digit Quri)",
@@ -635,7 +635,7 @@
         120.1551,
         30.2741
       ],
-      "description": "原南宋首都，京杭大運河的南端起點。被蒙古征服後，其豐富的天文儀器與曆法典籍被運往大都，助郭守敬精化《授時曆》。馬可·波羅與伊本·巴圖塔皆驚嘆其龐大的絲糖貿易與驛運網絡。",
+      "description": "南宋舊都，馬可·波羅稱其為「行在」(Kinsay)。在元朝統治下，杭州依然是世界上最大、最富庶的城市之一，以發達的絲綢與商業聞名。",
       "people": [
         "忽必烈汗 (Kublai Khan)",
         "馬可·波羅 (Marco Polo)",
@@ -668,7 +668,7 @@
         58.7958,
         36.2133
       ],
-      "description": "呼羅珊地區的交通樞紐。合贊汗進行驛政改革後，整頓了驛站稅收（Qubchur）與牌符（Paiza）制度。從此地透過配備精良馬匹的「極速驛遞（Binchik Yam）」，急使僅需數日即可飛馳至首都。",
+      "description": "呼羅珊地區的名城，曾是伊斯蘭世界的文化中心。在蒙古西征中遭到毀滅性破壞，是蒙古軍事征服殘酷性的象徵之一。",
       "people": [
         "合贊汗 (Ghazan Khan)",
         "拉施特 (Rashid al-Din Hamadani)",
@@ -692,7 +692,7 @@
         118.5896,
         24.9088
       ],
-      "description": "元代東南沿海的最大商港。作為「海上絲路」的起點，設有市舶司管理龐大的跨國商船與關稅。元朝透過海陸聯運驛站網，將此處的香料與貿易利潤源源不絕送往大都。",
+      "description": "元朝最大的海運港口與市舶司所在地。被譽為東方第一大港，吸引了阿拉伯、波斯與歐洲商人，城內並存著伊斯蘭教、景教、印度教與佛教。",
       "people": [
         "馬可·波羅 (Marco Polo)",
         "伊本·巴圖塔 (Ibn Battuta)",
@@ -725,7 +725,7 @@
         76.5856,
         8.8932
       ],
-      "description": "印度馬拉巴爾海岸的貿易重鎮與海上驛路節點。沿途設有供旅客飲水的木製驛棚。中國、波斯與葉門商船在此頻繁停靠，是元朝與伊兒汗國間海上使節往來的重要補給站。",
+      "description": "位於印度西南海岸的重要商埠。是海上絲綢之路上連接中國與中東的關鍵中轉站，元朝曾多次派遣使節與商船抵達此地。",
       "people": [
         "伊本·巴圖塔 (Ibn Battuta)",
         "馬可·波羅 (Marco Polo)"
@@ -747,7 +747,7 @@
         39.4206,
         47.1124
       ],
-      "description": "位於頓河河口的金帳汗國重要港口。連結東歐草原、黑海與內陸驛站。伊本·巴圖塔曾在此會見汗國的埃米爾，見證了其在歐亞毛皮與奴隸貿易網中的轉運地位。",
+      "description": "位於亞速海沿岸的商業港口（今亞速）。是金帳汗國與義大利熱那亞、威尼斯商人進行奴隸與商品貿易的重要樞紐。",
       "people": [
         "月即別汗 (Ozbeg Khan)",
         "伊本·巴圖塔 (Ibn Battuta)"
@@ -768,7 +768,7 @@
         71.3975,
         42.8961
       ],
-      "description": "中亞天山山脈周邊重鎮，察合台汗國與海都汗的勢力範圍。景教僧侶拉班·掃馬西行時，曾以宗教朝聖之名在此拜見海都汗，順利取得驛網過境與物資補給的特許。",
+      "description": "中亞古城，歷史上著名的怛羅斯戰役發生地。在蒙古帝國時期，這裡是諸王會盟與中亞驛站網絡的關鍵節點。",
       "people": [
         "海都汗 (Qaidu Khan)",
         "拉班·掃馬 (Rabban Bar Sauma)"
@@ -790,7 +790,7 @@
         113.0298,
         34.4533
       ],
-      "description": "郭守敬為推動天文測量而建立的大型「觀星台」。其巨大石造測影建築（高表）的設計，被學者認為深受中亞伊斯蘭天文台巨型觀測儀器的啟發，從而能以前所未有的精度測量夏至與冬至的日影。",
+      "description": "元朝天文學家郭守敬在此建立了登封觀星台。透過高表測影技術，精確觀測日影長度，為編纂《授時曆》提供了重要的數據基礎。",
       "people": [
         "郭守敬 (Guo Shoujing)"
       ],
@@ -810,7 +810,7 @@
         118.7969,
         32.0603
       ],
-      "description": "朱元璋的龍興之地。1356年攻佔集慶並改名應天府，作為基地穩步擴張，最終於1368年建立明朝，結束了蒙元的統治。",
+      "description": "明朝初期的首都。朱元璋在此建立明朝，修築了宏偉的南京明城牆與明故宮，標誌著漢人政權的復興與蒙古統治的結束。",
       "people": [
         "朱元璋 (Hongwu Emperor)"
       ],
@@ -843,1256 +843,2638 @@
           "numericYear": 1398
         }
       ]
+    },
+    {
+      "id": "changan",
+      "name": "長安",
+      "coordinates": [
+        108.9398,
+        34.3416
+      ],
+      "description": "漢唐時期的絲綢之路起點，見證了佛教傳入與西域文化的交融。",
+      "numericYear": 100
+    },
+    {
+      "id": "alexandria",
+      "name": "亞歷山大港",
+      "coordinates": [
+        29.9187,
+        31.2001
+      ],
+      "description": "希臘化時代與羅馬帝國的知識中心，托勒密天文學的發源地。",
+      "numericYear": 100
+    },
+    {
+      "id": "london",
+      "name": "倫敦",
+      "coordinates": [
+        -0.1276,
+        51.5072
+      ],
+      "description": "大英帝國首都，工業革命的發源地，推動了現代科學與技術的全球傳播。",
+      "numericYear": 1750
+    },
+    {
+      "id": "kyoto",
+      "name": "京都",
+      "coordinates": [
+        135.7681,
+        35.0116
+      ],
+      "description": "日本遣唐使帶回佛教與律令制的文化熔爐。",
+      "numericYear": 700
+    },
+    {
+      "id": "luoyang",
+      "name": "洛陽",
+      "coordinates": [
+        112.454,
+        34.619
+      ],
+      "description": "東漢都城，造紙術發明地與早期佛教白馬馱經傳入中心。",
+      "numericYear": -200
+    },
+    {
+      "id": "athens",
+      "name": "雅典",
+      "coordinates": [
+        23.727,
+        37.983
+      ],
+      "description": "古希臘哲學中心，柏拉圖與亞里士多德的思想發源地。",
+      "numericYear": -500
+    },
+    {
+      "id": "jerusalem",
+      "name": "耶路撒冷",
+      "coordinates": [
+        35.213,
+        31.768
+      ],
+      "description": "猶太教與基督教發源地，三大一神教的聖城。",
+      "numericYear": -1000
+    },
+    {
+      "id": "mecca",
+      "name": "麥加",
+      "coordinates": [
+        39.826,
+        21.422
+      ],
+      "description": "伊斯蘭教發源地與最神聖的朝覲中心。",
+      "numericYear": 600
+    },
+    {
+      "id": "medina",
+      "name": "麥地那",
+      "coordinates": [
+        39.612,
+        24.467
+      ],
+      "description": "穆罕默德遷徙地，早期伊斯蘭政權的中心。",
+      "numericYear": 622
+    },
+    {
+      "id": "kiev",
+      "name": "基輔",
+      "coordinates": [
+        30.523,
+        50.45
+      ],
+      "description": "基輔羅斯公國首都，東正教傳入斯拉夫世界的橋頭堡。",
+      "numericYear": 882
+    },
+    {
+      "id": "aachen",
+      "name": "亞琛",
+      "coordinates": [
+        6.083,
+        50.775
+      ],
+      "description": "查理曼帝國的宮廷所在地，加洛林文藝復興的中心。",
+      "numericYear": 800
+    },
+    {
+      "id": "wittenberg",
+      "name": "維騰堡",
+      "coordinates": [
+        12.642,
+        51.866
+      ],
+      "description": "馬丁·路德發表九十五條論綱之地，宗教改革的發源地。",
+      "numericYear": 1517
+    },
+    {
+      "id": "madrid",
+      "name": "馬德里",
+      "coordinates": [
+        -3.703,
+        40.416
+      ],
+      "description": "西班牙帝國首都，大航海時代的雙引擎之一。",
+      "numericYear": 1500
+    },
+    {
+      "id": "manila",
+      "name": "馬尼拉",
+      "coordinates": [
+        120.984,
+        14.599
+      ],
+      "description": "西班牙在亞洲的據點，全球白銀貿易與文化交流的跳板。",
+      "numericYear": 1571
+    },
+    {
+      "id": "macau",
+      "name": "澳門",
+      "coordinates": [
+        113.549,
+        22.198
+      ],
+      "description": "葡萄牙在遠東的據點，明清時期西學東漸的重要門戶。",
+      "numericYear": 1557
+    },
+    {
+      "id": "boston",
+      "name": "波士頓",
+      "coordinates": [
+        -71.058,
+        42.36
+      ],
+      "description": "清教徒登陸北美的核心，美國獨立戰爭與啟蒙思想實踐的搖籃。",
+      "numericYear": 1620
+    },
+    {
+      "id": "geneva",
+      "name": "日內瓦",
+      "coordinates": [
+        6.143,
+        46.204
+      ],
+      "description": "喀爾文宗的中心，被譽為「新教的羅馬」。",
+      "numericYear": 1536
+    },
+    {
+      "id": "warsaw",
+      "name": "華沙",
+      "coordinates": [
+        21.012,
+        52.229
+      ],
+      "description": "波蘭文化中心，哥白尼曾在此區域發展出劃時代的日心說。",
+      "numericYear": 1543
+    },
+    {
+      "id": "cahokia",
+      "name": "卡霍基亞",
+      "coordinates": [
+        -90.062,
+        38.654
+      ],
+      "description": "前哥倫布時期密西西比文化的核心，北美最大的原住民貿易與宗教中心。",
+      "numericYear": 600
+    },
+    {
+      "id": "jamestown",
+      "name": "詹姆士敦",
+      "coordinates": [
+        -76.776,
+        37.211
+      ],
+      "description": "英國在北美建立的第一個永久殖民地，美洲菸草農業的發源地。",
+      "numericYear": 1607
+    },
+    {
+      "id": "philadelphia",
+      "name": "費城",
+      "coordinates": [
+        -75.165,
+        39.952
+      ],
+      "description": "威廉·佩恩建立的宗教寬容之城，《獨立宣言》與《美國憲法》的誕生地。",
+      "numericYear": 1681
+    },
+    {
+      "id": "new_york",
+      "name": "紐約",
+      "coordinates": [
+        -74.006,
+        40.712
+      ],
+      "description": "原荷蘭新阿姆斯特丹，後成為美國工業化、貿易與大量移民的全球樞紐。",
+      "numericYear": 1624
+    },
+    {
+      "id": "qufu",
+      "name": "曲阜",
+      "coordinates": [
+        116.982,
+        35.58
+      ],
+      "description": "孔子故里，儒家思想的發源地，也是東亞軸心時代的文化核心。",
+      "numericYear": -551
+    },
+    {
+      "id": "magadha",
+      "name": "摩揭陀",
+      "coordinates": [
+        85.137,
+        25.594
+      ],
+      "description": "古印度十六雄國之一，佛教與耆那教的發祥地，孔雀王朝的中心。",
+      "numericYear": -563
+    },
+    {
+      "id": "xianyang",
+      "name": "咸陽",
+      "coordinates": [
+        108.708,
+        34.334
+      ],
+      "description": "秦朝國都，中國歷史上第一次大一統與度量衡標準化的發出地。",
+      "numericYear": -221
     }
   ],
   "routes": [
     {
-      "source": "dadu",
-      "target": "qayaligh",
-      "label": "宗教觀察與朝聖：拉班·掃馬與各方傳教士依賴大汗牌符與驛站網絡穿行中亞，途經海押立等綠洲，見證絲路上的宗教多元化。",
-      "type": "religion",
-      "numericYear": 1287
-    },
-    {
-      "source": "qayaligh",
-      "target": "ani",
-      "label": "景教僧侶移動：掃馬與馬可斯繼續西行朝聖，抵達高加索邊境的阿尼古城，隨後因敘利亞戰亂無法前往耶路撒冷。",
-      "type": "religion",
-      "numericYear": 1260
-    },
-    {
-      "source": "ani",
-      "target": "baghdad",
-      "label": "政治與神職轉換：滯留伊兒汗國後，朝聖者獲宗主教接見，馬可斯最終在巴格達被推選為東方教會新任總主教（雅巴拉哈三世）。",
+      "source": "changan",
+      "target": "kashgar",
+      "label": "張騫出使西域與鑿空",
       "type": "people",
-      "numericYear": 1260
+      "numericYear": 0
+    },
+    {
+      "source": "changan",
+      "target": "kyoto",
+      "label": "遣唐使引進律令制與建築",
+      "type": "people",
+      "numericYear": 700
+    },
+    {
+      "source": "venice",
+      "target": "constantinople",
+      "label": "馬可波羅家族東行啟程",
+      "type": "people",
+      "numericYear": 1271
+    },
+    {
+      "source": "constantinople",
+      "target": "tabriz",
+      "label": "穿越伊兒汗國核心區",
+      "type": "people",
+      "numericYear": 1272
+    },
+    {
+      "source": "tabriz",
+      "target": "kashgar",
+      "label": "翻越帕米爾高原",
+      "type": "people",
+      "numericYear": 1273
+    },
+    {
+      "source": "kashgar",
+      "target": "dadu",
+      "label": "抵達元大都覲見忽必烈",
+      "type": "people",
+      "numericYear": 1275
+    },
+    {
+      "source": "dadu",
+      "target": "baghdad",
+      "label": "景教僧侶的朝聖之旅",
+      "type": "people",
+      "numericYear": 1275
     },
     {
       "source": "baghdad",
       "target": "constantinople",
-      "label": "外交使團啟程：拉班·掃馬受伊兒汗阿魯渾派遣出使歐洲，經由黑海航線首先抵達拜占庭帝國的君士坦丁堡。",
+      "label": "出使拜占庭帝國",
       "type": "people",
       "numericYear": 1287
     },
     {
       "source": "constantinople",
       "target": "rome",
-      "label": "羅馬教廷神學交流：使團自君士坦丁堡航向義大利半島，抵達羅馬與教宗尼古拉四世互換聖餐，完成破天荒的東西方信仰對話。",
-      "type": "religion",
-      "numericYear": 1260
+      "label": "晉見教宗展開神學對話",
+      "type": "people",
+      "numericYear": 1288
     },
     {
       "source": "rome",
       "target": "paris",
-      "label": "尋求法蘭西同盟：掃馬自羅馬北上抵達巴黎，會見法王腓力四世，提議組建對抗馬木路克的軍事同盟。",
+      "label": "會見法王尋求軍事同盟",
       "type": "people",
-      "numericYear": 1260
+      "numericYear": 1288
     },
     {
       "source": "paris",
       "target": "bordeaux",
-      "label": "尋求英格蘭同盟：掃馬繼續前往英格蘭領地波爾多，會晤英王愛德華一世，完成了歐亞大陸極端遙遠的外交串聯。",
+      "label": "會見英王愛德華一世",
       "type": "people",
-      "numericYear": 1260
+      "numericYear": 1289
     },
     {
-      "source": "constantinople",
-      "target": "karakorum",
-      "label": "天主教傳教士東進：法國國王使節魯不魯乞自君士坦丁堡出發，穿越欽察草原，抵達帝國舊都哈拉和林參與宗教大辯論。",
-      "type": "religion",
-      "numericYear": 1254
-    },
-    {
-      "source": "tiflis",
-      "target": "maragha",
-      "label": "傳教網絡擴張：教宗使節與道明會士透過喬治亞的第比利斯進入伊兒汗國，在馬拉蓋等地建立天主教修道院。",
-      "type": "religion",
-      "numericYear": 1260
-    },
-    {
-      "source": "sarai",
-      "target": "tabriz",
-      "label": "汗國交鋒與貿易：金帳汗國與伊兒汗國為爭奪高加索控制權頻繁交戰，但雙方首都之間仍有著難以割捨的黑海-裡海貿易紐帶。",
-      "type": "trade",
-      "numericYear": 1260
-    },
-    {
-      "source": "urgench",
-      "target": "sarai",
-      "label": "疾病與商路：中亞重鎮玉龍傑赤與金帳汗國首都薩萊透過水陸驛道相連，此高效網絡在1340年代不幸加速了黑死病的傳播。",
-      "type": "trade",
-      "numericYear": 1340
-    },
-    {
-      "source": "dadu",
-      "target": "tabriz",
-      "label": "印刷術與金融實驗：元代駐波斯丞相孛羅將大都的「交鈔」與雕版印刷技術引入大不里士。蓋海圖汗依此發行印有漢字與阿拉伯文的波斯紙幣（Čāv），雖致經濟崩潰，卻讓拉施特在《史集》中留下了中國印刷術的珍貴紀錄。",
-      "type": "tech",
-      "numericYear": 1290
-    },
-    {
-      "source": "maragha",
-      "target": "dadu",
-      "label": "天文知識與儀器轉移：伊斯蘭天文學家將馬拉蓋觀象台的天文儀器設計與觀測數據帶入大都，協助元代編修曆法。",
-      "type": "tech",
-      "numericYear": 1260
-    },
-    {
-      "source": "venice",
-      "target": "dadu",
-      "label": "商貿與文化考察：威尼斯商人馬可·波羅持大汗牌符經中亞驛道抵達大都，留下詳盡的驛站運作與紙幣紀錄。",
-      "type": "trade",
-      "numericYear": 1275
-    },
-    {
-      "source": "dadu",
-      "target": "shangdu",
-      "label": "極速物流傳遞：依賴「站赤」急遞鋪系統，大都物資（如鮮果）能於一日內火速送達上都供大汗享用。",
-      "type": "trade",
-      "numericYear": 1260
-    },
-    {
-      "source": "bukhara",
-      "target": "dadu",
-      "label": "跨文化官僚調動：元朝自中亞（如布哈拉）引進穆斯林行政官員與工匠至中原，同時亦派漢人治理西域，展現帝國的人力大盤整。",
+      "source": "alexandria",
+      "target": "baghdad",
+      "label": "朝覲與探索伊斯蘭核心區",
       "type": "people",
-      "numericYear": 1260
+      "numericYear": 1326
+    },
+    {
+      "source": "baghdad",
+      "target": "samarqand",
+      "label": "深入中亞察合台汗國",
+      "type": "people",
+      "numericYear": 1333
     },
     {
       "source": "samarqand",
-      "target": "dadu",
-      "label": "天文儀器與人才東傳：西域天文學家札馬魯丁從中亞來到元大都，向忽必烈進獻七種西域天文儀器（如星盤、天球儀）及《萬年曆》，並出任首任回回司天台長，推動了伊斯蘭與中國天文學的平行發展。",
-      "type": "tech",
-      "numericYear": 1267
-    },
-    {
-      "source": "olon_sume",
-      "target": "dadu",
-      "label": "景教社群移動與朝貢：汪古部作為大汗姻親與邊防守衛，其貴族與景教僧侶憑藉大汗核發的牌符（Paiza），透過驛站網絡頻繁往返大都，維持政治與信仰連結。",
-      "type": "religion",
-      "numericYear": 1260
-    },
-    {
-      "source": "hangzhou",
-      "target": "dadu",
-      "label": "大運河與站赤物流：南宋故都的書籍、儀器、絲綢及巨量農業稅收，透過高效的京杭大運河與陸路「站赤（驛站）」系統，源源不絕地輸送至大都供朝廷調配。",
-      "type": "trade",
-      "numericYear": 1260
-    },
-    {
-      "source": "nishapur",
-      "target": "soltaniyeh",
-      "label": "極速驛遞（Binchik Yam）：合贊汗改革驛政，杜絕官員濫用後，配備精良馬匹的專屬驛站讓持有緊急文書（Maktub）的使者能以每日超過三百公里的極速飛馳傳訊。",
-      "type": "trade",
-      "numericYear": 1295
+      "target": "quanzhou",
+      "label": "橫跨印度抵達元朝泉州港",
+      "type": "people",
+      "numericYear": 1345
     },
     {
       "source": "quanzhou",
-      "target": "quilon",
-      "label": "海上驛路與聯運外交：元朝使團與穆斯林旅行家伊本·巴圖塔，搭乘大型海船經由海上絲綢之路，穿越印度馬拉巴爾海岸的奎隆，進行香料商貿與跨國外交行動。",
-      "type": "people",
-      "numericYear": 1260
-    },
-    {
-      "source": "talas",
-      "target": "maragha",
-      "label": "戰亂區過境與驛網庇護：拉班·掃馬等景教使節於塔拉斯取得海都汗的通行政令後，依靠驛站補給穿越險阻的中亞戰區，最終安全抵達伊兒汗國的馬拉蓋。",
-      "type": "religion",
-      "numericYear": 1287
-    },
-    {
-      "source": "maragha",
-      "target": "tabriz",
-      "label": "數理幾何西傳歐洲：拜占庭學者卻俄尼亞底斯（Gregory Chioniades）在伊兒汗國觀象台學習，將納西爾丁·圖西發明的「圖西雙圓」幾何模型及星盤技術翻譯成希臘文帶回君士坦丁堡，深遠影響了歐洲天文學與哥白尼日心說。",
-      "type": "tech",
-      "numericYear": 1290
-    },
-    {
-      "source": "tus",
-      "target": "tabriz",
-      "label": "驛政與牌符（Paiza）制度改革：為解決使臣濫用驛站，合贊汗整頓驛政，規定驛馬限額並發放刻有持牌人姓名的新式牌符，同時設立極速驛遞（Bīnchīk Yām）與步遞系統，大幅提升了帝國的通訊紀律。",
-      "type": "trade",
-      "numericYear": 1295
-    },
-    {
-      "source": "dadu",
-      "target": "karakorum",
-      "label": "文字創製與身分憑證：藏傳佛教高僧八思巴受忽必烈之命創製「八思巴字」。這種字母不僅被指定為統一帝國各語種的官方文字，更廣泛鑄刻於各驛道使者佩戴的金銀牌符（Gerege）上，成為大汗權威的直接視覺象徵。",
-      "type": "religion",
-      "numericYear": 1269
-    },
-    {
-      "source": "karakorum",
       "target": "dadu",
-      "label": "政權南遷與中原化：忽必烈將帝國重心從草原遷至大都，建立元朝。",
+      "label": "北上元大都",
       "type": "people",
-      "numericYear": 1271
-    },
-    {
-      "source": "dadu",
-      "target": "hangzhou",
-      "label": "征服南宋：元軍南下攻陷臨安。",
-      "type": "trade",
-      "numericYear": 1276
-    },
-    {
-      "source": "nanjing",
-      "target": "dadu",
-      "label": "明軍北伐：朱元璋派徐達北伐，攻陷大都，將蒙古勢力驅逐出長城以北。",
-      "type": "people",
-      "numericYear": 1368
-    },
-    {
-      "source": "sarai",
-      "target": "constantinople",
-      "label": "戰略包圍：鄂圖曼土耳其逐步吞噬巴爾幹與小亞細亞，對君士坦丁堡形成包圍網。",
-      "type": "people",
-      "numericYear": 1389
-    },
-    {
-      "source": "karakorum",
-      "target": "kashgar",
-      "label": "成吉思汗西征：大軍從哈拉和林出發，途經喀什噶爾，開啟對中亞的征服。",
-      "type": "people",
-      "numericYear": 1219
-    },
-    {
-      "source": "kashgar",
-      "target": "talas",
-      "label": "西征軍隊集結：蒙古大軍在塔拉斯一帶匯合，準備攻打花剌子模。",
-      "type": "people",
-      "numericYear": 1219
-    },
-    {
-      "source": "talas",
-      "target": "bukhara",
-      "label": "攻陷布哈拉：成吉思汗穿過克孜勒庫姆沙漠，突襲並攻克布哈拉。",
-      "type": "people",
-      "numericYear": 1220
-    },
-    {
-      "source": "bukhara",
-      "target": "samarqand",
-      "label": "撒馬爾罕之戰：蒙古軍隊攻克花剌子模都城撒馬爾罕，並將大量工匠遷往東方。",
-      "type": "tech",
-      "numericYear": 1220
-    },
-    {
-      "source": "samarqand",
-      "target": "nishapur",
-      "label": "拖雷平定呼羅珊：拖雷率軍攻克內沙布爾，當地遭遇嚴重破壞，人口流失。",
-      "type": "people",
-      "numericYear": 1221
-    },
-    {
-      "source": "karakorum",
-      "target": "dadu",
-      "label": "攻佔中都：蒙古軍隊攻陷金朝中都（今北京），控制華北重要樞紐。",
-      "type": "people",
-      "numericYear": 1215
-    },
-    {
-      "source": "karakorum",
-      "target": "qayaligh",
-      "label": "窩闊台時期的驛站：帝國初步建立橫跨中亞的驛站（站赤）系統，連接蒙古本部與西域。",
-      "type": "trade",
-      "numericYear": 1225
-    },
-    {
-      "source": "karakorum",
-      "target": "sarai",
-      "label": "金帳汗國建立：拔都西征後，在伏爾加河畔建立薩萊，成為統治東歐的中心。",
-      "type": "people",
-      "numericYear": 1242
-    },
-    {
-      "source": "sarai",
-      "target": "azov",
-      "label": "黑海貿易網絡初期：金帳汗國控制黑海北岸，開始與義大利商人接觸。",
-      "type": "trade",
-      "numericYear": 1243
+      "numericYear": 1346
     },
     {
       "source": "rome",
       "target": "sarai",
-      "label": "柏朗嘉賓出使：教宗使節柏朗嘉賓受命前往蒙古，首站途經薩萊面見拔都。",
-      "type": "religion",
+      "label": "教宗使節出使金帳汗國",
+      "type": "people",
       "numericYear": 1245
     },
     {
       "source": "sarai",
       "target": "karakorum",
-      "label": "柏朗嘉賓覲見貴由汗：使節抵達哈拉和林，見證貴由汗的登基，帶回首份關於蒙古的詳細報告。",
+      "label": "抵達哈拉和林見證大汗登基",
       "type": "people",
       "numericYear": 1246
     },
     {
-      "source": "dadu",
-      "target": "gaocheng",
-      "label": "四海測驗：郭守敬在大都設立太史院後，推動全國規模的天文觀測，而登封告成的觀星台是其觀測網的核心樞紐。",
+      "source": "changan",
+      "target": "samarqand",
+      "label": "怛羅斯之戰與造紙匠西行",
       "type": "tech",
-      "numericYear": 1276
+      "numericYear": 751
+    },
+    {
+      "source": "samarqand",
+      "target": "baghdad",
+      "label": "阿拉伯帝國引進造紙術",
+      "type": "tech",
+      "numericYear": 793
+    },
+    {
+      "source": "baghdad",
+      "target": "alexandria",
+      "label": "紙張取代莎草紙席捲北非",
+      "type": "tech",
+      "numericYear": 900
+    },
+    {
+      "source": "alexandria",
+      "target": "paris",
+      "label": "造紙術經由西班牙傳入歐洲腹地",
+      "type": "tech",
+      "numericYear": 1150
+    },
+    {
+      "source": "dadu",
+      "target": "tabriz",
+      "label": "紙幣與雕版印刷術傳入波斯",
+      "type": "tech",
+      "numericYear": 1294
     },
     {
       "source": "maragha",
-      "target": "gaocheng",
-      "label": "天文建築的啟發：中亞馬拉蓋天文台的巨型觀測儀器概念，透過波斯學者傳入，啟發了登封觀星台「高表」的巨大化設計。",
+      "target": "tabriz",
+      "label": "觀象台儀器與數據轉移",
       "type": "tech",
-      "numericYear": 1276
+      "numericYear": 1260
+    },
+    {
+      "source": "tabriz",
+      "target": "dadu",
+      "label": "札馬魯丁進獻阿拉伯天文儀器",
+      "type": "tech",
+      "numericYear": 1267
+    },
+    {
+      "source": "maragha",
+      "target": "constantinople",
+      "label": "圖西雙圓模型傳入拜占庭",
+      "type": "tech",
+      "numericYear": 1300
+    },
+    {
+      "source": "constantinople",
+      "target": "rome",
+      "label": "拜占庭學者攜帶古希臘文獻與阿拉伯科學逃亡義大利",
+      "type": "tech",
+      "numericYear": 1453
+    },
+    {
+      "source": "nanjing",
+      "target": "quanzhou",
+      "label": "寶船艦隊集結與出航",
+      "type": "tech",
+      "numericYear": 1405
+    },
+    {
+      "source": "quanzhou",
+      "target": "quilon",
+      "label": "水密隔艙與羅盤導航橫跨印度洋",
+      "type": "tech",
+      "numericYear": 1405
+    },
+    {
+      "source": "quilon",
+      "target": "alexandria",
+      "label": "船隊抵達紅海與天方地區",
+      "type": "tech",
+      "numericYear": 1415
+    },
+    {
+      "source": "london",
+      "target": "paris",
+      "label": "蒸汽機與工業革命技術擴散",
+      "type": "tech",
+      "numericYear": 1800
+    },
+    {
+      "source": "paris",
+      "target": "rome",
+      "label": "鐵路網絡席捲歐洲大陸",
+      "type": "tech",
+      "numericYear": 1850
+    },
+    {
+      "source": "kashgar",
+      "target": "changan",
+      "label": "西域高僧東來與佛典翻譯",
+      "type": "religion",
+      "numericYear": 100
+    },
+    {
+      "source": "changan",
+      "target": "kyoto",
+      "label": "大乘佛教與禪宗傳入日本",
+      "type": "religion",
+      "numericYear": 750
+    },
+    {
+      "source": "baghdad",
+      "target": "samarqand",
+      "label": "東方教會向中亞擴張",
+      "type": "religion",
+      "numericYear": 600
+    },
+    {
+      "source": "samarqand",
+      "target": "changan",
+      "label": "景教碑建立：大秦景教流行中國",
+      "type": "religion",
+      "numericYear": 635
+    },
+    {
+      "source": "alexandria",
+      "target": "baghdad",
+      "label": "希臘古典哲學移入伊斯蘭智慧之家",
+      "type": "religion",
+      "numericYear": 800
+    },
+    {
+      "source": "baghdad",
+      "target": "nishapur",
+      "label": "蘇菲派神學與哲學的區域共鳴",
+      "type": "religion",
+      "numericYear": 900
+    },
+    {
+      "source": "constantinople",
+      "target": "rome",
+      "label": "佛羅倫斯大公會議帶來新柏拉圖主義",
+      "type": "religion",
+      "numericYear": 1439
+    },
+    {
+      "source": "paris",
+      "target": "constantinople",
+      "label": "魯不魯乞使團東行",
+      "type": "religion",
+      "numericYear": 1253
+    },
+    {
+      "source": "constantinople",
+      "target": "karakorum",
+      "label": "哈拉和林跨信仰神學大辯論",
+      "type": "religion",
+      "numericYear": 1254
+    },
+    {
+      "source": "rome",
+      "target": "paris",
+      "label": "經院哲學在大學間的交流",
+      "type": "religion",
+      "numericYear": 1200
+    },
+    {
+      "source": "ani",
+      "target": "tiflis",
+      "label": "高加索東正教與亞美尼亞教會網絡",
+      "type": "religion",
+      "numericYear": 1000
+    },
+    {
+      "source": "kashgar",
+      "target": "bukhara",
+      "label": "伊斯蘭教在中亞綠洲的傳播與融合",
+      "type": "religion",
+      "numericYear": 1100
+    },
+    {
+      "source": "rome",
+      "target": "quanzhou",
+      "label": "耶穌會士航向遠東",
+      "type": "religion",
+      "numericYear": 1582
+    },
+    {
+      "source": "quanzhou",
+      "target": "nanjing",
+      "label": "利瑪竇在南京的儒耶對話",
+      "type": "religion",
+      "numericYear": 1595
+    },
+    {
+      "source": "nanjing",
+      "target": "dadu",
+      "label": "西方幾何學與世界地圖傳入北京",
+      "type": "religion",
+      "numericYear": 1601
+    },
+    {
+      "source": "luoyang",
+      "target": "changan",
+      "label": "造紙術普及",
+      "type": "tech",
+      "numericYear": 105
+    },
+    {
+      "source": "changan",
+      "target": "talas",
+      "label": "怛羅斯之役造紙匠西行",
+      "type": "tech",
+      "numericYear": 751
+    },
+    {
+      "source": "kashgar",
+      "target": "luoyang",
+      "label": "佛教正式傳入中原",
+      "type": "religion",
+      "numericYear": 68
+    },
+    {
+      "source": "athens",
+      "target": "alexandria",
+      "label": "希臘化時代的知識匯聚",
+      "type": "tech",
+      "numericYear": -300
+    },
+    {
+      "source": "athens",
+      "target": "rome",
+      "label": "自然法學說與哲學傳入羅馬",
+      "type": "religion",
+      "numericYear": -106
+    },
+    {
+      "source": "athens",
+      "target": "baghdad",
+      "label": "雅典學院關閉與學者流亡波斯",
+      "type": "religion",
+      "numericYear": 529
+    },
+    {
+      "source": "jerusalem",
+      "target": "rome",
+      "label": "基督教傳入羅馬帝國核心",
+      "type": "religion",
+      "numericYear": 30
+    },
+    {
+      "source": "rome",
+      "target": "constantinople",
+      "label": "羅馬帝國分裂與東西教會分歧",
+      "type": "religion",
+      "numericYear": 395
+    },
+    {
+      "source": "constantinople",
+      "target": "kiev",
+      "label": "東正教傳入斯拉夫世界",
+      "type": "religion",
+      "numericYear": 988
+    },
+    {
+      "source": "mecca",
+      "target": "medina",
+      "label": "穆罕默德遷徙 (徙志)",
+      "type": "religion",
+      "numericYear": 622
+    },
+    {
+      "source": "mecca",
+      "target": "jerusalem",
+      "label": "伊斯蘭教早期擴張",
+      "type": "religion",
+      "numericYear": 639
+    },
+    {
+      "source": "baghdad",
+      "target": "bordeaux",
+      "label": "伊斯蘭勢力與學術進入西班牙",
+      "type": "religion",
+      "numericYear": 711
+    },
+    {
+      "source": "nishapur",
+      "target": "changan",
+      "label": "摩尼教(明教)東傳唐朝",
+      "type": "religion",
+      "numericYear": 694
+    },
+    {
+      "source": "aachen",
+      "target": "rome",
+      "label": "查理曼加冕與西歐教權確立",
+      "type": "people",
+      "numericYear": 800
+    },
+    {
+      "source": "wittenberg",
+      "target": "rome",
+      "label": "宗教改革衝擊天主教會",
+      "type": "religion",
+      "numericYear": 1517
+    },
+    {
+      "source": "geneva",
+      "target": "paris",
+      "label": "喀爾文教派影響法國胡格諾派",
+      "type": "religion",
+      "numericYear": 1562
+    },
+    {
+      "source": "geneva",
+      "target": "london",
+      "label": "清教徒主義傳入英國",
+      "type": "religion",
+      "numericYear": 1563
+    },
+    {
+      "source": "london",
+      "target": "boston",
+      "label": "五月花號：清教徒與契約思想傳入美洲",
+      "type": "religion",
+      "numericYear": 1620
+    },
+    {
+      "source": "madrid",
+      "target": "manila",
+      "label": "麥哲倫環球與西班牙控制菲律賓",
+      "type": "people",
+      "numericYear": 1571
+    },
+    {
+      "source": "manila",
+      "target": "quanzhou",
+      "label": "馬尼拉大帆船帶來白銀與美洲農作物",
+      "type": "tech",
+      "numericYear": 1572
+    },
+    {
+      "source": "rome",
+      "target": "macau",
+      "label": "耶穌會士東來抵達遠東",
+      "type": "religion",
+      "numericYear": 1582
+    },
+    {
+      "source": "macau",
+      "target": "dadu",
+      "label": "利瑪竇將歐洲科學傳入北京",
+      "type": "tech",
+      "numericYear": 1601
+    },
+    {
+      "source": "warsaw",
+      "target": "rome",
+      "label": "哥白尼日心說對經院神學的挑戰",
+      "type": "tech",
+      "numericYear": 1543
+    },
+    {
+      "source": "london",
+      "target": "paris",
+      "label": "牛頓力學與工業革命技術傳播至歐洲大陸",
+      "type": "tech",
+      "numericYear": 1769
+    },
+    {
+      "source": "paris",
+      "target": "boston",
+      "label": "法國啟蒙思想催化美國獨立宣言",
+      "type": "religion",
+      "numericYear": 1776
+    },
+    {
+      "source": "boston",
+      "target": "paris",
+      "label": "美國革命反向催生法國大革命",
+      "type": "religion",
+      "numericYear": 1789
+    },
+    {
+      "source": "jamestown",
+      "target": "london",
+      "label": "菸草與美洲農作物傳入歐洲",
+      "type": "tech",
+      "numericYear": 1613
+    },
+    {
+      "source": "madrid",
+      "target": "cahokia",
+      "label": "歐洲病菌傳播重創原住民社會",
+      "type": "people",
+      "numericYear": 1500
+    },
+    {
+      "source": "london",
+      "target": "philadelphia",
+      "label": "貴格會與宗教寬容思想移植北美",
+      "type": "religion",
+      "numericYear": 1681
+    },
+    {
+      "source": "boston",
+      "target": "philadelphia",
+      "label": "清教徒自治精神演化為美國憲政",
+      "type": "religion",
+      "numericYear": 1787
+    },
+    {
+      "source": "philadelphia",
+      "target": "paris",
+      "label": "《獨立宣言》思想催化法國大革命",
+      "type": "religion",
+      "numericYear": 1789
+    },
+    {
+      "source": "new_york",
+      "target": "london",
+      "label": "鍍金時代：美國工業化反哺歐洲",
+      "type": "tech",
+      "numericYear": 1870
+    },
+    {
+      "source": "athens",
+      "target": "qufu",
+      "label": "軸心時代：東西方哲學在同一時期覺醒",
+      "type": "religion",
+      "numericYear": -500
+    },
+    {
+      "source": "magadha",
+      "target": "athens",
+      "label": "軸心時代：印度佛教與希臘哲學的區域共鳴",
+      "type": "religion",
+      "numericYear": -400
+    },
+    {
+      "source": "athens",
+      "target": "alexandria",
+      "label": "亞歷山大東征帶動希臘文化向東擴散",
+      "type": "people",
+      "numericYear": -334
+    },
+    {
+      "source": "alexandria",
+      "target": "magadha",
+      "label": "希臘化時代：古希臘文化與印度佛教的碰撞交融",
+      "type": "religion",
+      "numericYear": -300
+    },
+    {
+      "source": "xianyang",
+      "target": "dadu",
+      "label": "秦朝制度擴散：書同文與車同軌",
+      "type": "tech",
+      "numericYear": -221
+    },
+    {
+      "source": "athens",
+      "target": "rome",
+      "label": "希臘哲學融入羅馬：自然法學說的建立",
+      "type": "religion",
+      "numericYear": -106
     }
   ],
   "tour": [
     {
+      "cityId": "magadha",
+      "title": "釋迦牟尼創立佛教",
+      "year": "B.C. 563 - B.C. 483",
+      "content": "釋迦牟尼在古印度創立佛教，提出四聖諦與八正道，打破了婆羅門教的種姓制度壁壘，成為世界三大宗教之一的源頭。",
+      "numericYear": -530
+    },
+    {
+      "cityId": "qufu",
+      "title": "孔子與老子創立學派",
+      "year": "B.C. 551 - B.C. 479",
+      "content": "在這段時期，老子寫下《道德經》，孔子開創了儒家學派與私人講學。這標誌著中國思想史上的「軸心時代」覺醒，奠定了東亞兩千年的精神底色。",
+      "numericYear": -500
+    },
+    {
+      "cityId": "athens",
+      "title": "古希臘哲學與科學的巔峰",
+      "year": "B.C. 5世紀 - B.C. 4世紀",
+      "content": "蘇格拉底、柏拉圖與亞里斯多德相繼建立起龐大的西方哲學體系；同時畢達哥拉斯與歐幾里得等人則奠定了幾何學與數學的科學基石。",
+      "numericYear": -400
+    },
+    {
+      "cityId": "alexandria",
+      "title": "亞歷山大東征與希臘化時代",
+      "year": "B.C. 334 - B.C. 324",
+      "content": "馬其頓國王亞歷山大率軍東征波斯、中亞至印度。這場遠征雖然帶來戰爭，卻也打通了歐亞大陸的文化走廊，開啟了極度繁榮的「希臘化時代」。",
+      "numericYear": -334
+    },
+    {
+      "cityId": "alexandria",
+      "title": "亞歷山大圖書館建立",
+      "year": "B.C. 3世紀",
+      "content": "托勒密王朝建成規模巨大的圖書館，埃拉托色尼首創「地理學」，匯聚了地中海世界的知識遺產。",
+      "numericYear": -250
+    },
+    {
+      "cityId": "changan",
+      "title": "秦朝建立與大一統",
+      "year": "B.C. 221",
+      "content": "秦滅六國，建立大一統王朝。統一度量衡與文字，奠定中國兩千年的帝國制度基礎。",
+      "numericYear": -221
+    },
+    {
+      "cityId": "xianyang",
+      "title": "秦始皇統一天下與標準化",
+      "year": "B.C. 221",
+      "content": "秦國滅六國，建立大一統帝國。秦始皇推行「書同文、車同軌、統一度量衡」，這不僅是政治上的統一，更是東亞歷史上最深遠的一次技術與標準化傳播。",
+      "numericYear": -221
+    },
+    {
+      "cityId": "changan",
+      "title": "罷黜百家，獨尊儒術",
+      "year": "B.C. 140",
+      "content": "漢武帝採納董仲舒建議，將儒家思想確立為官方正統，深刻影響東亞哲學與政治體系。",
+      "numericYear": -140
+    },
+    {
+      "cityId": "kashgar",
+      "title": "張騫初使西域",
+      "year": "B.C. 138",
+      "content": "張騫出使西域，被譽為「鑿空」。這不僅是軍事外交行動，更開闢了絲綢之路，促成中西文化初次交匯。",
+      "numericYear": -138
+    },
+    {
+      "cityId": "changan",
+      "title": "張騫出使西域",
+      "year": "B.C. 138",
+      "content": "漢武帝派張騫出使西域，歷經十三載。這次外交行動正式打通了「絲綢之路」，促成了東西方在接下來一千年間的物資與思想大交換。",
+      "numericYear": -138
+    },
+    {
+      "cityId": "rome",
+      "title": "西塞羅與自然法學說",
+      "year": "B.C. 106",
+      "content": "古羅馬政治家西塞羅系統提出自然法學說，建立了折衷主義哲學體系，將古希臘哲學深植羅馬法之中。",
+      "numericYear": -106
+    },
+    {
+      "cityId": "rome",
+      "title": "羅馬征服希臘與自然法建立",
+      "year": "B.C. 146 - B.C. 106",
+      "content": "羅馬征服了古希臘，但在文化上卻被希臘反向征服。西塞羅結合希臘哲學與羅馬法，系統性地提出了「自然法學說」，成為現代西方法律體系的靈魂。",
+      "numericYear": -106
+    },
+    {
+      "cityId": "changan",
+      "title": "司馬遷始著《史記》",
+      "year": "B.C. 104",
+      "content": "漢朝太史令司馬遷開始撰寫《史記》。這部巨著首創「紀傳體」，不僅是中國歷史學的豐碑，更深刻影響了整個東亞漢字文化圈的史學傳統。",
+      "numericYear": -104
+    },
+    {
+      "cityId": "rome",
+      "title": "屋大維與羅馬帝國",
+      "year": "B.C. 27",
+      "content": "屋大維被尊為奧古斯都，羅馬進入帝國時期，開始了長達數百年的「羅馬和平」，促進地中海文化大融合。",
+      "numericYear": -27
+    },
+    {
+      "cityId": "changan",
+      "title": "張騫出使西域",
+      "year": "前138年-前126年",
+      "content": "漢朝使節張騫開闢絲綢之路，首次建立中國與中亞、羅馬的間接文化交流。",
+      "numericYear": 0
+    },
+    {
+      "cityId": "jerusalem",
+      "title": "耶穌誕生與基督教起源",
+      "year": "A.D. 30",
+      "content": "耶穌受難後，其門徒開始傳布基督教。這種宣揚普世救贖的信仰，逐漸顛覆並重塑了羅馬帝國的精神世界。",
+      "numericYear": 30
+    },
+    {
+      "cityId": "changan",
+      "title": "佛教傳入中國",
+      "year": "公元1世紀",
+      "content": "東漢時期，佛教經由西域傳入洛陽與長安，開啟了長達千年的中印哲學思想大融合。",
+      "numericYear": 68
+    },
+    {
+      "cityId": "luoyang",
+      "title": "蔡倫改進造紙術",
+      "year": "A.D. 105",
+      "content": "蔡倫改進造紙術。紙張作為輕便廉價的載體，徹底革命了人類知識與思想的保存與傳播速度。",
+      "numericYear": 105
+    },
+    {
+      "cityId": "rome",
+      "title": "加倫奠定解剖學",
+      "year": "A.D. 129",
+      "content": "古羅馬醫學家加倫將希臘醫學系統化，其人體生理解剖學主導了西方與伊斯蘭醫學長達千年。",
+      "numericYear": 129
+    },
+    {
+      "cityId": "alexandria",
+      "title": "托勒密《天文學大成》",
+      "year": "150年",
+      "content": "托勒密在亞歷山大港完成《天文學大成》，其地心說模型深刻影響了伊斯蘭與歐洲天文學達千年之久。",
+      "numericYear": 150
+    },
+    {
+      "cityId": "luoyang",
+      "title": "瓷器發明",
+      "year": "A.D. 164",
+      "content": "中國東漢時期成功燒製出瓷器，這項核心技術在未來成為東西方貿易與文化交流的最重要載體之一。",
+      "numericYear": 164
+    },
+    {
+      "cityId": "rome",
+      "title": "米蘭敕令與基督教合法化",
+      "year": "A.D. 313",
+      "content": "君士坦丁一世頒布《米蘭敕令》，基督教從受迫害轉為合法，隨後更成為帝國國教，奠定歐洲中世紀底色。",
+      "numericYear": 313
+    },
+    {
       "cityId": "constantinople",
-      "title": "第四次十字軍東征與地緣重組",
-      "year": "1204年-1260年代",
-      "content": "拜占庭中央權威瓦解，被迫分裂，導致東部防線真空。即便帕里奧洛格斯王朝復辟，仍需面對更為碎片化的突厥小公國威脅。",
+      "title": "羅馬帝國分裂",
+      "year": "A.D. 395",
+      "content": "羅馬帝國分裂為東羅馬與西羅馬，導致了歐洲在政治與宗教（天主教與東正教）上的長久分野。",
+      "numericYear": 395
+    },
+    {
+      "cityId": "athens",
+      "title": "關閉雅典學院",
+      "year": "A.D. 529",
+      "content": "查士丁尼關閉雅典學院，大批古希臘哲學家逃往波斯，間接促成了後來伊斯蘭世界的學術繁榮。",
+      "numericYear": 529
+    },
+    {
+      "cityId": "constantinople",
+      "title": "聖索菲亞大教堂建成",
+      "year": "A.D. 537",
+      "content": "聖索菲亞教堂完工，成為拜占庭建築的巔峰，其巨大圓頂設計深刻影響了後世的東正教與伊斯蘭清真寺建築。",
+      "numericYear": 537
+    },
+    {
+      "cityId": "mecca",
+      "title": "伊斯蘭教創立",
+      "year": "A.D. 611",
+      "content": "穆罕默德創立伊斯蘭教，將阿拉伯半島零散的部落整合為強大的宗教軍事共同體。",
+      "numericYear": 611
+    },
+    {
+      "cityId": "changan",
+      "title": "貞觀之治與天可汗",
+      "year": "A.D. 627",
+      "content": "唐太宗時期國力強盛，威服四方，長安成為匯聚全球使節、商人與求學者的超級國際大都會。",
+      "numericYear": 627
+    },
+    {
+      "cityId": "changan",
+      "title": "摩尼教東傳",
+      "year": "A.D. 694",
+      "content": "源自波斯的摩尼教（明教）由佛多誕傳入唐朝，展現了絲路上波斯、中亞與中國思想的高度交融。",
+      "numericYear": 694
+    },
+    {
+      "cityId": "kyoto",
+      "title": "遣唐使與文化輸入",
+      "year": "7世紀-9世紀",
+      "content": "日本派遣大量遣唐使前往長安，帶回了佛教、漢字、建築與政治制度，深刻形塑了日本文化。",
+      "numericYear": 700
+    },
+    {
+      "cityId": "talas",
+      "title": "怛羅斯之役與造紙西傳",
+      "year": "A.D. 751",
+      "content": "唐朝敗於阿拔斯王朝。戰敗的唐軍造紙匠被俘，這場純軍事衝突意外促成了造紙術向伊斯蘭世界與歐洲的歷史性西傳。",
+      "numericYear": 751
+    },
+    {
+      "cityId": "baghdad",
+      "title": "百年翻譯運動",
+      "year": "8世紀-10世紀",
+      "content": "阿拔斯王朝在巴格達設立「智慧之家」，將大量古希臘科學與哲學文獻翻譯為阿拉伯文。",
+      "numericYear": 800
+    },
+    {
+      "cityId": "aachen",
+      "title": "查理曼加冕",
+      "year": "A.D. 800",
+      "content": "教宗為查理曼加冕為「羅馬人的皇帝」，標誌著西歐世俗王權與羅馬教權結合的政治新格局。",
+      "numericYear": 800
+    },
+    {
+      "cityId": "kiev",
+      "title": "基輔羅斯接受東正教",
+      "year": "A.D. 988",
+      "content": "基輔大公弗拉基米爾受洗，基督教東正教正式傳入斯拉夫世界，奠定俄羅斯與東歐的宗教認同。",
+      "numericYear": 988
+    },
+    {
+      "cityId": "rome",
+      "title": "教宗加冕匈牙利國王",
+      "year": "1001年",
+      "content": "教宗為伊什特萬一世加冕，匈牙利升格為王國，確立了天主教在東歐的擴張。",
+      "numericYear": 1001
+    },
+    {
+      "cityId": "dadu",
+      "title": "澶淵之盟",
+      "year": "1004年",
+      "content": "契丹侵宋，後又訂澶淵之盟，確立了東亞兩個政權長期的和平與文化交流。",
+      "numericYear": 1004
+    },
+    {
+      "cityId": "global",
+      "title": "後伍麥葉王朝滅亡",
+      "year": "1031年",
+      "content": "西班牙進入泰法（諸侯國）時期，但也促成了各地宮廷對科學與哲學的多元贊助。",
+      "numericYear": 1031
+    },
+    {
+      "cityId": "global",
+      "title": "西夏建國",
+      "year": "1038年",
+      "content": "趙元昊稱帝建西夏，吸收漢傳與藏傳佛教，形成獨特的西夏宗教文化。",
+      "numericYear": 1038
+    },
+    {
+      "cityId": "global",
+      "title": "宋夏戰爭",
+      "year": "1042年",
+      "content": "宋朝與西夏爆發戰爭，史稱「宋夏戰爭」。",
+      "numericYear": 1042
+    },
+    {
+      "cityId": "dadu",
+      "title": "火藥技術的初步記載",
+      "year": "1044年",
+      "content": "中國北宋《武經總要》成書，首次明確記載了火藥配方，標誌著熱兵器技術的萌芽。同年緬甸蒲甘王朝建立。",
+      "numericYear": 1044
+    },
+    {
+      "cityId": "rome",
+      "title": "基督教大分裂",
+      "year": "1054年",
+      "content": "基督教第一次大分裂，羅馬公教和希臘正教正式決裂，互相開除對方教籍，深刻影響了東西歐的神學與政治走向。",
+      "numericYear": 1054
+    },
+    {
+      "cityId": "paris",
+      "title": "諾曼第征服",
+      "year": "1066年",
+      "content": "法國諾曼底公爵威廉一世征服英國，開創英國的諾曼王朝。",
+      "numericYear": 1066
+    },
+    {
+      "cityId": "dadu",
+      "title": "熙寧變法",
+      "year": "1069年",
+      "content": "宋神宗任用王安石推行「熙寧變法」，試圖進行富國強兵的政治與經濟改革。",
+      "numericYear": 1069
+    },
+    {
+      "cityId": "constantinople",
+      "title": "曼齊克特戰役",
+      "year": "1071年",
+      "content": "塞爾柱土耳其人擊敗東羅馬帝國，俘虜皇帝，伊斯蘭勢力深入小亞細亞，基督教世界大為震驚。",
+      "numericYear": 1071
+    },
+    {
+      "cityId": "rome",
+      "title": "授職權之爭",
+      "year": "1076年",
+      "content": "神聖羅馬帝國皇帝亨利四世與教宗格列高利七世發生衝突，教宗開除亨利四世教籍，政教衝突白熱化。",
+      "numericYear": 1076
+    },
+    {
+      "cityId": "rome",
+      "title": "卡諾莎悔罪",
+      "year": "1077年",
+      "content": "卡諾莎悔罪事件，亨利四世向教宗屈服請求寬恕，象徵教權對王權的短暫勝利。",
+      "numericYear": 1077
+    },
+    {
+      "cityId": "global",
+      "title": "大翻譯運動與托雷多",
+      "year": "1085年",
+      "content": "卡斯提亞攻陷托雷多。該城成為大翻譯運動的中心，阿拉伯與古希臘語的科學、哲學文獻被翻譯成拉丁文。",
+      "numericYear": 1085
+    },
+    {
+      "cityId": "hangzhou",
+      "title": "指南針的首度記載",
+      "year": "1088年",
+      "content": "北宋科學家沈括在《夢溪筆談》中首次詳細記錄了磁針指南針及地磁偏角，這是航海技術的重要里程碑。",
+      "numericYear": 1088
+    },
+    {
+      "cityId": "rome",
+      "title": "號召十字軍",
+      "year": "1095年",
+      "content": "教宗烏爾巴諾二世於克勒芒大會號召十字軍東征，開啟長達兩百年的宗教戰爭與東西方文化碰撞。",
+      "numericYear": 1095
+    },
+    {
+      "cityId": "constantinople",
+      "title": "第一次十字軍東征",
+      "year": "1096年",
+      "content": "第一次十字軍東征開始。",
+      "numericYear": 1096
+    },
+    {
+      "cityId": "global",
+      "title": "十字軍佔領耶路撒冷",
+      "year": "1099年",
+      "content": "十字軍佔領耶路撒冷，建立耶路撒冷王國，並與當地的伊斯蘭與東方基督教文化產生了長期的互動與融合。",
+      "numericYear": 1099
+    },
+    {
+      "cityId": "paris",
+      "title": "諾曼第併入英格蘭",
+      "year": "1106年",
+      "content": "亨利一世將諾曼第地區納為英格蘭王國領地。",
+      "numericYear": 1106
+    },
+    {
+      "cityId": "dadu",
+      "title": "金朝建立",
+      "year": "1115年",
+      "content": "完顏阿骨打稱帝建金朝，女真族開始將薩滿教與中原佛教、儒家思想融合。",
+      "numericYear": 1115
+    },
+    {
+      "cityId": "global",
+      "title": "北遼與西北遼",
+      "year": "1122年",
+      "content": "北遼建立，九個月後被金滅亡。隔年西北遼建立又迅速滅亡。",
+      "numericYear": 1122
+    },
+    {
+      "cityId": "kashgar",
+      "title": "西遼建立",
+      "year": "1124年",
+      "content": "西遼建立，將中原的典章制度與中亞的伊斯蘭文化交匯。",
+      "numericYear": 1124
+    },
+    {
+      "cityId": "global",
+      "title": "伊本·魯世德出生",
+      "year": "1126年",
+      "content": "安達盧斯哲學家伊本·魯世德 (Averroes) 出生。他對亞里士多德的深度註解後來引發了歐洲經院哲學的變革。",
+      "numericYear": 1126
+    },
+    {
+      "cityId": "hangzhou",
+      "title": "靖康之難與南宋建立",
+      "year": "1127年",
+      "content": "金入侵擄二帝，北宋亡。趙構登基建立南宋，中國經濟與文化重心徹底南移。",
+      "numericYear": 1127
+    },
+    {
+      "cityId": "hangzhou",
+      "title": "岳飛北伐",
+      "year": "1140年",
+      "content": "岳飛北伐連敗金軍，逼近開封，後被十二道金牌召回。",
+      "numericYear": 1140
+    },
+    {
+      "cityId": "global",
+      "title": "伊斯蘭科學西傳",
+      "year": "1144年",
+      "content": "英國學者羅伯特·切斯特在西班牙將阿拉伯的《代數學》與《煉金術》翻譯為拉丁文，伊斯蘭核心科學傳入歐洲。",
+      "numericYear": 1144
+    },
+    {
+      "cityId": "global",
+      "title": "第二次十字軍東征",
+      "year": "1147年",
+      "content": "第二次十字軍東征，慘敗。",
+      "numericYear": 1147
+    },
+    {
+      "cityId": "global",
+      "title": "造紙術傳入歐洲",
+      "year": "1150年",
+      "content": "阿拉伯人將中國造紙術傳入歐洲，西班牙克薩蒂瓦建立歐洲第一家造紙坊，為知識傳播奠定基礎。",
+      "numericYear": 1150
+    },
+    {
+      "cityId": "cahokia",
+      "title": "密西西比文化鼎盛時期",
+      "year": "12世紀",
+      "content": "卡霍基亞成為龐大貿易網路的中心，擁有高聳的僧侶墩，人口一度超越同期的倫敦，展現美洲原住民高度發達的城市文明。",
+      "numericYear": 1150
+    },
+    {
+      "cityId": "rome",
+      "title": "歐洲第一所大學",
+      "year": "1158年",
+      "content": "義大利波隆納大學成立，標誌著歐洲世俗教育與羅馬法復興的開端。",
+      "numericYear": 1158
+    },
+    {
+      "cityId": "jerusalem",
+      "title": "薩拉丁佔領耶路撒冷",
+      "year": "1187年",
+      "content": "埃及的薩拉丁佔領耶路撒冷，其寬容政策保護了城內的基督徒與猶太人。",
+      "numericYear": 1187
+    },
+    {
+      "cityId": "global",
+      "title": "第三次十字軍東征",
+      "year": "1189年",
+      "content": "神聖羅馬帝國、英、法君主發動第三次十字軍東征，後雙方達成協議。",
+      "numericYear": 1189
+    },
+    {
+      "cityId": "hangzhou",
+      "title": "理學體系大成",
+      "year": "1190年",
+      "content": "南宋大儒朱熹將《大學》、《中庸》、《論語》、《孟子》集結為《四書》。理學成為後世東亞官方正統思想。",
+      "numericYear": 1190
+    },
+    {
+      "cityId": "global",
+      "title": "鎌倉幕府建立",
+      "year": "1192年",
+      "content": "神聖羅馬帝國皇帝溺死退兵。同年日本源賴朝建鎌倉幕府，為日本首個幕府政權。",
+      "numericYear": 1192
+    },
+    {
+      "cityId": "urgench",
+      "title": "花剌子模擴張",
+      "year": "1194年",
+      "content": "塞爾柱土耳其為花剌子模所滅。",
+      "numericYear": 1194
+    },
+    {
+      "cityId": "constantinople",
+      "title": "第四次十字軍東征",
+      "year": "1204年",
+      "content": "十字軍在威尼斯商人引導下攻陷並洗劫了同為基督教的東羅馬君士坦丁堡，建立拉丁帝國。",
       "numericYear": 1204
     },
     {
       "cityId": "karakorum",
       "title": "成吉思汗建立大蒙古國",
       "year": "1206年",
-      "content": "鐵木真統一蒙古高原各部，被尊為成吉思汗，開啟了席捲歐亞大陸的全球擴張。",
+      "content": "鐵木真統一蒙古高原各部，建立大蒙古國，開啟了席捲歐亞大陸的擴張。",
       "numericYear": 1206
     },
     {
+      "cityId": "paris",
+      "title": "《大憲章》簽署",
+      "year": "1215年",
+      "content": "英國貴族逼迫英王簽署《大憲章》，奠定了限制王權與憲政思想的基礎。",
+      "numericYear": 1215
+    },
+    {
+      "cityId": "bukhara",
+      "title": "第一次蒙古西征",
+      "year": "1219年",
+      "content": "成吉思汗發動第一次蒙古西征，滅花剌子模，打通了歐亞大陸的直接接觸。",
+      "numericYear": 1219
+    },
+    {
+      "cityId": "shangdu",
+      "title": "滅西夏與成吉思汗駕崩",
+      "year": "1227年",
+      "content": "成吉思汗滅西夏後戰死。",
+      "numericYear": 1227
+    },
+    {
+      "cityId": "hangzhou",
+      "title": "金朝滅亡",
+      "year": "1234年",
+      "content": "南宋與蒙古聯合滅金。",
+      "numericYear": 1234
+    },
+    {
+      "cityId": "sarai",
+      "title": "第二次蒙古西征",
+      "year": "1236年",
+      "content": "拔都發動第二次蒙古西征，兵鋒直達波蘭與匈牙利，引起歐洲恐慌。",
+      "numericYear": 1236
+    },
+    {
+      "cityId": "rome",
+      "title": "柏郎嘉賓出使蒙古",
+      "year": "1245年",
+      "content": "羅馬教宗派遣修士柏郎嘉賓出使蒙古，這是歐洲首次系統性地記錄並接觸遙遠的東方帝國。",
+      "numericYear": 1245
+    },
+    {
+      "cityId": "karakorum",
+      "title": "魯不魯乞出使與神學辯論",
+      "year": "1253年",
+      "content": "法國使節魯不魯乞出使蒙古。1254年蒙哥汗舉辦跨信仰神學辯論，展現了蒙古的宗教包容。",
+      "numericYear": 1253
+    },
+    {
       "cityId": "tabriz",
-      "title": "克塞山戰役",
-      "year": "1243年",
-      "content": "蒙古大將拜住擊潰羅姆蘇丹國，使其淪為伊兒汗國附庸，並引發大規模突厥部落西遷潮。",
-      "numericYear": 1243
+      "title": "第三次蒙古西征",
+      "year": "1253年",
+      "content": "旭烈兀發動第三次蒙古西征，攻陷波斯與美索不達米亞。",
+      "numericYear": 1253
+    },
+    {
+      "cityId": "baghdad",
+      "title": "攻陷巴格達",
+      "year": "1258年",
+      "content": "旭烈兀滅黑衣大食，標誌伊斯蘭黃金時代的終結。",
+      "numericYear": 1258
     },
     {
       "cityId": "constantinople",
-      "title": "聯姻外交戰略",
-      "year": "13世紀中葉",
-      "content": "拜占庭皇帝將公主視為外交資產，透過瑪麗亞·帕里奧洛格娜與伊兒汗國聯姻，及歐芙洛緒涅與金帳汗國聯姻，換取軍事與戰略支援。",
-      "numericYear": 1250
-    },
-    {
-      "cityId": "constantinople",
-      "title": "拜占庭光復君士坦丁堡",
+      "title": "東羅馬復國",
       "year": "1261年",
-      "content": "尼西亞帝國的米海爾八世收復舊都，帕里奧洛格斯王朝復辟，但帝國實力已大不如前。",
+      "content": "東羅馬帝國復國，拉丁帝國滅亡。",
       "numericYear": 1261
     },
     {
       "cityId": "dadu",
-      "title": "忽必烈建立大元",
-      "year": "1271年",
-      "content": "蒙古政權中原化，忽必烈定國號為大元，建都大都。",
-      "numericYear": 1271
-    },
-    {
-      "cityId": "hangzhou",
-      "title": "元軍攻陷臨安",
-      "year": "1276年",
-      "content": "元軍南下攻陷南宋都城臨安，俘獲宋恭帝，南宋朝廷南逃。",
-      "numericYear": 1276
-    },
-    {
-      "cityId": "quanzhou",
-      "title": "崖山海戰與宋朝滅亡",
-      "year": "1279年",
-      "content": "南宋殘餘勢力在崖山海戰中全軍覆沒，元朝完成中國大統一。",
-      "numericYear": 1279
-    },
-    {
-      "cityId": "sarai",
-      "title": "與拜占庭的聯姻與協作",
-      "year": "13世紀末",
-      "content": "強權人物那海與拜占庭公主歐芙洛緒涅私交，曾派遣4,000名騎兵協助拜占庭穩定色雷斯防線。",
-      "numericYear": 1290
-    },
-    {
-      "cityId": "maragha",
-      "title": "技術轉讓的橋樑",
-      "year": "13世紀末",
-      "content": "拜占庭學者格里高利·希奧尼亞德斯抵達此地的天文台學習，促成了波斯計算方法向君士坦丁堡的技術轉讓。",
-      "numericYear": 1290
-    },
-    {
-      "cityId": "constantinople",
-      "title": "東方天文學的引進",
-      "year": "13世紀末",
-      "content": "學者格里高利·希奧尼亞德斯親自前往馬拉蓋天文台學習，將先進的波斯計算方法引進君士坦丁堡，提升日食預測精度，促成帕里奧洛格斯文藝復興。",
-      "numericYear": 1290
-    },
-    {
-      "cityId": "tabriz",
-      "title": "拜都汗的宗教寬容",
-      "year": "1295年前",
-      "content": "拜都汗偏向基督教，允許在移動軍營中建立教堂，鞏固了與拜占庭的信任。",
-      "numericYear": 1295
-    },
-    {
-      "cityId": "tabriz",
-      "title": "合贊汗伊斯蘭化",
-      "year": "1295年",
-      "content": "合贊汗正式改宗伊斯蘭以獲取穆斯林貴族支持，開始拆除佛寺與限制教堂，宣告親基督聯盟終結。",
-      "numericYear": 1295
-    },
-    {
-      "cityId": "sarai",
-      "title": "遏制巴爾幹擴張",
-      "year": "14世紀初",
-      "content": "拜占庭透過將瑪麗亞(巴亞倫)嫁給脫脫汗，確立了北方防線穩定，確保對巴爾幹的支配地位。",
-      "numericYear": 1310
-    },
-    {
-      "cityId": "constantinople",
-      "title": "潛在突厥化與薩拉森翼裝事件",
-      "year": "14世紀",
-      "content": "君士坦丁堡賽馬場發生突厥冒險家滑翔墜落事件，展現拜占庭對異族技術的著迷。突厥精英與美學逐漸滲透進拜占庭社會高層。",
-      "numericYear": 1330
+      "title": "伊斯蘭天文學傳入中國",
+      "year": "1267年",
+      "content": "波斯天文學家札馬魯丁向忽必烈進獻天文儀器，伊斯蘭曆法與觀測技術正式傳入中國。",
+      "numericYear": 1267
     },
     {
       "cityId": "dadu",
-      "title": "紅巾軍起義爆發",
-      "year": "1351年",
-      "content": "元末天災人禍引發大規模農民起義，動搖了元朝的統治基礎。",
-      "numericYear": 1351
+      "title": "馬可·波羅東行",
+      "year": "1271年",
+      "content": "馬可·波羅抵達元朝大都。其遊記成為中世紀歐洲了解東方科技的重要著作。",
+      "numericYear": 1271
     },
     {
-      "cityId": "nanjing",
-      "title": "朱元璋攻佔集慶",
-      "year": "1356年",
-      "content": "朱元璋取得戰略基地，改名應天府，開始穩步擴張。",
-      "numericYear": 1356
+      "cityId": "rome",
+      "title": "《神學大全》完成",
+      "year": "1273年",
+      "content": "托馬斯·阿奎那成功將古希臘亞里士多德的理性哲學與天主教神學融合，達到經院哲學頂峰。",
+      "numericYear": 1273
     },
     {
-      "cityId": "nanjing",
-      "title": "明朝建立與元廷北逃",
-      "year": "1368年",
-      "content": "朱元璋於南京稱帝，徐達攻陷大都，元朝統治結束。",
-      "numericYear": 1368
+      "cityId": "paris",
+      "title": "拉班·掃馬西行",
+      "year": "1275年",
+      "content": "景教僧侶拉班·掃馬與雅巴拉哈三世西行。掃馬後來出使歐洲會見教宗與英法君主。",
+      "numericYear": 1275
+    },
+    {
+      "cityId": "dadu",
+      "title": "元朝建立",
+      "year": "1276年",
+      "content": "忽必烈改國號為大元，1279年滅南宋完成統一大業。",
+      "numericYear": 1276
+    },
+    {
+      "cityId": "dadu",
+      "title": "《授時曆》編纂",
+      "year": "1280年",
+      "content": "郭守敬等人吸收伊斯蘭天文技術，編纂完成《授時曆》，精度達到當時世界最高峰。",
+      "numericYear": 1280
+    },
+    {
+      "cityId": "dadu",
+      "title": "天主教傳入中國",
+      "year": "1289年",
+      "content": "教宗派遣約翰·孟高維諾前往中國，成功在大都建立天主教堂並成為總主教。",
+      "numericYear": 1289
     },
     {
       "cityId": "constantinople",
-      "title": "鄂圖曼土耳其包圍",
-      "year": "1389年-1396年",
-      "content": "歷經科索沃戰役與尼科波利斯戰役，鄂圖曼土耳其幾乎完全包圍了君士坦丁堡，拜占庭淪為附庸。",
-      "numericYear": 1396
+      "title": "鄂圖曼建國",
+      "year": "1299年",
+      "content": "鄂圖曼土耳其建國，開啟了其對地中海與小亞細亞的長久影響。",
+      "numericYear": 1299
+    },
+    {
+      "cityId": "rome",
+      "title": "人文主義萌芽",
+      "year": "1304年",
+      "content": "彼特拉克與薄伽丘等文學家在世，打破宗教神學禁欲主義，推動文藝復興早期思想啟蒙。",
+      "numericYear": 1304
+    },
+    {
+      "cityId": "paris",
+      "title": "機械鐘的廣泛應用",
+      "year": "1320年",
+      "content": "歐洲開始廣泛應用機械鐘，這是精準機械科技的重大突破，改變了社會對時間的認知。",
+      "numericYear": 1320
+    },
+    {
+      "cityId": "global",
+      "title": "伊本·巴圖塔大旅行",
+      "year": "1325年",
+      "content": "摩洛哥旅行家伊本·巴圖塔展開橫跨北非、中東、印度與中國的大旅行。",
+      "numericYear": 1325
+    },
+    {
+      "cityId": "caffa",
+      "title": "黑死病大流行",
+      "year": "1346年",
+      "content": "歐洲黑死病大規模流行，動搖了天主教會的權威，促使人們重新思考生死，為人文主義提供土壤。",
+      "numericYear": 1346
     },
     {
       "cityId": "nanjing",
-      "title": "朱元璋駕崩與建文帝繼位",
-      "year": "1398年",
-      "content": "洪武時代結束，為後續的靖難之役埋下伏筆。",
-      "numericYear": 1398
+      "title": "明朝建立",
+      "year": "1368年",
+      "content": "朱元璋建立明朝，攻入大都，蒙古勢力退出中原。",
+      "numericYear": 1368
+    },
+    {
+      "cityId": "samarqand",
+      "title": "帖木兒帝國建立",
+      "year": "1370年",
+      "content": "帖木兒建帖木兒帝國。",
+      "numericYear": 1370
+    },
+    {
+      "cityId": "nanjing",
+      "title": "靖難之變",
+      "year": "1399年",
+      "content": "燕王朱棣發動靖難之變，繼位為明成祖。",
+      "numericYear": 1399
+    },
+    {
+      "cityId": "quanzhou",
+      "title": "鄭和下西洋",
+      "year": "1405年",
+      "content": "鄭和七下西洋。展示了世界最頂尖的造船技術與航海術（水密隔艙、羅盤導航），促進跨國科技交流。",
+      "numericYear": 1405
+    },
+    {
+      "cityId": "global",
+      "title": "胡斯受火刑",
+      "year": "1415年",
+      "content": "波西米亞宗教改革先驅胡斯慘遭火刑，其思想啟發了後來的馬丁·路德。",
+      "numericYear": 1415
+    },
+    {
+      "cityId": "paris",
+      "title": "貞德解奧爾良之圍",
+      "year": "1429年",
+      "content": "聖女貞德解奧爾良城之圍，喚醒了法國的民族主義意識。",
+      "numericYear": 1429
+    },
+    {
+      "cityId": "rome",
+      "title": "佛羅倫斯大公會議",
+      "year": "1439年",
+      "content": "為抵禦鄂圖曼召開會議。拜占庭學者帶來大量古希臘手稿，直接點燃了佛羅倫斯文藝復興。",
+      "numericYear": 1439
+    },
+    {
+      "cityId": "boston",
+      "title": "易洛魁聯盟成立",
+      "year": "15世紀中葉",
+      "content": "北美東北部的五個部落組成易洛魁聯盟，以議會形式協商事務，其部落民主聯盟架構被認為對後來的美國憲法產生了影響。",
+      "numericYear": 1450
+    },
+    {
+      "cityId": "constantinople",
+      "title": "君士坦丁堡陷落",
+      "year": "1453年",
+      "content": "鄂圖曼攻陷君士坦丁堡。烏爾班大砲標誌冷兵器時代沒落。大量學者逃往義大利，推動文藝復興。",
+      "numericYear": 1453
+    },
+    {
+      "cityId": "global",
+      "title": "活字版聖經",
+      "year": "1454年",
+      "content": "古騰堡印出第一本活字版聖經。印刷技術的成熟革命了知識傳播，打破教會對經典的解釋壟斷。",
+      "numericYear": 1454
+    },
+    {
+      "cityId": "moscow",
+      "title": "莫斯科大公國獨立",
+      "year": "1480年",
+      "content": "莫斯科大公國脫離金帳汗國獨立，以「第三羅馬」自居，東正教成為俄羅斯國家認同的核心。",
+      "numericYear": 1480
+    },
+    {
+      "cityId": "global",
+      "title": "好望角與航海科技",
+      "year": "1488年",
+      "content": "迪亞士到達好望角。卡拉維爾帆船與星盤等航海科技進步，使歐洲人具備遠洋探險能力。",
+      "numericYear": 1488
+    },
+    {
+      "cityId": "global",
+      "title": "哥倫布抵達美洲與思想重組",
+      "year": "1492年",
+      "content": "哥倫布抵達美洲。同年西班牙驅逐穆斯林與猶太人，學者與人才流亡，造成地中海地區思想重組。",
+      "numericYear": 1492
+    },
+    {
+      "cityId": "global",
+      "title": "新航路開闢",
+      "year": "1498年",
+      "content": "達伽馬到達印度，開闢西歐到東方的新航路，全球化貿易的雛形開始顯現。",
+      "numericYear": 1498
+    },
+    {
+      "cityId": "wittenberg",
+      "title": "馬丁·路德開啟宗教改革",
+      "year": "1517",
+      "content": "馬丁·路德發表九十五條論綱，挑戰教廷權威，引發橫掃歐洲的宗教改革，深刻改變了西方的精神與政治面貌。",
+      "numericYear": 1517
+    },
+    {
+      "cityId": "madrid",
+      "title": "麥哲倫率隊出航",
+      "year": "1519",
+      "content": "麥哲倫船隊向西航行，完成人類首次環球航行壯舉，證實了地圓說，開啟了真正的全球化時代。",
+      "numericYear": 1519
+    },
+    {
+      "cityId": "geneva",
+      "title": "喀爾文發表基督教原理",
+      "year": "1536",
+      "content": "喀爾文發表《基督教原理》，建立嚴密的預選說神學，其教派深刻影響了後來西歐與北美的資本主義與民主發展。",
+      "numericYear": 1536
+    },
+    {
+      "cityId": "global",
+      "title": "哥白尼《天體運行論》",
+      "year": "1543年",
+      "content": "哥白尼發表日心說，挑戰了教會傳統宇宙觀，開啟了科學革命的序幕。",
+      "numericYear": 1543
+    },
+    {
+      "cityId": "warsaw",
+      "title": "哥白尼發表天體運行論",
+      "year": "1543",
+      "content": "哥白尼提出「日心說」，推翻了主導歐洲千年的「地心說」，成為科學革命的第一聲巨響。",
+      "numericYear": 1543
+    },
+    {
+      "cityId": "macau",
+      "title": "葡萄牙獲澳門居住權",
+      "year": "1557",
+      "content": "葡萄牙人取得澳門居住權，使澳門成為明朝中後期西學東漸的最重要窗口。",
+      "numericYear": 1557
+    },
+    {
+      "cityId": "rome",
+      "title": "利瑪竇來華",
+      "year": "1582年",
+      "content": "耶穌會士利瑪竇抵達中國，帶來了歐洲的幾何學（歐幾里得幾何）與世界地圖，促進了中西科學思想的第一次深度碰撞。",
+      "numericYear": 1582
+    },
+    {
+      "cityId": "london",
+      "title": "英國創立東印度公司",
+      "year": "1600",
+      "content": "英國東印度公司成立，作為資本主義早期的跨國公司，它將極大地推動全球物資與文化的交換。",
+      "numericYear": 1600
+    },
+    {
+      "cityId": "dadu",
+      "title": "利瑪竇抵達北京",
+      "year": "1601",
+      "content": "義大利耶穌會士利瑪竇抵達北京，向萬曆皇帝進獻《坤輿萬國全圖》與西方機械，拉開了明末西學東漸的序幕。",
+      "numericYear": 1601
+    },
+    {
+      "cityId": "jamestown",
+      "title": "詹姆士敦建立與菸草熱潮",
+      "year": "1607",
+      "content": "英國建立北美第一個永久殖民地。隨後引進的菸草成為經濟命脈，但也促使了第一批非洲奴隸被運往北美。",
+      "numericYear": 1607
+    },
+    {
+      "cityId": "boston",
+      "title": "五月花號與清教徒",
+      "year": "1620",
+      "content": "五月花號抵達北美，歐洲清教徒帶來了自治契約思想，成為日後美國民主憲政的重要基石。",
+      "numericYear": 1620
+    },
+    {
+      "cityId": "changan",
+      "title": "宋應星著天工開物",
+      "year": "1637",
+      "content": "宋應星出版《天工開物》，系統總結了中國古代的農業與手工藝技術，被譽為「中國17世紀的工藝百科全書」。",
+      "numericYear": 1637
+    },
+    {
+      "cityId": "rome",
+      "title": "三十年戰爭與西發里亞體系",
+      "year": "1648",
+      "content": "歷經三十年的宗教與王權混戰結束，簽訂《西發里亞和約》，確立了現代民族國家的主權體系原則。",
+      "numericYear": 1648
+    },
+    {
+      "cityId": "london",
+      "title": "牛頓《自然哲學的數學原理》",
+      "year": "1687年",
+      "content": "牛頓發表萬有引力定律，奠定了古典物理學的基礎，理性主義與啟蒙思想開始席捲歐洲。",
+      "numericYear": 1687
+    },
+    {
+      "cityId": "london",
+      "title": "牛頓發表自然哲學的數學原理",
+      "year": "1687",
+      "content": "牛頓出版巨著，提出萬有引力定律與三大運動定律，將科學革命推向巔峰，確立了近代物理學的基礎。",
+      "numericYear": 1687
+    },
+    {
+      "cityId": "paris",
+      "title": "孟德斯鳩出版法意",
+      "year": "1748",
+      "content": "孟德斯鳩發表《論法的精神》，提出三權分立學說，成為啟蒙運動的燈塔，並深刻影響美國憲法。",
+      "numericYear": 1748
+    },
+    {
+      "cityId": "london",
+      "title": "工業革命爆發",
+      "year": "1760年代",
+      "content": "蒸汽機的發明與應用在英國引發工業革命，現代鐵路與機械科技開始向全球擴散。",
+      "numericYear": 1760
+    },
+    {
+      "cityId": "london",
+      "title": "瓦特改良蒸汽機",
+      "year": "1769",
+      "content": "瓦特成功改良蒸汽機，標誌著工業革命的全面爆發。人類首次獲得不受自然力限制的巨大動能。",
+      "numericYear": 1769
+    },
+    {
+      "cityId": "boston",
+      "title": "美國發表獨立宣言",
+      "year": "1776",
+      "content": "北美十三州發表《獨立宣言》，將啟蒙思想的「天賦人權」化為政治實踐，建立近代第一個民主共和國。",
+      "numericYear": 1776
+    },
+    {
+      "cityId": "philadelphia",
+      "title": "發布獨立宣言",
+      "year": "1776",
+      "content": "北美十三殖民地發表《獨立宣言》，正式宣告脫離英國獨立，將啟蒙時代的「天賦人權」化為人類歷史上首個民主共和國的實踐。",
+      "numericYear": 1776
+    },
+    {
+      "cityId": "paris",
+      "title": "法國大革命與人權宣言",
+      "year": "1789",
+      "content": "巴黎群眾攻陷巴士底監獄，爆發法國大革命。隨後發表《人權宣言》，將自由、平等、博愛的思想傳播至全世界。",
+      "numericYear": 1789
+    },
+    {
+      "cityId": "philadelphia",
+      "title": "美國憲法正式實施",
+      "year": "1789",
+      "content": "《美國憲法》正式生效。它建立了一個強大但受制衡的中央政府，成為當今世界上最古老且仍持續運作的成文憲法。",
+      "numericYear": 1789
+    },
+    {
+      "cityId": "global",
+      "title": "達爾文發表《物種起源》",
+      "year": "1859年",
+      "content": "演化論的提出徹底顛覆了傳統神學的創造論，對哲學、宗教與人類自我認知產生了深遠影響。",
+      "numericYear": 1859
+    },
+    {
+      "cityId": "dadu",
+      "title": "達爾文出版物種起源",
+      "year": "1859",
+      "content": "達爾文提出演化論與天擇說，不僅徹底顛覆了傳統神學的創造論，也對現代生物學與社會科學產生深遠影響。",
+      "numericYear": 1859
+    },
+    {
+      "cityId": "new_york",
+      "title": "進入鍍金時代",
+      "year": "19世紀末",
+      "content": "在企業家精神與數百萬移民勞工的推動下，美國經歷了爆炸性的工業化，迅速崛起為全球最強大的工業國之一。",
+      "numericYear": 1870
     }
   ],
   "glossary": {
     "大不里士": {
       "type": "city",
       "id": "tabriz",
-      "description": "歷史名城：大不里士。伊兒汗國的科學與情報樞紐。孛羅丞相向蓋海圖汗介紹中原交鈔，促成以雕版印刷發行波斯紙幣（Čāv）的災難..."
+      "description": "伊兒汗國的首都與重要科學情報樞紐。這裡是東西方貿易、文化與科技交流的中心，孛羅丞相在此介紹交鈔，拉施特在此建立拉希迪莊園，成為當時波斯地區的文化與知識重鎮。"
     },
     "馬拉蓋": {
       "type": "city",
       "id": "maragha",
-      "description": "歷史名城：馬拉蓋。旭烈兀資助波斯學者圖西在此建立當時世上最先進的觀象台，館藏四十萬卷從巴格達搶救出的書籍。圖西在此編纂..."
+      "description": "位於伊朗西北部的歷史名城，旭烈兀在此資助波斯學者納西爾丁·圖西建立當時世界上最先進的馬拉蓋觀象台，成為伊斯蘭世界與蒙古帝國的天文學中心。"
     },
     "巴格達": {
       "type": "city",
       "id": "baghdad",
-      "description": "歷史名城：巴格達。1258年被旭烈兀攻陷。此地為東方教會（景教）總主教座堂所在地。景教僧侶拉班·掃馬西行時曾駐留，後來..."
+      "description": "阿拔斯王朝的前首都，1258年被旭烈兀率領的蒙古軍隊攻陷，標誌著伊斯蘭黃金時代的終結。此後成為伊兒汗國的重要城市與東方教會（景教）總主教座堂所在地。"
     },
     "大都 (北京)": {
       "type": "city",
       "id": "dadu",
-      "description": "歷史名城：大都 (北京)。蒙元帝國科技與文化的超級熔爐。藏傳佛教高僧八思巴在此為帝國創製「八思巴字」作為通用文字。西域學者札馬..."
+      "description": "元朝的首都，由忽必烈汗下令建造。作為蒙古帝國的政治中心，大都是當時世界上最繁華、最多元文化的國際大都市之一，馬可·波羅等西方使節曾造訪此地。"
     },
     "哈拉和林": {
       "type": "city",
       "id": "karakorum",
-      "description": "歷史名城：哈拉和林。蒙古帝國舊都。法國修士威廉·魯不魯乞抵達此地後，不僅參與了蒙哥汗舉辦的跨宗教大辯論，更在遊記中詳細記..."
+      "description": "蒙古帝國早期的首都，由窩闊台汗建立。作為帝國的政治樞紐與驛站網絡的中心，吸引了來自歐亞大陸各地的商人、工匠與使節。"
     },
     "薩萊": {
       "type": "city",
       "id": "sarai",
-      "description": "歷史名城：薩萊。金帳汗國首都，伏爾加河畔的水陸聯運樞紐。控制俄羅斯諸公國的稅收與皮毛之路，城中清真寺與教堂並立，伊斯..."
+      "description": "金帳汗國的首都，位於伏爾加河下游。它是東歐平原上最大的城市之一，也是連結俄羅斯、中亞與熱那亞黑海貿易網的重要商業樞紐。"
     },
     "威尼斯": {
       "type": "city",
       "id": "venice",
-      "description": "歷史名城：威尼斯。歐洲海上驛道與商貿網絡的重要起點。威尼斯商人持有大汗牌符經絲綢之路東行，促進了東西方地理知識與財富的..."
+      "description": "中世紀歐洲的海上貿易共和國。威尼斯商人（如馬可·波羅家族）積極拓展前往東方的貿易路線，在蒙古和平時期掌控了地中海與黑海的香料和絲綢貿易。"
     },
     "蘇丹尼耶": {
       "type": "city",
       "id": "soltaniyeh",
-      "description": "歷史名城：蘇丹尼耶。14世紀初成為伊兒汗國新首都。完者都統治時期在此建立宏偉陵墓。1318年羅馬教宗曾在此設立天主教大主..."
+      "description": "伊兒汗國完者都汗所建立的新首都。城內擁有宏偉的完者都陵墓，其巨大的穹頂展現了波斯伊斯蘭建築的巔峰，也是東西方貿易的交匯點。"
     },
     "上都": {
       "type": "city",
       "id": "shangdu",
-      "description": "歷史名城：上都。元朝夏都。透過極為高效的「站赤」系統與大都相連，新鮮物資能透過快馬與急遞鋪系統在極短時間內送達，體現..."
+      "description": "元朝的夏都，位於今內蒙古。忽必烈每年夏季會在此避暑與辦公，這裡是蒙古游牧傳統與中原農耕文明交織的象徵，西方稱之為「Xanadu」。"
     },
     "卡法": {
       "type": "city",
       "id": "caffa",
-      "description": "歷史名城：卡法。黑海沿岸熱那亞貿易商埠，與金帳汗國進行頻繁貿易。1347年蒙古軍隊圍攻此城時，不幸成為黑死病向歐洲蔓..."
+      "description": "熱那亞共和國在克里米亞半島建立的重要貿易殖民地（今費奧多西亞）。作為黑海貿易樞紐，也是後來黑死病傳入歐洲的起點之一。"
     },
     "喀什噶爾": {
       "type": "city",
       "id": "kashgar",
-      "description": "歷史名城：喀什噶爾。絲綢之路中段重鎮。在察合台汗國海都汗的戰亂中遭劫掠。拉班·掃馬與馬可斯西行朝聖時曾途經此地並目睹戰後..."
+      "description": "位於新疆塔里木盆地西緣的綠洲城市。自古便是絲綢之路北路與南路的交匯處，在察合台汗國統治下維持著繁榮的跨國貿易。"
     },
     "圖斯 (呼羅珊)": {
       "type": "city",
       "id": "tus",
-      "description": "歷史名城：圖斯 (呼羅珊)。伊兒汗國早期重建西亞的行政基地。行政長官阿魯渾·阿加在此推動了人口普查與戶賦（Qubchur）稅制改..."
+      "description": "波斯東北部呼羅珊地區的古城，是眾多伊斯蘭學者、詩人與科學家的故鄉。著名的天文學家納西爾丁·圖西即誕生於此。"
     },
     "巴黎": {
       "type": "city",
       "id": "paris",
-      "description": "歷史名城：巴黎。歐洲外交中心。伊兒汗使節拉班·掃馬在此會見法王腓力四世，提議結盟對抗馬木路克。此地工匠布歇亦曾赴哈拉..."
+      "description": "中世紀歐洲的學術與政治中心。法國國王腓力四世曾在此接見來自伊兒汗國的景教使節拉班·掃馬，探討雙方針對穆斯林的軍事同盟。"
     },
     "羅馬": {
       "type": "city",
       "id": "rome",
-      "description": "教宗駐地，歐洲宗教中心"
+      "description": "天主教的宗教中心。蒙古使節拉班·掃馬曾抵達羅馬教廷，並與教宗尼古拉四世會面，開啟了蒙古與羅馬教廷之間罕見的跨信仰外交對話。"
     },
     "君士坦丁堡": {
       "type": "city",
       "id": "constantinople",
-      "description": "歷史名城：君士坦丁堡。拜占庭帝國首都。魯不魯乞與拉班·掃馬西行或東進時皆以此為中轉站。掃馬曾在此會見安德洛尼卡二世，參觀東..."
+      "description": "拜占庭帝國的首都。在蒙古西征後，拜占庭透過聯姻（如瑪麗亞·帕里奧洛格娜）與伊兒汗國及金帳汗國建立外交關係，成為東西方技術轉讓的橋樑。"
     },
     "玉龍傑赤": {
       "type": "city",
       "id": "urgench",
-      "description": "歷史名城：玉龍傑赤。中亞花剌子模舊都。魯不魯乞曾記載此地景教徒與穆斯林混居的獨特現象；14世紀中葉更是黑死病沿驛道蔓延的..."
+      "description": "花剌子模的舊都，位於阿姆河三角洲。曾被成吉思汗夷為平地，但在金帳汗國統治下重建，成為絲綢之路上繁榮的伊斯蘭學術與商業中心。"
     },
     "海押立": {
       "type": "city",
       "id": "qayaligh",
-      "description": "歷史名城：海押立。察合台汗國境內城鎮。魯不魯乞在此進入佛教寺廟觀察，並發現當地的基督徒因教義混淆而不使用十字架，展現出..."
+      "description": "察合台汗國早期的重要據點與中亞貿易名城，位於七河地區。拉班·掃馬等旅行家西行時曾途經此地，宗教文化多元。"
     },
     "第比利斯": {
       "type": "city",
       "id": "tiflis",
-      "description": "歷史名城：第比利斯。基督教喬治亞首都。1240年代天主教道明會士受教宗之命抵達此處與蒙古人接觸，後來成為西方傳教士進入伊..."
+      "description": "喬治亞王國的首都。在被蒙古征服後，喬治亞軍隊常被徵調參與伊兒汗國的軍事行動，城市本身則是高加索地區的貿易重鎮。"
     },
     "摩蘇爾": {
       "type": "city",
       "id": "mosul",
-      "description": "歷史名城：摩蘇爾。伊兒汗國文化重鎮。此地以精美的手抄本與金屬工藝聞名，拉班·掃馬朝聖途中曾穿越此地前往高加索，是帝國西..."
+      "description": "美索不達米亞北部的古城。在伊兒汗國治下，摩蘇爾的工匠以精湛的金屬工藝與鑲嵌技術聞名，作品融合了伊斯蘭與蒙古風格。"
     },
     "波爾多": {
       "type": "city",
       "id": "bordeaux",
-      "description": "歷史名城：波爾多。歐洲西部重鎮。拉班·掃馬奉伊兒汗之命出使時，曾遠赴加斯科涅地區（波爾多一帶）會見英格蘭國王愛德華一世..."
+      "description": "法國西南部的重要港口城市。伊兒汗國使節拉班·掃馬曾抵達此地，並會見了英格蘭國王愛德華一世，遞交了阿魯渾汗的結盟信函。"
     },
     "阿尼": {
       "type": "city",
       "id": "ani",
-      "description": "歷史名城：阿尼。喬治亞王國境內的古城。拉班·掃馬與馬可斯從元大都西行朝聖時，曾穿越中亞抵達此處，隨後因南方的戰亂而被..."
+      "description": "亞美尼亞的中世紀古都，有「千教堂之城」的美譽。在蒙古統治時期，阿尼仍維持著一定的商業繁榮，但隨後因地震與戰亂逐漸衰落。"
     },
     "布哈拉": {
       "type": "city",
       "id": "bukhara",
-      "description": "歷史名城：布哈拉。中亞伊斯蘭學術與商業中心。蒙古帝國時期，元朝曾指派漢人與契丹人官員至此管理穆斯林人口，展現了帝國跨地..."
+      "description": "中亞著名的綠洲城市與伊斯蘭學術中心。成吉思汗西征時曾率軍奇襲此地，隨後在蒙古治下逐漸恢復，成為跨國貿易的重要節點。"
     },
     "撒馬爾罕": {
       "type": "city",
       "id": "samarqand",
-      "description": "歷史名城：撒馬爾罕。成吉思汗西征時期的重要接觸點。契丹裔重臣耶律楚材在此與當地穆斯林天文學家深度交流，掌握了「地理經度不..."
+      "description": "絲綢之路上最古老、最繁華的城市之一。位於中亞腹地，歷經蒙古西征破壞後，仍在察合台汗國與後來的帖木兒帝國中扮演核心角色。"
     },
     "敖倫蘇木 (汪古部都城)": {
       "type": "city",
       "id": "olon_sume",
-      "description": "歷史名城：敖倫蘇木 (汪古部都城)。位於陰山以北的汪古部核心城鎮。作為大汗的姻親與邊防守衛，汪古部廣泛信仰東方教會（景教）。出土大量融合..."
+      "description": "汪古部（信仰景教的突厥語游牧部落）的首府，位於今內蒙古達茂旗。是元朝與漠北聯繫的軍事與交通要衝，出土了大量景教石刻墓碑。"
     },
     "杭州 (臨安)": {
       "type": "city",
       "id": "hangzhou",
-      "description": "歷史名城：杭州 (臨安)。原南宋首都，京杭大運河的南端起點。被蒙古征服後，其豐富的天文儀器與曆法典籍被運往大都，助郭守敬精化《..."
+      "description": "南宋舊都，馬可·波羅稱其為「行在」(Kinsay)。在元朝統治下，杭州依然是世界上最大、最富庶的城市之一，以發達的絲綢與商業聞名。"
     },
     "內沙布爾": {
       "type": "city",
       "id": "nishapur",
-      "description": "歷史名城：內沙布爾。呼羅珊地區的交通樞紐。合贊汗進行驛政改革後，整頓了驛站稅收（Qubchur）與牌符（Paiza）制度..."
+      "description": "呼羅珊地區的名城，曾是伊斯蘭世界的文化中心。在蒙古西征中遭到毀滅性破壞，是蒙古軍事征服殘酷性的象徵之一。"
     },
     "泉州 (Zaitun)": {
       "type": "city",
       "id": "quanzhou",
-      "description": "歷史名城：泉州 (Zaitun)。元代東南沿海的最大商港。作為「海上絲路」的起點，設有市舶司管理龐大的跨國商船與關稅。元朝透過海陸聯運..."
+      "description": "元朝最大的海運港口與市舶司所在地。被譽為東方第一大港，吸引了阿拉伯、波斯與歐洲商人，城內並存著伊斯蘭教、景教、印度教與佛教。"
     },
     "奎隆 (Kawlam)": {
       "type": "city",
       "id": "quilon",
-      "description": "歷史名城：奎隆 (Kawlam)。印度馬拉巴爾海岸的貿易重鎮與海上驛路節點。沿途設有供旅客飲水的木製驛棚。中國、波斯與葉門商船在此頻繁..."
+      "description": "位於印度西南海岸的重要商埠。是海上絲綢之路上連接中國與中東的關鍵中轉站，元朝曾多次派遣使節與商船抵達此地。"
     },
     "阿速 (Azaq)": {
       "type": "city",
       "id": "azov",
-      "description": "歷史名城：阿速 (Azaq)。位於頓河河口的金帳汗國重要港口。連結東歐草原、黑海與內陸驛站。伊本·巴圖塔曾在此會見汗國的埃米爾，見..."
+      "description": "位於亞速海沿岸的商業港口（今亞速）。是金帳汗國與義大利熱那亞、威尼斯商人進行奴隸與商品貿易的重要樞紐。"
     },
     "塔拉斯": {
       "type": "city",
       "id": "talas",
-      "description": "歷史名城：塔拉斯。中亞天山山脈周邊重鎮，察合台汗國與海都汗的勢力範圍。景教僧侶拉班·掃馬西行時，曾以宗教朝聖之名在此拜..."
+      "description": "中亞古城，歷史上著名的怛羅斯戰役發生地。在蒙古帝國時期，這裡是諸王會盟與中亞驛站網絡的關鍵節點。"
     },
     "告成 (登封)": {
       "type": "city",
       "id": "gaocheng",
-      "description": "歷史名城：告成 (登封)。郭守敬為推動天文測量而建立的大型「觀星台」。其巨大石造測影建築（高表）的設計，被學者認為深受中亞伊斯..."
+      "description": "元朝天文學家郭守敬在此建立了登封觀星台。透過高表測影技術，精確觀測日影長度，為編纂《授時曆》提供了重要的數據基礎。"
     },
     "南京 (應天府)": {
       "type": "city",
       "id": "nanjing",
-      "description": "歷史名城：南京 (應天府)。朱元璋的龍興之地。1356年攻佔集慶並改名應天府，作為基地穩步擴張，最終於1368年建立明朝，結束了..."
+      "description": "明朝初期的首都。朱元璋在此建立明朝，修築了宏偉的南京明城牆與明故宮，標誌著漢人政權的復興與蒙古統治的結束。"
     },
     "拉施特": {
       "type": "person",
-      "description": "伊兒汗國宰相，主編了世界史名著《史集》。"
+      "description": "伊兒汗國著名的波斯宰相、歷史學家與醫生。主持編纂了世界史巨著《史集》，並建立拉希迪莊園，是推動波斯與中國文化交流的關鍵人物。"
     },
     "孛羅丞相": {
       "type": "person",
-      "description": "元朝派往伊兒汗國的使節與丞相，促進了中伊兩國的科技與文化交流。"
+      "description": "元朝的蒙古高官，作為忽必烈的使節出使伊兒汗國並留任。他將中國的歷史、印刷術與交鈔制度介紹給中東，是東西方知識轉移的重要橋樑。"
     },
     "蓋海圖汗": {
       "type": "person",
-      "description": "伊兒汗國君主，曾短暫試圖發行紙幣（交鈔）但失敗。"
+      "description": "伊兒汗國君主。在孛羅丞相的建議下，他試圖透過發行波斯紙幣（Čāv）來解決財政危機，但因水土不服引發經濟崩潰，最終被推翻。"
     },
     "合贊汗": {
       "type": "person",
-      "description": "伊兒汗國君主，改宗伊斯蘭教並推動了汗國的伊斯蘭化與改革。"
+      "description": "伊兒汗國最傑出的君主之一。他正式改宗伊斯蘭教，推行了一系列政治、經濟與驛站改革，使汗國達到鼎盛，並積極與歐洲探討反馬穆魯克同盟。"
     },
     "卻俄尼亞底斯": {
       "type": "person",
-      "description": "拜占庭天文學家，曾前往大不里士學習，將伊斯蘭與蒙古天文學傳入拜占庭。"
+      "description": "拜占庭帝國的學者與天文學家。他前往大不里士學習，將波斯與伊斯蘭的天文數據、星表翻譯成希臘文，將東方科學帶回君士坦丁堡。"
     },
     "阿八哈汗": {
       "type": "person",
-      "description": "伊兒汗國第二任君主，旭烈兀之子，與歐洲積極聯絡以夾擊穆斯林。"
+      "description": "伊兒汗國第二任君主，旭烈兀之子。他迎娶了拜占庭公主瑪麗亞，並積極尋求與歐洲天主教國家的軍事同盟以對抗埃及馬穆魯克王朝。"
     },
     "瑪麗亞·帕里奧洛格娜": {
       "type": "person",
-      "description": "拜占庭公主，與阿八哈汗聯姻，被稱為「蒙古的瑪麗亞」。"
+      "description": "拜占庭皇帝的女兒。原定嫁給旭烈兀，後嫁給阿八哈汗，被稱為「蒙古的瑪麗亞」，她在伊兒汗國積極保護基督徒與建立修道院。"
     },
     "拜都汗": {
       "type": "person",
-      "description": "伊兒汗國君主，在位時間極短。"
+      "description": "伊兒汗國君主，統治短暫。他對基督教表現出極大的寬容與偏好，允許在軍營中建立教堂，但隨後被改宗伊斯蘭教的合贊汗擊敗。"
     },
     "拜住": {
       "type": "person",
-      "description": "蒙古將領，活躍於小亞細亞與波斯地區的征伐。"
+      "description": "蒙古帝國西征名將。在克塞山戰役中擊潰羅姆蘇丹國，使其淪為附庸，為旭烈兀隨後的西征與伊兒汗國的建立打下基礎。"
     },
     "旭烈兀": {
       "type": "person",
-      "description": "成吉思汗之孫，率軍發動第三次西征，攻陷巴格達並建立了伊兒汗國，推動了波斯與中國之間的文化交流。"
+      "description": "成吉思汗之孫，伊兒汗國的建立者。他率軍攻陷巴格達，結束了阿拔斯王朝，同時也大力資助天文學家圖西建立馬拉蓋觀象台。"
     },
     "納西爾丁·圖西": {
       "type": "person",
-      "description": "波斯著名博學家、天文學家，創辦並主持了馬拉蓋觀象台。"
+      "description": "13世紀最偉大的波斯博學者之一。在旭烈兀支持下主導馬拉蓋觀象台，發明了「圖西雙圓」幾何模型，對哥白尼的日心說產生了深遠影響。"
     },
     "拉班·掃馬": {
       "type": "person",
-      "description": "出生於大都的汪古部景教修士，受伊兒汗國派遣出使歐洲，曾會見教宗與英法君主，被稱為「東方的馬可波羅」。"
+      "description": "出生於大都的景教僧侶。他受伊兒汗阿魯渾派遣，作為蒙古使節出使歐洲，會見了教宗與英法君主，留下了珍貴的西行遊記。"
     },
     "雅巴拉哈三世": {
       "type": "person",
-      "description": "景教宗主教，出生於大都附近，後成為東方教會的總領袖。"
+      "description": "原名馬可斯，與拉班·掃馬同行的汪古部景教僧侶。抵達中東後，他被選為東方教會（景教）總主教，領導整個亞洲的景教社群。"
     },
     "忽必烈汗": {
       "type": "person",
-      "description": "元朝建立者，統一中國並推動東西方交流，包容多種宗教。"
+      "description": "元朝的建立者，大蒙古國大汗。他完成了對南宋的征服，建立元朝，推行漢法與多元文化治理，是推動東西方交流的關鍵君主。"
     },
     "八思巴": {
       "type": "person",
-      "description": "藏傳佛教薩迦派領袖，受忽必烈尊為國師，創製了八思巴字。"
+      "description": "藏傳佛教薩迦派法王，忽必烈汗的帝師。他受命創製了「八思巴字」，旨在作為蒙古帝國境內通用的官方拼音文字。"
     },
     "札馬魯丁": {
       "type": "person",
-      "description": "波斯天文學家，在元大都設立了回回司天臺，引進阿拉伯天文儀器。"
+      "description": "來自波斯的穆斯林天文學家。他在元朝建立了回回司天台，向忽必烈進獻了多種阿拉伯天文儀器與伊斯蘭曆法（萬年曆）。"
     },
     "郭守敬": {
       "type": "person",
-      "description": "元朝著名天文學家、數學家與水利專家，主持編製了精確度極高的《授時曆》，並在登封告成建立巨大的觀星台。"
+      "description": "元朝傑出的天文學家與水利專家。他吸收了阿拉伯天文學的精華，結合高表測影，編製了當時最精確的《授時曆》，並主持開鑿了京杭大運河。"
     },
     "馬可·波羅": {
       "type": "person",
-      "description": "威尼斯商人，將其在東方的見聞錄寫成《馬可波羅遊記》。"
+      "description": "威尼斯商人與探險家。他在元朝為忽必烈效力多年，其口述的《馬可·波羅遊記》極大地激發了歐洲對東方的嚮往與地理大發現。"
     },
     "蒙哥汗": {
       "type": "person",
-      "description": "成吉思汗之孫，第四任大汗，發動了對南宋與西亞的雙線征服。"
+      "description": "大蒙古國第四任大汗。他發動了由旭烈兀統帥的西征（建立伊兒汗國）與對南宋的戰爭，他在位期間曾舉辦了著名的哈拉和林跨信仰神學辯論。"
     },
     "威廉·魯不魯乞": {
       "type": "person",
-      "description": "方濟各會傳教士，出使哈拉和林並留下詳細的東方見聞。"
+      "description": "法國國王派遣的方濟各會修士。他抵達哈拉和林覲見蒙哥汗，並參與了跨信仰辯論，留下的遊記是研究蒙古早期歷史的重要史料。"
     },
     "拔都汗": {
       "type": "person",
-      "description": "成吉思汗之孫，發動「長子西征」並建立金帳汗國。"
+      "description": "成吉思汗之孫，金帳汗國的建立者。他統帥「長子西征」，征服了俄羅斯與東歐大部，在伏爾加河畔建立了強大的游牧帝國。"
     },
     "月即別汗": {
       "type": "person",
-      "description": "金帳汗國君主，在位期間汗國達到鼎盛，並徹底伊斯蘭化。"
+      "description": "金帳汗國在位最久的君主。他在位期間宣布伊斯蘭教為國教，使金帳汗國達到經濟與軍事的鼎盛時期，促進了跨國貿易。"
     },
     "伊本·巴圖塔": {
       "type": "person",
-      "description": "摩洛哥著名旅行家，遊歷了包括金帳汗國與元朝在內的廣大地區。"
+      "description": "摩洛哥著名的穆斯林旅行家。他的足跡遍布伊斯蘭世界、印度與中國，其遊記詳細記錄了14世紀歐亞大陸的政治、社會與驛站網絡。"
     },
     "那海": {
       "type": "person",
-      "description": "金帳汗國的權臣與軍事統帥，一度是東歐草原的實際控制者。"
+      "description": "金帳汗國的權臣與軍事統帥。他曾長期控制汗國的實權，積極介入東歐與拜占庭的政治，並推動了金帳汗國與埃及馬穆魯克的同盟。"
     },
     "脫脫汗": {
       "type": "person",
-      "description": "金帳汗國君主，曾與熱那亞商人發生衝突。"
+      "description": "金帳汗國君主。他消滅了權臣那海，恢復了汗國的統一，並致力於恢復絲綢之路的貿易秩序，與義大利城邦保持密切往來。"
     },
     "歐芙洛緒涅": {
       "type": "person",
-      "description": "拜占庭皇帝米海爾八世的私生女，嫁給金帳汗國那海。"
+      "description": "拜占庭皇帝米海爾八世的私生女。她被安排與金帳汗國的那海聯姻，是拜占庭帝國利用「和親」政策牽制周邊強權的典型案例。"
     },
     "瑪麗亞": {
       "type": "person",
-      "description": "通常指拜占庭聯姻公主，負責在蒙古汗庭中代表拜占庭與基督教利益。"
+      "description": "（通常指瑪麗亞·帕里奧洛格娜）拜占庭公主，嫁給伊兒汗國君主阿八哈，在蒙古宮廷中積極保護天主教與東正教利益。"
     },
     "完者都": {
       "type": "person",
-      "description": "伊兒汗國君主，在蘇丹尼耶建立了宏偉的陵墓與首都。"
+      "description": "伊兒汗國君主，合贊汗之弟。他統治時期在蘇丹尼耶修建了壯麗的首都與陵墓，並曾短暫改宗什葉派伊斯蘭教。"
     },
     "法蘭孔·德·佩魯斯": {
       "type": "person",
-      "description": "歐洲天主教主教，早期在亞洲地區傳教。"
+      "description": "天主教傳教士，首任蘇丹尼耶大主教。他在伊兒汗國積極展開傳教活動，並負責管理天主教會在波斯地區的事務。"
     },
     "札尼別": {
       "type": "person",
-      "description": "金帳汗國君主，曾在圍攻卡法時使用了可能導致黑死病傳播的生物戰策略（投擲染病屍體）。"
+      "description": "金帳汗國君主。他在位期間曾率軍圍攻熱那亞港口卡法，傳聞蒙古軍隊將感染黑死病的屍體投入城中，加速了瘟疫傳入歐洲。"
     },
     "海都": {
       "type": "person",
-      "description": "窩闊台系宗王，長期與忽必烈交戰以爭奪蒙古帝國正統。"
+      "description": "窩闊台之孫，窩闊台汗國的實際建立者。他強烈反對忽必烈的漢化政策，發動了長達數十年的海都之亂，是蒙古傳統游牧勢力的代表。"
     },
     "闊里吉思": {
       "type": "person",
-      "description": "汪古部首領，曾改宗天主教並積極推動東西交流。"
+      "description": "汪古部首領，信仰景教的元朝駙馬。他在北方防禦海都叛軍時表現英勇，深得忽必烈與成宗信任，亦積極參與儒家與基督教的文化融合。"
     },
     "阿魯渾·阿加": {
       "type": "person",
-      "description": "蒙古帝國派駐波斯的民政長官，負責稅收與行政。"
+      "description": "蒙古帝國在波斯地區的行政長官。在旭烈兀到來之前，他負責管理該地區的財政與稅收，確保了蒙古統治在波斯的穩固過渡。"
     },
     "腓力四世": {
       "type": "person",
-      "description": "法國國王，曾與伊兒汗國及拉班·掃馬接觸以圖結盟。"
+      "description": "法國國王。他曾接見蒙古使節拉班·掃馬，並與伊兒汗國探討了聯合奪回聖地耶路撒冷的計畫，展現了東西方抗擊穆斯林的共同利益。"
     },
     "紀堯姆·布歇": {
       "type": "person",
-      "description": "巴黎的金匠，被俘後在哈拉和林為蒙古大汗製作了著名的銀樹噴泉。"
+      "description": "被蒙古人俘虜至哈拉和林的法國巴黎金匠。他在蒙古宮廷中設計並製作了著名的「銀樹」機關噴泉，是中西工藝交流的奇蹟。"
     },
     "教宗尼古拉四世": {
       "type": "person",
-      "description": "派遣約翰·孟高維諾等人前往中國傳教的教宗。"
+      "description": "13世紀末的羅馬教宗。他接見了拉班·掃馬，並派遣約翰·孟高維諾前往中國元朝大都傳教，積極推動了東方天主教的發展。"
     },
     "安德洛尼卡二世": {
       "type": "person",
-      "description": "拜占庭皇帝，積極運用聯姻外交與蒙古各汗國交好。"
+      "description": "拜占庭帝國皇帝。他在位期間面臨奧斯曼突厥的崛起，試圖透過與伊兒汗國及金帳汗國聯姻來維護帝國的生存。"
     },
     "西奧多·梅托希特": {
       "type": "person",
-      "description": "拜占庭政治家、學者，推動了拜占庭的文藝復興。"
+      "description": "拜占庭帝國的知識分子、天文學家與政治家。他積極吸收從伊兒汗國傳回的波斯天文學知識，推動了拜占庭的學術復興。"
     },
     "格里高利·希奧尼亞德斯": {
       "type": "person",
-      "description": "即卻俄尼亞底斯，拜占庭學者，翻譯了大量波斯與阿拉伯天文學著作。"
+      "description": "即卻俄尼亞底斯，拜占庭學者。他在大不里士學習阿拉伯與波斯天文學，並將圖西等人的星表帶回拜占庭，是知識西傳的關鍵人物。"
     },
     "約翰·阿克蘇赫": {
       "type": "person",
-      "description": "拜占庭將領與外交官。"
+      "description": "拜占庭的突厥裔將領，展現了拜占庭帝國對多民族人才的包容與重用（較少出現在13世紀，可能指代泛突厥將領的影響）。"
     },
     "桂恰德": {
       "type": "person",
-      "description": "天主教傳教士或歐洲外交使節。"
+      "description": "（Guichard）可能是指法國的修道士或使節，曾在東西方外交中擔任翻譯或聯絡角色。"
     },
     "教宗額我略九世": {
       "type": "person",
-      "description": "曾應對蒙古西征威脅並試圖建立聯絡的教宗。"
+      "description": "中世紀羅馬教宗。他推動了方濟各會與道明會向東方傳教的熱潮，為後來蒙古時代的東西方宗教接觸奠定了基礎。"
     },
     "愛德華一世": {
       "type": "person",
-      "description": "英格蘭國王，曾接見拉班·掃馬，討論聯合對抗穆斯林。"
+      "description": "英格蘭國王。他在加斯科涅（波爾多）接見了拉班·掃馬，並表示願意參與伊兒汗國提議的十字軍東征，但因國內戰亂未能成行。"
     },
     "馬可斯": {
       "type": "person",
-      "description": "景教修士，後成為宗主教雅巴拉哈三世。"
+      "description": "即雅巴拉哈三世的原名。這位來自元朝的汪古部景教徒，最終成為統管整個東方教會（涵蓋中東至中國）的總主教。"
     },
     "成吉思汗": {
       "type": "person",
-      "description": "蒙古帝國的奠基者與首任大汗，透過連年征戰統一了蒙古高原，並建立橫跨歐亞的龐大帝國，促進了東西方的大規模互動。"
+      "description": "蒙古帝國的締造者。他統一了蒙古高原各部落，發動了震驚歐亞的大規模征服戰爭，打破了東西方的地理屏障，開啟了蒙古治世（Pax Mongolica）。"
     },
     "耶律楚材": {
       "type": "person",
-      "description": "契丹裔蒙古帝國名臣，提倡以漢法治理中原，保護了大量文化與人口。"
+      "description": "契丹族出身的蒙古帝國宰相。他勸說窩闊台汗保留中原農耕體系並實行稅收制度，阻止了蒙古軍隊將華北變為牧場的企圖。"
     },
     "闊里吉思王": {
       "type": "person",
-      "description": "即闊里吉思，汪古部王族。"
+      "description": "即汪古部首領闊里吉思，作為元朝的忠實藩鎮，不僅捍衛了帝國北疆，其統治區也是景教文化在東亞繁榮的縮影。"
     },
     "阿剌兀思剔吉忽里": {
       "type": "person",
-      "description": "汪古部首領，早期歸附成吉思汗。"
+      "description": "汪古部的早期首領。他選擇歸順成吉思汗，為蒙古帝國南下攻金提供了關鍵的情報與道路，家族世代與黃金家族聯姻。"
     },
     "闊闊真公主": {
       "type": "person",
-      "description": "元朝公主，經海路前往波斯嫁給伊兒汗，馬可波羅自稱護送她前往。"
+      "description": "元朝卜魯罕部女子。受忽必烈之命，由馬可·波羅護送，走海路前往伊兒汗國嫁給阿魯渾汗（抵達時阿魯渾已死，改嫁合贊汗）。"
     },
     "海都汗": {
       "type": "person",
-      "description": "即海都，拒絕承認忽必烈大汗地位的蒙古宗王。"
+      "description": "窩闊台系的強權人物，堅持游牧傳統。他長期與元朝（忽必烈）及伊兒汗國對抗，其叛亂深刻影響了蒙古帝國的內部分裂與版圖格局。"
     },
     "朱元璋": {
       "type": "person",
-      "description": "明朝開國皇帝，推翻元朝統治。"
+      "description": "明朝開國皇帝。他領導農民起義推翻了元朝的統治，將蒙古勢力驅逐回漠北，建立了以漢人為主導的大明帝國，並實施里甲制恢復農業經濟。"
     },
     "雕版印刷": {
       "type": "tech",
-      "description": "中國傳統印刷術，在蒙古帝國時期廣泛傳播。"
+      "description": "源於中國的印刷技術。在蒙古和平下傳入伊兒汗國，曾被用來印製波斯紙幣（交鈔），加速了知識傳播，也影響了後來歐洲的印刷發展。"
     },
     "紙幣": {
       "type": "tech",
-      "description": "中國宋元時期廣泛使用的貨幣。伊兒汗國曾在波斯地區強行推廣紙幣（Čāv），雖遭遇經濟崩潰，但促進了造紙與印刷術的西傳。"
+      "description": "中國宋元時期廣泛流通的信用貨幣。伊兒汗國蓋海圖汗曾短暫嘗試發行波斯紙幣（Čāv），雖因經濟崩潰失敗，但促進了金融概念的西傳。"
     },
     "牌符驛政改革": {
       "type": "tech",
-      "description": "蒙古帝國對乘驛牌與驛站系統的規範化，確保了帝國交通網絡的高效運作。"
+      "description": "合贊汗在伊兒汗國推行的改革。透過嚴格管理乘驛牌（牌符）的發放與限制濫用驛站資源，成功恢復了驛站系統的效率與帝國經濟。"
     },
     "天文翻譯": {
       "type": "tech",
-      "description": "波斯、阿拉伯及中亞天文學著作被翻譯成中文或希臘文，促進了科學交流。"
+      "description": "波斯與阿拉伯的天文學著作被翻譯成中文（如札馬魯丁的貢獻）與希臘文（如卻俄尼亞底斯的貢獻），是13-14世紀歐亞科學交流的核心。"
     },
     "伊兒汗星表": {
       "type": "tech",
-      "description": "由馬拉蓋觀象台編製的高精度星表，影響了後世的天文學發展。"
+      "description": "由納西爾丁·圖西在馬拉蓋觀象台主導編纂的精確天文星表。該星表融合了中亞、波斯與中國的觀測數據，在伊斯蘭世界與歐洲廣為流傳。"
     },
     "圖西雙圓": {
       "type": "tech",
-      "description": "納西爾丁·圖西發明的幾何模型，用以修正托勒密天文學，後來哥白尼也使用了類似模型。"
+      "description": "波斯數學家圖西發明的幾何模型。透過兩個內切圓的滾動來解釋行星的直線運動，為後來哥白尼發展日心說提供了關鍵的數學工具。"
     },
     "歐幾里得幾何": {
       "type": "tech",
-      "description": "古希臘數學名著，經由阿拉伯人傳入中國與世界各地。"
+      "description": "古希臘數學基礎。在蒙古時代，波斯學者將其整理並應用於球面幾何與天文計算，這些知識隨後又傳入了元朝與拜占庭。"
     },
     "景教": {
       "type": "tech",
-      "description": "基督教聶斯脫里派，在蒙古高原諸部（如克烈、汪古）中廣泛流傳。"
+      "description": "即基督教東方教會（聶斯脫里派）。在蒙古帝國中影響深遠，許多蒙古貴族與部族（如克烈、乃蠻、汪古）皆信仰景教，促進了東西方文化連結。"
     },
     "八思巴字": {
       "type": "tech",
-      "description": "忽必烈命八思巴創製的拼音文字，意圖作為蒙古帝國的通用文字。"
+      "description": "忽必烈下令創製的官方文字。基於藏文字母，旨在精確拼寫蒙古語、漢語等多種語言，展現了元朝試圖建立大一統帝國語言工具的雄心。"
     },
     "回回曆法": {
       "type": "tech",
-      "description": "伊斯蘭曆法與天文學，在元朝被設立專門機構研究並應用。"
+      "description": "即伊斯蘭曆法。因其精確的月相與行星計算，被元朝官方採用，與中國傳統曆法並行，由回回司天台負責觀測與編纂。"
     },
     "授時曆": {
       "type": "tech",
-      "description": "元朝頒布的曆法，其計算的一年長度為 365.2425 日，與現代公曆完全相同，代表了當時世界天文學的最高水準。"
+      "description": "由元朝郭守敬主導編製的曆法。透過改良儀器與高表測影，計算出一年為365.2425天，與現代公曆完全一致，是中國曆法的巔峰之作。"
     },
     "交鈔": {
       "type": "tech",
-      "description": "元朝與伊兒汗國發行的紙幣，是世界上最早廣泛使用的紙幣之一。"
+      "description": "元朝發行的法定紙幣。忽必烈透過鹽稅與白銀作為準備金，建立起橫跨歐亞的龐大信用體系，是人類歷史上最早的廣泛紙幣實踐。"
     },
     "跨信仰神學辯論": {
       "type": "tech",
-      "description": "蒙哥汗等蒙古君主常舉辦不同宗教間的辯論，展現了對宗教的開放態度。"
+      "description": "1254年在哈拉和林由蒙哥汗主辦的辯論。天主教修士、景教徒、佛教徒與穆斯林同場競技，展現了蒙古帝國早期對宗教的包容與好奇。"
     },
     "毛筆書法觀察": {
       "type": "tech",
-      "description": "歐洲使節與商人在中國對東方書法與書寫工具的觀察記錄。"
+      "description": "中東歷史學家（如拉施特）對中國毛筆書法與雕版印刷的觀察與記錄，是當時伊斯蘭世界了解中國獨特書寫與文化載體的重要文獻。"
     },
     "伊斯蘭教": {
-      "type": "tech",
-      "description": "在中亞與西亞廣泛信仰，金帳汗國與伊兒汗國最終均改宗伊斯蘭教。"
+      "type": "religion",
+      "description": "西元7世紀由穆罕默德在阿拉伯半島創立的一神教。不僅是宗教信仰，更是一套涵蓋政治、法律與社會規範的完整體系。其強大的擴張力在幾百年內建立起橫跨歐亞非的阿拔斯帝國，並透過「智慧之家」的翻譯運動，保存了大量希臘文獻，成為東西方文化交流的超級中介。"
     },
     "俄羅斯東正教": {
       "type": "tech",
-      "description": "在金帳汗國統治下，東正教會獲免稅特權，得以保留與發展。"
+      "description": "在金帳汗國統治期間（韃靼之軛），東正教會因獲得免稅特權與保護，勢力大增，成為維繫俄羅斯民族認同與後來莫斯科公國崛起的精神支柱。"
     },
     "海上貿易": {
       "type": "tech",
-      "description": "透過南海、印度洋至波斯灣的海上絲綢之路，元朝時極為繁榮。"
+      "description": "元朝時期空前繁榮的經濟活動。透過泉州、廣州等市舶司，中國的絲綢、瓷器與中東、印度的香料進行大規模交換，形成了繁盛的海上絲路。"
     },
     "伊斯蘭建築": {
       "type": "tech",
-      "description": "具有穹頂、幾何圖案與釉磚特色的建築風格，深刻影響了歐亞各地。"
+      "description": "在蒙古統治後期，伊兒汗國與金帳汗國大力贊助清真寺與陵墓建設（如蘇丹尼耶陵墓），融合了波斯傳統與蒙古審美，影響深遠。"
     },
     "天主教": {
       "type": "tech",
-      "description": "歐洲主要宗教，教宗曾多次派使節前往蒙古尋求結盟與傳教。"
+      "description": "以羅馬教宗為首的基督宗教。在蒙古時代，天主教會積極派遣傳教士（如孟高維諾）前往大都與波斯，試圖將蒙古大汗轉變為抗擊穆斯林的盟友。"
     },
     "驛傳物流": {
       "type": "tech",
-      "description": "蒙古帝國龐大的驛站系統，支撐了跨大陸的資訊與物資流動。"
+      "description": "支撐龐大蒙古帝國運作的動脈。透過密布歐亞的驛站（站赤），確保了軍事情報、使節往來、貢品傳遞與商業物資的高效流動。"
     },
     "黑死病傳播": {
       "type": "tech",
-      "description": "14世紀中葉橫掃歐亞的瘟疫，蒙古帝國的交通網絡可能無意間加速了其傳播。"
+      "description": "14世紀中葉橫掃歐亞的鼠疫。普遍認為，隨著蒙古和平保障的貿易路線以及金帳汗國對卡法的圍攻，這場瘟疫沿著絲路與海路傳入了歐洲。"
     },
     "戶賦/包稅制": {
       "type": "tech",
-      "description": "蒙古人在征服地區實行的稅收制度，常交由中亞商人（斡脫）包攬。"
+      "description": "蒙古帝國在各地推行的稅收制度。常將收稅權承包給中亞與波斯商人（斡脫），這種制度雖然增加了財政收入，但也常導致對平民的沉重剝削。"
     },
     "驛站預算管理": {
       "type": "tech",
-      "description": "為維持龐大的驛站開銷而設立的財政與物資管理制度。"
+      "description": "隨著帝國擴張，驛站系統（站赤）消耗了巨大的馬匹與糧食。伊兒汗國合贊汗透過嚴格的牌符管理，遏制了貴族濫用驛站導致的經濟崩潰。"
     },
     "天主教外交": {
       "type": "tech",
-      "description": "教宗與歐洲君主試圖與蒙古結盟對抗伊斯蘭世界的軍事外交努力。"
+      "description": "伊兒汗國與羅馬教廷及歐洲各國頻繁的使節往來（如拉班·掃馬西行）。雙方試圖建立軍事同盟以夾擊馬穆魯克王朝，雖未實現，但促進了互相了解。"
     },
     "跨信仰神學交流": {
       "type": "tech",
-      "description": "蒙古和平時期，東西方神職人員與學者在宮廷中的思想碰撞。"
+      "description": "在蒙古統治下，佛教、伊斯蘭教、景教與天主教在各大城市（如大都、哈拉和林、大不里士）共存與交流，出現了宗教圖騰與理念的融合。"
     },
     "東正教": {
       "type": "tech",
-      "description": "拜占庭帝國與俄羅斯的主要信仰。"
+      "description": "拜占庭帝國與俄羅斯的主要信仰。拜占庭透過東正教公主的聯姻與蒙古汗國交好；而在俄羅斯，教會則在金帳汗國的寬容下迅速發展。"
     },
     "外交": {
       "type": "tech",
-      "description": "跨越歐亞的外交使節往來，如拉班·掃馬與柏朗嘉賓的出使。"
+      "description": "蒙古帝國不僅透過征服，也透過和親、互派使節（如馬可·波羅、拉班·掃馬）與通行牌符，建立起橫跨歐亞大陸的外交網絡。"
     },
     "托勒密天文學": {
       "type": "tech",
-      "description": "古希臘天文學體系，在馬拉蓋觀象台受到批判與修正。"
+      "description": "古希臘天文學家托勒密的理論。在馬拉蓋觀象台，波斯學者圖西等人對托勒密模型進行了修正（如圖西雙圓），為天文學的進步鋪平道路。"
     },
     "波斯計算方法": {
       "type": "tech",
-      "description": "來自中亞與波斯的數學工具，對中國傳統數學產生影響。"
+      "description": "指波斯與阿拉伯數學家發展的幾何、代數與天文計算技術。這些方法隨後傳入元朝，協助郭守敬精確編纂了《授時曆》。"
     },
     "潛在突厥化": {
       "type": "tech",
-      "description": "蒙古西征軍隊在金帳汗國與察合台汗國中，逐漸融入當地突厥語族群的過程。"
+      "description": "蒙古西征帶來了大量突厥部落。在金帳汗國與察合台汗國，少數的蒙古統治者最終在語言與文化上被佔多數的突厥人同化。"
     },
     "佛教": {
-      "type": "tech",
-      "description": "在元朝，尤其是藏傳佛教受到蒙古皇室的極大尊崇。"
+      "type": "religion",
+      "description": "西元前6世紀由釋迦牟尼於古印度創立的宗教。佛教的出現，很大程度上是對當時婆羅門教嚴格「種姓制度」的挑戰。釋迦牟尼主張眾生平等，認為任何人皆可透過修行（八正道）來斷除煩惱（四聖諦），最終達到涅槃解脫。佛教後來在孔雀王朝阿育王的支持下向外傳播，最終成為影響東亞與東南亞數千年文化的最重要宗教力量之一。"
     },
     "宗教融合": {
       "type": "tech",
-      "description": "蒙古統治者在不同地區吸收並融合當地宗教的現象。"
+      "description": "蒙古和平時期，各種宗教在帝國境內自由傳播。在藝術品與石刻墓碑上，經常可見十字架與蓮花並存等宗教符號交融的現象。"
     },
     "天主教傳教": {
       "type": "tech",
-      "description": "方濟各會等修會前往東方，在元大都等地建立教堂與教區。"
+      "description": "方濟各會與道明會修士深入亞洲腹地。約翰·孟高維諾在元大都建立了天主教堂並被任命為大主教，成功為數千名汪古部與阿蘭人施洗。"
     },
     "喬治亞正教": {
       "type": "tech",
-      "description": "高加索地區的基督教派，曾派兵協助蒙古西征。"
+      "description": "高加索地區的基督教派。喬治亞王國在被蒙古征服後，其騎兵成為伊兒汗國軍隊的重要組成部分，並在對抗穆斯林時表現積極。"
     },
     "手抄本製作": {
       "type": "tech",
-      "description": "在活字印刷普及前，知識傳播的主要載體，受東西方文化交流影響。"
+      "description": "在中世紀，手抄本是知識傳播的核心。伊兒汗國的拉希迪莊園內聚集了大量書法家與畫家，製作了精美的波斯細密畫與《史集》手抄本。"
     },
     "金屬工藝": {
       "type": "tech",
-      "description": "蒙古宮廷對工匠極為重視，融合了東西方風格的金屬製品（如銀樹）應運而生。"
+      "description": "融合了伊斯蘭圖騰與蒙古草原風格的手工藝。哈拉和林與摩蘇爾的工匠們擅長製作精美的金銀器，最著名的代表為紀堯姆·布歇的「銀樹」。"
     },
     "跨文化治理": {
       "type": "tech",
-      "description": "蒙古帝國在龐大疆域內，任用各族官員（如色目人）進行統治的策略。"
+      "description": "蒙古帝國為了統治龐大而多樣的疆域，大量任用色目人（如阿拉伯人、波斯人）與漢人官員，形成了一套多元包容卻又層級分明的統治體系。"
     },
     "伊斯蘭曆法": {
       "type": "tech",
-      "description": "即回回曆法，精確的月相計算被元朝採用。"
+      "description": "基於月相的曆法（回回曆）。在元朝，忽必烈設立了回回司天台，利用阿拉伯天文學的精確觀測，輔助中國傳統曆法的編纂與修正。"
     },
     "地理時差計算": {
       "type": "tech",
-      "description": "隨著帝國疆域擴大，天文學家開始意識並計算不同城市間的時差。"
+      "description": "隨著帝國版圖橫跨歐亞，波斯與中國的天文學家開始意識到各城市間的經度差異，並在星表與曆法中導入了時差計算的概念。"
     },
     "宗教融合藝術": {
       "type": "tech",
-      "description": "在波斯細密畫或中原佛教造像中，呈現出跨文化風格的藝術作品。"
+      "description": "在波斯細密畫或泉州石刻墓碑上，經常可以看到伊斯蘭的幾何紋樣、基督教的十字架與佛教的蓮花、飛天等不同文化元素的完美結合。"
     },
     "敘利亞文字": {
       "type": "tech",
-      "description": "景教徒使用的文字，也是蒙古文字字母的源頭之一（回鶻字母源於敘利亞字母）。"
+      "description": "東方教會（景教）使用的宗教語言文字。它不僅是教徒的通用文字，也是回鶻字母的源頭，進而影響了蒙古文字的創立。"
     },
     "絲綢紡織": {
       "type": "tech",
-      "description": "中國傳統商品，在蒙古治下大量銷往中亞與歐洲。"
+      "description": "中國傳統的高級工藝。在蒙古治下，大批中國絲織工匠被遷往中亞與波斯，使中國圖案（如龍、鳳）與伊斯蘭風格融合，熱銷於歐洲市場。"
     },
     "急遞制度": {
       "type": "tech",
-      "description": "蒙古驛站中專責傳遞緊急軍情與政令的快馬通訊系統。"
+      "description": "蒙古驛站中專責傳遞緊急軍情與聖旨的特急通訊系統。信使日夜兼程，甚至每天可換乘數十次馬匹，展現了帝國對資訊掌控的重視。"
     },
     "驛馬管理": {
       "type": "tech",
-      "description": "維持驛站運作的核心，要求各地提供大量的馬匹與草料。"
+      "description": "驛站系統（站赤）運作的基石。帝國要求各地政府與百姓提供龐大的馬匹、草料與人力，以維持這個橫跨歐亞的交通巨獸運轉。"
     },
     "牌符憑證": {
       "type": "tech",
-      "description": "即乘驛牌，授予使節使用驛站資源的權力證明。"
+      "description": "即「乘驛牌」（Paiza）。由大汗頒發的金、銀、銅牌，持有者有權在帝國境內免費徵用驛站的馬匹、食宿與嚮導，是權力與暢通無阻的象徵。"
     },
     "造船技術": {
       "type": "tech",
-      "description": "元朝為了海運與征伐（如日本、爪哇），大力發展的航海與造船技術。"
+      "description": "元朝為了掌控海上貿易與發動海外征伐（如日本、爪哇），大力發展了造船業。巨大的遠洋帆船配備了水密隔艙與羅盤，航行於印度洋與太平洋。"
     },
     "航海術": {
       "type": "tech",
-      "description": "透過羅盤與星象進行導航，推動了海上絲綢之路的繁榮。"
+      "description": "結合了中國的指南針技術與阿拉伯的星象導航。使得元朝時期的商船能夠脫離海岸線進行深海航行，極大地促進了海上絲綢之路的繁榮。"
     },
     "市舶稅收": {
       "type": "tech",
-      "description": "元朝在泉州等港口設立市舶司，向海外貿易徵收的巨額利潤。"
+      "description": "元朝政府在泉州、廣州等沿海港口設立市舶司，對進出口商品徵收關稅（抽分）。這是元朝國庫重要的財政收入來源。"
     },
     "海上絲路": {
       "type": "tech",
-      "description": "連接東亞、東南亞、印度與中東的海上貿易網絡。"
+      "description": "連接中國東南沿海、東南亞、印度教與波斯灣的海上貿易航線。在陸路驛站之外，成為香料、瓷器與絲綢運輸的黃金水道。"
     },
     "香料貿易": {
       "type": "tech",
-      "description": "經由東南亞與印度洋進入中國與中東的高利潤商品貿易。"
+      "description": "中世紀最暴利的商業活動。東南亞與印度的胡椒、丁香等香料，經由海上絲路運至中東，再由威尼斯與熱那亞商人轉銷歐洲。"
     },
     "跨國貿易": {
       "type": "tech",
-      "description": "在蒙古和平保障下，跨越歐亞大陸的大規模商業活動。"
+      "description": "在「蒙古和平」（Pax Mongolica）的保障下，歐亞大陸的安全得到空前提升，商人可以攜帶交鈔或白銀，安全地從義大利一路貿易至中國大都。"
     },
     "游牧軍事": {
       "type": "tech",
-      "description": "以騎兵、弓射與高機動性為特徵的蒙古軍事體系。"
+      "description": "蒙古軍隊的致勝核心。依賴高機動性的輕騎兵、卓越的複合弓射術、嚴密的組織紀律以及殘酷的心理戰與圍城技術，橫掃歐亞大陸。"
     },
     "過境外交": {
       "type": "tech",
-      "description": "使節在穿越多個汗國領地時所需的通關與交涉過程。"
+      "description": "各國使節（如馬可·波羅）在穿越不同汗國領地時，依賴大汗頒發的牌符與信件，獲得各地的物資補給與軍事保護，確保外交任務順利。"
     },
     "高表測影": {
       "type": "tech",
-      "description": "一種天文測量技術。郭守敬在登封觀星台建造了高達數丈的「表」，藉以精確測量冬至、夏至的日影長度，其設計深受中亞巨型觀象台啟發。"
+      "description": "元朝天文學家郭守敬採用的測量技術。透過建造高大的「表」（如登封觀星台），精確測量冬至日影長度，從而準確計算出回歸年的長度。"
     },
     "球面三角學": {
       "type": "tech",
-      "description": "阿拉伯數學家發展的幾何學，郭守敬在編製《授時曆》時亦有應用。"
+      "description": "源自伊斯蘭世界的數學分支。被廣泛應用於天文學中以計算星體位置與麥加朝向。郭守敬在編纂《授時曆》時也吸收了這門先進技術。"
     },
     "里甲制": {
       "type": "tech",
-      "description": "明朝建立的基層組織制度。"
+      "description": "明朝初年朱元璋建立的基層行政與稅收組織制度。以110戶為一里，旨在恢復受戰爭破壞的農業經濟，加強對鄉村的戶籍與勞役控制。"
     },
     "火器廣泛應用": {
       "type": "tech",
-      "description": "源自中國的火藥技術隨蒙古西征傳播，逐漸改變了歐亞的戰爭型態。"
+      "description": "發源於中國的火藥與突火槍技術，隨蒙古西征傳播至中東與歐洲。這不僅改變了攻城戰的模式，也為後來歐洲熱兵器時代的到來奠定基礎。"
     },
     "拉希迪莊園": {
       "type": "infrastructure",
-      "description": "即拉施特在伊兒汗國建立的學術與學府建築群 (Rab'-e Rashidi)。"
+      "description": "伊兒汗國宰相拉施特在大不里士建立的巨大知識與建築群。內部設有醫院、圖書館與抄寫室，是14世紀波斯最重要的學術與翻譯中心。"
     },
     "大不里士觀象台": {
       "type": "infrastructure",
-      "description": "伊兒汗國在首都大不里士建立的天文觀測機構。"
+      "description": "繼馬拉蓋之後，伊兒汗國在大不里士建立的天文觀測機構。拜占庭學者卻俄尼亞底斯在此學習，將波斯天文學成果傳回歐洲。"
     },
     "印鈔局": {
       "type": "infrastructure",
-      "description": "元朝與伊兒汗國專責印製紙幣（交鈔）的官方機構。"
+      "description": "元朝與伊兒汗國專責印製紙幣（交鈔/Čāv）的官方機構。象徵著國家對貨幣發行權的壟斷與龐大信用經濟體系的建立。"
     },
     "馬拉蓋觀象台": {
       "type": "infrastructure",
-      "description": "旭烈兀在納西爾丁·圖西建議下建立的巨型天文台，是當時世界的科學中心。"
+      "description": "旭烈兀在納西爾丁·圖西建議下建立的巨型天文台。擁有當時最精良的觀測儀器與四十萬卷藏書，是13世紀世界最高水平的科學研究中心。"
     },
     "景教宗主教座堂": {
       "type": "infrastructure",
-      "description": "東方教會的宗教中心。"
+      "description": "東方教會（景教）的最高宗教中心，位於巴格達。在雅巴拉哈三世統治時期，這裡成為連接中東與東亞數十萬景教徒的精神樞紐。"
     },
     "回回司天台": {
       "type": "infrastructure",
-      "description": "元大都專門負責伊斯蘭曆法與天文觀測的官方機構。"
+      "description": "元大都專門負責伊斯蘭曆法與天文觀測的官方機構。與傳統的漢人司天監並立，反映了忽必烈對阿拉伯先進天文科學的重視與吸收。"
     },
     "站赤/驛站中樞": {
       "type": "infrastructure",
-      "description": "蒙古帝國交通網絡的核心節點。"
+      "description": "蒙古帝國交通網絡的核心系統。每隔一段距離設立驛站，提供馬匹、食宿與嚮導，是維繫龐大帝國行政、軍事與商業命脈的骨幹。"
     },
     "萬安宮": {
       "type": "infrastructure",
-      "description": "元大都內的宮殿或皇家建築。"
+      "description": "元大都內的皇家宮殿建築之一。展現了蒙古皇帝對中原宮殿建築形制的吸收，同時也融合了草原帳篷與異域裝飾的特色。"
     },
     "驛站總樞紐": {
       "type": "infrastructure",
-      "description": "哈拉和林或大都作為帝國交通系統的中心。"
+      "description": "哈拉和林與元大都是帝國驛站系統的最核心節點。所有通往中亞、波斯、俄羅斯與中國各地的主要驛道皆從這些中樞向外輻射。"
     },
     "驛站": {
       "type": "infrastructure",
-      "description": "蒙古帝國在全國設立的交通與通訊節點。"
+      "description": "（Jam）蒙古帝國在全國密布的交通與通訊節點。它不僅是情報傳遞的接力站，也為商旅與各國使節提供了安全的庇護與後勤補給。"
     },
     "伊斯蘭蘇非大學": {
       "type": "infrastructure",
-      "description": "中亞與西亞地區的高等伊斯蘭學府。"
+      "description": "中亞與西亞地區的高等伊斯蘭學府（馬德拉薩）。在蒙古統治後期，伊兒汗國與金帳汗國的君主大力贊助此類學府以獲取宗教界的支持。"
     },
     "商埠": {
       "type": "infrastructure",
-      "description": "進行貿易與商品集散的港口或城市。"
+      "description": "進行跨國貿易與商品集散的重要城市與港口。如大不里士、卡法、泉州等，這些商埠的繁榮直接得益於蒙古和平保障的自由貿易政策。"
     },
     "完者都陵墓": {
       "type": "infrastructure",
-      "description": "位於蘇丹尼耶的宏偉伊斯蘭建築，擁有巨大的穹頂。"
+      "description": "位於蘇丹尼耶的宏偉伊斯蘭建築。擁有巨大的雙層磚砌穹頂，是波斯建築史上的傑作，對後來印度泰姬陵等建築產生了深遠影響。"
     },
     "天主教大主教區": {
       "type": "infrastructure",
-      "description": "教宗在元大都（汗八里）等地設立的教區，由約翰·孟高維諾擔任總主教。"
+      "description": "教宗在元大都（汗八里）設立的教區，由約翰·孟高維諾擔任首任總主教。標誌著羅馬天主教首次在中國建立起有組織的傳教會。"
     },
     "夏宮": {
       "type": "infrastructure",
-      "description": "如上都，蒙古大汗避暑與辦公的行宮。"
+      "description": "如元朝的上都，是蒙古大汗為了避暑與維持游牧狩獵傳統而建立的行宮。大汗會在此度過炎夏，並接見外國使節與處理政務。"
     },
     "驛站網絡": {
       "type": "infrastructure",
-      "description": "密佈於歐亞大陸的交通與物流系統。"
+      "description": "密佈於歐亞大陸的交通與物流微血管系統。它將帝國分散的各大汗國緊密聯繫在一起，是歷史上第一個真正意義上的洲際通訊網絡。"
     },
     "熱那亞商港": {
       "type": "infrastructure",
-      "description": "義大利熱那亞人在黑海與地中海建立的貿易據點（如卡法）。"
+      "description": "義大利熱那亞人在黑海與地中海建立的貿易據點（如卡法）。他們壟斷了從金帳汗國運往歐洲的奴隸、絲綢與香料貿易。"
     },
     "綠洲驛站": {
       "type": "infrastructure",
-      "description": "位於中亞沙漠邊緣，依賴水源建立的交通節點。"
+      "description": "位於中亞沙漠邊緣，依賴珍貴水源建立的交通節點。為穿越乾旱地區的商隊與驛使提供了必不可少的補給與生存保障。"
     },
     "政府辦公機構": {
       "type": "infrastructure",
-      "description": "帝國各地的行政管理中心。"
+      "description": "帝國各地的行政管理中心（如達魯花赤的駐地）。負責當地的戶籍、稅收、治安與驛站維護，確保中央政令的有效下達。"
     },
     "呼羅珊驛站": {
       "type": "infrastructure",
-      "description": "連接波斯與中亞的重要交通樞紐。"
+      "description": "連接波斯、阿富汗與中亞的重要交通樞紐網絡。在頻繁的戰亂中，呼羅珊地區的驛站屢遭破壞，但隨後又被伊兒汗國重建。"
     },
     "王室宮廷": {
       "type": "infrastructure",
-      "description": "蒙古大汗或各汗國君主的駐地。"
+      "description": "蒙古大汗或各汗國君主的駐地。宮廷內部充滿了政治權謀，同時也是不同宗教學者與外國工匠匯聚、交流技藝的中心。"
     },
     "羅馬教廷": {
       "type": "infrastructure",
-      "description": "歐洲天主教的最高權力中心。"
+      "description": "歐洲天主教的最高權力中心。在蒙古時代，教廷積極介入東方事務，試圖將蒙古人轉化為基督徒，並策劃針對穆斯林的十字軍聯盟。"
     },
     "教堂": {
       "type": "infrastructure",
-      "description": "基督宗教的禮拜場所。"
+      "description": "基督宗教的禮拜場所。在蒙古帝國極度寬容的宗教政策下，景教、天主教與東正教的教堂在東亞與中亞各地拔地而起。"
     },
     "商港": {
       "type": "infrastructure",
-      "description": "海路貿易的據點，如泉州、亞速。"
+      "description": "海路貿易的據點，如泉州、廣州、亞速。商船在此停泊、交易與補給，是海洋文明與大陸文明交匯的最前線。"
     },
     "綠洲商路": {
       "type": "infrastructure",
-      "description": "穿越中亞乾旱地區的傳統絲綢之路。"
+      "description": "穿越中亞乾旱地區的傳統絲綢之路。沿線的綠洲城鎮為龐大的商隊與駱駝提供了水源與貿易市場。"
     },
     "佛教寺院": {
       "type": "infrastructure",
-      "description": "在元朝獲得大量土地與免稅特權的宗教建築。"
+      "description": "在元朝獲得大量土地與免稅特權的宗教建築。藏傳佛教寺院尤其受到皇室青睞，不僅是宗教中心，也擁有巨大的經濟影響力。"
     },
     "修道院": {
       "type": "infrastructure",
-      "description": "基督教修士隱修與學習的場所。"
+      "description": "基督教修士隱修與學習的場所。在伊兒汗國，拜占庭公主瑪麗亞曾資助建立東正教修道院，成為基督徒在波斯地區的庇護所。"
     },
     "作坊": {
       "type": "infrastructure",
-      "description": "手工業生產的集中地，蒙古人常將各地工匠集中於此。"
+      "description": "手工業生產的集中地。蒙古統治者常將各地俘虜來的優秀工匠集中於作坊中，進行大規模的武器、絲綢與金銀器生產。"
     },
     "古城防禦與驛路": {
       "type": "infrastructure",
-      "description": "結合軍事防禦與交通傳遞的城鎮設施。"
+      "description": "結合軍事防禦與交通傳遞的城鎮設施。在帝國邊境或動盪地區，驛站往往具備城堡的防禦功能，以保護使節與商旅的安全。"
     },
     "清真寺與市集": {
       "type": "infrastructure",
-      "description": "伊斯蘭城市的核心生活與商業區。"
+      "description": "伊斯蘭城市的核心生活與商業區。在蒙古統治後期，城市重建往往以清真寺為中心，周圍環繞著繁華的巴札（市集）。"
     },
     "中亞驛站": {
       "type": "infrastructure",
-      "description": "絲綢之路中段的驛站網絡。"
+      "description": "絲綢之路中段的驛站網絡。連接著察合台汗國與周邊地區，在海都之亂等內戰中，這些驛站對於軍隊調度與情報傳遞至關重要。"
     },
     "景教教堂": {
       "type": "infrastructure",
-      "description": "東方教會在各地建立的禮拜場所。"
+      "description": "東方教會在各地建立的禮拜場所。在元大都、泉州與中亞綠洲，景教教堂曾十分活躍，信徒多為突厥部落與蒙古貴族。"
     },
     "石刻墓碑": {
       "type": "infrastructure",
-      "description": "記錄了多元文化與語言融合的歷史文物（如泉州的景教與伊斯蘭墓碑）。"
+      "description": "記錄了多元文化融合的歷史文物。例如泉州出土的景教墓碑，其上雕刻著十字架、蓮花以及敘利亞文與漢文，是當時文化交匯的實證。"
     },
     "邊防驛站": {
       "type": "infrastructure",
-      "description": "位於帝國邊境，兼具軍事預警與交通功能的驛站。"
+      "description": "位於帝國邊境，兼具軍事預警與交通功能的驛站。負責監控邊疆動態，並在敵軍入侵時第一時間向中樞傳遞烽火與情報。"
     },
     "京杭大運河": {
       "type": "infrastructure",
-      "description": "元朝重修以連接江南糧倉與北方大都的人工水道。"
+      "description": "元朝重修以連接江南糧倉與北方大都的人工水道。由郭守敬主持，徹底打通了南北水運，保障了元大都龐大的糧食與物資需求。"
     },
     "海運港口": {
       "type": "infrastructure",
-      "description": "如泉州、廣州，負責海外貿易與物資運輸。"
+      "description": "如泉州，負責龐大的海外貿易與南糧北運。元朝憑藉強大的海運能力，建立起以港口為節點的海洋霸權。"
     },
     "皇家大道": {
       "type": "infrastructure",
-      "description": "連接帝國重要城市的核心官道。"
+      "description": "連接帝國重要城市的核心官道。路面寬闊，驛站設施完善，專供皇家使節、軍隊與持有牌符的高級官員快速通行。"
     },
     "商埠海港": {
       "type": "infrastructure",
-      "description": "結合商業與海運的沿海城市。"
+      "description": "結合商業與海運的沿海城市。不僅是貨物集散地，也是各國商人聚居、多種信仰交融的國際化大都會。"
     },
     "市舶司": {
       "type": "infrastructure",
-      "description": "元朝管理海外貿易與徵收關稅的官方機構。"
+      "description": "元朝管理海外貿易與徵收關稅的官方機構。負責檢查商船、發放貿易許可證，並對高利潤的香料、珠寶實施抽分（抽稅）。"
     },
     "供水驛棚": {
       "type": "infrastructure",
-      "description": "在乾旱地區為商旅與驛馬提供水源的設施。"
+      "description": "在乾旱沙漠或戈壁地區，為商旅與驛馬提供水源的特殊設施。這是維持綠洲商路與中亞驛站運作不可或缺的生命線。"
     },
     "海港": {
       "type": "infrastructure",
-      "description": "停泊海船的港口。"
+      "description": "停泊海船的港口設施。元朝時期，東南沿海的海港日夜吞吐著來自印度洋與南洋的巨型商船。"
     },
     "驛道起點": {
       "type": "infrastructure",
-      "description": "主要交通路線的發端，如大都。"
+      "description": "主要交通路線的發端，如大都。從這裡，無數的信使與商隊帶著大汗的旨意與絲綢，踏上前往歐洲與中東的漫漫長路。"
     },
     "游牧大營": {
       "type": "infrastructure",
-      "description": "蒙古君主巡幸與駐紮的移動式帳篷營地 (Ordo)。"
+      "description": "蒙古君主巡幸與駐紮的移動式帳篷營地 (Ordo)。這不僅是軍事大本營，也是帝國移動的政治與行政中心。"
     },
     "觀星台": {
       "type": "infrastructure",
-      "description": "如登封告成觀星台，用於天文測量的建築。"
+      "description": "用於天文測量的專業建築。如郭守敬的登封觀星台，透過創新的建築結構與儀器，極大地提高了元朝天文觀測的精確度。"
     },
     "南京明城牆": {
       "type": "infrastructure",
-      "description": "明朝初期在南京修建的巨大防禦工事。"
+      "description": "明朝初期朱元璋在南京修建的巨大防禦工事。它是世界上現存最長、規模最大的古代城牆，象徵著明帝國對防禦的重視。"
     },
     "明故宮": {
       "type": "infrastructure",
-      "description": "明朝在南京的皇家宮殿。"
+      "description": "明朝建立初期的皇家宮殿，位於南京。它是後來北京故宮的藍本，展現了漢族傳統宮殿建築的宏偉與對稱美學。"
     },
     "花剌子模": {
       "type": "city",
       "id": "urgench",
-      "description": "花剌子模沙朝，首都玉龍傑赤"
+      "description": "位於中亞阿姆河下游的古國。13世紀初被成吉思汗以報復使團被殺為由徹底摧毀，引發了蒙古第一次大規模西征。"
     },
     "中都": {
       "type": "city",
       "id": "dadu",
-      "description": "金朝中都，蒙古佔領後為元大都（今北京）"
+      "description": "金朝的首都，位於今北京。被蒙古大軍攻陷後摧毀，後來忽必烈在原址附近營建了大都，成為元朝的政治中心。"
     },
     "亞速": {
       "type": "city",
       "id": "azov",
-      "description": "黑海北岸重要貿易港口"
+      "description": "黑海與亞速海交界處的貿易港口，也是義大利城邦與金帳汗國進行黑海貿易的重要樞紐，將來自亞洲的貨物轉運至歐洲。"
     },
     "阿力麻里": {
       "type": "city",
       "id": "qayaligh",
-      "description": "察合台汗國早期的重要據點（鄰近海押立）"
+      "description": "位於伊犁河谷的中亞名城，曾是察合台汗國的都城之一。此地水草豐美，是連接新疆與中亞腹地的絲路重鎮。"
     },
     "伏爾加河": {
       "type": "city",
       "id": "sarai",
-      "description": "金帳汗國首都薩萊位於伏爾加河畔"
+      "description": "歐洲最長的河流。金帳汗國的首都薩萊即建於其畔，這條大河不僅為游牧民族提供了豐沛的水源，更是連接俄羅斯與裏海的貿易大動脈。"
     },
     "克孜勒庫姆沙漠": {
       "type": "location_missing",
-      "description": "中亞大沙漠，成吉思汗西征時曾率軍穿越以奇襲布哈拉。"
+      "description": "位於中亞阿姆河與錫爾河之間的巨大沙漠。成吉思汗在西征花剌子模時，曾率軍奇蹟般地穿越這片死亡之海，成功奇襲了布哈拉。"
     },
     "北京": {
       "type": "city",
       "id": "dadu",
-      "description": "元大都，今北京"
+      "description": "即元大都、明清京師。自元朝起成為中國的政治中心，是匯聚了中原農耕文明與北方游牧文明的歷史文化名城。"
+    },
+    "造紙術": {
+      "type": "tech",
+      "description": "古代中國的四大發明之一。西元105年由東漢蔡倫改進。751年怛羅斯之戰後，造紙技術隨被俘工匠傳入撒馬爾罕，再經由阿拉伯帝國（巴格達、亞歷山大港）傳播至北非與西班牙。紙張的輕便與廉價，徹底取代了笨重的竹簡與昂貴的羊皮紙，成為中世紀伊斯蘭黃金時代與歐洲文藝復興知識爆發的最關鍵載體。"
+    },
+    "希臘化時代": {
+      "type": "people",
+      "description": "指從西元前334年亞歷山大東征開始，到西元前30年羅馬吞併埃及為止的這三百多年歷史。亞歷山大的軍隊將古希臘的語言、藝術、科學與哲學，散播到埃及、中東、波斯甚至印度次大陸。這是一場史無前例的文化大融合，例如在印度西北部出現的「犍陀羅藝術」，就是希臘雕塑技法與佛教信仰完美結合的產物。這段時期的亞歷山大港更是世界的科學中心。"
+    },
+    "經院哲學": {
+      "type": "religion",
+      "description": "中世紀歐洲佔主導地位的哲學流派。其核心特徵是試圖將古希臘哲學（特別是亞里士多德的理性邏輯）與基督教神學相結合。在托馬斯·阿奎那的《神學大全》中達到巔峰，推動了歐洲早期大學的建立與學術辯論傳統。"
+    },
+    "基督教": {
+      "type": "religion",
+      "description": "發源於西元1世紀巴勒斯坦地區。經歷了羅馬帝國早期的迫害，至313年《米蘭敕令》合法化並最終成為國教。1054年分裂為羅馬公教與東正教。基督教的神學宇宙觀與修道院制度，深刻形塑了整個歐洲的藝術、政治與哲學基礎。"
+    },
+    "自然法學說": {
+      "type": "religion",
+      "description": "源自古希臘斯多葛學派，並在古羅馬時期由政治家兼哲學家西塞羅系統化的一種法律哲學思想。該學說主張：宇宙間存在著一種超越人類制定法（實定法）的普遍理性與道德法則，也就是「自然法」。這種法則對所有民族、所有時代都適用。它深刻影響了後世的羅馬法典編纂，並在啟蒙時代演變為「天賦人權」的理論基礎，成為現代西方憲政與國際法的靈魂。"
+    },
+    "宗教改革": {
+      "type": "religion",
+      "description": "16世紀由馬丁·路德、喀爾文等人發起的基督教改革運動。旨在反對羅馬教廷的腐敗（如贖罪券），強調「因信稱義」與《聖經》的絕對權威。這場運動導致了新教的誕生，並在隨後的一百年引發了遍及歐洲的宗教戰爭，最終催生了現代國家的主權觀念與宗教寬容思想。"
+    },
+    "科學革命": {
+      "type": "tech",
+      "description": "16至17世紀在歐洲發生的一系列思想與方法論的劇變。從哥白尼的日心說、伽利略的望遠鏡觀測，到牛頓的經典力學體系，人類開始用數學與實驗來理解宇宙，徹底打破了中世紀的經院哲學與神學宇宙觀。"
+    },
+    "西學東漸": {
+      "type": "tech",
+      "description": "明末清初，以利瑪竇為首的耶穌會士抵達中國，將西方的天文、數學、地理、火器等科學技術傳入中國的歷史過程。雖然最終因「禮儀之爭」而中斷，但這是中西兩大文明首次在較高層次的科學與哲學上的直接碰撞。"
+    },
+    "啟蒙運動": {
+      "type": "religion",
+      "description": "18世紀橫掃歐洲的思想解放運動。以法國為中心，孟德斯鳩、盧梭、伏爾泰等人主張以「理性」取代權威與迷信，提倡天賦人權、三權分立與契約論。這些思想成為美國獨立戰爭與法國大革命的思想武器。"
+    },
+    "工業革命": {
+      "type": "tech",
+      "description": "18世紀後半葉發源於英國的技術與經濟變革。瓦特改良的蒸汽機將人類帶入「機器時代」。工業革命不僅帶來了生產力的飛躍，更徹底改變了全球的地緣政治格局，迫使古老的東方帝國面臨前所未有的挑戰與轉型。"
+    },
+    "天工開物": {
+      "type": "tech",
+      "description": "明朝科學家宋應星於1637年出版的著作。書中圖文並茂地記錄了當時農業、手工業的各項生產技術。這部被譽為「中國17世紀工藝百科全書」的著作，反映了當時東亞在傳統工藝技術上的最高成就，後來甚至被翻譯傳入日本與歐洲。"
+    },
+    "哥倫布大交換": {
+      "type": "tech",
+      "description": "15世紀末歐洲人抵達美洲後，引發的全球性動植物、人口與病菌的大規模交換。馬鈴薯與玉米改變了歐洲的飲食與人口結構；但同時，天花與麻疹等歐亞傳染病也對美洲原住民造成了毀滅性的打擊，徹底重塑了美洲的歷史。"
+    },
+    "易洛魁聯盟": {
+      "type": "religion",
+      "description": "由北美東北部五個（後為六個）原住民族所組成的強大部落聯盟。他們制定了《和平大律法》，透過酋長議會以民主共識的模式運作。這種複雜的政治架構不僅展現了原住民的政治智慧，更間接啟發了美國開國元勳們的聯邦制與憲政思想。"
+    },
+    "清教徒主義": {
+      "type": "religion",
+      "description": "源自16世紀英國的宗教改革運動，主張清除國教會中殘留的天主教元素。為了追求宗教自由，大批清教徒搭乘「五月花號」等船隻前往北美。他們簽署的《五月花號公約》強調自治與契約精神，成為美國民主憲政的文化基因。"
+    },
+    "鍍金時代": {
+      "type": "tech",
+      "description": "指美國從南北戰爭結束（1865年）到20世紀初的一段時期。美國經歷了前所未有的工業化與經濟擴張，鐵路網絡密佈，財富急劇累積。但同時也伴隨著嚴重的貧富差距、勞工剝削與政治腐敗，最終催生了後續的進步主義改革。"
+    },
+    "軸心時代": {
+      "type": "religion",
+      "description": "由德國哲學家雅斯培提出的概念。指在西元前800年至西元前200年之間，古代希臘、古代印度與古代中國等互不相通的文明，幾乎在同一時期發生了飛躍式的思想突破。在這段時間內，蘇格拉底、柏拉圖、釋迦牟尼、孔子與老子等人相繼出現，他們對宇宙本源與人類道德提出了終極的叩問。這些思想至今仍是全人類精神與哲學的共同基石，顯示了人類文明在底層邏輯上的高度共鳴。"
+    },
+    "書同文車同軌": {
+      "type": "tech",
+      "description": "西元前221年，秦始皇統一中國後推行的一系列標準化國策。「書同文」廢除了六國文字，統一為小篆，這讓不同方言區的人民能透過同一套文字進行無障礙的文化交流與政令傳達，是中國能長期維持大一統的關鍵技術。「車同軌」與「統一度量衡」則規範了車輪的間距與重量長度的標準，極大地降低了跨區域貿易的交易成本，這是一場極其深遠的技術與制度創新。"
     }
   }
 }

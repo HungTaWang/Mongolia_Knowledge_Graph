@@ -1,0 +1,69 @@
+{
+  "newCities": [
+    { "id": "wittenberg", "name": "維騰堡", "coordinates": [12.642, 51.866], "description": "馬丁·路德發表九十五條論綱之地，宗教改革的發源地。", "numericYear": 1517 },
+    { "id": "madrid", "name": "馬德里", "coordinates": [-3.703, 40.416], "description": "西班牙帝國首都，大航海時代的雙引擎之一。", "numericYear": 1500 },
+    { "id": "manila", "name": "馬尼拉", "coordinates": [120.984, 14.599], "description": "西班牙在亞洲的據點，全球白銀貿易與文化交流的跳板。", "numericYear": 1571 },
+    { "id": "macau", "name": "澳門", "coordinates": [113.549, 22.198], "description": "葡萄牙在遠東的據點，明清時期西學東漸的重要門戶。", "numericYear": 1557 },
+    { "id": "boston", "name": "波士頓", "coordinates": [-71.058, 42.360], "description": "清教徒登陸北美的核心，美國獨立戰爭與啟蒙思想實踐的搖籃。", "numericYear": 1620 },
+    { "id": "geneva", "name": "日內瓦", "coordinates": [6.143, 46.204], "description": "喀爾文宗的中心，被譽為「新教的羅馬」。", "numericYear": 1536 },
+    { "id": "warsaw", "name": "華沙", "coordinates": [21.012, 52.229], "description": "波蘭文化中心，哥白尼曾在此區域發展出劃時代的日心說。", "numericYear": 1543 }
+  ],
+  "newRoutes": [
+    { "source": "wittenberg", "target": "rome", "label": "宗教改革衝擊天主教會", "type": "religion", "numericYear": 1517 },
+    { "source": "geneva", "target": "paris", "label": "喀爾文教派影響法國胡格諾派", "type": "religion", "numericYear": 1562 },
+    { "source": "geneva", "target": "london", "label": "清教徒主義傳入英國", "type": "religion", "numericYear": 1563 },
+    { "source": "london", "target": "boston", "label": "五月花號：清教徒與契約思想傳入美洲", "type": "religion", "numericYear": 1620 },
+    { "source": "madrid", "target": "manila", "label": "麥哲倫環球與西班牙控制菲律賓", "type": "people", "numericYear": 1571 },
+    { "source": "manila", "target": "quanzhou", "label": "馬尼拉大帆船帶來白銀與美洲農作物", "type": "tech", "numericYear": 1572 },
+    { "source": "rome", "target": "macau", "label": "耶穌會士東來抵達遠東", "type": "religion", "numericYear": 1582 },
+    { "source": "macau", "target": "dadu", "label": "利瑪竇將歐洲科學傳入北京", "type": "tech", "numericYear": 1601 },
+    { "source": "warsaw", "target": "rome", "label": "哥白尼日心說對經院神學的挑戰", "type": "tech", "numericYear": 1543 },
+    { "source": "london", "target": "paris", "label": "牛頓力學與工業革命技術傳播至歐洲大陸", "type": "tech", "numericYear": 1769 },
+    { "source": "paris", "target": "boston", "label": "法國啟蒙思想催化美國獨立宣言", "type": "religion", "numericYear": 1776 },
+    { "source": "boston", "target": "paris", "label": "美國革命反向催生法國大革命", "type": "religion", "numericYear": 1789 }
+  ],
+  "newTours": [
+    { "cityId": "wittenberg", "title": "馬丁·路德開啟宗教改革", "year": "1517", "content": "馬丁·路德發表九十五條論綱，挑戰教廷權威，引發橫掃歐洲的宗教改革，深刻改變了西方的精神與政治面貌。", "numericYear": 1517 },
+    { "cityId": "madrid", "title": "麥哲倫率隊出航", "year": "1519", "content": "麥哲倫船隊向西航行，完成人類首次環球航行壯舉，證實了地圓說，開啟了真正的全球化時代。", "numericYear": 1519 },
+    { "cityId": "geneva", "title": "喀爾文發表基督教原理", "year": "1536", "content": "喀爾文發表《基督教原理》，建立嚴密的預選說神學，其教派深刻影響了後來西歐與北美的資本主義與民主發展。", "numericYear": 1536 },
+    { "cityId": "warsaw", "title": "哥白尼發表天體運行論", "year": "1543", "content": "哥白尼提出「日心說」，推翻了主導歐洲千年的「地心說」，成為科學革命的第一聲巨響。", "numericYear": 1543 },
+    { "cityId": "macau", "title": "葡萄牙獲澳門居住權", "year": "1557", "content": "葡萄牙人取得澳門居住權，使澳門成為明朝中後期西學東漸的最重要窗口。", "numericYear": 1557 },
+    { "cityId": "london", "title": "英國創立東印度公司", "year": "1600", "content": "英國東印度公司成立，作為資本主義早期的跨國公司，它將極大地推動全球物資與文化的交換。", "numericYear": 1600 },
+    { "cityId": "dadu", "title": "利瑪竇抵達北京", "year": "1601", "content": "義大利耶穌會士利瑪竇抵達北京，向萬曆皇帝進獻《坤輿萬國全圖》與西方機械，拉開了明末西學東漸的序幕。", "numericYear": 1601 },
+    { "cityId": "boston", "title": "五月花號與清教徒", "year": "1620", "content": "五月花號抵達北美，歐洲清教徒帶來了自治契約思想，成為日後美國民主憲政的重要基石。", "numericYear": 1620 },
+    { "cityId": "changan", "title": "宋應星著天工開物", "year": "1637", "content": "宋應星出版《天工開物》，系統總結了中國古代的農業與手工藝技術，被譽為「中國17世紀的工藝百科全書」。", "numericYear": 1637 },
+    { "cityId": "rome", "title": "三十年戰爭與西發里亞體系", "year": "1648", "content": "歷經三十年的宗教與王權混戰結束，簽訂《西發里亞和約》，確立了現代民族國家的主權體系原則。", "numericYear": 1648 },
+    { "cityId": "london", "title": "牛頓發表自然哲學的數學原理", "year": "1687", "content": "牛頓出版巨著，提出萬有引力定律與三大運動定律，將科學革命推向巔峰，確立了近代物理學的基礎。", "numericYear": 1687 },
+    { "cityId": "paris", "title": "孟德斯鳩出版法意", "year": "1748", "content": "孟德斯鳩發表《論法的精神》，提出三權分立學說，成為啟蒙運動的燈塔，並深刻影響美國憲法。", "numericYear": 1748 },
+    { "cityId": "london", "title": "瓦特改良蒸汽機", "year": "1769", "content": "瓦特成功改良蒸汽機，標誌著工業革命的全面爆發。人類首次獲得不受自然力限制的巨大動能。", "numericYear": 1769 },
+    { "cityId": "boston", "title": "美國發表獨立宣言", "year": "1776", "content": "北美十三州發表《獨立宣言》，將啟蒙思想的「天賦人權」化為政治實踐，建立近代第一個民主共和國。", "numericYear": 1776 },
+    { "cityId": "paris", "title": "法國大革命與人權宣言", "year": "1789", "content": "巴黎群眾攻陷巴士底監獄，爆發法國大革命。隨後發表《人權宣言》，將自由、平等、博愛的思想傳播至全世界。", "numericYear": 1789 },
+    { "cityId": "dadu", "title": "達爾文出版物種起源", "year": "1859", "content": "達爾文提出演化論與天擇說，不僅徹底顛覆了傳統神學的創造論，也對現代生物學與社會科學產生深遠影響。", "numericYear": 1859 }
+  ],
+  "glossaryUpdates": {
+    "宗教改革": {
+      "type": "religion",
+      "description": "16世紀由馬丁·路德、喀爾文等人發起的基督教改革運動。旨在反對羅馬教廷的腐敗（如贖罪券），強調「因信稱義」與《聖經》的絕對權威。這場運動導致了新教的誕生，並在隨後的一百年引發了遍及歐洲的宗教戰爭，最終催生了現代國家的主權觀念與宗教寬容思想。"
+    },
+    "科學革命": {
+      "type": "tech",
+      "description": "16至17世紀在歐洲發生的一系列思想與方法論的劇變。從哥白尼的日心說、伽利略的望遠鏡觀測，到牛頓的經典力學體系，人類開始用數學與實驗來理解宇宙，徹底打破了中世紀的經院哲學與神學宇宙觀。"
+    },
+    "西學東漸": {
+      "type": "tech",
+      "description": "明末清初，以利瑪竇為首的耶穌會士抵達中國，將西方的天文、數學、地理、火器等科學技術傳入中國的歷史過程。雖然最終因「禮儀之爭」而中斷，但這是中西兩大文明首次在較高層次的科學與哲學上的直接碰撞。"
+    },
+    "啟蒙運動": {
+      "type": "religion",
+      "description": "18世紀橫掃歐洲的思想解放運動。以法國為中心，孟德斯鳩、盧梭、伏爾泰等人主張以「理性」取代權威與迷信，提倡天賦人權、三權分立與契約論。這些思想成為美國獨立戰爭與法國大革命的思想武器。"
+    },
+    "工業革命": {
+      "type": "tech",
+      "description": "18世紀後半葉發源於英國的技術與經濟變革。瓦特改良的蒸汽機將人類帶入「機器時代」。工業革命不僅帶來了生產力的飛躍，更徹底改變了全球的地緣政治格局，迫使古老的東方帝國面臨前所未有的挑戰與轉型。"
+    },
+    "天工開物": {
+      "type": "tech",
+      "description": "明朝科學家宋應星於1637年出版的著作。書中圖文並茂地記錄了當時農業、手工業的各項生產技術。這部被譽為「中國17世紀工藝百科全書」的著作，反映了當時東亞在傳統工藝技術上的最高成就，後來甚至被翻譯傳入日本與歐洲。"
+    }
+  }
+}

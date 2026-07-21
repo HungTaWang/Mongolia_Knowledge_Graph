@@ -1,0 +1,75 @@
+{
+  "newCities": [
+    { "id": "luoyang", "name": "洛陽", "coordinates": [112.454, 34.619], "description": "東漢都城，造紙術發明地與早期佛教白馬馱經傳入中心。", "numericYear": -200 },
+    { "id": "athens", "name": "雅典", "coordinates": [23.727, 37.983], "description": "古希臘哲學中心，柏拉圖與亞里士多德的思想發源地。", "numericYear": -500 },
+    { "id": "jerusalem", "name": "耶路撒冷", "coordinates": [35.213, 31.768], "description": "猶太教與基督教發源地，三大一神教的聖城。", "numericYear": -1000 },
+    { "id": "mecca", "name": "麥加", "coordinates": [39.826, 21.422], "description": "伊斯蘭教發源地與最神聖的朝覲中心。", "numericYear": 600 },
+    { "id": "medina", "name": "麥地那", "coordinates": [39.612, 24.467], "description": "穆罕默德遷徙地，早期伊斯蘭政權的中心。", "numericYear": 622 },
+    { "id": "kiev", "name": "基輔", "coordinates": [30.523, 50.450], "description": "基輔羅斯公國首都，東正教傳入斯拉夫世界的橋頭堡。", "numericYear": 882 },
+    { "id": "aachen", "name": "亞琛", "coordinates": [6.083, 50.775], "description": "查理曼帝國的宮廷所在地，加洛林文藝復興的中心。", "numericYear": 800 }
+  ],
+  "newRoutes": [
+    { "source": "luoyang", "target": "changan", "label": "造紙術普及", "type": "tech", "numericYear": 105 },
+    { "source": "changan", "target": "talas", "label": "怛羅斯之役造紙匠西行", "type": "tech", "numericYear": 751 },
+    { "source": "kashgar", "target": "luoyang", "label": "佛教正式傳入中原", "type": "religion", "numericYear": 68 },
+    { "source": "athens", "target": "alexandria", "label": "希臘化時代的知識匯聚", "type": "tech", "numericYear": -300 },
+    { "source": "athens", "target": "rome", "label": "自然法學說與哲學傳入羅馬", "type": "religion", "numericYear": -106 },
+    { "source": "athens", "target": "baghdad", "label": "雅典學院關閉與學者流亡波斯", "type": "religion", "numericYear": 529 },
+    { "source": "jerusalem", "target": "rome", "label": "基督教傳入羅馬帝國核心", "type": "religion", "numericYear": 30 },
+    { "source": "rome", "target": "constantinople", "label": "羅馬帝國分裂與東西教會分歧", "type": "religion", "numericYear": 395 },
+    { "source": "constantinople", "target": "kiev", "label": "東正教傳入斯拉夫世界", "type": "religion", "numericYear": 988 },
+    { "source": "mecca", "target": "medina", "label": "穆罕默德遷徙 (徙志)", "type": "religion", "numericYear": 622 },
+    { "source": "mecca", "target": "jerusalem", "label": "伊斯蘭教早期擴張", "type": "religion", "numericYear": 639 },
+    { "source": "baghdad", "target": "bordeaux", "label": "伊斯蘭勢力與學術進入西班牙", "type": "religion", "numericYear": 711 },
+    { "source": "nishapur", "target": "changan", "label": "摩尼教(明教)東傳唐朝", "type": "religion", "numericYear": 694 },
+    { "source": "aachen", "target": "rome", "label": "查理曼加冕與西歐教權確立", "type": "people", "numericYear": 800 }
+  ],
+  "newTours": [
+    { "cityId": "changan", "title": "秦朝建立與大一統", "year": "B.C. 221", "content": "秦滅六國，建立大一統王朝。統一度量衡與文字，奠定中國兩千年的帝國制度基礎。", "numericYear": -221 },
+    { "cityId": "alexandria", "title": "亞歷山大圖書館建立", "year": "B.C. 3世紀", "content": "托勒密王朝建成規模巨大的圖書館，埃拉托色尼首創「地理學」，匯聚了地中海世界的知識遺產。", "numericYear": -250 },
+    { "cityId": "changan", "title": "罷黜百家，獨尊儒術", "year": "B.C. 140", "content": "漢武帝採納董仲舒建議，將儒家思想確立為官方正統，深刻影響東亞哲學與政治體系。", "numericYear": -140 },
+    { "cityId": "kashgar", "title": "張騫初使西域", "year": "B.C. 138", "content": "張騫出使西域，被譽為「鑿空」。這不僅是軍事外交行動，更開闢了絲綢之路，促成中西文化初次交匯。", "numericYear": -138 },
+    { "cityId": "rome", "title": "西塞羅與自然法學說", "year": "B.C. 106", "content": "古羅馬政治家西塞羅系統提出自然法學說，建立了折衷主義哲學體系，將古希臘哲學深植羅馬法之中。", "numericYear": -106 },
+    { "cityId": "rome", "title": "屋大維與羅馬帝國", "year": "B.C. 27", "content": "屋大維被尊為奧古斯都，羅馬進入帝國時期，開始了長達數百年的「羅馬和平」，促進地中海文化大融合。", "numericYear": -27 },
+    { "cityId": "jerusalem", "title": "耶穌誕生與基督教起源", "year": "A.D. 30", "content": "耶穌受難後，其門徒開始傳布基督教。這種宣揚普世救贖的信仰，逐漸顛覆並重塑了羅馬帝國的精神世界。", "numericYear": 30 },
+    { "cityId": "luoyang", "title": "蔡倫改進造紙術", "year": "A.D. 105", "content": "蔡倫改進造紙術。紙張作為輕便廉價的載體，徹底革命了人類知識與思想的保存與傳播速度。", "numericYear": 105 },
+    { "cityId": "rome", "title": "加倫奠定解剖學", "year": "A.D. 129", "content": "古羅馬醫學家加倫將希臘醫學系統化，其人體生理解剖學主導了西方與伊斯蘭醫學長達千年。", "numericYear": 129 },
+    { "cityId": "luoyang", "title": "瓷器發明", "year": "A.D. 164", "content": "中國東漢時期成功燒製出瓷器，這項核心技術在未來成為東西方貿易與文化交流的最重要載體之一。", "numericYear": 164 },
+    { "cityId": "rome", "title": "米蘭敕令與基督教合法化", "year": "A.D. 313", "content": "君士坦丁一世頒布《米蘭敕令》，基督教從受迫害轉為合法，隨後更成為帝國國教，奠定歐洲中世紀底色。", "numericYear": 313 },
+    { "cityId": "constantinople", "title": "羅馬帝國分裂", "year": "A.D. 395", "content": "羅馬帝國分裂為東羅馬與西羅馬，導致了歐洲在政治與宗教（天主教與東正教）上的長久分野。", "numericYear": 395 },
+    { "cityId": "athens", "title": "關閉雅典學院", "year": "A.D. 529", "content": "查士丁尼關閉雅典學院，大批古希臘哲學家逃往波斯，間接促成了後來伊斯蘭世界的學術繁榮。", "numericYear": 529 },
+    { "cityId": "constantinople", "title": "聖索菲亞大教堂建成", "year": "A.D. 537", "content": "聖索菲亞教堂完工，成為拜占庭建築的巔峰，其巨大圓頂設計深刻影響了後世的東正教與伊斯蘭清真寺建築。", "numericYear": 537 },
+    { "cityId": "mecca", "title": "伊斯蘭教創立", "year": "A.D. 611", "content": "穆罕默德創立伊斯蘭教，將阿拉伯半島零散的部落整合為強大的宗教軍事共同體。", "numericYear": 611 },
+    { "cityId": "changan", "title": "貞觀之治與天可汗", "year": "A.D. 627", "content": "唐太宗時期國力強盛，威服四方，長安成為匯聚全球使節、商人與求學者的超級國際大都會。", "numericYear": 627 },
+    { "cityId": "changan", "title": "摩尼教東傳", "year": "A.D. 694", "content": "源自波斯的摩尼教（明教）由佛多誕傳入唐朝，展現了絲路上波斯、中亞與中國思想的高度交融。", "numericYear": 694 },
+    { "cityId": "talas", "title": "怛羅斯之役與造紙西傳", "year": "A.D. 751", "content": "唐朝敗於阿拔斯王朝。戰敗的唐軍造紙匠被俘，這場純軍事衝突意外促成了造紙術向伊斯蘭世界與歐洲的歷史性西傳。", "numericYear": 751 },
+    { "cityId": "aachen", "title": "查理曼加冕", "year": "A.D. 800", "content": "教宗為查理曼加冕為「羅馬人的皇帝」，標誌著西歐世俗王權與羅馬教權結合的政治新格局。", "numericYear": 800 },
+    { "cityId": "kiev", "title": "基輔羅斯接受東正教", "year": "A.D. 988", "content": "基輔大公弗拉基米爾受洗，基督教東正教正式傳入斯拉夫世界，奠定俄羅斯與東歐的宗教認同。", "numericYear": 988 }
+  ],
+  "glossaryUpdates": {
+    "造紙術": {
+      "type": "tech",
+      "description": "古代中國的四大發明之一。西元105年由東漢蔡倫改進。751年怛羅斯之戰後，造紙技術隨被俘工匠傳入撒馬爾罕，再經由阿拉伯帝國（巴格達、亞歷山大港）傳播至北非與西班牙。紙張的輕便與廉價，徹底取代了笨重的竹簡與昂貴的羊皮紙，成為中世紀伊斯蘭黃金時代與歐洲文藝復興知識爆發的最關鍵載體。"
+    },
+    "希臘化時代": {
+      "type": "religion",
+      "description": "自亞歷山大大帝東征至羅馬征服埃及（前323年–前30年）的時期。古希臘文化與西亞、埃及文化深度融合，亞歷山大圖書館成為當時的學術中心。這一時期的幾何學（歐幾里得）、天文學（托勒密）與哲學，為後來拜占庭、伊斯蘭與歐洲科學奠定了基石。"
+    },
+    "經院哲學": {
+      "type": "religion",
+      "description": "中世紀歐洲佔主導地位的哲學流派。其核心特徵是試圖將古希臘哲學（特別是亞里士多德的理性邏輯）與基督教神學相結合。在托馬斯·阿奎那的《神學大全》中達到巔峰，推動了歐洲早期大學的建立與學術辯論傳統。"
+    },
+    "伊斯蘭教": {
+      "type": "religion",
+      "description": "西元7世紀由穆罕默德在阿拉伯半島創立的一神教。不僅是宗教信仰，更是一套涵蓋政治、法律與社會規範的完整體系。其強大的擴張力在幾百年內建立起橫跨歐亞非的阿拔斯帝國，並透過「智慧之家」的翻譯運動，保存了大量希臘文獻，成為東西方文化交流的超級中介。"
+    },
+    "基督教": {
+      "type": "religion",
+      "description": "發源於西元1世紀巴勒斯坦地區。經歷了羅馬帝國早期的迫害，至313年《米蘭敕令》合法化並最終成為國教。1054年分裂為羅馬公教與東正教。基督教的神學宇宙觀與修道院制度，深刻形塑了整個歐洲的藝術、政治與哲學基礎。"
+    },
+    "自然法學說": {
+      "type": "religion",
+      "description": "古希臘與古羅馬哲學的核心概念之一，由西塞羅等人系統化。主張宇宙間存在一種普遍、永恆且合乎理性的法則，超越了人類制定的實定法。此思想後來深刻影響了中世紀神學、啟蒙運動以及現代人權與憲政體制的發展。"
+    }
+  }
+}

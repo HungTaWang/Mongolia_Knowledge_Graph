@@ -13,7 +13,12 @@ export default function App() {
   const [modalContent, setModalContent] = useState<{title: string, desc: string, type: string} | null>(null);
   
   // Time Slider State
-  const [currentYear, setCurrentYear] = useState(1400);
+  const [currentYear, setCurrentYear] = useState(1276);
+
+  const formatYear = (year: number) => {
+    if (year < 0) return `B.C. ${Math.abs(year)}`;
+    return `A.D. ${year}`;
+  };
   const chronicleRef = useRef<HTMLDivElement>(null);
 
   const [mapCenter, setMapCenter] = useState<[number, number]>([65, 40]);
@@ -23,8 +28,7 @@ export default function App() {
   const [filters, setFilters] = useState<Record<string, boolean>>({
     tech: true,
     religion: true,
-    people: true,
-    trade: true
+    people: true
   });
 
   const toggleFilter = (type: string) => {
@@ -32,7 +36,7 @@ export default function App() {
   };
 
   const getCityRoutes = (cityId: string) => {
-    return data.routes.filter(r => (r.source === cityId || r.target === cityId) && filters[r.type || 'trade'] && r.numericYear <= currentYear);
+    return data.routes.filter(r => (r.source === cityId || r.target === cityId) && filters[r.type || 'tech'] && r.numericYear <= currentYear);
   };
 
   const getCityName = (cityId: string) => {
@@ -117,15 +121,15 @@ export default function App() {
         {/* Time Slider Overlay */}
         <div className="time-slider-container">
           <div className="time-slider-header">
-            <span>1200 年</span>
-            <span className="current-year">公元 {currentYear} 年</span>
-            <span>1400 年</span>
+            <span>B.C. 800</span>
+            <span className="current-year">{formatYear(currentYear)}</span>
+            <span>A.D. 1900</span>
           </div>
           <input 
             type="range" 
             className="time-slider" 
-            min="1200" 
-            max="1400" 
+            min="-800" 
+            max="1900" 
             value={currentYear} 
             onChange={(e) => setCurrentYear(parseInt(e.target.value, 10))}
           />
@@ -144,10 +148,6 @@ export default function App() {
           <label className="filter-item">
             <input type="checkbox" checked={filters.people} onChange={() => toggleFilter('people')} />
             <span style={{ color: '#f59e0b', fontWeight: 'bold' }}>─</span> 人物與使團 (People)
-          </label>
-          <label className="filter-item">
-            <input type="checkbox" checked={filters.trade} onChange={() => toggleFilter('trade')} />
-            <span style={{ color: '#94a3b8', fontWeight: 'bold' }}>─</span> 驛網與物流 (Trade)
           </label>
         </div>
       </div>
@@ -169,7 +169,7 @@ export default function App() {
           {selectedCity ? (
             <div style={{ overflowY: 'auto', height: '100%', paddingRight: '8px' }}>
               <h2>{selectedCity.name}</h2>
-              <MiniGraph city={selectedCity} />
+              <MiniGraph city={selectedCity} onEntityClick={handleEntityClick} />
 
               <div className="description-box">
                 {renderTextWithLinks(selectedCity.description)}
@@ -232,7 +232,14 @@ export default function App() {
                   
                   return (
                     <li key={i} style={{ borderLeft: `3px solid ${route.type === 'tech' ? '#0ea5e9' : route.type === 'religion' ? '#a855f7' : route.type === 'people' ? '#f59e0b' : '#94a3b8'}` }}>
-                      <span className="route-name">{direction} <strong>{targetCityName}</strong></span>
+                      <span className="route-name">{direction} <strong
+                        style={{ cursor: 'pointer', color: 'var(--accent-color)', textDecoration: 'underline' }}
+                        onClick={() => {
+                          const targetCityId = isSource ? route.target : route.source;
+                          const city = data.cities.find(c => c.id === targetCityId);
+                          if (city) handleCityClick(city);
+                        }}
+                      >{targetCityName}</strong></span>
                       <span className="route-path">{route.label}</span>
                     </li>
                   );
@@ -251,7 +258,16 @@ export default function App() {
                   <div key={index} className={`chronicle-card ${isActive ? 'active' : ''}`} style={{ opacity: isActive ? (isClosest ? 1 : 0.7) : 0.3 }}>
                     <div className="chronicle-year">{tourStep.year}</div>
                     <div className="chronicle-title">{renderTextWithLinks(tourStep.title)}</div>
-                    <div className="chronicle-city" style={{ fontSize: '0.8rem', color: '#059669', marginBottom: '8px' }}>📍 {getCityName(tourStep.cityId)}</div>
+                    <div 
+                      className="chronicle-city" 
+                      style={{ fontSize: '0.8rem', color: '#059669', marginBottom: '8px', cursor: 'pointer', textDecoration: 'underline' }}
+                      onClick={() => {
+                        const city = data.cities.find(c => c.id === tourStep.cityId);
+                        if (city) handleCityClick(city);
+                      }}
+                    >
+                      📍 {getCityName(tourStep.cityId)}
+                    </div>
                     <div className="chronicle-content">{renderTextWithLinks(tourStep.content)}</div>
                   </div>
                 )

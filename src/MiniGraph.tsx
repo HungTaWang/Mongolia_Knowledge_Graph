@@ -3,9 +3,10 @@ import ForceGraph2D from 'react-force-graph-2d';
 
 interface MiniGraphProps {
   city: any;
+  onEntityClick?: (entityName: string) => void;
 }
 
-export default function MiniGraph({ city }: MiniGraphProps) {
+export default function MiniGraph({ city, onEntityClick }: MiniGraphProps) {
   const graphData = useMemo(() => {
     const nodes = [
       { id: city.id, name: city.name, group: 'city', val: 10 }
@@ -55,6 +56,13 @@ export default function MiniGraph({ city }: MiniGraphProps) {
         linkColor={() => 'rgba(148, 163, 184, 0.4)'}
         d3VelocityDecay={0.3}
         cooldownTicks={100}
+        onNodeClick={(node: any) => {
+          if (onEntityClick) {
+            // For person/tech nodes, the base name is needed
+            const baseName = node.name.split('(')[0].trim();
+            onEntityClick(baseName);
+          }
+        }}
       />
     </div>
   );

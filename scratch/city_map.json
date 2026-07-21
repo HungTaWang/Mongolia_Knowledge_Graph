@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tabriz",
+    "name": "大不里士"
+  },
+  {
+    "id": "maragha",
+    "name": "馬拉蓋"
+  },
+  {
+    "id": "baghdad",
+    "name": "巴格達"
+  },
+  {
+    "id": "dadu",
+    "name": "大都 (北京)"
+  },
+  {
+    "id": "karakorum",
+    "name": "哈拉和林"
+  },
+  {
+    "id": "sarai",
+    "name": "薩萊"
+  },
+  {
+    "id": "venice",
+    "name": "威尼斯"
+  },
+  {
+    "id": "soltaniyeh",
+    "name": "蘇丹尼耶"
+  },
+  {
+    "id": "shangdu",
+    "name": "上都"
+  },
+  {
+    "id": "caffa",
+    "name": "卡法"
+  },
+  {
+    "id": "kashgar",
+    "name": "喀什噶爾"
+  },
+  {
+    "id": "tus",
+    "name": "圖斯 (呼羅珊)"
+  },
+  {
+    "id": "paris",
+    "name": "巴黎"
+  },
+  {
+    "id": "rome",
+    "name": "羅馬"
+  },
+  {
+    "id": "constantinople",
+    "name": "君士坦丁堡"
+  },
+  {
+    "id": "urgench",
+    "name": "玉龍傑赤"
+  },
+  {
+    "id": "qayaligh",
+    "name": "海押立"
+  },
+  {
+    "id": "tiflis",
+    "name": "第比利斯"
+  },
+  {
+    "id": "mosul",
+    "name": "摩蘇爾"
+  },
+  {
+    "id": "bordeaux",
+    "name": "波爾多"
+  },
+  {
+    "id": "ani",
+    "name": "阿尼"
+  },
+  {
+    "id": "bukhara",
+    "name": "布哈拉"
+  },
+  {
+    "id": "samarqand",
+    "name": "撒馬爾罕"
+  },
+  {
+    "id": "olon_sume",
+    "name": "敖倫蘇木 (汪古部都城)"
+  },
+  {
+    "id": "hangzhou",
+    "name": "杭州 (臨安)"
+  },
+  {
+    "id": "nishapur",
+    "name": "內沙布爾"
+  },
+  {
+    "id": "quanzhou",
+    "name": "泉州 (Zaitun)"
+  },
+  {
+    "id": "quilon",
+    "name": "奎隆 (Kawlam)"
+  },
+  {
+    "id": "azov",
+    "name": "阿速 (Azaq)"
+  },
+  {
+    "id": "talas",
+    "name": "塔拉斯"
+  },
+  {
+    "id": "gaocheng",
+    "name": "告成 (登封)"
+  },
+  {
+    "id": "nanjing",
+    "name": "南京 (應天府)"
+  }
+]
