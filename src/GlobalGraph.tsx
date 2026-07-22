@@ -236,8 +236,6 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
   const graphData = useMemo(() => {
     const nodesMap = new Map();
     const links: any[] = [];
-    
-    const linkSet = new Set<string>();
     const activeCities = data.cities.filter((c: any) => !c.numericYear || c.numericYear <= currentYear);
 
     activeCities.forEach((city: any) => {
