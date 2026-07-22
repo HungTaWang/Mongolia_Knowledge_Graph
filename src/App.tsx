@@ -27,7 +27,7 @@ export default function App() {
   const [viewMode, setViewMode] = useState<'map' | 'thoughts' | 'tech' | 'people'>('map');
   
   // Time Slider State
-  const [currentYear, setCurrentYear] = useState(1276);
+  const [currentYear, setCurrentYear] = useState(2000);
 
   const formatYear = (year: number) => {
     if (year < 0) return `B.C. ${Math.abs(year)}`;
@@ -112,9 +112,9 @@ export default function App() {
   // 當年份變更時，自動將全域紀事捲動到最近的事件
   useEffect(() => {
     if (!selectedCity && chronicleRef.current) {
-      const activeElement = chronicleRef.current.querySelector('.chronicle-card.active');
-      if (activeElement) {
-        activeElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const focusElement = chronicleRef.current.querySelector('.chronicle-card.current-focus');
+      if (focusElement) {
+        focusElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
       }
     }
   }, [currentYear, selectedCity]);
@@ -125,18 +125,18 @@ export default function App() {
 
       <div className="map-container" style={{ position: 'relative' }}>
         {/* View Mode Selector */}
-        <div style={{ position: 'absolute', top: 20, left: '50%', transform: 'translateX(-50%)', zIndex: 100, display: 'flex', gap: '8px', background: 'rgba(15, 23, 42, 0.8)', padding: '8px', borderRadius: '30px', boxShadow: '0 4px 6px rgba(0,0,0,0.3)' }}>
-          <button onClick={() => setViewMode('map')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'map' ? '#3b82f6' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'map' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
-            <MapIcon size={16} /> 地圖
+        <div className="view-mode-selector">
+          <button className={`view-mode-btn ${viewMode === 'map' ? 'active map-active' : ''}`} onClick={() => setViewMode('map')}>
+            <MapIcon size={16} /> <span className="btn-text">地圖</span>
           </button>
-          <button onClick={() => setViewMode('thoughts')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'thoughts' ? '#9333ea' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'thoughts' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
-            <Network size={16} /> 思想
+          <button className={`view-mode-btn ${viewMode === 'thoughts' ? 'active thoughts-active' : ''}`} onClick={() => setViewMode('thoughts')}>
+            <Network size={16} /> <span className="btn-text">思想</span>
           </button>
-          <button onClick={() => setViewMode('tech')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'tech' ? '#0284c7' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'tech' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
-            <Network size={16} /> 技術
+          <button className={`view-mode-btn ${viewMode === 'tech' ? 'active tech-active' : ''}`} onClick={() => setViewMode('tech')}>
+            <Network size={16} /> <span className="btn-text">技術</span>
           </button>
-          <button onClick={() => setViewMode('people')} style={{ padding: '8px 16px', borderRadius: '20px', border: 'none', background: viewMode === 'people' ? '#ea580c' : 'transparent', color: 'white', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: viewMode === 'people' ? 'bold' : 'normal', transition: 'all 0.2s' }}>
-            <Network size={16} /> 人物
+          <button className={`view-mode-btn ${viewMode === 'people' ? 'active people-active' : ''}`} onClick={() => setViewMode('people')}>
+            <Network size={16} /> <span className="btn-text">人物</span>
           </button>
         </div>
 
@@ -298,7 +298,7 @@ export default function App() {
                 const isClosest = isActive && (index === data.tour.length - 1 || data.tour[index+1].numericYear > currentYear);
                 
                 return (
-                  <div key={index} className={`chronicle-card ${isActive ? 'active' : ''}`} style={{ opacity: isActive ? (isClosest ? 1 : 0.7) : 0.3 }}>
+                  <div key={index} className={`chronicle-card ${isActive ? 'active' : ''} ${isClosest ? 'current-focus' : ''}`} style={{ opacity: isActive ? 1 : 0.3 }}>
                     <div className="chronicle-year">{tourStep.year}</div>
                     <div className="chronicle-title">{renderTextWithLinks(tourStep.title)}</div>
                     <div 
