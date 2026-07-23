@@ -8,8 +8,7 @@
   --text-muted: #64748b;
   --accent-color: #2563eb;
   
-  --badge-person: #d97706;    /* 橘�???*/
-  --badge-tech: #0284c7;      /* ?�色 */
+  --badge-person: #d97706;    /* 橘色 */
   --badge-infrastructure: #059669; /* 綠色 */
 }
 
@@ -765,7 +764,6 @@ body {
 }
 .view-mode-btn.map-active { background: #3b82f6; }
 .view-mode-btn.thoughts-active { background: #9333ea; }
-.view-mode-btn.tech-active { background: #0284c7; }
 .view-mode-btn.people-active { background: #ea580c; }
 
 @media (max-width: 768px) {

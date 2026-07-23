@@ -19,16 +19,10 @@ export default function MiniGraph({ city, onEntityClick }: MiniGraphProps) {
       links.push({ source: city.id, target: person });
     });
 
-    // Add tech nodes
-    (city.tech || []).forEach((t: string) => {
-      nodes.push({ id: t, name: t, group: 'tech', val: 5 });
-      links.push({ source: city.id, target: t });
-    });
-
-    // Add infrastructure nodes
-    (city.infrastructure || []).forEach((inf: string) => {
-      nodes.push({ id: inf, name: inf, group: 'infra', val: 5 });
-      links.push({ source: city.id, target: inf });
+    // Add religion/thought nodes
+    (city.religion || []).forEach((r: string) => {
+      nodes.push({ id: r, name: r, group: 'religion', val: 5 });
+      links.push({ source: city.id, target: r });
     });
 
     return { nodes, links };
@@ -38,8 +32,7 @@ export default function MiniGraph({ city, onEntityClick }: MiniGraphProps) {
     switch(node.group) {
       case 'city': return '#dc2626';
       case 'person': return '#d97706';
-      case 'tech': return '#0284c7';
-      case 'infra': return '#059669';
+      case 'religion': return '#9333ea';
       default: return '#94a3b8';
     }
   };

@@ -1,0 +1,5672 @@
+{
+  "cities": [
+    {
+      "id": "tabriz",
+      "name": "大不里士",
+      "coordinates": [
+        46.2919,
+        38.0773
+      ],
+      "description": "伊兒汗國的首都與重要科學情報樞紐。這裡是東西方貿易、文化與科技交流的中心，孛羅丞相在此介紹交鈔，拉施特在此建立拉希迪莊園，成為當時波斯地區的文化與知識重鎮。",
+      "people": [
+        "拉施特 (Rashid al-Din Hamadani)",
+        "孛羅丞相 (Bolad Chingsang)",
+        "蓋海圖汗 (Gaykhatu)",
+        "合贊汗 (Ghazan Khan)",
+        "卻俄尼亞底斯 (Gregory Chioniades)",
+        "阿八哈汗",
+        "瑪麗亞·帕里奧洛格娜",
+        "拜都汗",
+        "合贊汗",
+        "拜住"
+      ],
+      "tech": [
+        "雕版印刷 (Woodblock printing)",
+        "紙幣 (Paper money/Čāv)",
+        "牌符驛政改革 (Paiza reform)",
+        "天文翻譯 (Astronomical translation)"
+      ],
+      "infrastructure": [
+        "拉希迪莊園 (Rab'-e Rashidi)",
+        "大不里士觀象台 (Tabriz Observatory)",
+        "印鈔局 (Čāv-Khāna)"
+      ],
+      "events": [
+        {
+          "year": "1243年",
+          "title": "克塞山戰役",
+          "description": "蒙古大將拜住擊潰羅姆蘇丹國，使其淪為伊兒汗國附庸，並引發大規模突厥部落西遷潮。"
+        },
+        {
+          "year": "1295年前",
+          "title": "拜都汗的宗教寬容",
+          "description": "拜都汗偏向基督教，允許在移動軍營中建立教堂，鞏固了與拜占庭的信任。"
+        },
+        {
+          "year": "1295年",
+          "title": "合贊汗伊斯蘭化",
+          "description": "合贊汗正式改宗伊斯蘭以獲取穆斯林貴族支持，開始拆除佛寺與限制教堂，宣告親基督聯盟終結。"
+        }
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "maragha",
+      "name": "馬拉蓋",
+      "coordinates": [
+        46.266,
+        37.383
+      ],
+      "description": "位於伊朗西北部的歷史名城，旭烈兀在此資助波斯學者納西爾丁·圖西建立當時世界上最先進的馬拉蓋觀象台，成為伊斯蘭世界與蒙古帝國的天文學中心。",
+      "people": [
+        "旭烈兀 (Hulegu Khan)",
+        "納西爾丁·圖西 (Nasir al-Din al-Tusi)"
+      ],
+      "tech": [
+        "伊兒汗星表 (Ilkhanic Tables)",
+        "圖西雙圓 (Tusi couple)",
+        "歐幾里得幾何 (Euclidean geometry)"
+      ],
+      "infrastructure": [
+        "馬拉蓋觀象台 (Maragheh observatory)"
+      ],
+      "events": [
+        {
+          "year": "13世紀末",
+          "title": "技術轉讓的橋樑",
+          "description": "拜占庭學者格里高利·希奧尼亞德斯抵達此地的天文台學習，促成了波斯計算方法向君士坦丁堡的技術轉讓。"
+        }
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "baghdad",
+      "name": "巴格達",
+      "coordinates": [
+        44.366,
+        33.3152
+      ],
+      "description": "阿拔斯王朝的前首都，1258年被旭烈兀率領的蒙古軍隊攻陷，標誌著伊斯蘭黃金時代的終結。此後成為伊兒汗國的重要城市與東方教會（景教）總主教座堂所在地。",
+      "people": [
+        "旭烈兀 (Hulegu Khan)",
+        "拉班·掃馬 (Rabban Bar Sauma)",
+        "雅巴拉哈三世 (Yahballaha III)",
+        "伊本·西那 (Avicenna/Ibn Sina)",
+        "肯迪 (Al-Kindi)",
+        "法拉比 (Al-Farabi)",
+        "花剌子米 (Al-Khwarizmi)"
+      ],
+      "tech": [
+        "景教 (Nestorian Christianity)",
+        "百年翻譯運動 (Translation Movement)",
+        "印度-阿拉伯數字 (Hindu-Arabic numerals)",
+        "代數學 (Algebra)",
+        "伊斯蘭光學 (Islamic Optics)"
+      ],
+      "infrastructure": [
+        "景教宗主教座堂 (Patriarchate of the Church of the East)"
+      ],
+      "numericYear": 1258,
+      "religion": [
+        "伊斯蘭哲學 (Islamic Philosophy/Falsafa)",
+        "穆塔齊賴派 (Mu'tazila Rationalism)"
+      ]
+    },
+    {
+      "id": "dadu",
+      "name": "大都 (北京)",
+      "coordinates": [
+        116.4074,
+        39.9042
+      ],
+      "description": "元朝的首都，由忽必烈汗下令建造。作為蒙古帝國的政治中心，大都是當時世界上最繁華、最多元文化的國際大都市之一，馬可·波羅等西方使節曾造訪此地。",
+      "people": [
+        "忽必烈汗 (Kublai Khan)",
+        "八思巴 (Drogön Chögyal Phagpa)",
+        "札馬魯丁 (Zhamaluding)",
+        "郭守敬 (Guo Shoujing)",
+        "馬可·波羅 (Marco Polo)"
+      ],
+      "tech": [
+        "八思巴字 ('Phags-pa script)",
+        "回回曆法 (Islamic Astronomy in China)",
+        "授時曆 (Shoushi calendar)",
+        "交鈔 (Jiaochao)",
+        "回回曆法 (Islamic Astronomy in China)"
+      ],
+      "infrastructure": [
+        "回回司天台 (Islamic Astronomical Bureau)",
+        "印鈔局",
+        "站赤/驛站中樞 (Yam Hub)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1271年",
+          "title": "忽必烈建立大元",
+          "description": "蒙古政權中原化，忽必烈定國號為大元，建都大都。",
+          "numericYear": 1271
+        },
+        {
+          "year": "1351年",
+          "title": "紅巾軍起義爆發",
+          "description": "元末天災人禍引發大規模農民起義，動搖了元朝的統治基礎。",
+          "numericYear": 1351
+        }
+      ],
+      "religion": []
+    },
+    {
+      "id": "karakorum",
+      "name": "哈拉和林",
+      "coordinates": [
+        102.8478,
+        47.2103
+      ],
+      "description": "蒙古帝國早期的首都，由窩闊台汗建立。作為帝國的政治樞紐與驛站網絡的中心，吸引了來自歐亞大陸各地的商人、工匠與使節。",
+      "people": [
+        "蒙哥汗 (Mongke Khan)",
+        "威廉·魯不魯乞 (William of Rubruck)"
+      ],
+      "tech": [
+        "跨信仰神學辯論 (Interfaith debate)",
+        "毛筆書法觀察 (Observation of brush writing)"
+      ],
+      "infrastructure": [
+        "萬安宮 (Tumen Amgalan Ord)",
+        "驛站總樞紐 (Yam Hub)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1206年",
+          "title": "成吉思汗建立大蒙古國",
+          "description": "鐵木真統一蒙古高原各部，被尊為成吉思汗，開啟了席捲歐亞大陸的全球擴張。",
+          "numericYear": 1206
+        }
+      ]
+    },
+    {
+      "id": "sarai",
+      "name": "薩萊",
+      "coordinates": [
+        47.4345,
+        47.1814
+      ],
+      "description": "金帳汗國的首都，位於伏爾加河下游。它是東歐平原上最大的城市之一，也是連結俄羅斯、中亞與熱那亞黑海貿易網的重要商業樞紐。",
+      "people": [
+        "拔都汗 (Batu Khan)",
+        "月即別汗 (Ozbeg Khan)",
+        "伊本·巴圖塔 (Ibn Battuta)",
+        "那海",
+        "脫脫汗",
+        "歐芙洛緒涅",
+        "瑪麗亞 (巴亞倫)"
+      ],
+      "tech": [
+        "伊斯蘭教 (Islam)",
+        "俄羅斯東正教 (Russian Orthodoxy)"
+      ],
+      "infrastructure": [
+        "驛站 (Yam)",
+        "伊斯蘭蘇非大學 (Madrasa)"
+      ],
+      "events": [
+        {
+          "year": "13世紀末",
+          "title": "與拜占庭的聯姻與協作",
+          "description": "強權人物那海與拜占庭公主歐芙洛緒涅私交，曾派遣4,000名騎兵協助拜占庭穩定色雷斯防線。"
+        },
+        {
+          "year": "14世紀初",
+          "title": "遏制巴爾幹擴張",
+          "description": "拜占庭透過將瑪麗亞(巴亞倫)嫁給脫脫汗，確立了北方防線穩定，確保對巴爾幹的支配地位。"
+        }
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "venice",
+      "name": "威尼斯",
+      "coordinates": [
+        12.3155,
+        45.4408
+      ],
+      "description": "中世紀歐洲的海上貿易共和國。威尼斯商人（如馬可·波羅家族）積極拓展前往東方的貿易路線，在蒙古和平時期掌控了地中海與黑海的香料和絲綢貿易。",
+      "people": [
+        "馬可·波羅 (Marco Polo)"
+      ],
+      "tech": [
+        "海上貿易 (Maritime trade)"
+      ],
+      "infrastructure": [
+        "商埠 (Trading port)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "soltaniyeh",
+      "name": "蘇丹尼耶",
+      "coordinates": [
+        48.7969,
+        36.4344
+      ],
+      "description": "伊兒汗國完者都汗所建立的新首都。城內擁有宏偉的完者都陵墓，其巨大的穹頂展現了波斯伊斯蘭建築的巔峰，也是東西方貿易的交匯點。",
+      "people": [
+        "完者都 (Öljaitü)",
+        "法蘭孔·德·佩魯斯 (Francon de Pérouse)"
+      ],
+      "tech": [
+        "伊斯蘭建築 (Islamic Architecture)",
+        "天主教 (Catholicism)"
+      ],
+      "infrastructure": [
+        "完者都陵墓 (Dome of Soltaniyeh)",
+        "天主教大主教區 (Archbishopric)"
+      ],
+      "numericYear": 1300
+    },
+    {
+      "id": "shangdu",
+      "name": "上都",
+      "coordinates": [
+        116.1833,
+        42.3667
+      ],
+      "description": "元朝的夏都，位於今內蒙古。忽必烈每年夏季會在此避暑與辦公，這裡是蒙古游牧傳統與中原農耕文明交織的象徵，西方稱之為「Xanadu」。",
+      "people": [
+        "忽必烈汗 (Kublai Khan)"
+      ],
+      "tech": [
+        "驛傳物流 (Express logistics)"
+      ],
+      "infrastructure": [
+        "夏宮 (Summer Palace)",
+        "驛站網絡 (Yam/Örtöö)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "caffa",
+      "name": "卡法",
+      "coordinates": [
+        35.3794,
+        45.0319
+      ],
+      "description": "熱那亞共和國在克里米亞半島建立的重要貿易殖民地（今費奧多西亞）。作為黑海貿易樞紐，也是後來黑死病傳入歐洲的起點之一。",
+      "people": [
+        "札尼別 (Jani Beg)"
+      ],
+      "tech": [
+        "海上貿易 (Maritime trade)",
+        "黑死病傳播 (Spread of Black Death)"
+      ],
+      "infrastructure": [
+        "熱那亞商港 (Genoese port)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "kashgar",
+      "name": "喀什噶爾",
+      "coordinates": [
+        75.9892,
+        39.4677
+      ],
+      "description": "位於新疆塔里木盆地西緣的綠洲城市。自古便是絲綢之路北路與南路的交匯處，在察合台汗國統治下維持著繁榮的跨國貿易。",
+      "people": [
+        "海都 (Qaidu Khan)",
+        "拉班·掃馬 (Rabban Bar Sauma)"
+      ],
+      "tech": [
+        "景教 (Nestorian Christianity)"
+      ],
+      "infrastructure": [
+        "綠洲驛站 (Oasis yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "tus",
+      "name": "圖斯 (呼羅珊)",
+      "coordinates": [
+        59.5247,
+        36.4522
+      ],
+      "description": "波斯東北部呼羅珊地區的古城，是眾多伊斯蘭學者、詩人與科學家的故鄉。著名的天文學家納西爾丁·圖西即誕生於此。",
+      "people": [
+        "闊里吉思 (Körgüz)",
+        "阿魯渾·阿加 (Arghun Aqa)"
+      ],
+      "tech": [
+        "戶賦/包稅制 (Qubchur tax)",
+        "驛站預算管理 (Yam budget management)"
+      ],
+      "infrastructure": [
+        "政府辦公機構 (Government office)",
+        "呼羅珊驛站 (Khurasan yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "paris",
+      "name": "巴黎",
+      "coordinates": [
+        2.3522,
+        48.8566
+      ],
+      "description": "中世紀歐洲的學術與政治中心。法國國王腓力四世曾在此接見來自伊兒汗國的景教使節拉班·掃馬，探討雙方針對穆斯林的軍事同盟。",
+      "people": [
+        "腓力四世 (Philip IV of France)",
+        "拉班·掃馬 (Rabban Bar Sauma)",
+        "紀堯姆·布歇 (Guillaume Boucher)",
+        "托馬斯·阿奎那 (Thomas Aquinas)",
+        "伏爾泰 (Voltaire)",
+        "盧梭 (Jean-Jacques Rousseau)",
+        "孔德 (Auguste Comte)",
+        "狄德羅 (Denis Diderot)",
+        "拉瓦節 (Antoine Lavoisier)",
+        "奧古斯特·孔德 (Auguste Comte)",
+        "克勞德·莫內 (Claude Monet)",
+        "讓-保羅·沙特 (Jean-Paul Sartre)",
+        "米歇爾·傅柯 (Michel Foucault)"
+      ],
+      "tech": [
+        "天主教外交 (Papal diplomacy)",
+        "解析幾何 (Analytic Geometry)",
+        "啟蒙科學 (Enlightenment Science)",
+        "化學革命 (Chemical Revolution)",
+        "熱力學 (Thermodynamics)"
+      ],
+      "infrastructure": [
+        "王室宮廷 (Royal Court)"
+      ],
+      "numericYear": 1200,
+      "religion": [
+        "心物二元論 (Mind-Body Dualism)",
+        "經院哲學 (Scholasticism)",
+        "托馬斯主義 (Thomism)",
+        "啟蒙運動 (The Enlightenment)",
+        "實證主義 (Positivism)",
+        "社會契約論 (Social Contract Theory)",
+        "百科全書派 (Encyclopédistes)",
+        "實證主義社會學 (Positivist Sociology)",
+        "浪漫主義 (Romanticism)",
+        "印象派 (Impressionism)",
+        "現象學 (Phenomenology)",
+        "結構主義 (Structuralism)",
+        "後現代主義 (Postmodernism)"
+      ]
+    },
+    {
+      "id": "rome",
+      "name": "羅馬",
+      "coordinates": [
+        12.4922,
+        41.8902
+      ],
+      "description": "天主教的宗教中心。蒙古使節拉班·掃馬曾抵達羅馬教廷，並與教宗尼古拉四世會面，開啟了蒙古與羅馬教廷之間罕見的跨信仰外交對話。",
+      "people": [
+        "教宗尼古拉四世 (Pope Nicholas IV)",
+        "拉班·掃馬 (Rabban Bar Sauma)",
+        "奧古斯丁 (Augustine of Hippo)",
+        "塞內卡 (Seneca)",
+        "馬可·奧勒留 (Marcus Aurelius)"
+      ],
+      "tech": [
+        "跨信仰神學交流 (Interfaith dialogue)",
+        "天主教外交 (Papal diplomacy)"
+      ],
+      "infrastructure": [
+        "羅馬教廷 (Papal Court)"
+      ],
+      "numericYear": 1200,
+      "religion": [
+        "奧古斯丁神學 (Augustinian Theology)",
+        "自然法傳統 (Natural Law Tradition)",
+        "斯多葛倫理學 (Stoic Ethics)"
+      ]
+    },
+    {
+      "id": "constantinople",
+      "name": "君士坦丁堡",
+      "coordinates": [
+        28.9784,
+        41.0082
+      ],
+      "description": "拜占庭帝國的首都。在蒙古西征後，拜占庭透過聯姻（如瑪麗亞·帕里奧洛格娜）與伊兒汗國及金帳汗國建立外交關係，成為東西方技術轉讓的橋樑。",
+      "people": [
+        "安德洛尼卡二世 (Andronikos II)",
+        "拉班·掃馬 (Rabban Bar Sauma)",
+        "威廉·魯不魯乞 (William of Rubruck)",
+        "瑪麗亞·帕里奧洛格娜",
+        "歐芙洛緒涅",
+        "西奧多·梅托希特",
+        "格里高利·希奧尼亞德斯",
+        "約翰·阿克蘇赫"
+      ],
+      "tech": [
+        "東正教 (Eastern Orthodoxy)",
+        "外交 (Diplomacy)",
+        "托勒密天文學",
+        "波斯計算方法",
+        "潛在突厥化"
+      ],
+      "infrastructure": [
+        "教堂 (Churches)",
+        "商港 (Trading port)"
+      ],
+      "events": [
+        {
+          "year": "1204年-1260年代",
+          "title": "第四次十字軍東征與地緣重組",
+          "description": "十字軍攻陷君士坦丁堡，拜占庭中央權威瓦解並建立拉丁帝國。帝國被迫分裂，導致東部防線真空。"
+        },
+        {
+          "year": "13世紀中葉",
+          "title": "聯姻外交戰略",
+          "description": "拜占庭皇帝將公主視為外交資產，透過瑪麗亞·帕里奧洛格娜與伊兒汗國聯姻，及歐芙洛緒涅與金帳汗國聯姻，換取軍事與戰略支援。"
+        },
+        {
+          "year": "13世紀末",
+          "title": "東方天文學的引進",
+          "description": "學者格里高利·希奧尼亞德斯親自前往馬拉蓋天文台學習，將先進的波斯計算方法引進君士坦丁堡，提升日食預測精度，促成帕里奧洛格斯文藝復興。"
+        },
+        {
+          "year": "14世紀",
+          "title": "潛在突厥化與薩拉森翼裝事件",
+          "description": "君士坦丁堡賽馬場發生突厥冒險家滑翔墜落事件，展現拜占庭對異族技術的著迷。突厥精英與美學逐漸滲透進拜占庭社會高層。"
+        },
+        {
+          "year": "1261年",
+          "title": "拜占庭光復君士坦丁堡",
+          "description": "尼西亞帝國的米海爾八世收復舊都，帕里奧洛格斯王朝復辟，但帝國實力已大不如前。",
+          "numericYear": 1261
+        },
+        {
+          "year": "1389年-1396年",
+          "title": "鄂圖曼土耳其崛起與包圍",
+          "description": "歷經科索沃戰役與尼科波利斯戰役，鄂圖曼土耳其幾乎完全包圍了君士坦丁堡，拜占庭淪為附庸。",
+          "numericYear": 1396
+        }
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "urgench",
+      "name": "玉龍傑赤",
+      "coordinates": [
+        59.153,
+        42.3304
+      ],
+      "description": "花剌子模的舊都，位於阿姆河三角洲。曾被成吉思汗夷為平地，但在金帳汗國統治下重建，成為絲綢之路上繁榮的伊斯蘭學術與商業中心。",
+      "people": [
+        "威廉·魯不魯乞 (William of Rubruck)"
+      ],
+      "tech": [
+        "景教 (Nestorian Christianity)",
+        "黑死病傳播 (Spread of Black Death)"
+      ],
+      "infrastructure": [
+        "綠洲商路 (Oasis trade route)"
+      ],
+      "numericYear": 1300
+    },
+    {
+      "id": "qayaligh",
+      "name": "海押立",
+      "coordinates": [
+        79.052,
+        45.184
+      ],
+      "description": "察合台汗國早期的重要據點與中亞貿易名城，位於七河地區。拉班·掃馬等旅行家西行時曾途經此地，宗教文化多元。",
+      "people": [
+        "威廉·魯不魯乞 (William of Rubruck)"
+      ],
+      "tech": [
+        "佛教 (Buddhism)",
+        "宗教融合 (Religious syncretism)"
+      ],
+      "infrastructure": [
+        "佛教寺院 (Idol temples)",
+        "驛站 (Yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "tiflis",
+      "name": "第比利斯",
+      "coordinates": [
+        44.8271,
+        41.7151
+      ],
+      "description": "喬治亞王國的首都。在被蒙古征服後，喬治亞軍隊常被徵調參與伊兒汗國的軍事行動，城市本身則是高加索地區的貿易重鎮。",
+      "people": [
+        "桂恰德 (Guichard of Cremone)",
+        "教宗額我略九世 (Pope Gregory IX)"
+      ],
+      "tech": [
+        "天主教傳教 (Catholic Missions)",
+        "喬治亞正教 (Georgian Orthodoxy)"
+      ],
+      "infrastructure": [
+        "修道院 (Convents)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "mosul",
+      "name": "摩蘇爾",
+      "coordinates": [
+        43.13,
+        36.34
+      ],
+      "description": "美索不達米亞北部的古城。在伊兒汗國治下，摩蘇爾的工匠以精湛的金屬工藝與鑲嵌技術聞名，作品融合了伊斯蘭與蒙古風格。",
+      "people": [
+        "拉班·掃馬 (Rabban Bar Sauma)"
+      ],
+      "tech": [
+        "手抄本製作 (Manuscript illumination)",
+        "金屬工藝 (Metalwork)"
+      ],
+      "infrastructure": [
+        "作坊 (Workshops)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "bordeaux",
+      "name": "波爾多",
+      "coordinates": [
+        -0.5792,
+        44.8378
+      ],
+      "description": "法國西南部的重要港口城市。伊兒汗國使節拉班·掃馬曾抵達此地，並會見了英格蘭國王愛德華一世，遞交了阿魯渾汗的結盟信函。",
+      "people": [
+        "愛德華一世 (Edward I)",
+        "拉班·掃馬 (Rabban Bar Sauma)"
+      ],
+      "tech": [
+        "天主教外交 (Papal diplomacy)"
+      ],
+      "infrastructure": [
+        "王室宮廷 (Royal Court)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "ani",
+      "name": "阿尼",
+      "coordinates": [
+        43.5728,
+        40.5075
+      ],
+      "description": "亞美尼亞的中世紀古都，有「千教堂之城」的美譽。在蒙古統治時期，阿尼仍維持著一定的商業繁榮，但隨後因地震與戰亂逐漸衰落。",
+      "people": [
+        "拉班·掃馬 (Rabban Bar Sauma)",
+        "馬可斯 (Markos)"
+      ],
+      "tech": [
+        "景教 (Nestorian Christianity)"
+      ],
+      "infrastructure": [
+        "古城防禦與驛路 (City fortifications and routes)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "bukhara",
+      "name": "布哈拉",
+      "coordinates": [
+        64.4286,
+        39.7747
+      ],
+      "description": "中亞著名的綠洲城市與伊斯蘭學術中心。成吉思汗西征時曾率軍奇襲此地，隨後在蒙古治下逐漸恢復，成為跨國貿易的重要節點。",
+      "people": [
+        "忽必烈汗 (Kublai Khan)"
+      ],
+      "tech": [
+        "跨文化治理 (Cross-cultural administration)"
+      ],
+      "infrastructure": [
+        "清真寺與市集 (Mosques and bazaars)",
+        "驛站 (Yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "samarqand",
+      "name": "撒馬爾罕",
+      "coordinates": [
+        66.9749,
+        39.6542
+      ],
+      "description": "絲綢之路上最古老、最繁華的城市之一。位於中亞腹地，歷經蒙古西征破壞後，仍在察合台汗國與後來的帖木兒帝國中扮演核心角色。",
+      "people": [
+        "成吉思汗 (Genghis Khan)",
+        "耶律楚材 (Yelü Chucai)"
+      ],
+      "tech": [
+        "回回曆法 (Islamic Astronomy in China)",
+        "地理時差計算 (Longitude time difference)"
+      ],
+      "infrastructure": [
+        "中亞驛站 (Central Asian yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "olon_sume",
+      "name": "敖倫蘇木 (汪古部都城)",
+      "coordinates": [
+        110.463,
+        41.972
+      ],
+      "description": "汪古部（信仰景教的突厥語游牧部落）的首府，位於今內蒙古達茂旗。是元朝與漠北聯繫的軍事與交通要衝，出土了大量景教石刻墓碑。",
+      "people": [
+        "闊里吉思王 (King George)",
+        "阿剌兀思剔吉忽里 (Alaqush Digit Quri)",
+        "拉班·掃馬 (Rabban Bar Sauma)"
+      ],
+      "tech": [
+        "景教 (Nestorian Christianity)",
+        "宗教融合藝術 (Syncretic art)",
+        "敘利亞文字 (Syriac script)"
+      ],
+      "infrastructure": [
+        "景教教堂 (Nestorian Church)",
+        "石刻墓碑 (Stone steles)",
+        "邊防驛站 (Frontier Yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "hangzhou",
+      "name": "杭州 (臨安)",
+      "coordinates": [
+        120.1551,
+        30.2741
+      ],
+      "description": "南宋舊都，馬可·波羅稱其為「行在」(Kinsay)。在元朝統治下，杭州依然是世界上最大、最富庶的城市之一，以發達的絲綢與商業聞名。",
+      "people": [
+        "忽必烈汗 (Kublai Khan)",
+        "馬可·波羅 (Marco Polo)",
+        "郭守敬 (Guo Shoujing)",
+        "朱熹 (Zhu Xi)",
+        "陸九淵 (Lu Jiuyuan)",
+        "王重陽 (Wang Chongyang)"
+      ],
+      "tech": [
+        "雕版印刷 (Woodblock printing)",
+        "絲綢紡織 (Silk weaving)",
+        "交鈔 (Jiaochao)"
+      ],
+      "infrastructure": [
+        "京杭大運河 (Grand Canal)",
+        "驛站網絡 (Yam network)",
+        "海運港口 (Seaport)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1276年",
+          "title": "元軍攻陷臨安",
+          "description": "元軍南下攻陷南宋都城臨安，俘獲宋恭帝，南宋朝廷南逃。",
+          "numericYear": 1276
+        }
+      ],
+      "religion": [
+        "宋明理學 (Neo-Confucianism)",
+        "陸王心學 (School of Mind)",
+        "道教內丹術 (Daoist Internal Alchemy)",
+        "禪宗 (Zen Buddhism)"
+      ]
+    },
+    {
+      "id": "nishapur",
+      "name": "內沙布爾",
+      "coordinates": [
+        58.7958,
+        36.2133
+      ],
+      "description": "呼羅珊地區的名城，曾是伊斯蘭世界的文化中心。在蒙古西征中遭到毀滅性破壞，是蒙古軍事征服殘酷性的象徵之一。",
+      "people": [
+        "合贊汗 (Ghazan Khan)",
+        "拉施特 (Rashid al-Din Hamadani)",
+        "阿魯渾·阿加 (Arghun Aqa)"
+      ],
+      "tech": [
+        "急遞制度 (Express courier/Binchik)",
+        "驛馬管理 (Postal horse management)",
+        "牌符憑證 (Paiza/Maktub)"
+      ],
+      "infrastructure": [
+        "皇家大道 (Royal Road/Shahrah)",
+        "驛站 (Yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "quanzhou",
+      "name": "泉州 (Zaitun)",
+      "coordinates": [
+        118.5896,
+        24.9088
+      ],
+      "description": "元朝最大的海運港口與市舶司所在地。被譽為東方第一大港，吸引了阿拉伯、波斯與歐洲商人，城內並存著伊斯蘭教、景教、印度教與佛教。",
+      "people": [
+        "馬可·波羅 (Marco Polo)",
+        "伊本·巴圖塔 (Ibn Battuta)",
+        "闊闊真公主 (Kököchin)"
+      ],
+      "tech": [
+        "造船技術 (Shipbuilding)",
+        "航海術 (Navigation)",
+        "市舶稅收 (Maritime customs)",
+        "水密隔艙 (Watertight compartments)",
+        "磁羅盤 (Magnetic compass)"
+      ],
+      "infrastructure": [
+        "商埠海港 (Seaport)",
+        "市舶司 (Maritime Trade Office)",
+        "驛站 (Yam)"
+      ],
+      "numericYear": 1200,
+      "events": [
+        {
+          "year": "1279年",
+          "title": "崖山海戰與宋朝滅亡",
+          "description": "南宋殘餘勢力在崖山海戰中全軍覆沒，陸秀夫背負幼帝投海，元朝完成中國大統一。",
+          "numericYear": 1279
+        }
+      ],
+      "religion": []
+    },
+    {
+      "id": "quilon",
+      "name": "奎隆 (Kawlam)",
+      "coordinates": [
+        76.5856,
+        8.8932
+      ],
+      "description": "位於印度西南海岸的重要商埠。是海上絲綢之路上連接中國與中東的關鍵中轉站，元朝曾多次派遣使節與商船抵達此地。",
+      "people": [
+        "伊本·巴圖塔 (Ibn Battuta)",
+        "馬可·波羅 (Marco Polo)"
+      ],
+      "tech": [
+        "海上絲路 (Maritime Silk Road)",
+        "香料貿易 (Spice trade)"
+      ],
+      "infrastructure": [
+        "供水驛棚 (Wooden sheds/wells for travelers)",
+        "海港 (Seaport)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "azov",
+      "name": "阿速 (Azaq)",
+      "coordinates": [
+        39.4206,
+        47.1124
+      ],
+      "description": "位於亞速海沿岸的商業港口（今亞速）。是金帳汗國與義大利熱那亞、威尼斯商人進行奴隸與商品貿易的重要樞紐。",
+      "people": [
+        "月即別汗 (Ozbeg Khan)",
+        "伊本·巴圖塔 (Ibn Battuta)"
+      ],
+      "tech": [
+        "跨國貿易 (Transnational trade)"
+      ],
+      "infrastructure": [
+        "商埠 (Trading port)",
+        "驛道起點 (Yam terminal)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "talas",
+      "name": "塔拉斯",
+      "coordinates": [
+        71.3975,
+        42.8961
+      ],
+      "description": "中亞古城，歷史上著名的怛羅斯戰役發生地。在蒙古帝國時期，這裡是諸王會盟與中亞驛站網絡的關鍵節點。",
+      "people": [
+        "海都汗 (Qaidu Khan)",
+        "拉班·掃馬 (Rabban Bar Sauma)"
+      ],
+      "tech": [
+        "游牧軍事 (Nomadic warfare)",
+        "過境外交 (Transit diplomacy)"
+      ],
+      "infrastructure": [
+        "游牧大營 (Nomadic encampment)",
+        "綠洲驛站 (Oasis yam)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "gaocheng",
+      "name": "告成 (登封)",
+      "coordinates": [
+        113.0298,
+        34.4533
+      ],
+      "description": "元朝天文學家郭守敬在此建立了登封觀星台。透過高表測影技術，精確觀測日影長度，為編纂《授時曆》提供了重要的數據基礎。",
+      "people": [
+        "郭守敬 (Guo Shoujing)"
+      ],
+      "tech": [
+        "高表測影 (Gnomon shadow measurement)",
+        "球面三角學 (Spherical trigonometry)"
+      ],
+      "infrastructure": [
+        "觀星台 (Gaocheng Astronomical Observatory)"
+      ],
+      "numericYear": 1200
+    },
+    {
+      "id": "nanjing",
+      "name": "南京 (應天府)",
+      "coordinates": [
+        118.7969,
+        32.0603
+      ],
+      "description": "明朝初期的首都。朱元璋在此建立明朝，修築了宏偉的南京明城牆與明故宮，標誌著漢人政權的復興與蒙古統治的結束。",
+      "people": [
+        "朱元璋 (Hongwu Emperor)",
+        "王陽明 (Wang Yangming)"
+      ],
+      "tech": [
+        "里甲制",
+        "火器廣泛應用"
+      ],
+      "infrastructure": [
+        "南京明城牆",
+        "明故宮"
+      ],
+      "numericYear": 1356,
+      "events": [
+        {
+          "year": "1356年",
+          "title": "朱元璋攻佔集慶",
+          "description": "朱元璋取得戰略基地，改名應天府，開始穩步擴張。",
+          "numericYear": 1356
+        },
+        {
+          "year": "1368年",
+          "title": "明朝建立",
+          "description": "朱元璋於南京稱帝，建立大明王朝。",
+          "numericYear": 1368
+        },
+        {
+          "year": "1398年",
+          "title": "朱元璋駕崩",
+          "description": "洪武時代結束，建文帝繼位，為後續的靖難之役埋下伏筆。",
+          "numericYear": 1398
+        }
+      ],
+      "religion": [
+        "陸王心學 (School of Mind)"
+      ]
+    },
+    {
+      "id": "changan",
+      "name": "長安",
+      "coordinates": [
+        108.9398,
+        34.3416
+      ],
+      "description": "漢唐時期的絲綢之路起點，見證了佛教傳入與西域文化的交融。",
+      "numericYear": 100,
+      "religion": [
+        "黃老之學 (Huang-Lao Daoism)",
+        "天人感應 (Telepathy between Heaven and Man)",
+        "讖緯學 (Chenwei/Theology of Texts)",
+        "唯識宗 (Yogacara/Consciousness-Only)",
+        "華嚴宗 (Huayan School)"
+      ],
+      "people": [
+        "董仲舒 (Dong Zhongshu)",
+        "玄奘 (Xuanzang)",
+        "法藏 (Fazang)",
+        "孫思邈 (Sun Simiao)"
+      ],
+      "tech": [
+        "雕版印刷 (Woodblock printing)",
+        "黑火藥 (Black Gunpowder)"
+      ]
+    },
+    {
+      "id": "alexandria",
+      "name": "亞歷山大港",
+      "coordinates": [
+        29.9187,
+        31.2001
+      ],
+      "description": "希臘化時代與羅馬帝國的知識中心，托勒密天文學的發源地。",
+      "numericYear": 100,
+      "tech": [
+        "托勒密天文學 (Ptolemaic astronomy)",
+        "伊斯蘭光學 (Islamic Optics)"
+      ],
+      "religion": [
+        "教父哲學 (Patristic Philosophy)",
+        "諾斯底主義 (Gnosticism)"
+      ],
+      "people": [
+        "普羅提諾 (Plotinus)",
+        "克萊門特 (Clement of Alexandria)",
+        "奧利金 (Origen)",
+        "海什木 (Ibn al-Haytham)"
+      ]
+    },
+    {
+      "id": "london",
+      "name": "倫敦",
+      "coordinates": [
+        -0.1276,
+        51.5072
+      ],
+      "description": "大英帝國首都，工業革命的發源地，推動了現代科學與技術的全球傳播。",
+      "numericYear": 1750,
+      "tech": [
+        "科學革命 (Scientific Revolution)",
+        "微積分 (Calculus)",
+        "經典力學 (Classical Mechanics)",
+        "工業革命 (Industrial Revolution)",
+        "蒸汽機 (Steam Engine)",
+        "演化論 (Evolutionary Biology)",
+        "電磁學 (Electromagnetism)"
+      ],
+      "religion": [
+        "經驗主義 (Empiricism)",
+        "功利主義 (Utilitarianism)",
+        "自由主義 (Liberalism)",
+        "演化論的哲學衝擊 (Darwinian Philosophy)",
+        "古典經濟學 (Classical Economics)"
+      ],
+      "people": [
+        "傑里米·邊沁 (Jeremy Bentham)",
+        "約翰·斯圖亞特·密爾 (John Stuart Mill)",
+        "查爾斯·達爾文 (Charles Darwin)",
+        "赫伯特·斯賓塞 (Herbert Spencer)",
+        "牛頓 (Isaac Newton)",
+        "瓦特 (James Watt)",
+        "法拉第 (Michael Faraday)",
+        "詹姆斯·馬克士威 (James Clerk Maxwell)"
+      ]
+    },
+    {
+      "id": "kyoto",
+      "name": "京都",
+      "coordinates": [
+        135.7681,
+        35.0116
+      ],
+      "description": "日本遣唐使帶回佛教與律令制的文化熔爐。",
+      "numericYear": 700
+    },
+    {
+      "id": "luoyang",
+      "name": "洛陽",
+      "coordinates": [
+        112.454,
+        34.619
+      ],
+      "description": "東漢都城，造紙術發明地與早期佛教白馬馱經傳入中心。",
+      "numericYear": -200,
+      "tech": [
+        "造紙術 (Papermaking)",
+        "候風地動儀 (Seismoscope)"
+      ],
+      "religion": [
+        "道家 (Daoism)",
+        "道家自然觀 (Daoist Naturalism)",
+        "魏晉玄學 (Wei-Jin Xuanxue)",
+        "名家辯學 (School of Names)"
+      ],
+      "people": [
+        "老子 (Laozi)",
+        "莊子 (Zhuangzi)",
+        "王弼 (Wang Bi)",
+        "公孫龍 (Gongsun Long)",
+        "蔡倫 (Cai Lun)",
+        "張衡 (Zhang Heng)"
+      ]
+    },
+    {
+      "id": "athens",
+      "name": "雅典",
+      "coordinates": [
+        23.727,
+        37.983
+      ],
+      "description": "古希臘哲學中心，柏拉圖與亞里士多德的思想發源地。",
+      "numericYear": -500,
+      "tech": [],
+      "religion": [
+        "理型論 (Platonic Idealism)",
+        "原子論 (Atomism)",
+        "畢達哥拉斯學派 (Pythagoreanism)",
+        "斯多葛主義 (Stoicism)",
+        "伊壁鳩魯主義 (Epicureanism)",
+        "犬儒主義 (Cynicism)",
+        "蘇格拉底方法 (Socratic Method)"
+      ],
+      "people": [
+        "畢達哥拉斯 (Pythagoras)",
+        "芝諾 (Zeno of Citium)",
+        "伊壁鳩魯 (Epicurus)",
+        "第歐根尼 (Diogenes)"
+      ]
+    },
+    {
+      "id": "jerusalem",
+      "name": "耶路撒冷",
+      "coordinates": [
+        35.213,
+        31.768
+      ],
+      "description": "猶太教與基督教發源地，三大一神教的聖城。",
+      "numericYear": -1000
+    },
+    {
+      "id": "mecca",
+      "name": "麥加",
+      "coordinates": [
+        39.826,
+        21.422
+      ],
+      "description": "伊斯蘭教發源地與最神聖的朝覲中心。",
+      "numericYear": 600
+    },
+    {
+      "id": "medina",
+      "name": "麥地那",
+      "coordinates": [
+        39.612,
+        24.467
+      ],
+      "description": "穆罕默德遷徙地，早期伊斯蘭政權的中心。",
+      "numericYear": 622
+    },
+    {
+      "id": "kiev",
+      "name": "基輔",
+      "coordinates": [
+        30.523,
+        50.45
+      ],
+      "description": "基輔羅斯公國首都，東正教傳入斯拉夫世界的橋頭堡。",
+      "numericYear": 882
+    },
+    {
+      "id": "aachen",
+      "name": "亞琛",
+      "coordinates": [
+        6.083,
+        50.775
+      ],
+      "description": "查理曼帝國的宮廷所在地，加洛林文藝復興的中心。",
+      "numericYear": 800
+    },
+    {
+      "id": "wittenberg",
+      "name": "維騰堡",
+      "coordinates": [
+        12.642,
+        51.866
+      ],
+      "description": "馬丁·路德發表九十五條論綱之地，宗教改革的發源地。",
+      "numericYear": 1517
+    },
+    {
+      "id": "madrid",
+      "name": "馬德里",
+      "coordinates": [
+        -3.703,
+        40.416
+      ],
+      "description": "西班牙帝國首都，大航海時代的雙引擎之一。",
+      "numericYear": 1500
+    },
+    {
+      "id": "manila",
+      "name": "馬尼拉",
+      "coordinates": [
+        120.984,
+        14.599
+      ],
+      "description": "西班牙在亞洲的據點，全球白銀貿易與文化交流的跳板。",
+      "numericYear": 1571
+    },
+    {
+      "id": "macau",
+      "name": "澳門",
+      "coordinates": [
+        113.549,
+        22.198
+      ],
+      "description": "葡萄牙在遠東的據點，明清時期西學東漸的重要門戶。",
+      "numericYear": 1557
+    },
+    {
+      "id": "boston",
+      "name": "波士頓",
+      "coordinates": [
+        -71.058,
+        42.36
+      ],
+      "description": "清教徒登陸北美的核心，美國獨立戰爭與啟蒙思想實踐的搖籃。",
+      "numericYear": 1620
+    },
+    {
+      "id": "geneva",
+      "name": "日內瓦",
+      "coordinates": [
+        6.143,
+        46.204
+      ],
+      "description": "喀爾文宗的中心，被譽為「新教的羅馬」。",
+      "numericYear": 1536
+    },
+    {
+      "id": "warsaw",
+      "name": "華沙",
+      "coordinates": [
+        21.012,
+        52.229
+      ],
+      "description": "波蘭文化中心，哥白尼曾在此區域發展出劃時代的日心說。",
+      "numericYear": 1543
+    },
+    {
+      "id": "cahokia",
+      "name": "卡霍基亞",
+      "coordinates": [
+        -90.062,
+        38.654
+      ],
+      "description": "前哥倫布時期密西西比文化的核心，北美最大的原住民貿易與宗教中心。",
+      "numericYear": 600
+    },
+    {
+      "id": "jamestown",
+      "name": "詹姆士敦",
+      "coordinates": [
+        -76.776,
+        37.211
+      ],
+      "description": "英國在北美建立的第一個永久殖民地，美洲菸草農業的發源地。",
+      "numericYear": 1607
+    },
+    {
+      "id": "philadelphia",
+      "name": "費城",
+      "coordinates": [
+        -75.165,
+        39.952
+      ],
+      "description": "威廉·佩恩建立的宗教寬容之城，《獨立宣言》與《美國憲法》的誕生地。",
+      "numericYear": 1681
+    },
+    {
+      "id": "new_york",
+      "name": "紐約",
+      "coordinates": [
+        -74.006,
+        40.712
+      ],
+      "description": "原荷蘭新阿姆斯特丹，後成為美國工業化、貿易與大量移民的全球樞紐。",
+      "numericYear": 1624
+    },
+    {
+      "id": "qufu",
+      "name": "曲阜",
+      "coordinates": [
+        116.982,
+        35.58
+      ],
+      "description": "孔子故里，儒家思想的發源地，也是東亞軸心時代的文化核心。",
+      "numericYear": -551,
+      "tech": [],
+      "religion": [
+        "儒家 (Confucianism)",
+        "墨家 (Mohism)",
+        "易經哲學 (Philosophy of I Ching)",
+        "陰陽五行 (Yin-Yang and Five Elements)"
+      ],
+      "people": [
+        "孔子 (Confucius)",
+        "孟子 (Mencius)"
+      ]
+    },
+    {
+      "id": "magadha",
+      "name": "摩揭陀",
+      "coordinates": [
+        85.137,
+        25.594
+      ],
+      "description": "古印度十六雄國之一，佛教與耆那教的發祥地，孔雀王朝的中心。",
+      "numericYear": -563,
+      "religion": [
+        "早期佛教 (Early Buddhism)",
+        "耆那教 (Jainism)",
+        "數論派 (Samkhya)",
+        "順世論 (Charvaka/Materialism)"
+      ],
+      "people": [
+        "伐達摩那/大雄 (Mahavira)",
+        "釋迦牟尼 (Gautama Buddha)"
+      ]
+    },
+    {
+      "id": "xianyang",
+      "name": "咸陽",
+      "coordinates": [
+        108.708,
+        34.334
+      ],
+      "description": "秦朝國都，中國歷史上第一次大一統與度量衡標準化的發出地。",
+      "numericYear": -221,
+      "tech": [
+        "法家 (Legalism)"
+      ],
+      "religion": [
+        "墨家兼愛非攻 (Mohism)",
+        "法家 (Legalism)"
+      ],
+      "people": [
+        "墨子 (Mozi)",
+        "韓非子 (Han Feizi)",
+        "李斯 (Li Si)"
+      ]
+    },
+    {
+      "id": "florence",
+      "name": "佛羅倫斯",
+      "coordinates": [
+        11.2558,
+        43.7696
+      ],
+      "description": "文藝復興的搖籃。在麥地奇家族的資助下，這裡匯聚了從拜占庭逃亡而來的學者與未被神學篡改的古希臘典籍，重新燃起了『人文主義』的火種。",
+      "people": [
+        "科西莫·德·麥地奇 (Cosimo de' Medici)",
+        "達文西 (Leonardo da Vinci)",
+        "馬基維利 (Machiavelli)",
+        "馬基維利 (Niccolò Machiavelli)",
+        "馬爾西利奧·費奇諾 (Marsilio Ficino)",
+        "皮科·德拉·米蘭多拉 (Pico della Mirandola)",
+        "伽利略 (Galileo Galilei)"
+      ],
+      "tech": [
+        "文藝復興 (Renaissance)",
+        "人文主義 (Humanism)",
+        "透視法 (Linear perspective)",
+        "天文望遠鏡 (Astronomical Telescope)"
+      ],
+      "infrastructure": [
+        "聖母百花大教堂 (Florence Cathedral)"
+      ],
+      "numericYear": 1400,
+      "religion": [
+        "人文主義 (Humanism)",
+        "文藝復興自然哲學 (Renaissance Natural Philosophy)",
+        "新柏拉圖主義復興 (Neoplatonic Revival)"
+      ]
+    },
+    {
+      "id": "berlin",
+      "name": "柏林",
+      "coordinates": [
+        13.405,
+        52.52
+      ],
+      "description": "18至19世紀德國觀念論的絕對中心，也是普魯士王國的首都。從康德的啟蒙批判到黑格爾的絕對精神，再到馬克思的唯物辯證法，這裡誕生了近代西方最宏大也最激進的哲學體系。",
+      "people": [
+        "康德 (Immanuel Kant)",
+        "黑格爾 (Georg Wilhelm Friedrich Hegel)",
+        "馬克思 (Karl Marx)",
+        "費爾巴哈 (Ludwig Feuerbach)",
+        "費希特 (Johann Gottlieb Fichte)",
+        "卡爾·馬克思 (Karl Marx)",
+        "阿爾伯特·愛因斯坦 (Albert Einstein)"
+      ],
+      "tech": [
+        "德國觀念論 (German Idealism)",
+        "辯證唯物主義 (Dialectical Materialism)",
+        "相對論 (Theory of Relativity)"
+      ],
+      "infrastructure": [
+        "洪堡大學 (Humboldt University)"
+      ],
+      "numericYear": 1800,
+      "religion": [
+        "黑格爾辯證法 (Hegelian Dialectics)",
+        "青年黑格爾派 (Young Hegelians)",
+        "費爾巴哈唯物主義 (Feuerbachian Materialism)"
+      ]
+    },
+    {
+      "id": "mexico_city",
+      "name": "墨西哥城",
+      "coordinates": [
+        -99.1332,
+        19.4326
+      ],
+      "description": "建於阿茲特克首都特諾奇提特蘭廢墟之上的美洲核心。這裡是前哥倫布時期『美洲農學』的精華所在，也是西班牙統治後『庭院提銀法』化學冶煉技術與『宗教融合藝術』的誕生地。",
+      "people": [
+        "蒙特祖馬二世 (Moctezuma II)",
+        "巴托洛梅·德拉斯·卡薩斯 (Bartolomé de las Casas)"
+      ],
+      "tech": [
+        "庭院提銀法 (Patio process)",
+        "美洲農學 (Mesoamerican agriculture)"
+      ],
+      "religion": [
+        "宗教融合藝術 (Syncretic art)"
+      ],
+      "numericYear": 1521
+    },
+    {
+      "id": "timbuktu",
+      "name": "廷巴克圖",
+      "coordinates": [
+        -3.0026,
+        16.7666
+      ],
+      "description": "西非馬里帝國的學術燈塔。這裡不僅是黃金交易站，更是保存了數十萬卷伊斯蘭天文學、法學與數學手稿的知識庫，代表了伊斯蘭學術體系在撒哈拉以南非洲的深度扎根。",
+      "people": [
+        "曼薩·穆薩 (Mansa Musa)",
+        "艾哈邁德·巴巴 (Ahmad Baba)"
+      ],
+      "tech": [
+        "廷巴克圖手抄本 (Timbuktu manuscripts)"
+      ],
+      "religion": [
+        "伊斯蘭法學 (Islamic jurisprudence)"
+      ],
+      "numericYear": 1324
+    },
+    {
+      "id": "delhi",
+      "name": "德里",
+      "coordinates": [
+        77.209,
+        28.6139
+      ],
+      "description": "印度次大陸的文化大熔爐。莫臥兒帝國在此將波斯的精緻宮廷文化、伊斯蘭的蘇菲派神學，與印度本土的巴克提運動完美融合，催生了人類建築史上的奇蹟——印斯蘭建築。",
+      "people": [
+        "巴布爾 (Babur)",
+        "阿克巴大帝 (Akbar the Great)",
+        "羅摩努闍 (Ramanuja)",
+        "納納克 (Guru Nanak)"
+      ],
+      "tech": [
+        "印斯蘭建築 (Indo-Islamic Architecture)"
+      ],
+      "religion": [
+        "蘇菲與巴克提融合 (Sufi-Bhakti syncretism)",
+        "限定不二論 (Vishishtadvaita)",
+        "蘇菲與巴克提融合 (Sufi-Bhakti Synthesis)",
+        "錫克教 (Sikhism)"
+      ],
+      "numericYear": 1526
+    },
+    {
+      "id": "malacca",
+      "name": "馬六甲",
+      "coordinates": [
+        102.2501,
+        2.1896
+      ],
+      "description": "東南亞季風交匯的咽喉。阿拉伯學者在此傳授『沙斐儀派法學』，而華人移民則與當地馬來人通婚，孕育出結合了中國儒家倫理與東南亞生活方式的『峇峇娘惹文化』。",
+      "people": [
+        "拜里米蘇拉 (Parameswara)",
+        "鄭和 (Zheng He)"
+      ],
+      "tech": [
+        "峇峇娘惹文化 (Peranakan culture)"
+      ],
+      "religion": [
+        "沙斐儀派法學 (Shafi'i jurisprudence)"
+      ],
+      "numericYear": 1400
+    },
+    {
+      "id": "persepolis",
+      "name": "波斯波利斯",
+      "coordinates": [
+        52.8916,
+        29.936
+      ],
+      "description": "阿契美尼德王朝（波斯第一帝國）的禮儀性首都。在西元前五世紀，這裡是橫跨亞非歐三大洲的權力與思想中心，統治著極具多樣性的帝國疆域，也是瑣羅亞斯德教（祆教）的信仰核心。",
+      "people": [
+        "大流士一世 (Darius I)",
+        "薛西斯一世 (Xerxes I)"
+      ],
+      "tech": [
+        "波斯御道 (Royal Road)",
+        "行省制度 (Satrap system)"
+      ],
+      "religion": [
+        "瑣羅亞斯德教 (Zoroastrianism)"
+      ],
+      "numericYear": -500
+    },
+    {
+      "id": "moscow",
+      "name": "莫斯科",
+      "coordinates": [
+        37.6173,
+        55.7558
+      ],
+      "description": "東歐平原的心臟。在金帳汗國的統治下崛起，並在拜占庭帝國滅亡後，以『第三羅馬』自居，成為俄羅斯東正教的絕對中心。",
+      "people": [
+        "伊凡三世 (Ivan III)"
+      ],
+      "tech": [],
+      "religion": [
+        "俄羅斯東正教 (Russian Orthodoxy)"
+      ],
+      "numericYear": 1480
+    },
+    {
+      "id": "miletus",
+      "name": "米利都",
+      "coordinates": [
+        27.278,
+        37.53
+      ],
+      "description": "愛奧尼亞海岸的希臘殖民城邦。西元前6世紀，泰勒斯、阿那克西曼德與阿那克西美尼在此開創了人類史上第一次以『自然原因』而非『神話』來解釋宇宙的嘗試，被譽為西方哲學與科學的絕對起點。",
+      "people": [
+        "泰勒斯 (Thales)",
+        "阿那克西曼德 (Anaximander)",
+        "阿那克西美尼 (Anaximenes)"
+      ],
+      "tech": [],
+      "religion": [
+        "米利都自然哲學 (Milesian Naturalism)",
+        "萬物有靈論批判 (Hylozoism)"
+      ],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "約B.C. 585",
+          "title": "泰勒斯預測日食",
+          "description": "泰勒斯成功預測了一次日蝕，這被認為是人類運用自然規律（而非神諭）預測天象的第一個有記錄的案例，標誌著科學思維的誕生。",
+          "numericYear": -585
+        }
+      ],
+      "numericYear": -600
+    },
+    {
+      "id": "cordoba",
+      "name": "科爾多瓦",
+      "coordinates": [
+        -4.779,
+        37.879
+      ],
+      "description": "安達盧斯（伊斯蘭統治下的伊比利亞半島）的文化首都。10-12世紀，這裡是歐洲最開明的城市之一，擁有歐洲最大的圖書館。伊本·魯世德（阿威羅伊）在此重新詮釋亞里斯多德，直接點燃了基督教歐洲的經院哲學革命。",
+      "people": [
+        "伊本·魯世德 (Averroes/Ibn Rushd)",
+        "邁蒙尼德 (Maimonides)",
+        "伊本·哈茲姆 (Ibn Hazm)"
+      ],
+      "tech": [],
+      "religion": [
+        "阿威羅伊主義 (Averroism)",
+        "安達盧斯跨教共存 (Convivencia)",
+        "伊斯蘭教 (Islam)"
+      ],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "約A.D. 1150-1198",
+          "title": "伊本·魯世德的亞里斯多德大注疏",
+          "description": "伊本·魯世德為亞里斯多德的幾乎所有著作撰寫了極其詳盡的注釋，主張哲學與宗教可以並存。這些注釋被翻譯成拉丁文後傳入巴黎，直接引爆了經院哲學的大辯論。",
+          "numericYear": 1180
+        }
+      ],
+      "numericYear": 1150
+    },
+    {
+      "id": "edinburgh",
+      "name": "愛丁堡",
+      "coordinates": [
+        -3.1883,
+        55.9533
+      ],
+      "description": "蘇格蘭的知識之都。18世紀的蘇格蘭啟蒙運動使愛丁堡成為歐洲最耀眼的思想中心之一。大衛·休謨在此將經驗主義推向極致的懷疑論，亞當·斯密則在此奠定了現代經濟學的基礎。",
+      "people": [
+        "大衛·休謨 (David Hume)",
+        "亞當·斯密 (Adam Smith)",
+        "弗朗西斯·哈奇森 (Francis Hutcheson)"
+      ],
+      "tech": [],
+      "religion": [
+        "蘇格蘭啟蒙運動 (Scottish Enlightenment)",
+        "懷疑論 (Skepticism)",
+        "道德情感論 (Moral Sentimentalism)",
+        "古典經濟學 (Classical Economics)"
+      ],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "A.D. 1739",
+          "title": "休謨出版《人性論》",
+          "description": "休謨在28歲時出版了這部劃時代巨著，徹底否定了因果律的必然性，宣稱人類所有知識都只是『習慣性聯想』而非客觀真理。這部著作『從印刷機上生下來就死了』，但後來震醒了康德。",
+          "numericYear": 1739
+        }
+      ],
+      "numericYear": 1700
+    },
+    {
+      "id": "amsterdam",
+      "name": "阿姆斯特丹",
+      "coordinates": [
+        4.9041,
+        52.3676
+      ],
+      "description": "17世紀荷蘭黃金時代的中心，歐洲宗教寬容的燈塔。因為宗教審查極少，笛卡兒、斯賓諾莎與洛克都曾在此出版他們在其他國家無法出版的激進哲學著作。阿姆斯特丹是近代歐洲思想自由的物理溫床。",
+      "people": [
+        "斯賓諾莎 (Baruch Spinoza)",
+        "笛卡兒 (René Descartes)",
+        "格勞秀斯 (Hugo Grotius)"
+      ],
+      "tech": [
+        "光學儀器 (Optical instruments)"
+      ],
+      "religion": [
+        "泛神論 (Pantheism)",
+        "理性主義 (Rationalism)",
+        "自然權利論 (Natural Rights Theory)"
+      ],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "A.D. 1670",
+          "title": "斯賓諾莎出版《神學政治論》",
+          "description": "斯賓諾莎匿名在阿姆斯特丹出版此書，主張聖經應以歷史批判方法來閱讀，且國家權力不應干涉個人信仰。這本書在全歐洲被禁，但卻深刻影響了啟蒙運動的政教分離思想。",
+          "numericYear": 1670
+        }
+      ],
+      "numericYear": 1600
+    },
+    {
+      "id": "copenhagen",
+      "name": "哥本哈根",
+      "coordinates": [
+        12.5683,
+        55.6761
+      ],
+      "description": "北歐的文化首都。19世紀的齊克果在此以極度個人化的存在焦慮，對黑格爾的龐大理性體系發起了孤獨的反叛，成為存在主義的先驅。20世紀的尼爾斯·波耳也在此建立了量子力學的哥本哈根詮釋。",
+      "people": [
+        "齊克果 (Søren Kierkegaard)",
+        "尼爾斯·波耳 (Niels Bohr)"
+      ],
+      "tech": [
+        "量子力學 (Quantum Mechanics)"
+      ],
+      "religion": [
+        "存在主義 (Existentialism)",
+        "信仰之躍 (Leap of Faith)"
+      ],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "A.D. 1843",
+          "title": "齊克果出版《非此即彼》",
+          "description": "齊克果以筆名出版此書，主張人類的存在不能被黑格爾的理性體系所消解。真正的存在是個人面對上帝時的絕對孤獨與焦慮。這成為20世紀存在主義（沙特、海德格）的直接源頭。",
+          "numericYear": 1843
+        },
+        {
+          "year": "A.D. 1927",
+          "title": "哥本哈根詮釋",
+          "description": "波耳與海森堡在此確立了量子力學的『哥本哈根詮釋』，引入了不確定性原理與機率波概念，徹底顛覆了古典決定論。",
+          "numericYear": 1927
+        }
+      ],
+      "numericYear": 1840
+    },
+    {
+      "id": "dunhuang",
+      "name": "敦煌",
+      "coordinates": [
+        94.662,
+        40.142
+      ],
+      "description": "絲綢之路上的咽喉重鎮與文化交匯點。西元4至11世紀，這裡是佛教從印度、中亞傳入中原的最重要樞紐。莫高窟的藏經洞保存了無數經卷，見證了中國化佛教（如禪宗、淨土宗）的發展，也是多種文化與宗教（摩尼教、景教）共存的聖地。",
+      "people": [
+        "樂尊 (Lezun)",
+        "玄奘 (Xuanzang)"
+      ],
+      "tech": [],
+      "religion": [
+        "般若學 (Prajna)",
+        "中國化佛教 (Sinicized Buddhism)",
+        "宗教融合 (Religious syncretism)"
+      ],
+      "infrastructure": [
+        "莫高窟 (Mogao Caves)"
+      ],
+      "events": [
+        {
+          "year": "A.D. 366",
+          "title": "莫高窟開鑿",
+          "description": "僧人樂尊在鳴沙山東麓開鑿了第一個洞窟，隨後數百年間，敦煌成為佛教藝術與譯經的中心。",
+          "numericYear": 366
+        }
+      ],
+      "numericYear": 400
+    },
+    {
+      "id": "edo",
+      "name": "江戶 (東京)",
+      "coordinates": [
+        139.6917,
+        35.6895
+      ],
+      "description": "德川幕府時代的日本政治與文化中心。17至19世紀，宋明理學（特別是朱子學）成為幕府的官方意識形態，而陽明學則成為幕末維新志士（如吉田松陰）的思想武器，推動了明治維新的爆發。",
+      "people": [
+        "林羅山 (Hayashi Razan)",
+        "中江藤樹 (Nakae Toju)",
+        "吉田松陰 (Yoshida Shoin)"
+      ],
+      "tech": [],
+      "religion": [
+        "日本朱子學 (Japanese Neo-Confucianism)",
+        "日本陽明學 (Japanese Yangmingism)"
+      ],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "A.D. 1850s",
+          "title": "陽明學與幕末維新",
+          "description": "王陽明『知行合一』的思想深刻影響了幕末的下級武士，他們將心學轉化為推翻幕府、尊王攘夷的革命動力。",
+          "numericYear": 1850
+        }
+      ],
+      "numericYear": 1600
+    },
+    {
+      "id": "varanasi",
+      "name": "瓦拉納西",
+      "coordinates": [
+        82.9739,
+        25.3176
+      ],
+      "description": "印度教最神聖的城市，位於恆河畔。自西元前一千年起，這裡是婆羅門教與《奧義書》哲學的核心發源地。商羯羅等大哲學家都曾在此進行辯論，奠定了印度教吠檀多哲學的正統地位。",
+      "people": [
+        "商羯羅 (Adi Shankara)",
+        "迦比爾 (Kabir)"
+      ],
+      "tech": [],
+      "religion": [
+        "奧義書哲學 (Upanishadic Philosophy)",
+        "不二論 (Advaita Vedanta)",
+        "蘇菲與巴克提融合 (Sufi-Bhakti Synthesis)",
+        "印度教 (Hinduism)"
+      ],
+      "infrastructure": [
+        "鹿野苑 (Sarnath)"
+      ],
+      "events": [
+        {
+          "year": "B.C. 8-6世紀",
+          "title": "奧義書的編纂",
+          "description": "婆羅門學者在森林與聖城中探討宇宙的終極真實（梵）與個人靈魂（我）的關係，標誌著印度從祭祀宗教轉向深刻的哲學思辨。",
+          "numericYear": -700
+        }
+      ],
+      "numericYear": -800
+    },
+    {
+      "id": "nalanda",
+      "name": "那爛陀",
+      "coordinates": [
+        85.444,
+        25.136
+      ],
+      "description": "古代印度規模最宏大、學術水平最高的佛教最高學府（西元5-12世紀）。大乘佛教的中觀派（龍樹）與唯識派（無著）在此發展出極度複雜的認識論體系。玄奘與義淨等中國高僧皆曾在此留學。",
+      "people": [
+        "龍樹 (Nagarjuna)",
+        "無著 (Asanga)",
+        "世親 (Vasubandhu)"
+      ],
+      "tech": [],
+      "religion": [
+        "龍樹中觀學 (Madhyamaka)",
+        "無著唯識學 (Yogacara)",
+        "大乘佛教 (Mahayana Buddhism)",
+        "密教 (Vajrayana)"
+      ],
+      "infrastructure": [
+        "那爛陀寺 (Nalanda Mahavihara)"
+      ],
+      "events": [
+        {
+          "year": "A.D. 2-4世紀",
+          "title": "大乘佛教哲學的系統化",
+          "description": "龍樹與無著將早期佛教的空性思想與心理學發展為嚴密的哲學體系（中觀與唯識），成為後來整個東亞佛教的理論基石。",
+          "numericYear": 300
+        }
+      ],
+      "numericYear": 300
+    },
+    {
+      "id": "bianjing",
+      "name": "汴京 (開封)",
+      "coordinates": [
+        114.341,
+        34.797
+      ],
+      "description": "北宋首都，11世紀全球最大、最繁華的都市。這裡是中國古代四大發明中『活字印刷』與『指南針』首次被大規模記載與應用的地方，代表了中國古代科技與商業的最高峰。",
+      "people": [
+        "畢昇 (Bi Sheng)",
+        "沈括 (Shen Kuo)"
+      ],
+      "tech": [
+        "活字印刷術 (Movable Type Printing)",
+        "指南針 (Magnetic Compass)"
+      ],
+      "religion": [],
+      "infrastructure": [
+        "清明上河圖描繪的繁華市集"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1040s",
+          "title": "活字印刷術發明",
+          "description": "畢昇發明了膠泥活字印刷，這是人類印刷史上一次偉大的技術革命。",
+          "numericYear": 1040
+        }
+      ],
+      "numericYear": 1000
+    },
+    {
+      "id": "lisbon",
+      "name": "里斯本",
+      "coordinates": [
+        -9.139,
+        38.722
+      ],
+      "description": "15至16世紀大航海時代的先驅城市。在恩里克王子的推動下，葡萄牙匯集了歐洲與阿拉伯的航海技術、地圖學與造船術，開啟了人類歷史上第一次真正的全球化進程。",
+      "people": [
+        "恩里克王子 (Prince Henry the Navigator)",
+        "瓦斯科·達伽馬 (Vasco da Gama)"
+      ],
+      "tech": [
+        "大航海時代 (Age of Discovery)",
+        "卡拉維爾帆船 (Caravel)"
+      ],
+      "religion": [],
+      "infrastructure": [
+        "薩格里什航海學校 (Sagres School)"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1498",
+          "title": "達伽馬抵達印度",
+          "description": "葡萄牙船隊繞過好望角抵達印度，徹底打破了阿拉伯人與威尼斯人對香料貿易的壟斷，全球貿易重心從地中海轉向大西洋。",
+          "numericYear": 1498
+        }
+      ],
+      "numericYear": 1400
+    },
+    {
+      "id": "mainz",
+      "name": "美因茲",
+      "coordinates": [
+        8.277,
+        49.992
+      ],
+      "description": "神聖羅馬帝國城市，西方活字印刷術的誕生地。古騰堡在此發明了金屬活字印刷機，徹底改變了知識在歐洲的傳播方式，直接催生了宗教改革與科學革命。",
+      "people": [
+        "古騰堡 (Johannes Gutenberg)"
+      ],
+      "tech": [
+        "古騰堡印刷機 (Gutenberg Press)"
+      ],
+      "religion": [],
+      "infrastructure": [],
+      "events": [
+        {
+          "year": "A.D. 1455",
+          "title": "古騰堡聖經出版",
+          "description": "第一批使用金屬活字印刷的《四十二行聖經》在美因茲問世，標誌著歐洲進入了大眾傳播時代。",
+          "numericYear": 1455
+        }
+      ],
+      "numericYear": 1450
+    },
+    {
+      "id": "leipzig",
+      "name": "萊比錫",
+      "coordinates": [
+        12.373,
+        51.339
+      ],
+      "description": "19世紀德國的學術與出版中心。這裡是現代實驗心理學的誕生地，威廉·馮特在此建立了世界上第一個心理學實驗室，將心理學從哲學中獨立出來成為一門科學。",
+      "people": [
+        "威廉·馮特 (Wilhelm Wundt)"
+      ],
+      "tech": [],
+      "religion": [
+        "實驗心理學 (Experimental Psychology)"
+      ],
+      "infrastructure": [
+        "萊比錫大學心理學實驗室"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1879",
+          "title": "建立首個心理學實驗室",
+          "description": "馮特在萊比錫大學建立了第一個正式的心理學實驗室，標誌著科學心理學的正式誕生。",
+          "numericYear": 1879
+        }
+      ],
+      "numericYear": 1850
+    },
+    {
+      "id": "vienna",
+      "name": "維也納",
+      "coordinates": [
+        16.373,
+        48.208
+      ],
+      "description": "19世紀末歐洲的文化與音樂之都，也是精神分析學派的發源地。同時，在物理學與經濟學領域（維也納學派），這裡也孕育了深刻影響20世紀的現代思想。",
+      "people": [
+        "西格蒙德·佛洛伊德 (Sigmund Freud)",
+        "路德維希·波茲曼 (Ludwig Boltzmann)",
+        "路德維希·維根斯坦 (Ludwig Wittgenstein)"
+      ],
+      "tech": [
+        "統計力學 (Statistical Mechanics)"
+      ],
+      "religion": [
+        "精神分析學 (Psychoanalysis)",
+        "邏輯實證主義 (Logical Positivism)"
+      ],
+      "infrastructure": [
+        "維也納環城大道 (Ringstraße)"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1899",
+          "title": "《夢的解析》出版",
+          "description": "佛洛伊德出版了《夢的解析》，揭示了人類潛意識的運作機制，震撼了整個西方的思想界與藝術界。",
+          "numericYear": 1899
+        }
+      ],
+      "numericYear": 1880
+    },
+    {
+      "id": "manchester",
+      "name": "曼徹斯特",
+      "coordinates": [
+        -2.242,
+        53.48
+      ],
+      "description": "世界上第一座工業化城市，被稱為『棉都』。這裡見證了工業革命帶來的巨大生產力，也暴露出極端的貧富差距，促使恩格斯與馬克思在此進行了深入的工人階級調查。",
+      "people": [
+        "弗里德里希·恩格斯 (Friedrich Engels)"
+      ],
+      "tech": [
+        "鐵路運輸系統 (Railway System)"
+      ],
+      "religion": [
+        "馬克思主義政治經濟學 (Marxist Political Economy)"
+      ],
+      "infrastructure": [
+        "利物浦至曼徹斯特鐵路 (Liverpool and Manchester Railway)"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1830",
+          "title": "首條客運鐵路通車",
+          "description": "利物浦至曼徹斯特鐵路通車，標誌著人類進入了鐵道時代，徹底改變了物流與時間空間的概念。",
+          "numericYear": 1830
+        }
+      ],
+      "numericYear": 1800
+    },
+    {
+      "id": "silicon_valley",
+      "name": "矽谷",
+      "coordinates": [
+        -122.084,
+        37.386
+      ],
+      "description": "20世紀下半葉崛起的全球科技中心。從半導體、個人電腦到網際網路與人工智慧，這裡匯集了全球最頂尖的工程師與風險資本，徹底改變了人類社會的運作方式。",
+      "people": [],
+      "tech": [
+        "電腦科學 (Computer Science)",
+        "網際網路 (Internet)",
+        "人工智慧 (Artificial Intelligence)"
+      ],
+      "religion": [],
+      "infrastructure": [
+        "史丹佛大學與無數科技園區"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1969",
+          "title": "ARPANET誕生",
+          "description": "人類史上第一個封包交換網路ARPANET（網際網路前身）在此成功傳送了第一個訊息，開啟了數位時代。",
+          "numericYear": 1969
+        }
+      ],
+      "numericYear": 1950
+    },
+    {
+      "id": "cambridge_uk",
+      "name": "劍橋 (英國)",
+      "coordinates": [
+        0.121,
+        52.205
+      ],
+      "description": "英國歷史最悠久的大學城之一。在20世紀，這裡成為了現代生物學與計算機科學的聖地，見證了DNA雙螺旋結構的發現與圖靈機概念的誕生。",
+      "people": [
+        "艾倫·圖靈 (Alan Turing)",
+        "詹姆斯·華生 (James Watson)"
+      ],
+      "tech": [
+        "DNA雙螺旋結構 (DNA Double Helix)"
+      ],
+      "religion": [
+        "分析哲學 (Analytic Philosophy)"
+      ],
+      "infrastructure": [
+        "卡文迪許實驗室 (Cavendish Laboratory)"
+      ],
+      "events": [
+        {
+          "year": "A.D. 1953",
+          "title": "發現DNA結構",
+          "description": "華生與克里克在劍橋卡文迪許實驗室解開了生命遺傳的密碼——DNA雙螺旋結構，現代分子生物學由此誕生。",
+          "numericYear": 1953
+        }
+      ],
+      "numericYear": 1900
+    }
+  ],
+  "routes": [
+    {
+      "source": "changan",
+      "target": "kashgar",
+      "label": "張騫出使西域與鑿空",
+      "type": "people",
+      "numericYear": 0
+    },
+    {
+      "source": "changan",
+      "target": "kyoto",
+      "label": "遣唐使引進律令制與建築",
+      "type": "people",
+      "numericYear": 700
+    },
+    {
+      "source": "venice",
+      "target": "constantinople",
+      "label": "馬可波羅家族東行啟程",
+      "type": "people",
+      "numericYear": 1271
+    },
+    {
+      "source": "constantinople",
+      "target": "tabriz",
+      "label": "穿越伊兒汗國核心區",
+      "type": "people",
+      "numericYear": 1272
+    },
+    {
+      "source": "tabriz",
+      "target": "kashgar",
+      "label": "翻越帕米爾高原",
+      "type": "people",
+      "numericYear": 1273
+    },
+    {
+      "source": "kashgar",
+      "target": "dadu",
+      "label": "抵達元大都覲見忽必烈",
+      "type": "people",
+      "numericYear": 1275
+    },
+    {
+      "source": "dadu",
+      "target": "baghdad",
+      "label": "景教僧侶的朝聖之旅",
+      "type": "people",
+      "numericYear": 1275
+    },
+    {
+      "source": "baghdad",
+      "target": "constantinople",
+      "label": "出使拜占庭帝國",
+      "type": "people",
+      "numericYear": 1287
+    },
+    {
+      "source": "constantinople",
+      "target": "rome",
+      "label": "晉見教宗展開神學對話",
+      "type": "people",
+      "numericYear": 1288
+    },
+    {
+      "source": "rome",
+      "target": "paris",
+      "label": "會見法王尋求軍事同盟",
+      "type": "people",
+      "numericYear": 1288
+    },
+    {
+      "source": "paris",
+      "target": "bordeaux",
+      "label": "會見英王愛德華一世",
+      "type": "people",
+      "numericYear": 1289
+    },
+    {
+      "source": "alexandria",
+      "target": "baghdad",
+      "label": "朝覲與探索伊斯蘭核心區",
+      "type": "people",
+      "numericYear": 1326
+    },
+    {
+      "source": "baghdad",
+      "target": "samarqand",
+      "label": "深入中亞察合台汗國",
+      "type": "people",
+      "numericYear": 1333
+    },
+    {
+      "source": "samarqand",
+      "target": "quanzhou",
+      "label": "橫跨印度抵達元朝泉州港",
+      "type": "people",
+      "numericYear": 1345
+    },
+    {
+      "source": "quanzhou",
+      "target": "dadu",
+      "label": "北上元大都",
+      "type": "people",
+      "numericYear": 1346
+    },
+    {
+      "source": "rome",
+      "target": "sarai",
+      "label": "教宗使節出使金帳汗國",
+      "type": "people",
+      "numericYear": 1245
+    },
+    {
+      "source": "sarai",
+      "target": "karakorum",
+      "label": "抵達哈拉和林見證大汗登基",
+      "type": "people",
+      "numericYear": 1246
+    },
+    {
+      "source": "changan",
+      "target": "samarqand",
+      "label": "怛羅斯之戰與造紙匠西行",
+      "type": "tech",
+      "numericYear": 751
+    },
+    {
+      "source": "samarqand",
+      "target": "baghdad",
+      "label": "阿拉伯帝國引進造紙術",
+      "type": "tech",
+      "numericYear": 793
+    },
+    {
+      "source": "baghdad",
+      "target": "alexandria",
+      "label": "紙張取代莎草紙席捲北非",
+      "type": "tech",
+      "numericYear": 900
+    },
+    {
+      "source": "alexandria",
+      "target": "paris",
+      "label": "造紙術經由西班牙傳入歐洲腹地",
+      "type": "tech",
+      "numericYear": 1150
+    },
+    {
+      "source": "dadu",
+      "target": "tabriz",
+      "label": "紙幣與雕版印刷術傳入波斯",
+      "type": "tech",
+      "numericYear": 1294
+    },
+    {
+      "source": "maragha",
+      "target": "tabriz",
+      "label": "觀象台儀器與數據轉移",
+      "type": "tech",
+      "numericYear": 1260
+    },
+    {
+      "source": "tabriz",
+      "target": "dadu",
+      "label": "札馬魯丁進獻阿拉伯天文儀器",
+      "type": "tech",
+      "numericYear": 1267
+    },
+    {
+      "source": "maragha",
+      "target": "constantinople",
+      "label": "圖西雙圓模型傳入拜占庭",
+      "type": "tech",
+      "numericYear": 1300
+    },
+    {
+      "source": "constantinople",
+      "target": "rome",
+      "label": "拜占庭學者攜帶古希臘文獻與阿拉伯科學逃亡義大利",
+      "type": "tech",
+      "numericYear": 1453
+    },
+    {
+      "source": "nanjing",
+      "target": "quanzhou",
+      "label": "寶船艦隊集結與出航",
+      "type": "tech",
+      "numericYear": 1405
+    },
+    {
+      "source": "quanzhou",
+      "target": "quilon",
+      "label": "水密隔艙與羅盤導航橫跨印度洋",
+      "type": "tech",
+      "numericYear": 1405
+    },
+    {
+      "source": "quilon",
+      "target": "alexandria",
+      "label": "船隊抵達紅海與天方地區",
+      "type": "tech",
+      "numericYear": 1415
+    },
+    {
+      "source": "london",
+      "target": "paris",
+      "label": "蒸汽機與工業革命技術擴散",
+      "type": "tech",
+      "numericYear": 1800
+    },
+    {
+      "source": "paris",
+      "target": "rome",
+      "label": "鐵路網絡席捲歐洲大陸",
+      "type": "tech",
+      "numericYear": 1850
+    },
+    {
+      "source": "kashgar",
+      "target": "changan",
+      "label": "西域高僧東來與佛典翻譯",
+      "type": "religion",
+      "numericYear": 100
+    },
+    {
+      "source": "changan",
+      "target": "kyoto",
+      "label": "大乘佛教與禪宗傳入日本",
+      "type": "religion",
+      "numericYear": 750
+    },
+    {
+      "source": "baghdad",
+      "target": "samarqand",
+      "label": "東方教會向中亞擴張",
+      "type": "religion",
+      "numericYear": 600
+    },
+    {
+      "source": "samarqand",
+      "target": "changan",
+      "label": "景教碑建立：大秦景教流行中國",
+      "type": "religion",
+      "numericYear": 635
+    },
+    {
+      "source": "alexandria",
+      "target": "baghdad",
+      "label": "希臘古典哲學移入伊斯蘭智慧之家",
+      "type": "religion",
+      "numericYear": 800
+    },
+    {
+      "source": "baghdad",
+      "target": "nishapur",
+      "label": "蘇菲派神學與哲學的區域共鳴",
+      "type": "religion",
+      "numericYear": 900
+    },
+    {
+      "source": "constantinople",
+      "target": "rome",
+      "label": "佛羅倫斯大公會議帶來新柏拉圖主義",
+      "type": "religion",
+      "numericYear": 1439
+    },
+    {
+      "source": "paris",
+      "target": "constantinople",
+      "label": "魯不魯乞使團東行",
+      "type": "religion",
+      "numericYear": 1253
+    },
+    {
+      "source": "constantinople",
+      "target": "karakorum",
+      "label": "哈拉和林跨信仰神學大辯論",
+      "type": "religion",
+      "numericYear": 1254
+    },
+    {
+      "source": "rome",
+      "target": "paris",
+      "label": "經院哲學在大學間的交流",
+      "type": "religion",
+      "numericYear": 1200
+    },
+    {
+      "source": "ani",
+      "target": "tiflis",
+      "label": "高加索東正教與亞美尼亞教會網絡",
+      "type": "religion",
+      "numericYear": 1000
+    },
+    {
+      "source": "kashgar",
+      "target": "bukhara",
+      "label": "伊斯蘭教在中亞綠洲的傳播與融合",
+      "type": "religion",
+      "numericYear": 1100
+    },
+    {
+      "source": "rome",
+      "target": "quanzhou",
+      "label": "耶穌會士航向遠東",
+      "type": "religion",
+      "numericYear": 1582
+    },
+    {
+      "source": "quanzhou",
+      "target": "nanjing",
+      "label": "利瑪竇在南京的儒耶對話",
+      "type": "religion",
+      "numericYear": 1595
+    },
+    {
+      "source": "nanjing",
+      "target": "dadu",
+      "label": "西方幾何學與世界地圖傳入北京",
+      "type": "religion",
+      "numericYear": 1601
+    },
+    {
+      "source": "luoyang",
+      "target": "changan",
+      "label": "造紙術普及",
+      "type": "tech",
+      "numericYear": 105
+    },
+    {
+      "source": "changan",
+      "target": "talas",
+      "label": "怛羅斯之役造紙匠西行",
+      "type": "tech",
+      "numericYear": 751
+    },
+    {
+      "source": "kashgar",
+      "target": "luoyang",
+      "label": "佛教正式傳入中原",
+      "type": "religion",
+      "numericYear": 68
+    },
+    {
+      "source": "athens",
+      "target": "alexandria",
+      "label": "亞歷山大軍事征服：希臘學者與典籍隨軍東移",
+      "type": "tech",
+      "numericYear": -300
+    },
+    {
+      "source": "athens",
+      "target": "rome",
+      "label": "斯多葛學派書籍傳入羅馬：西塞羅吸收轉化為自然法",
+      "type": "religion",
+      "numericYear": -106
+    },
+    {
+      "source": "athens",
+      "target": "baghdad",
+      "label": "雅典學院關閉與學者流亡波斯",
+      "type": "religion",
+      "numericYear": 529
+    },
+    {
+      "source": "jerusalem",
+      "target": "rome",
+      "label": "基督教傳入羅馬帝國核心",
+      "type": "religion",
+      "numericYear": 30
+    },
+    {
+      "source": "rome",
+      "target": "constantinople",
+      "label": "羅馬帝國分裂與東西教會分歧",
+      "type": "religion",
+      "numericYear": 395
+    },
+    {
+      "source": "constantinople",
+      "target": "kiev",
+      "label": "東正教傳入斯拉夫世界",
+      "type": "religion",
+      "numericYear": 988
+    },
+    {
+      "source": "mecca",
+      "target": "medina",
+      "label": "穆罕默德遷徙 (徙志)",
+      "type": "religion",
+      "numericYear": 622
+    },
+    {
+      "source": "mecca",
+      "target": "jerusalem",
+      "label": "伊斯蘭教早期擴張",
+      "type": "religion",
+      "numericYear": 639
+    },
+    {
+      "source": "baghdad",
+      "target": "bordeaux",
+      "label": "伊斯蘭勢力與學術進入西班牙",
+      "type": "religion",
+      "numericYear": 711
+    },
+    {
+      "source": "nishapur",
+      "target": "changan",
+      "label": "摩尼教(明教)東傳唐朝",
+      "type": "religion",
+      "numericYear": 694
+    },
+    {
+      "source": "aachen",
+      "target": "rome",
+      "label": "查理曼加冕與西歐教權確立",
+      "type": "people",
+      "numericYear": 800
+    },
+    {
+      "source": "wittenberg",
+      "target": "rome",
+      "label": "宗教改革衝擊天主教會",
+      "type": "religion",
+      "numericYear": 1517
+    },
+    {
+      "source": "geneva",
+      "target": "paris",
+      "label": "喀爾文教派影響法國胡格諾派",
+      "type": "religion",
+      "numericYear": 1562
+    },
+    {
+      "source": "geneva",
+      "target": "london",
+      "label": "清教徒主義傳入英國",
+      "type": "religion",
+      "numericYear": 1563
+    },
+    {
+      "source": "london",
+      "target": "boston",
+      "label": "五月花號：清教徒與契約思想傳入美洲",
+      "type": "religion",
+      "numericYear": 1620
+    },
+    {
+      "source": "madrid",
+      "target": "manila",
+      "label": "麥哲倫環球與西班牙控制菲律賓",
+      "type": "people",
+      "numericYear": 1571
+    },
+    {
+      "source": "manila",
+      "target": "quanzhou",
+      "label": "馬尼拉大帆船帶來白銀與美洲農作物",
+      "type": "tech",
+      "numericYear": 1572
+    },
+    {
+      "source": "rome",
+      "target": "macau",
+      "label": "耶穌會士東來抵達遠東",
+      "type": "religion",
+      "numericYear": 1582
+    },
+    {
+      "source": "macau",
+      "target": "dadu",
+      "label": "利瑪竇將歐洲科學傳入北京",
+      "type": "tech",
+      "numericYear": 1601
+    },
+    {
+      "source": "warsaw",
+      "target": "rome",
+      "label": "哥白尼日心說對經院神學的挑戰",
+      "type": "tech",
+      "numericYear": 1543
+    },
+    {
+      "source": "london",
+      "target": "paris",
+      "label": "牛頓力學與工業革命技術傳播至歐洲大陸",
+      "type": "tech",
+      "numericYear": 1769
+    },
+    {
+      "source": "paris",
+      "target": "boston",
+      "label": "法國啟蒙思想催化美國獨立宣言",
+      "type": "religion",
+      "numericYear": 1776
+    },
+    {
+      "source": "boston",
+      "target": "paris",
+      "label": "美國革命反向催生法國大革命",
+      "type": "religion",
+      "numericYear": 1789
+    },
+    {
+      "source": "jamestown",
+      "target": "london",
+      "label": "菸草與美洲農作物傳入歐洲",
+      "type": "tech",
+      "numericYear": 1613
+    },
+    {
+      "source": "madrid",
+      "target": "cahokia",
+      "label": "西班牙探險隊登陸美洲：攜帶天花與麻疹重創原住民",
+      "type": "people",
+      "numericYear": 1500
+    },
+    {
+      "source": "london",
+      "target": "philadelphia",
+      "label": "貴格會與宗教寬容思想移植北美",
+      "type": "religion",
+      "numericYear": 1681
+    },
+    {
+      "source": "boston",
+      "target": "philadelphia",
+      "label": "北美十三州代表齊聚：清教徒契約論演化為美國憲政",
+      "type": "religion",
+      "numericYear": 1787
+    },
+    {
+      "source": "philadelphia",
+      "target": "paris",
+      "label": "《獨立宣言》思想催化法國大革命",
+      "type": "religion",
+      "numericYear": 1789
+    },
+    {
+      "source": "new_york",
+      "target": "london",
+      "label": "鍍金時代：美國工業化反哺歐洲",
+      "type": "tech",
+      "numericYear": 1870
+    },
+    {
+      "source": "athens",
+      "target": "alexandria",
+      "label": "亞歷山大軍事征服：希臘學者與典籍隨軍東移",
+      "type": "people",
+      "numericYear": -334
+    },
+    {
+      "source": "alexandria",
+      "target": "magadha",
+      "label": "希臘化大夏王國：希臘工匠雕塑技法傳入印度",
+      "type": "religion",
+      "numericYear": -300
+    },
+    {
+      "source": "xianyang",
+      "target": "qufu",
+      "label": "秦滅六國：小篆與度量衡實體推廣至關東舊地",
+      "type": "tech",
+      "numericYear": -221
+    },
+    {
+      "source": "athens",
+      "target": "rome",
+      "label": "斯多葛學派書籍傳入羅馬：西塞羅吸收轉化為自然法",
+      "type": "religion",
+      "numericYear": -106
+    },
+    {
+      "source": "magadha",
+      "target": "baghdad",
+      "label": "印度數字與『零』傳入伊斯蘭智慧之家",
+      "type": "tech",
+      "numericYear": 773
+    },
+    {
+      "source": "baghdad",
+      "target": "rome",
+      "label": "花拉子米《代數學》被翻譯為拉丁文傳入歐洲",
+      "type": "tech",
+      "numericYear": 1145
+    },
+    {
+      "source": "constantinople",
+      "target": "florence",
+      "label": "拜占庭滅亡：學者攜帶古希臘原稿引爆文藝復興",
+      "type": "people",
+      "numericYear": 1453
+    },
+    {
+      "source": "bukhara",
+      "target": "paris",
+      "label": "伊本·西那《醫學典範》成為歐洲中世紀大學標準教材",
+      "type": "tech",
+      "numericYear": 1150
+    },
+    {
+      "source": "london",
+      "target": "boston",
+      "label": "《大憲章》限制君權思想跨越大西洋成為美國獨立基石",
+      "type": "religion",
+      "numericYear": 1776
+    },
+    {
+      "source": "berlin",
+      "target": "london",
+      "label": "馬克思流亡倫敦寫作《資本論》",
+      "type": "religion",
+      "numericYear": 1849
+    },
+    {
+      "source": "paris",
+      "target": "berlin",
+      "label": "法國啟蒙理性激發德國觀念論",
+      "type": "religion",
+      "numericYear": 1781
+    },
+    {
+      "source": "mexico_city",
+      "target": "madrid",
+      "label": "美洲農學西傳：玉米與馬鈴薯的植物學轉移",
+      "type": "tech",
+      "numericYear": 1550
+    },
+    {
+      "source": "madrid",
+      "target": "mexico_city",
+      "label": "化學冶金技術輸入：水銀齊化法（庭院提銀法）",
+      "type": "tech",
+      "numericYear": 1554
+    },
+    {
+      "source": "mecca",
+      "target": "timbuktu",
+      "label": "伊斯蘭學術與法學體系傳入西非",
+      "type": "religion",
+      "numericYear": 1324
+    },
+    {
+      "source": "samarqand",
+      "target": "delhi",
+      "label": "波斯-突厥文化與幾何建築學傳入南亞",
+      "type": "tech",
+      "numericYear": 1526
+    },
+    {
+      "source": "baghdad",
+      "target": "malacca",
+      "label": "沙斐儀派法學隨季風傳入東南亞",
+      "type": "religion",
+      "numericYear": 1414
+    },
+    {
+      "source": "quanzhou",
+      "target": "malacca",
+      "label": "中國儒家倫理與海洋技術的南遷大融合",
+      "type": "tech",
+      "numericYear": 1405
+    },
+    {
+      "source": "persepolis",
+      "target": "athens",
+      "label": "波希戰爭文化衝擊：西方客觀歷史學誕生",
+      "type": "religion",
+      "numericYear": -490
+    },
+    {
+      "source": "persepolis",
+      "target": "athens",
+      "label": "標準金屬貨幣制度與經濟模式西傳",
+      "type": "tech",
+      "numericYear": -500
+    },
+    {
+      "source": "persepolis",
+      "target": "magadha",
+      "label": "波斯行省制度與石柱雕刻藝術東傳",
+      "type": "tech",
+      "numericYear": -500
+    },
+    {
+      "source": "miletus",
+      "target": "athens",
+      "label": "愛奧尼亞→雅典 自然哲學西傳",
+      "year": "B.C. 5世紀",
+      "type": "religion",
+      "numericYear": -480,
+      "description": "米利都被波斯毀滅後，愛奧尼亞學者遷往雅典，將自然哲學傳統帶入古典時代。"
+    },
+    {
+      "source": "athens",
+      "target": "alexandria",
+      "label": "雅典→亞歷山大港 希臘哲學東傳",
+      "year": "B.C. 3世紀",
+      "type": "religion",
+      "numericYear": -280,
+      "description": "亞歷山大大帝征服後，雅典學者前往新建的亞歷山大城，在此將柏拉圖哲學與東方神秘主義融合為新柏拉圖主義。"
+    },
+    {
+      "source": "athens",
+      "target": "rome",
+      "label": "雅典→羅馬 斯多葛主義傳入",
+      "year": "B.C. 2世紀",
+      "type": "religion",
+      "numericYear": -150,
+      "description": "羅馬征服希臘後，大量希臘哲學家被帶往羅馬，斯多葛主義成為羅馬精英的核心倫理信仰。"
+    },
+    {
+      "source": "alexandria",
+      "target": "rome",
+      "label": "亞歷山大港→羅馬 教父哲學整合",
+      "year": "A.D. 4世紀",
+      "type": "religion",
+      "numericYear": 400,
+      "description": "奧古斯丁吸收了普羅提諾的新柏拉圖主義，在北非與羅馬世界建立了基督教神學的哲學根基。"
+    },
+    {
+      "source": "athens",
+      "target": "baghdad",
+      "label": "雅典→巴格達 百年翻譯運動",
+      "year": "A.D. 8-10世紀",
+      "type": "religion",
+      "numericYear": 830,
+      "description": "阿拔斯王朝的百年翻譯運動，將亞里斯多德、柏拉圖等希臘典籍系統性翻譯為阿拉伯文，催生了伊斯蘭哲學。"
+    },
+    {
+      "source": "baghdad",
+      "target": "cordoba",
+      "label": "巴格達→科爾多瓦 伊斯蘭哲學西傳",
+      "year": "A.D. 10世紀",
+      "type": "religion",
+      "numericYear": 950,
+      "description": "伊斯蘭帝國的東方學術中心經北非傳入伊比利亞半島，使科爾多瓦成為歐洲接觸亞里斯多德的窗口。"
+    },
+    {
+      "source": "cordoba",
+      "target": "paris",
+      "label": "科爾多瓦→巴黎 阿威羅伊主義引爆經院哲學",
+      "year": "A.D. 12-13世紀",
+      "type": "religion",
+      "numericYear": 1220,
+      "description": "伊本·魯世德的亞里斯多德注疏被翻譯為拉丁文，傳入巴黎大學，引爆了信仰與理性的大辯論，催生了托馬斯·阿奎那的經院哲學綜合。"
+    },
+    {
+      "source": "rome",
+      "target": "florence",
+      "label": "羅馬→佛羅倫斯 拜占庭學者攜帶柏拉圖手稿",
+      "year": "A.D. 15世紀",
+      "type": "religion",
+      "numericYear": 1450,
+      "description": "1453年君士坦丁堡陷落後，大量拜占庭學者攜帶希臘原典逃往義大利，在佛羅倫斯引爆了柏拉圖主義的復興與人文主義運動。"
+    },
+    {
+      "source": "paris",
+      "target": "amsterdam",
+      "label": "巴黎→阿姆斯特丹 笛卡兒流亡出版",
+      "year": "A.D. 17世紀",
+      "type": "religion",
+      "numericYear": 1640,
+      "description": "笛卡兒為逃避法國宗教審查，移居荷蘭共和國，在阿姆斯特丹的出版自由環境中發表了他最重要的哲學著作。"
+    },
+    {
+      "source": "london",
+      "target": "edinburgh",
+      "label": "倫敦→愛丁堡 經驗主義北傳蘇格蘭",
+      "year": "A.D. 18世紀",
+      "type": "religion",
+      "numericYear": 1730,
+      "description": "洛克的經驗主義思想從英格蘭北傳蘇格蘭，在愛丁堡被休謨推向懷疑論的極致，並催生了蘇格蘭啟蒙運動。"
+    },
+    {
+      "source": "edinburgh",
+      "target": "berlin",
+      "label": "愛丁堡→柏林 休謨震醒康德",
+      "year": "A.D. 18世紀",
+      "type": "religion",
+      "numericYear": 1770,
+      "description": "休謨的懷疑論著作傳入普魯士，將康德從『獨斷的沉睡中喚醒』，促使康德撰寫了《純粹理性批判》，試圖調和理性主義與經驗主義。"
+    },
+    {
+      "source": "berlin",
+      "target": "london",
+      "label": "柏林→倫敦 馬克思流亡倫敦",
+      "year": "A.D. 1849",
+      "type": "religion",
+      "numericYear": 1849,
+      "description": "馬克思在柏林吸收了黑格爾辯證法與費爾巴哈唯物主義後，因革命失敗流亡倫敦，在大英博物館圖書室撰寫了《資本論》。"
+    },
+    {
+      "source": "paris",
+      "target": "copenhagen",
+      "label": "巴黎→哥本哈根 黑格爾主義的反叛",
+      "year": "A.D. 19世紀",
+      "type": "religion",
+      "numericYear": 1840,
+      "description": "黑格爾哲學席捲歐洲學術界，齊克果在哥本哈根以極度個人化的信仰體驗對抗這套龐大的理性體系，開創了存在主義先聲。"
+    },
+    {
+      "source": "amsterdam",
+      "target": "paris",
+      "label": "阿姆斯特丹→巴黎 斯賓諾莎影響啟蒙",
+      "year": "A.D. 18世紀",
+      "type": "religion",
+      "numericYear": 1720,
+      "description": "斯賓諾莎的泛神論與聖經批判著作從荷蘭流入法國，深刻影響了伏爾泰、狄德羅等啟蒙思想家。"
+    },
+    {
+      "source": "florence",
+      "target": "paris",
+      "label": "佛羅倫斯→巴黎 人文主義北傳",
+      "year": "A.D. 16世紀",
+      "type": "religion",
+      "numericYear": 1530,
+      "description": "義大利戰爭期間，法國國王邀請了大量佛羅倫斯人文主義學者與藝術家，將文藝復興思想帶入法國。"
+    },
+    {
+      "source": "qufu",
+      "target": "luoyang",
+      "label": "曲阜→洛陽 孔子問禮於老子",
+      "year": "B.C. 6世紀",
+      "type": "religion",
+      "numericYear": -518,
+      "description": "傳說孔子曾前往周朝都城洛陽向擔任守藏史的老子請教禮制，這是中國兩大哲學傳統（儒與道）最早的交會。"
+    },
+    {
+      "source": "qufu",
+      "target": "xianyang",
+      "label": "曲阜→咸陽 儒法之爭與焚書坑儒",
+      "year": "B.C. 3世紀",
+      "type": "religion",
+      "numericYear": -213,
+      "description": "秦國統一後，以法家思想為國教，並在咸陽下令焚毀儒家經典，儒法思想發生最劇烈的物理與政治碰撞。"
+    },
+    {
+      "source": "xianyang",
+      "target": "changan",
+      "label": "咸陽→長安 黃老轉向獨尊儒術",
+      "year": "B.C. 2世紀",
+      "type": "religion",
+      "numericYear": -134,
+      "description": "漢朝初年長安盛行休養生息的黃老之學，直到漢武帝接受董仲舒『罷黜百家，獨尊儒術』的建議，天人感應成為帝國官方意識形態。"
+    },
+    {
+      "source": "changan",
+      "target": "luoyang",
+      "label": "長安→洛陽 魏晉玄學興起",
+      "year": "A.D. 3世紀",
+      "type": "religion",
+      "numericYear": 240,
+      "description": "漢末戰亂後，洛陽的士大夫（如王弼、何晏）開始以老莊思想重新詮釋儒家經典，開創了重視『無』與『自然』的魏晉玄學。"
+    },
+    {
+      "source": "dunhuang",
+      "target": "changan",
+      "label": "敦煌→長安 佛經翻譯與宗派建立",
+      "year": "A.D. 4-7世紀",
+      "type": "religion",
+      "numericYear": 645,
+      "description": "大量佛經經由敦煌傳入長安。玄奘從印度取經歸來後，在長安大雁塔建立譯經場，創立唯識宗，標誌著佛教哲學在中國的系統化。"
+    },
+    {
+      "source": "changan",
+      "target": "hangzhou",
+      "label": "長安→杭州 佛教南渡與禪宗興起",
+      "year": "A.D. 8-12世紀",
+      "type": "religion",
+      "numericYear": 1127,
+      "description": "安史之亂與靖康之難後，大量北方僧侶與士族南遷，推動了不立文字、直指人心的禪宗在江南（如杭州）的大繁榮。"
+    },
+    {
+      "source": "qufu",
+      "target": "hangzhou",
+      "label": "曲阜→杭州 理學南宗的建立",
+      "year": "A.D. 12世紀",
+      "type": "religion",
+      "numericYear": 1190,
+      "description": "南宋時期，朱熹整合了北宋五子的學說，在江南書院講學，完成了《四書章句集注》，建立了龐大嚴密的宋明理學體系。"
+    },
+    {
+      "source": "hangzhou",
+      "target": "nanjing",
+      "label": "杭州→南京 心學的反叛",
+      "year": "A.D. 15世紀",
+      "type": "religion",
+      "numericYear": 1508,
+      "description": "王陽明在龍場悟道後，於南京等地講學，提出『心外無物，致良知』，直接挑戰了朱熹的『格物致知』，開創了陸王心學的高峰。"
+    },
+    {
+      "source": "nanjing",
+      "target": "beijing",
+      "label": "南京→北京 考據學取代空談",
+      "year": "A.D. 17-18世紀",
+      "type": "religion",
+      "numericYear": 1750,
+      "description": "明亡後，顧炎武等學者痛定思痛，認為心學『空談誤國』，提倡回到漢代經學進行嚴謹的文字考證，這種『實事求是』的考據學成為清代北京的學術主流。"
+    },
+    {
+      "source": "nanjing",
+      "target": "edo",
+      "label": "南京→江戶 陽明學東傳",
+      "year": "A.D. 17-19世紀",
+      "type": "religion",
+      "numericYear": 1650,
+      "description": "明末清初，朱子學與陽明學傳入日本。朱子學成為德川幕府的官方統治哲學，而強調『知行合一』的陽明學則激發了後來的明治維新。"
+    },
+    {
+      "source": "varanasi",
+      "target": "magadha",
+      "label": "瓦拉納西→摩揭陀 沙門思潮的崛起",
+      "year": "B.C. 6世紀",
+      "type": "religion",
+      "numericYear": -500,
+      "description": "針對正統婆羅門教祭祀的僵化，摩揭陀地區興起了反叛的『沙門思潮』，佛教與耆那教由此誕生，挑戰了吠陀權威。"
+    },
+    {
+      "source": "magadha",
+      "target": "nalanda",
+      "label": "摩揭陀→那爛陀 大乘哲學學術化",
+      "year": "A.D. 2-5世紀",
+      "type": "religion",
+      "numericYear": 300,
+      "description": "早期佛教的修行體驗，在那爛陀寺被龍樹與無著轉化為極度複雜的經院哲學（中觀與唯識），標誌著佛教哲學的最高峰。"
+    },
+    {
+      "source": "nalanda",
+      "target": "dunhuang",
+      "label": "那爛陀→敦煌 唯識學東傳",
+      "year": "A.D. 7世紀",
+      "type": "religion",
+      "numericYear": 645,
+      "description": "玄奘在那爛陀寺留學多年，將最完整的唯識學經典帶回中國，經由敦煌傳入長安。"
+    },
+    {
+      "source": "nalanda",
+      "target": "varanasi",
+      "label": "那爛陀→瓦拉納西 不二論的復興",
+      "year": "A.D. 8世紀",
+      "type": "religion",
+      "numericYear": 800,
+      "description": "面對佛教哲學的挑戰，商羯羅在瓦拉納西等地吸收了中觀學的邏輯，建立了『不二論』，成功復興了印度教正統地位，導致佛教在印度本土衰落。"
+    },
+    {
+      "source": "varanasi",
+      "target": "delhi",
+      "label": "瓦拉納西→德里 巴克提與蘇菲的交匯",
+      "year": "A.D. 12-15世紀",
+      "type": "religion",
+      "numericYear": 1400,
+      "description": "伊斯蘭教進入印度後，強調神與人之間充滿愛的直接溝通的『巴克提運動』（來自印度教）與『蘇菲主義』（來自伊斯蘭）在北印度的德里與旁遮普地區產生了深刻的思想融合。"
+    },
+    {
+      "source": "baghdad",
+      "target": "florence",
+      "label": "巴格達→佛羅倫斯 數字與代數傳入歐洲",
+      "year": "A.D. 12-13世紀",
+      "type": "tech",
+      "numericYear": 1202,
+      "description": "斐波那契在北非學習了阿拉伯數字與花剌子米的代數，透過《算盤書》將其引入義大利，奠定了歐洲商業與科學計算的基礎。"
+    },
+    {
+      "source": "alexandria",
+      "target": "florence",
+      "label": "亞歷山大港→義大利 光學與透視法",
+      "year": "A.D. 14世紀",
+      "type": "tech",
+      "numericYear": 1350,
+      "description": "海什木的《光學》被翻譯成拉丁文，啟發了義大利文藝復興時期的透視法，以及後來伽利略等人的望遠鏡發明。"
+    },
+    {
+      "source": "florence",
+      "target": "london",
+      "label": "義大利→倫敦 科學革命的轉移",
+      "year": "A.D. 17世紀",
+      "type": "tech",
+      "numericYear": 1687,
+      "description": "伽利略奠定的實驗物理學與運動學基礎，被牛頓在英國集大成，發表《自然哲學的數學原理》，標誌著科學革命的最高潮。"
+    },
+    {
+      "source": "luoyang",
+      "target": "changan",
+      "label": "洛陽→長安 造紙與雕版",
+      "year": "A.D. 7-8世紀",
+      "type": "tech",
+      "numericYear": 700,
+      "description": "蔡倫改進的造紙術在唐代長安與雕版技術結合，促成了佛教經卷與世俗文學的大規模複製。"
+    },
+    {
+      "source": "changan",
+      "target": "bianjing",
+      "label": "長安→汴京 活字印刷的發明",
+      "year": "A.D. 11世紀",
+      "type": "tech",
+      "numericYear": 1040,
+      "description": "北宋時期，畢昇發明了膠泥活字，進一步提高了印刷效率，知識開始在平民階層普及。"
+    },
+    {
+      "source": "bianjing",
+      "target": "mainz",
+      "label": "東方→美因茲 印刷術的全球化",
+      "year": "A.D. 13-15世紀",
+      "type": "tech",
+      "numericYear": 1450,
+      "description": "東方的紙張與印刷概念經由蒙古帝國傳入歐洲，古騰堡結合歐洲的螺旋壓榨機與冶金技術，發明了金屬活字印刷機。"
+    },
+    {
+      "source": "bianjing",
+      "target": "venice",
+      "label": "汴京→威尼斯 指南針與貿易網絡",
+      "year": "A.D. 12-13世紀",
+      "type": "tech",
+      "numericYear": 1250,
+      "description": "中國的指南針技術經由阿拉伯人傳入地中海。威尼斯人利用它與複式簿記，建立起橫跨地中海的龐大商業帝國。"
+    },
+    {
+      "source": "venice",
+      "target": "lisbon",
+      "label": "威尼斯→里斯本 航海霸權的轉移",
+      "year": "A.D. 15世紀",
+      "type": "tech",
+      "numericYear": 1490,
+      "description": "為了打破威尼斯與鄂圖曼對東方貿易的壟斷，葡萄牙里斯本匯集了最新的航海技術（卡拉維爾帆船、星盤），開啟了大航海時代。"
+    },
+    {
+      "source": "london",
+      "target": "paris",
+      "label": "倫敦→巴黎 工業革命的擴散",
+      "year": "A.D. 18-19世紀",
+      "type": "tech",
+      "numericYear": 1800,
+      "description": "起源於英國的蒸汽機與機械化生產模式，在拿破崙戰爭後迅速擴散到法國與歐洲大陸，改變了全球的生產與軍事格局。"
+    },
+    {
+      "source": "edinburgh",
+      "target": "london",
+      "label": "愛丁堡→倫敦 國富論與自由市場",
+      "year": "A.D. 18世紀末",
+      "type": "religion",
+      "numericYear": 1776,
+      "description": "亞當·斯密在蘇格蘭提出的自由市場與『看不見的手』理論，為正在經歷工業革命的大英帝國提供了完美的經濟學基石。"
+    },
+    {
+      "source": "london",
+      "target": "manchester",
+      "label": "倫敦→曼徹斯特 工業資本主義的擴張",
+      "year": "A.D. 19世紀",
+      "type": "tech",
+      "numericYear": 1830,
+      "description": "倫敦的金融資本與曼徹斯特的棉紡織工業結合，並透過新修建的鐵路網絡，將英國推上了『世界工廠』的寶座。"
+    },
+    {
+      "source": "berlin",
+      "target": "manchester",
+      "label": "柏林→曼徹斯特 馬克思主義的社會調查",
+      "year": "A.D. 19世紀中",
+      "type": "religion",
+      "numericYear": 1845,
+      "description": "源於德國哲學的馬克思主義，在曼徹斯特殘酷的工人貧民窟中獲得了現實的經濟學依據，催生了《資本論》。"
+    },
+    {
+      "source": "paris",
+      "target": "vienna",
+      "label": "巴黎→維也納 從實證社會學到精神分析",
+      "year": "A.D. 19世紀末",
+      "type": "religion",
+      "numericYear": 1890,
+      "description": "19世紀初巴黎的實證主義試圖用物理學的方法研究社會，到了19世紀末，維也納的佛洛伊德則轉向人類非理性的潛意識深淵進行探索。"
+    },
+    {
+      "source": "berlin",
+      "target": "copenhagen",
+      "label": "柏林→哥本哈根 現代物理的顛覆",
+      "year": "A.D. 1920s",
+      "type": "tech",
+      "numericYear": 1925,
+      "description": "愛因斯坦在柏林提出的光量子與相對論，啟發了波耳在哥本哈根建立量子力學，兩位巨擘隨後展開了世紀物理學大辯論。"
+    },
+    {
+      "source": "cambridge_uk",
+      "target": "silicon_valley",
+      "label": "劍橋→矽谷 計算機科學的實體化",
+      "year": "A.D. 20世紀中",
+      "type": "tech",
+      "numericYear": 1970,
+      "description": "圖靈在劍橋奠定的理論計算機模型，最終在美國矽谷透過電晶體與微處理器變成了現實的個人電腦與網路。"
+    },
+    {
+      "source": "vienna",
+      "target": "cambridge_uk",
+      "label": "維也納→劍橋 語言轉向",
+      "year": "A.D. 1930s",
+      "type": "religion",
+      "numericYear": 1930,
+      "description": "維也納圈子的邏輯實證主義與維根斯坦的哲學移師英國劍橋，促成了20世紀哲學史上的『語言轉向』，建立了分析哲學。"
+    },
+    {
+      "source": "paris",
+      "target": "new_york",
+      "label": "巴黎→紐約 藝術與思潮的西進",
+      "year": "A.D. 1940s",
+      "type": "religion",
+      "numericYear": 1945,
+      "description": "二戰後，全球藝術與前衛思想的中心從巴黎（結構主義、超現實主義）轉移至紐約，誕生了抽象表現主義與後現代文化。"
+    }
+  ],
+  "tour": [
+    {
+      "year": "B.C. 800 - B.C. 600",
+      "title": "奧義書與易經：人類哲學的雙重黎明",
+      "cityId": "varanasi",
+      "content": "在遙遠的恆河畔，印度的婆羅門學者編纂《奧義書》，提出「梵我合一」的終極哲學命題。幾乎在同一時期，中國的《易經》也確立了以「變易」為核心的陰陽哲學。東西方人類，在互不知曉的情況下，同時從祭祀宗教走向了深刻的哲學思辨。",
+      "numericYear": -800
+    },
+    {
+      "year": "B.C. 6世紀",
+      "title": "米利都自然哲學：西方理性的第一聲",
+      "cityId": "miletus",
+      "content": "在愛奧尼亞的米利都，泰勒斯提出「水是萬物本源」，人類第一次不借助神話來解釋宇宙的起源。這一不起眼的命題，開啟了從自然哲學到畢達哥拉斯學派、原子論的偉大鏈條，最終導向了現代科學。",
+      "numericYear": -600
+    },
+    {
+      "year": "B.C. 563 - B.C. 483",
+      "title": "沙門思潮：佛陀與大雄的反叛",
+      "cityId": "magadha",
+      "content": "針對婆羅門教僵化的種姓制度，摩揭陀地區爆發了「沙門思潮」。釋迦牟尼創立佛教（緣起性空），大雄確立耆那教（極致不殺生）。兩者都拒絕吠陀權威，從哲學內部瓦解了古老的宗教霸權，為後來大乘佛教的東傳埋下了種子。",
+      "numericYear": -563
+    },
+    {
+      "year": "B.C. 551 - B.C. 479",
+      "title": "孔子與老子：儒道雙源的確立",
+      "cityId": "qufu",
+      "content": "孔子在曲阜確立了以「仁」、「禮」為核心的儒家倫理，而傳說他曾前往洛陽向老子問禮。老子則以「道法自然」開創了道家的自然主義傳統。儒與道的對話，從此成為中國兩千年思想史的永恆主旋律。",
+      "numericYear": -551
+    },
+    {
+      "year": "B.C. 5世紀",
+      "title": "蘇格拉底與雅典的黃金時代",
+      "cityId": "athens",
+      "content": "波希戰爭後的雅典迎來了民主制度的全盛期。蘇格拉底在街頭以「詰問法」挑戰一切不經反思的信念；柏拉圖繼承其衣鉢，建立了「理型論」；亞里斯多德更成為西方百科全書式的第一人。三代師生的傳承，奠定了整個西方哲學與科學的根基。",
+      "numericYear": -450
+    },
+    {
+      "year": "B.C. 4世紀",
+      "title": "墨子與名家：中國的邏輯與和平主義",
+      "cityId": "xianyang",
+      "content": "當希臘人建構形式邏輯時，中國的墨子提出了「兼愛非攻」的平民主義，公孫龍的「白馬非馬」則挑戰了語言與現實的關係。同時，法家在秦國冷酷地實踐「以法治國」，三者的角力構成了戰國時代最激烈的思想競爭。",
+      "numericYear": -400
+    },
+    {
+      "year": "B.C. 334 - B.C. 324",
+      "title": "亞歷山大東征與希臘化時代",
+      "cityId": "alexandria",
+      "content": "亞里斯多德的學生亞歷山大大帝率軍遠征至印度邊界，在征途上建立了亞歷山大港等希臘化城市。歐幾里得在此寫下了《幾何原本》。希臘哲學與東方宗教首次產生了跨文明的碰撞，催生了斯多葛主義與伊壁鳩魯主義等混合思想。",
+      "numericYear": -334
+    },
+    {
+      "year": "B.C. 3世紀",
+      "title": "龍樹與數論派：印度哲學的高峰",
+      "cityId": "nalanda",
+      "content": "亞歷山大退去後，印度本土的哲學思辨達到了新高峰。數論派建立了嚴密的二元論宇宙觀，而2世紀的龍樹更以中觀學「空性」的邏輯，徹底摧毀了一切對實體的執著。這些思想最終透過那爛陀寺，成為傳往東亞的佛教哲學核心。",
+      "numericYear": -250
+    },
+    {
+      "year": "B.C. 221",
+      "title": "秦統一天下：法家的勝利與焚書坑儒",
+      "cityId": "xianyang",
+      "content": "在法家思想的指導下，秦始皇吞併六國，建立了中國第一個大一統帝國。他下令統一文字、度量衡，卻也焚毀了儒家經典。法家的實用主義贏得了政治勝利，但正是它的殘酷，為漢朝儒家的全面復興埋下了伏筆。",
+      "numericYear": -221
+    },
+    {
+      "year": "B.C. 140 - B.C. 87",
+      "title": "罷黜百家、獨尊儒術與張騫通西域",
+      "cityId": "changan",
+      "content": "漢武帝接受董仲舒「天人感應」的建議，將儒學立為帝國意識形態。同時派張騫出使西域，首次打通了中國與中亞之間的陸路聯繫。思想的統一與絲路的開通，使長安成為了東方文明向外輻射的第一個超級樞紐。",
+      "numericYear": -140
+    },
+    {
+      "year": "B.C. 106",
+      "title": "西塞羅與羅馬的自然法",
+      "cityId": "rome",
+      "content": "當東方的漢帝國建立了儒家秩序時，西方的羅馬共和國則由西塞羅將斯多葛主義的「自然法」引入法律體系。自然法主張存在一種超越所有人為法律的普世正義——這一理念後來成為近代西方「自然權利」與人權思想的遠祖。",
+      "numericYear": -106
+    },
+    {
+      "year": "A.D. 30",
+      "title": "耶穌與基督教的誕生",
+      "cityId": "jerusalem",
+      "content": "在羅馬帝國統治下的巴勒斯坦，耶穌的教導融合了猶太教的一神論與希臘哲學的普世關懷。他被釘十字架後，使徒保羅將福音傳向地中海世界。基督教從一個邊緣教派，逐漸成長為即將改變歐洲命運的精神力量。",
+      "numericYear": 30
+    },
+    {
+      "year": "A.D. 105",
+      "title": "蔡倫改進造紙術：第一次資訊革命",
+      "cityId": "luoyang",
+      "content": "東漢蔡倫以樹皮、破布為原料改進造紙術。這項看似微小的技術改良，使知識的載體從笨重的竹簡變成了輕便的紙張。造紙術後來經由絲路傳入中亞、阿拉伯，最終抵達歐洲，是人類歷史上第一次「資訊儲存革命」。",
+      "numericYear": 105
+    },
+    {
+      "year": "A.D. 3世紀",
+      "title": "魏晉玄學：儒家崩解後的哲學解放",
+      "cityId": "luoyang",
+      "content": "漢帝國崩潰後，天人感應的儒家神學失去了說服力。王弼等年輕士大夫轉向老莊思想，開創了探討「有與無」的魏晉玄學。竹林七賢式的放蕩不羈，既是哲學探索，也是對亂世的精神抵抗——它為佛教傳入中國鋪平了文化土壤。",
+      "numericYear": 240
+    },
+    {
+      "year": "A.D. 313",
+      "title": "米蘭敕令：基督教從地下到帝國",
+      "cityId": "rome",
+      "content": "君士坦丁大帝頒布米蘭敕令，基督教從三百年的迫害中浮出水面，成為合法宗教。新柏拉圖主義的奧古斯丁隨後建立了「原罪」與「神恩」的神學體系，將希臘哲學與基督信仰融為一體，奠定了中世紀歐洲思想的千年底盤。",
+      "numericYear": 313
+    },
+    {
+      "year": "A.D. 366",
+      "title": "敦煌莫高窟：佛教藝術的絲路驛站",
+      "cityId": "dunhuang",
+      "content": "僧人樂尊在鳴沙山開鑿了第一個洞窟。此後數百年，敦煌成為印度佛教經由中亞傳入中原的最重要文化中轉站。般若學的「空性智慧」在這裡與魏晉玄學的「無」相遇，中國知識份子借用老莊語言理解佛教，開始了佛教的「中國化」進程。",
+      "numericYear": 366
+    },
+    {
+      "year": "A.D. 395 - A.D. 476",
+      "title": "羅馬帝國分裂與西方的黑暗時代",
+      "cityId": "constantinople",
+      "content": "羅馬帝國一分為二。西羅馬在蠻族入侵下覆滅，歐洲進入「黑暗時代」。然而東羅馬帝國（拜占庭）保存了大量希臘文獻。這場分裂決定了其後一千年的地緣格局：歐洲的古典知識在拜占庭與阿拉伯世界中等待復活的時機。",
+      "numericYear": 395
+    },
+    {
+      "year": "A.D. 611",
+      "title": "伊斯蘭教創立：沙漠中的啟示",
+      "cityId": "mecca",
+      "content": "穆罕默德在麥加的希拉山洞接受天啟，創立了伊斯蘭教。一個世紀之內，伊斯蘭帝國便橫跨了從西班牙到中亞的廣大領土。這不僅是宗教擴張，更是知識傳播的巨大管道：阿拉伯語成為聯結希臘、波斯、印度三大知識體系的通用語言。",
+      "numericYear": 611
+    },
+    {
+      "year": "A.D. 627",
+      "title": "貞觀之治：長安成為世界首都",
+      "cityId": "changan",
+      "content": "唐太宗的「天可汗」體制，使長安成為一個海納百川的國際大都會。景教（基督教聶斯脫里派）、摩尼教、祆教紛紛傳入。與此同時，玄奘從印度那爛陀寺取經歸來，在大雁塔建立譯場，將唯識宗哲學系統地引入中國。",
+      "numericYear": 627
+    },
+    {
+      "year": "A.D. 751",
+      "title": "怛羅斯之役：造紙術西傳的轉捩點",
+      "cityId": "talas",
+      "content": "唐朝與阿拔斯王朝在怛羅斯（今哈薩克）爆發軍事衝突。被俘的中國工匠將造紙術傳入阿拉伯世界。紙張的廉價生產使巴格達的「百年翻譯運動」成為可能——蔡倫一百五十年前的發明，經由一場戰爭，改變了整個伊斯蘭文明的知識載體。",
+      "numericYear": 751
+    },
+    {
+      "year": "8世紀-9世紀",
+      "title": "巴格達智慧之家：百年翻譯運動",
+      "cityId": "baghdad",
+      "content": "阿拔斯王朝的哈里發在巴格達建立了「智慧之家」，花剌子米在此創立了代數學，印度的十進位數字經由他傳入阿拉伯世界。同時，穆塔齊賴派的理性神學刺激了伊斯蘭哲學的興起。希臘、波斯、印度三大知識體系在此完成了人類歷史上第一次「知識大融合」。",
+      "numericYear": 830
+    },
+    {
+      "year": "A.D. 8世紀",
+      "title": "不二論復興：商羯羅擊潰佛教",
+      "cityId": "varanasi",
+      "content": "面對佛教在印度知識界的強勢地位，年僅32歲便英年早逝的商羯羅，遊歷全印度，在無數場辯論中擊敗佛教學者。他吸收了龍樹中觀學的邏輯，建立了「不二論」——宇宙唯一的真實是梵，世界只是幻象。佛教從此在印度本土走向衰落。",
+      "numericYear": 800
+    },
+    {
+      "year": "A.D. 988",
+      "title": "基輔羅斯受洗：東正教的北方帝國",
+      "cityId": "kiev",
+      "content": "弗拉基米爾大公選擇了拜占庭的東正教作為國教，使斯拉夫世界納入了基督教文明圈。基輔羅斯從此與拉丁歐洲分道揚鑣，走上了一條截然不同的文化與政治道路——這一選擇的影響一直延續到今天。",
+      "numericYear": 988
+    },
+    {
+      "year": "A.D. 11世紀",
+      "title": "海什木的光學革命與畢昇的活字印刷",
+      "cityId": "bianjing",
+      "content": "在地球的兩端，同時發生了兩項足以改變人類命運的技術突破。開羅的海什木用暗室實驗建立了科學光學，北宋汴京的畢昇發明了膠泥活字。沈括在《夢溪筆談》中同時記載了活字印刷與指南針的磁偏角——這三項技術後來徹底改變了歐洲的航海、出版與科學。",
+      "numericYear": 1040
+    },
+    {
+      "year": "A.D. 1088",
+      "title": "指南針的大規模航海應用",
+      "cityId": "hangzhou",
+      "content": "南宋時期的杭州（臨安）不僅是政治首都，更是全球最大的港口城市。指南針在此被首次大規模應用於航海。與此同時，朱熹在江南書院講學，完成了《四書章句集注》，建立了宋明理學體系——科學技術與哲學思辨，在同一個城市中同步達到了巔峰。",
+      "numericYear": 1088
+    },
+    {
+      "year": "A.D. 1096 - 1204",
+      "title": "十字軍東征：暴力中的知識傳遞",
+      "cityId": "constantinople",
+      "content": "歐洲基督教世界發動了對聖地的十字軍遠征。戰爭帶來了死亡與破壞（第四次十字軍洗劫了君士坦丁堡），但也使封閉的歐洲首次接觸到了阿拉伯世界保存的希臘古典著作。伊本·魯世德對亞里斯多德的注釋（阿威羅伊主義），很快就從科爾多瓦傳入巴黎。",
+      "numericYear": 1096
+    },
+    {
+      "year": "A.D. 12世紀",
+      "title": "阿威羅伊主義衝擊歐洲：經院哲學的重生",
+      "cityId": "cordoba",
+      "content": "安達盧斯的科爾多瓦是伊斯蘭世界在歐洲的知識前哨。伊本·魯世德重新注釋亞里斯多德，強調理性與信仰可以共存。他的著作被翻譯成拉丁文後，直接催生了巴黎大學的經院哲學與托馬斯·阿奎那的「托馬斯主義」——基督教終於擁有了系統的哲學論證。",
+      "numericYear": 1150
+    },
+    {
+      "year": "A.D. 1206",
+      "title": "成吉思汗建國：游牧軍事帝國的崛起",
+      "cityId": "karakorum",
+      "content": "鐵木真統一蒙古各部，建立大蒙古國。蒙古帝國的驛傳物流系統（站赤制度）連結了從東亞到東歐的廣大疆域，使思想、技術與疾病能夠在前所未有的速度下橫跨歐亞大陸——這是人類第一次「原始全球化」。",
+      "numericYear": 1206
+    },
+    {
+      "year": "A.D. 1258",
+      "title": "蒙古攻陷巴格達：伊斯蘭黃金時代的終結",
+      "cityId": "baghdad",
+      "content": "旭烈兀率領蒙古大軍攻陷巴格達，末代哈里發被殺。智慧之家的圖書館付之一炬——但大量波斯與阿拉伯學者攜帶天文學與醫學知識逃往各地。蒙古帝國的伊兒汗國隨後在馬拉蓋建立了天文台，伊斯蘭科學在帝國的框架下獲得了新的生命。",
+      "numericYear": 1258
+    },
+    {
+      "year": "A.D. 1267 - 1280",
+      "title": "回回天文與授時曆：跨文明科學合作",
+      "cityId": "dadu",
+      "content": "忽必烈在大都（北京）下令融合阿拉伯天文與中國傳統曆法。扎馬剌丁帶來了回回曆法，郭守敬則建立了國家級的天文觀測網。他們合作編纂的《授時曆》，年長精度領先歐洲三百年——這是人類歷史上第一次跨文明的系統性科學合作。",
+      "numericYear": 1280
+    },
+    {
+      "year": "A.D. 1271",
+      "title": "馬可·波羅東行：歐亞大陸的想像力革命",
+      "cityId": "dadu",
+      "content": "威尼斯商人馬可·波羅經由蒙古帝國的驛站系統抵達大都，在忽必烈的宮廷中停留了17年。他回歐洲後口述的《馬可·波羅遊記》，向西方描繪了一個富庶得令人難以置信的東方帝國——這本書激發了兩百年後哥倫布與達伽馬的航海衝動。",
+      "numericYear": 1271
+    },
+    {
+      "year": "A.D. 1324",
+      "title": "曼薩·穆薩朝覲：非洲的黃金帝國",
+      "cityId": "timbuktu",
+      "content": "馬利帝國的曼薩·穆薩攜帶大量黃金前往麥加朝覲，沿途的揮金如土震驚了地中海世界。他在回程中將伊斯蘭學術體系引入廷巴克圖，使撒哈拉以南的非洲首次被捲入全球知識傳播網絡。",
+      "numericYear": 1324
+    },
+    {
+      "year": "A.D. 1346",
+      "title": "黑死病：蒙古帝國的最後「禮物」",
+      "cityId": "caffa",
+      "content": "蒙古軍隊在圍攻克里米亞的卡法城時，將感染鼠疫的屍體投入城中。熱那亞商船將病菌帶回歐洲，引發了殺死三分之一歐洲人口的黑死病大流行。諷刺的是，勞動力的劇減反而動搖了封建制度，為後來的文藝復興創造了社會條件。",
+      "numericYear": 1346
+    },
+    {
+      "year": "A.D. 1368",
+      "title": "明朝建立與鄭和下西洋",
+      "cityId": "nanjing",
+      "content": "朱元璋驅逐蒙古，在南京建立明朝。永樂帝隨後派遣鄭和七下西洋，率領當時世界上最大的船隊抵達東非。然而，明朝的海禁政策很快就切斷了這條海上聯繫——大航海時代的接力棒，即將從東方傳到伊比利亞半島。",
+      "numericYear": 1368
+    },
+    {
+      "year": "A.D. 1405",
+      "title": "鄭和下西洋：東方的大航海與戛然而止",
+      "cityId": "quanzhou",
+      "content": "鄭和從泉州出發，寶船艦隊的規模遠超半個世紀後的葡萄牙船隊。但這次遠航的目的是展示國威而非貿易擴張，宣德帝之後便停止了一切。中國的海洋探索永遠地止步於此——全球化的引擎，即將在歐洲重新啟動。",
+      "numericYear": 1405
+    },
+    {
+      "year": "A.D. 1453",
+      "title": "君士坦丁堡陷落：古典知識的大遷徙",
+      "cityId": "constantinople",
+      "content": "鄂圖曼帝國攻陷千年古都君士坦丁堡。大量拜占庭學者攜帶希臘古典手稿逃往義大利佛羅倫斯，直接引爆了文藝復興。新柏拉圖主義在佛羅倫斯復興，透視法與人文主義開始瓦解中世紀的教會壟斷。一個帝國的毀滅，成為了另一個文明覺醒的起點。",
+      "numericYear": 1453
+    },
+    {
+      "year": "A.D. 1455",
+      "title": "古騰堡印刷機：歐洲的資訊核爆",
+      "cityId": "mainz",
+      "content": "古騰堡在美因茲利用金屬活字與螺旋壓榨機，印刷了第一批《聖經》。畢昇四百年前的活字概念，經由蒙古帝國的紙張傳播鏈，在歐洲的字母文字體系中引發了真正的資訊爆炸。人人皆可閱讀聖經——宗教改革與科學革命的火種，已經被點燃。",
+      "numericYear": 1455
+    },
+    {
+      "year": "A.D. 1494",
+      "title": "威尼斯與複式簿記：資本主義的數學基礎",
+      "cityId": "venice",
+      "content": "帕西奧利在威尼斯系統化了複式簿記法。看似枯燥的會計技術，實際上是現代企業計算利潤、評估風險的數學基礎。搭配從阿拉伯傳入的印度-阿拉伯數字，歐洲的商業資本主義終於擁有了精確的計算工具——全球化的財務引擎已經就位。",
+      "numericYear": 1494
+    },
+    {
+      "year": "A.D. 1498",
+      "title": "達伽馬抵達印度：大航海時代的全面爆發",
+      "cityId": "lisbon",
+      "content": "葡萄牙船隊使用卡拉維爾帆船、中國指南針與阿拉伯星盤繞過好望角，抵達印度。這三大文明的技術結晶，在里斯本的航海學校中匯合。歐洲打破了阿拉伯與威尼斯的貿易壟斷，全球貿易重心從地中海不可逆地轉向了大西洋。",
+      "numericYear": 1498
+    },
+    {
+      "year": "A.D. 1508",
+      "title": "王陽明龍場悟道：心學的爆發",
+      "cityId": "nanjing",
+      "content": "在朱熹理學統治了三百年科舉考場之後，王陽明在被貶貴州龍場時頓悟「心外無物，致良知」，直接挑戰了「格物致知」的正統。他的「知行合一」哲學，後來跨海傳入日本，成為明治維新的精神引擎——一位中國哲學家，間接改變了日本的命運。",
+      "numericYear": 1508
+    },
+    {
+      "year": "A.D. 1517",
+      "title": "馬丁·路德與宗教改革：印刷術的政治後果",
+      "cityId": "wittenberg",
+      "content": "路德在維騰堡張貼《九十五條論綱》，挑戰教廷的贖罪券販賣。古騰堡印刷機讓他的文字以前所未有的速度傳遍德國——如果沒有六十年前的印刷術革命，宗教改革根本不可能發生。技術改變了宗教，宗教改變了政治版圖。",
+      "numericYear": 1517
+    },
+    {
+      "year": "A.D. 1543",
+      "title": "哥白尼日心說：科學革命的第一炮",
+      "cityId": "warsaw",
+      "content": "哥白尼在臨終前出版了《天體運行論》，提出地球繞太陽運行。這顛覆了一千四百年來托勒密的地心說以及教會的宇宙觀。科學革命從此開始：先是伽利略用天文望遠鏡提供了實驗證據，最終由牛頓完成了數學化的統一。",
+      "numericYear": 1543
+    },
+    {
+      "year": "A.D. 1601",
+      "title": "利瑪竇入京：東西方知識的首次對等交流",
+      "cityId": "dadu",
+      "content": "耶穌會士利瑪竇抵達北京，用翻譯歐幾里得《幾何原本》與製作世界地圖來獲取信任。這是自蒙古帝國之後，東西方知識第一次發生有意識的、對等的交流——但明清的知識份子最終未能將這些西方科學內化為自身的思想革命。",
+      "numericYear": 1601
+    },
+    {
+      "year": "A.D. 1641",
+      "title": "笛卡兒「我思故我在」：現代哲學的誕生",
+      "cityId": "amsterdam",
+      "content": "笛卡兒在阿姆斯特丹發表心物二元論，用「系統性懷疑」方法推導出「我思故我在」。他將哲學建立在數學般嚴密的理性推導之上，開創了理性主義傳統。但他也留下了一個至今未解的難題：心靈與身體如何互相影響？這個問題驅動了三百年的西方哲學。",
+      "numericYear": 1641
+    },
+    {
+      "year": "A.D. 17世紀",
+      "title": "陽明學東傳日本：知行合一的革命火種",
+      "cityId": "edo",
+      "content": "朱子學成為德川幕府維護封建秩序的官方意識形態。但王陽明「知行合一」的心學卻悄悄傳入民間，激發了下級武士的革命熱情。吉田松陰在松下村塾培養了伊藤博文等明治維新的領袖——中國哲學的種子，在日本開出了政治革命的花朵。",
+      "numericYear": 1650
+    },
+    {
+      "year": "A.D. 1687",
+      "title": "牛頓《原理》：科學革命的最高峰",
+      "cityId": "london",
+      "content": "牛頓發表《自然哲學的數學原理》，用萬有引力定律統一了天體運行與地面力學。同時他（與萊布尼茲各自獨立地）發明了微積分。科學革命在此達到頂點：宇宙是一部可以用數學語言完美描述的精密鐘錶。這個信念主宰了其後兩百年的西方思想。",
+      "numericYear": 1687
+    },
+    {
+      "year": "A.D. 1690",
+      "title": "洛克《人類理解論》：經驗主義的確立",
+      "cityId": "london",
+      "content": "洛克主張人的心靈在出生時是一塊「白板」，所有知識都來自經驗而非天生觀念。他的經驗主義直接挑戰了笛卡兒的理性主義，也為後來的民主政治與自然權利理論提供了哲學基礎——美國《獨立宣言》的核心思想，正是源自洛克。",
+      "numericYear": 1690
+    },
+    {
+      "year": "A.D. 18世紀",
+      "title": "考據學取代心學：清代的「實事求是」",
+      "cityId": "dadu",
+      "content": "明朝滅亡後，顧炎武等學者將亡國歸咎於心學的「空談誤國」。他們倡導回到漢代經學，進行嚴謹的文字考證——「無徵不信」。這場清代樸學運動是中國內部的知識革命，強調實證精神，但它始終未能像歐洲啟蒙運動那樣轉化為自然科學的突破。",
+      "numericYear": 1700
+    },
+    {
+      "year": "A.D. 1748",
+      "title": "孟德斯鳩與法國啟蒙運動",
+      "cityId": "paris",
+      "content": "孟德斯鳩出版《論法的精神》，提出三權分立學說。伏爾泰與百科全書派的狄德羅將牛頓的科學理性推廣為全社會的思想武器。啟蒙運動的核心信念是：理性可以戰勝迷信，科學可以推動進步——但浪漫主義的反叛即將隨之而來。",
+      "numericYear": 1748
+    },
+    {
+      "year": "A.D. 1776",
+      "title": "亞當·斯密《國富論》：自由市場的聖經",
+      "cityId": "edinburgh",
+      "content": "蘇格蘭啟蒙運動中的亞當·斯密在愛丁堡發表了《國富論》，提出「看不見的手」引導市場自我調節。勞動分工與自由貿易的理論，為正在爆發的工業革命提供了完美的經濟學意識形態——但斯密也深知市場的侷限，這一點後來被馬克思無情地放大。",
+      "numericYear": 1776
+    },
+    {
+      "year": "A.D. 1776 - 1789",
+      "title": "美國獨立與法國大革命：啟蒙思想的政治爆炸",
+      "cityId": "philadelphia",
+      "content": "洛克的自然權利、盧梭的社會契約論、孟德斯鳩的三權分立——啟蒙思想在美國獨立宣言與法國大革命中找到了它的政治出口。「人人生而平等」的理念從哲學書齋走向了街頭。兩場革命永久性地改變了人類對政府合法性的認知。",
+      "numericYear": 1789
+    },
+    {
+      "year": "A.D. 18世紀末",
+      "title": "康德「純粹理性批判」：哲學的哥白尼革命",
+      "cityId": "berlin",
+      "content": "康德在讀了休謨的懷疑論後「從獨斷的迷夢中驚醒」，寫下了《純粹理性批判》。他證明人類的認知結構先於經驗而存在——我們永遠只能認識「現象」而非「物自體」。理性主義與經驗主義在此合流，德國觀念論的大門被打開，直通黑格爾與馬克思。",
+      "numericYear": 1790
+    },
+    {
+      "year": "A.D. 1769 - 1830",
+      "title": "蒸汽機與鐵路：工業革命改變世界",
+      "cityId": "manchester",
+      "content": "瓦特改良蒸汽機，曼徹斯特的棉紡織工廠率先實現了機械化生產。1830年利物浦至曼徹斯特鐵路通車，標誌著人類進入鐵道時代。工業革命創造了前所未有的物質財富，但也製造了恩格斯所描繪的「英國工人階級狀況」——極端的貧富差距。",
+      "numericYear": 1830
+    },
+    {
+      "year": "A.D. 19世紀",
+      "title": "中體西用：中國面對西方衝擊的第一次回應",
+      "cityId": "dadu",
+      "content": "鴉片戰爭後，曾國藩、李鴻章等洋務派提出「中體西用」——保持儒家倫理的「體」，引進西方技術的「用」。但清帝國無法理解，真正驅動西方崛起的不是堅船利炮，而是從笛卡兒到牛頓的整套科學思維方式。這場文化妥協的失敗，最終導向了更激進的改革。",
+      "numericYear": 1850
+    },
+    {
+      "year": "A.D. 1859",
+      "title": "達爾文《物種起源》：上帝的退場",
+      "cityId": "london",
+      "content": "達爾文在二十年的謹慎研究後發表了「物競天擇」的演化論。生物並非由上帝逐一創造，而是透過自然選擇從共同祖先演化而來。這徹底推翻了神創論，將人類從宇宙的中心拉下，與猿類並肩——繼哥白尼之後，人類遭受了第二次巨大的「自戀創傷」。",
+      "numericYear": 1859
+    },
+    {
+      "year": "A.D. 1867",
+      "title": "馬克思《資本論》：資本主義的解剖報告",
+      "cityId": "london",
+      "content": "馬克思在大英圖書館中完成了《資本論》，運用黑格爾的辯證法與費爾巴哈的唯物主義，對資本主義進行了系統性的解剖。「剩餘價值」理論揭示了資本家剝削工人的結構性本質。他的思想塑造了20世紀的世界格局——從俄國十月革命到中國。",
+      "numericYear": 1867
+    },
+    {
+      "year": "A.D. 1860s - 1870s",
+      "title": "馬克士威方程組：統一電與磁的大美",
+      "cityId": "edinburgh",
+      "content": "蘇格蘭物理學家馬克士威用四條方程式完美統一了電學與磁學，並預言了電磁波的存在。光不過是電磁波的一種形式。他被愛因斯坦譽為「自牛頓以來對物理學做出最大改變的人」——這四條方程式，為20世紀的相對論與量子力學鋪平了道路。",
+      "numericYear": 1873
+    },
+    {
+      "year": "A.D. 1879",
+      "title": "馮特建立心理學實驗室：心靈成為科學對象",
+      "cityId": "leipzig",
+      "content": "馮特在萊比錫大學建立了世界上第一個心理學實驗室。在此之前，心靈與意識是哲學家與神學家的專利；馮特則首次嘗試用科學儀器來量化測量人類的感知速度與注意力。心理學正式從哲學中獨立出來，成為一門實驗科學。",
+      "numericYear": 1879
+    },
+    {
+      "year": "A.D. 1899",
+      "title": "佛洛伊德《夢的解析》：潛意識的發現",
+      "cityId": "vienna",
+      "content": "佛洛伊德在維也納出版了《夢的解析》，揭示了潛意識的存在——繼哥白尼（地球非中心）與達爾文（人類非特殊）之後，佛洛伊德給人類帶來了第三次「自戀創傷」：你甚至不是自己心靈的主人。精神分析學從此深刻改變了文學、藝術與電影。",
+      "numericYear": 1899
+    },
+    {
+      "year": "A.D. 1905",
+      "title": "愛因斯坦奇蹟年：時空的顛覆",
+      "cityId": "berlin",
+      "content": "年僅26歲的愛因斯坦在一年之內發表了狹義相對論、光量子假說與質能等價公式 E=mc²。牛頓的絕對時空觀在此崩潰——時間可以變慢，空間可以彎曲，質量可以轉化為能量。這位專利局職員，以一己之力重塑了人類對宇宙的認知。",
+      "numericYear": 1905
+    },
+    {
+      "year": "A.D. 1927",
+      "title": "量子力學與哥本哈根詮釋：上帝擲骰子嗎？",
+      "cityId": "copenhagen",
+      "content": "波耳與海森堡在哥本哈根確立了量子力學的正統詮釋：微觀世界由機率而非確定性統治，觀測行為本身會改變被觀測的對象。愛因斯坦終其一生反對這一詮釋（「上帝不擲骰子」），但實驗一再證明了量子力學的正確性。這場辯論至今未息。",
+      "numericYear": 1927
+    },
+    {
+      "year": "A.D. 1936",
+      "title": "圖靈機：計算機科學的理論奠基",
+      "cityId": "cambridge_uk",
+      "content": "圖靈在劍橋發表了關於「可計算數」的論文，提出了圖靈機的概念——一台假想的機器，能夠模擬任何數學運算過程。這篇純理論的數學論文，日後成為了數位時代的藍圖。二戰期間他更破譯了德軍的恩尼格瑪密碼，被譽為「計算機科學與人工智慧之父」。",
+      "numericYear": 1936
+    },
+    {
+      "year": "A.D. 1945",
+      "title": "原子彈與馮紐曼架構：破壞與創造的雙面",
+      "cityId": "new_york",
+      "content": "曼哈頓計劃成功試爆原子彈——愛因斯坦的 E=mc² 以最恐怖的方式變成了現實。與此同時，馮紐曼確立了現代電腦的基本架構（馮紐曼架構）。核武器與電腦，這兩個20世紀最具影響力的發明，在戰爭的壓力下同時誕生。人類獲得了毀滅自身與超越自身的雙重能力。",
+      "numericYear": 1945
+    },
+    {
+      "year": "A.D. 1953",
+      "title": "DNA雙螺旋：生命密碼的破譯",
+      "cityId": "cambridge_uk",
+      "content": "華生與克里克在劍橋的卡文迪許實驗室破解了DNA的雙螺旋結構。遺傳的秘密原來儲存在四種鹼基（A, T, C, G）的序列中。達爾文提出的演化論，終於在分子層面找到了物質基礎。基因工程的大門就此打開。",
+      "numericYear": 1953
+    },
+    {
+      "year": "A.D. 1960s - 1980s",
+      "title": "結構主義與後現代主義：理性的自我反噬",
+      "cityId": "paris",
+      "content": "法國的結構主義者（李維史陀）主張人類文化受制於深層的無意識結構；隨後傅柯揭示了「權力」與「知識」的共謀關係。後現代主義拒絕一切宏大敘事——進步、理性、真理，統統都被解構。啟蒙運動的自信，在此遭遇了最深刻的自我質疑。",
+      "numericYear": 1968
+    },
+    {
+      "year": "A.D. 1969",
+      "title": "ARPANET：網際網路的誕生",
+      "cityId": "silicon_valley",
+      "content": "美國軍方的ARPANET成功傳送了第一個封包——「LO」（原本想傳「LOGIN」但系統當機了）。這個不起眼的兩個字母，開啟了人類歷史上最深刻的通訊革命。從造紙術到印刷機再到網際網路，人類的資訊傳播速度實現了從「年」到「毫秒」的飛躍。",
+      "numericYear": 1969
+    },
+    {
+      "year": "A.D. 21世紀初",
+      "title": "人工智慧：圖靈的預言成真",
+      "cityId": "silicon_valley",
+      "content": "基於圖靈的理論、馮紐曼的架構、以及量子力學催生的半導體技術，人工智慧在21世紀初藉由深度學習實現了爆發式進步。從米利都的泰勒斯到矽谷的AI，人類花了兩千六百年，終於開始創造能夠「思考」的機器。文明演進的故事，仍在繼續。",
+      "numericYear": 2000
+    }
+  ],
+  "glossary": {
+    "大不里士": {
+      "type": "city",
+      "id": "tabriz",
+      "description": "伊兒汗國的首都與重要科學情報樞紐。這裡是東西方貿易、文化與科技交流的中心，孛羅丞相在此介紹交鈔，拉施特在此建立拉希迪莊園，成為當時波斯地區的文化與知識重鎮。"
+    },
+    "馬拉蓋": {
+      "type": "city",
+      "id": "maragha",
+      "description": "位於伊朗西北部的歷史名城，旭烈兀在此資助波斯學者納西爾丁·圖西建立當時世界上最先進的馬拉蓋觀象台，成為伊斯蘭世界與蒙古帝國的天文學中心。"
+    },
+    "巴格達": {
+      "type": "city",
+      "id": "baghdad",
+      "description": "阿拔斯王朝的前首都，1258年被旭烈兀率領的蒙古軍隊攻陷，標誌著伊斯蘭黃金時代的終結。此後成為伊兒汗國的重要城市與東方教會（景教）總主教座堂所在地。"
+    },
+    "大都 (北京)": {
+      "type": "city",
+      "id": "dadu",
+      "description": "元朝的首都，由忽必烈汗下令建造。作為蒙古帝國的政治中心，大都是當時世界上最繁華、最多元文化的國際大都市之一，馬可·波羅等西方使節曾造訪此地。"
+    },
+    "哈拉和林": {
+      "type": "city",
+      "id": "karakorum",
+      "description": "蒙古帝國早期的首都，由窩闊台汗建立。作為帝國的政治樞紐與驛站網絡的中心，吸引了來自歐亞大陸各地的商人、工匠與使節。"
+    },
+    "薩萊": {
+      "type": "city",
+      "id": "sarai",
+      "description": "金帳汗國的首都，位於伏爾加河下游。它是東歐平原上最大的城市之一，也是連結俄羅斯、中亞與熱那亞黑海貿易網的重要商業樞紐。"
+    },
+    "威尼斯": {
+      "type": "city",
+      "id": "venice",
+      "description": "中世紀歐洲的海上貿易共和國。威尼斯商人（如馬可·波羅家族）積極拓展前往東方的貿易路線，在蒙古和平時期掌控了地中海與黑海的香料和絲綢貿易。"
+    },
+    "蘇丹尼耶": {
+      "type": "city",
+      "id": "soltaniyeh",
+      "description": "伊兒汗國完者都汗所建立的新首都。城內擁有宏偉的完者都陵墓，其巨大的穹頂展現了波斯伊斯蘭建築的巔峰，也是東西方貿易的交匯點。"
+    },
+    "上都": {
+      "type": "city",
+      "id": "shangdu",
+      "description": "元朝的夏都，位於今內蒙古。忽必烈每年夏季會在此避暑與辦公，這裡是蒙古游牧傳統與中原農耕文明交織的象徵，西方稱之為「Xanadu」。"
+    },
+    "卡法": {
+      "type": "city",
+      "id": "caffa",
+      "description": "熱那亞共和國在克里米亞半島建立的重要貿易殖民地（今費奧多西亞）。作為黑海貿易樞紐，也是後來黑死病傳入歐洲的起點之一。"
+    },
+    "喀什噶爾": {
+      "type": "city",
+      "id": "kashgar",
+      "description": "位於新疆塔里木盆地西緣的綠洲城市。自古便是絲綢之路北路與南路的交匯處，在察合台汗國統治下維持著繁榮的跨國貿易。"
+    },
+    "圖斯 (呼羅珊)": {
+      "type": "city",
+      "id": "tus",
+      "description": "波斯東北部呼羅珊地區的古城，是眾多伊斯蘭學者、詩人與科學家的故鄉。著名的天文學家納西爾丁·圖西即誕生於此。"
+    },
+    "巴黎": {
+      "type": "city",
+      "id": "paris",
+      "description": "中世紀歐洲的學術與政治中心。法國國王腓力四世曾在此接見來自伊兒汗國的景教使節拉班·掃馬，探討雙方針對穆斯林的軍事同盟。"
+    },
+    "羅馬": {
+      "type": "city",
+      "id": "rome",
+      "description": "天主教的宗教中心。蒙古使節拉班·掃馬曾抵達羅馬教廷，並與教宗尼古拉四世會面，開啟了蒙古與羅馬教廷之間罕見的跨信仰外交對話。"
+    },
+    "君士坦丁堡": {
+      "type": "city",
+      "id": "constantinople",
+      "description": "拜占庭帝國的首都。在蒙古西征後，拜占庭透過聯姻（如瑪麗亞·帕里奧洛格娜）與伊兒汗國及金帳汗國建立外交關係，成為東西方技術轉讓的橋樑。"
+    },
+    "玉龍傑赤": {
+      "type": "city",
+      "id": "urgench",
+      "description": "花剌子模的舊都，位於阿姆河三角洲。曾被成吉思汗夷為平地，但在金帳汗國統治下重建，成為絲綢之路上繁榮的伊斯蘭學術與商業中心。"
+    },
+    "海押立": {
+      "type": "city",
+      "id": "qayaligh",
+      "description": "察合台汗國早期的重要據點與中亞貿易名城，位於七河地區。拉班·掃馬等旅行家西行時曾途經此地，宗教文化多元。"
+    },
+    "第比利斯": {
+      "type": "city",
+      "id": "tiflis",
+      "description": "喬治亞王國的首都。在被蒙古征服後，喬治亞軍隊常被徵調參與伊兒汗國的軍事行動，城市本身則是高加索地區的貿易重鎮。"
+    },
+    "摩蘇爾": {
+      "type": "city",
+      "id": "mosul",
+      "description": "美索不達米亞北部的古城。在伊兒汗國治下，摩蘇爾的工匠以精湛的金屬工藝與鑲嵌技術聞名，作品融合了伊斯蘭與蒙古風格。"
+    },
+    "波爾多": {
+      "type": "city",
+      "id": "bordeaux",
+      "description": "法國西南部的重要港口城市。伊兒汗國使節拉班·掃馬曾抵達此地，並會見了英格蘭國王愛德華一世，遞交了阿魯渾汗的結盟信函。"
+    },
+    "阿尼": {
+      "type": "city",
+      "id": "ani",
+      "description": "亞美尼亞的中世紀古都，有「千教堂之城」的美譽。在蒙古統治時期，阿尼仍維持著一定的商業繁榮，但隨後因地震與戰亂逐漸衰落。"
+    },
+    "布哈拉": {
+      "type": "city",
+      "id": "bukhara",
+      "description": "中亞著名的綠洲城市與伊斯蘭學術中心。成吉思汗西征時曾率軍奇襲此地，隨後在蒙古治下逐漸恢復，成為跨國貿易的重要節點。"
+    },
+    "撒馬爾罕": {
+      "type": "city",
+      "id": "samarqand",
+      "description": "絲綢之路上最古老、最繁華的城市之一。位於中亞腹地，歷經蒙古西征破壞後，仍在察合台汗國與後來的帖木兒帝國中扮演核心角色。"
+    },
+    "敖倫蘇木 (汪古部都城)": {
+      "type": "city",
+      "id": "olon_sume",
+      "description": "汪古部（信仰景教的突厥語游牧部落）的首府，位於今內蒙古達茂旗。是元朝與漠北聯繫的軍事與交通要衝，出土了大量景教石刻墓碑。"
+    },
+    "杭州 (臨安)": {
+      "type": "city",
+      "id": "hangzhou",
+      "description": "南宋舊都，馬可·波羅稱其為「行在」(Kinsay)。在元朝統治下，杭州依然是世界上最大、最富庶的城市之一，以發達的絲綢與商業聞名。"
+    },
+    "內沙布爾": {
+      "type": "city",
+      "id": "nishapur",
+      "description": "呼羅珊地區的名城，曾是伊斯蘭世界的文化中心。在蒙古西征中遭到毀滅性破壞，是蒙古軍事征服殘酷性的象徵之一。"
+    },
+    "泉州 (Zaitun)": {
+      "type": "city",
+      "id": "quanzhou",
+      "description": "元朝最大的海運港口與市舶司所在地。被譽為東方第一大港，吸引了阿拉伯、波斯與歐洲商人，城內並存著伊斯蘭教、景教、印度教與佛教。"
+    },
+    "奎隆 (Kawlam)": {
+      "type": "city",
+      "id": "quilon",
+      "description": "位於印度西南海岸的重要商埠。是海上絲綢之路上連接中國與中東的關鍵中轉站，元朝曾多次派遣使節與商船抵達此地。"
+    },
+    "阿速 (Azaq)": {
+      "type": "city",
+      "id": "azov",
+      "description": "位於亞速海沿岸的商業港口（今亞速）。是金帳汗國與義大利熱那亞、威尼斯商人進行奴隸與商品貿易的重要樞紐。"
+    },
+    "塔拉斯": {
+      "type": "city",
+      "id": "talas",
+      "description": "中亞古城，歷史上著名的怛羅斯戰役發生地。在蒙古帝國時期，這裡是諸王會盟與中亞驛站網絡的關鍵節點。"
+    },
+    "告成 (登封)": {
+      "type": "city",
+      "id": "gaocheng",
+      "description": "元朝天文學家郭守敬在此建立了登封觀星台。透過高表測影技術，精確觀測日影長度，為編纂《授時曆》提供了重要的數據基礎。"
+    },
+    "南京 (應天府)": {
+      "type": "city",
+      "id": "nanjing",
+      "description": "明朝初期的首都。朱元璋在此建立明朝，修築了宏偉的南京明城牆與明故宮，標誌著漢人政權的復興與蒙古統治的結束。"
+    },
+    "拉施特": {
+      "type": "person",
+      "description": "伊兒汗國著名的波斯宰相、歷史學家與醫生。主持編纂了世界史巨著《史集》，並建立拉希迪莊園，是推動波斯與中國文化交流的關鍵人物。"
+    },
+    "孛羅丞相": {
+      "type": "person",
+      "description": "元朝的蒙古高官，作為忽必烈的使節出使伊兒汗國並留任。他將中國的歷史、印刷術與交鈔制度介紹給中東，是東西方知識轉移的重要橋樑。"
+    },
+    "蓋海圖汗": {
+      "type": "person",
+      "description": "伊兒汗國君主。在孛羅丞相的建議下，他試圖透過發行波斯紙幣（Čāv）來解決財政危機，但因水土不服引發經濟崩潰，最終被推翻。"
+    },
+    "合贊汗": {
+      "type": "person",
+      "description": "伊兒汗國最傑出的君主之一。他正式改宗伊斯蘭教，推行了一系列政治、經濟與驛站改革，使汗國達到鼎盛，並積極與歐洲探討反馬穆魯克同盟。"
+    },
+    "卻俄尼亞底斯": {
+      "type": "person",
+      "description": "拜占庭帝國的學者與天文學家。他前往大不里士學習，將波斯與伊斯蘭的天文數據、星表翻譯成希臘文，將東方科學帶回君士坦丁堡。"
+    },
+    "阿八哈汗": {
+      "type": "person",
+      "description": "伊兒汗國第二任君主，旭烈兀之子。他迎娶了拜占庭公主瑪麗亞，並積極尋求與歐洲天主教國家的軍事同盟以對抗埃及馬穆魯克王朝。"
+    },
+    "瑪麗亞·帕里奧洛格娜": {
+      "type": "person",
+      "description": "拜占庭皇帝的女兒。原定嫁給旭烈兀，後嫁給阿八哈汗，被稱為「蒙古的瑪麗亞」，她在伊兒汗國積極保護基督徒與建立修道院。"
+    },
+    "拜都汗": {
+      "type": "person",
+      "description": "伊兒汗國君主，統治短暫。他對基督教表現出極大的寬容與偏好，允許在軍營中建立教堂，但隨後被改宗伊斯蘭教的合贊汗擊敗。"
+    },
+    "拜住": {
+      "type": "person",
+      "description": "蒙古帝國西征名將。在克塞山戰役中擊潰羅姆蘇丹國，使其淪為附庸，為旭烈兀隨後的西征與伊兒汗國的建立打下基礎。"
+    },
+    "旭烈兀": {
+      "type": "person",
+      "description": "成吉思汗之孫，伊兒汗國的建立者。他率軍攻陷巴格達，結束了阿拔斯王朝，同時也大力資助天文學家圖西建立馬拉蓋觀象台。"
+    },
+    "納西爾丁·圖西": {
+      "type": "person",
+      "description": "13世紀最偉大的波斯博學者之一。在旭烈兀支持下主導馬拉蓋觀象台，發明了「圖西雙圓」幾何模型，對哥白尼的日心說產生了深遠影響。"
+    },
+    "拉班·掃馬": {
+      "type": "person",
+      "description": "出生於大都的景教僧侶。他受伊兒汗阿魯渾派遣，作為蒙古使節出使歐洲，會見了教宗與英法君主，留下了珍貴的西行遊記。"
+    },
+    "雅巴拉哈三世": {
+      "type": "person",
+      "description": "原名馬可斯，與拉班·掃馬同行的汪古部景教僧侶。抵達中東後，他被選為東方教會（景教）總主教，領導整個亞洲的景教社群。"
+    },
+    "忽必烈汗": {
+      "type": "person",
+      "description": "元朝的建立者，大蒙古國大汗。他完成了對南宋的征服，建立元朝，推行漢法與多元文化治理，是推動東西方交流的關鍵君主。"
+    },
+    "八思巴": {
+      "type": "person",
+      "description": "藏傳佛教薩迦派法王，忽必烈汗的帝師。他受命創製了「八思巴字」，旨在作為蒙古帝國境內通用的官方拼音文字。"
+    },
+    "札馬魯丁": {
+      "type": "person",
+      "description": "來自波斯的穆斯林天文學家。他在元朝建立了回回司天台，向忽必烈進獻了多種阿拉伯天文儀器與伊斯蘭曆法（萬年曆）。"
+    },
+    "郭守敬": {
+      "type": "person",
+      "description": "元朝傑出的天文學家與水利專家。他吸收了阿拉伯天文學的精華，結合高表測影，編製了當時最精確的《授時曆》，並主持開鑿了京杭大運河。"
+    },
+    "馬可·波羅": {
+      "type": "person",
+      "description": "威尼斯商人與探險家。他在元朝為忽必烈效力多年，其口述的《馬可·波羅遊記》極大地激發了歐洲對東方的嚮往與地理大發現。"
+    },
+    "蒙哥汗": {
+      "type": "person",
+      "description": "大蒙古國第四任大汗。他發動了由旭烈兀統帥的西征（建立伊兒汗國）與對南宋的戰爭，他在位期間曾舉辦了著名的哈拉和林跨信仰神學辯論。"
+    },
+    "威廉·魯不魯乞": {
+      "type": "person",
+      "description": "法國國王派遣的方濟各會修士。他抵達哈拉和林覲見蒙哥汗，並參與了跨信仰辯論，留下的遊記是研究蒙古早期歷史的重要史料。"
+    },
+    "拔都汗": {
+      "type": "person",
+      "description": "成吉思汗之孫，金帳汗國的建立者。他統帥「長子西征」，征服了俄羅斯與東歐大部，在伏爾加河畔建立了強大的游牧帝國。"
+    },
+    "月即別汗": {
+      "type": "person",
+      "description": "金帳汗國在位最久的君主。他在位期間宣布伊斯蘭教為國教，使金帳汗國達到經濟與軍事的鼎盛時期，促進了跨國貿易。"
+    },
+    "伊本·巴圖塔": {
+      "type": "person",
+      "description": "摩洛哥著名的穆斯林旅行家。他的足跡遍布伊斯蘭世界、印度與中國，其遊記詳細記錄了14世紀歐亞大陸的政治、社會與驛站網絡。"
+    },
+    "那海": {
+      "type": "person",
+      "description": "金帳汗國的權臣與軍事統帥。他曾長期控制汗國的實權，積極介入東歐與拜占庭的政治，並推動了金帳汗國與埃及馬穆魯克的同盟。"
+    },
+    "脫脫汗": {
+      "type": "person",
+      "description": "金帳汗國君主。他消滅了權臣那海，恢復了汗國的統一，並致力於恢復絲綢之路的貿易秩序，與義大利城邦保持密切往來。"
+    },
+    "歐芙洛緒涅": {
+      "type": "person",
+      "description": "拜占庭皇帝米海爾八世的私生女。她被安排與金帳汗國的那海聯姻，是拜占庭帝國利用「和親」政策牽制周邊強權的典型案例。"
+    },
+    "瑪麗亞": {
+      "type": "person",
+      "description": "（通常指瑪麗亞·帕里奧洛格娜）拜占庭公主，嫁給伊兒汗國君主阿八哈，在蒙古宮廷中積極保護天主教與東正教利益。"
+    },
+    "完者都": {
+      "type": "person",
+      "description": "伊兒汗國君主，合贊汗之弟。他統治時期在蘇丹尼耶修建了壯麗的首都與陵墓，並曾短暫改宗什葉派伊斯蘭教。"
+    },
+    "法蘭孔·德·佩魯斯": {
+      "type": "person",
+      "description": "天主教傳教士，首任蘇丹尼耶大主教。他在伊兒汗國積極展開傳教活動，並負責管理天主教會在波斯地區的事務。"
+    },
+    "札尼別": {
+      "type": "person",
+      "description": "金帳汗國君主。他在位期間曾率軍圍攻熱那亞港口卡法，傳聞蒙古軍隊將感染黑死病的屍體投入城中，加速了瘟疫傳入歐洲。"
+    },
+    "海都": {
+      "type": "person",
+      "description": "窩闊台之孫，窩闊台汗國的實際建立者。他強烈反對忽必烈的漢化政策，發動了長達數十年的海都之亂，是蒙古傳統游牧勢力的代表。"
+    },
+    "闊里吉思": {
+      "type": "person",
+      "description": "汪古部首領，信仰景教的元朝駙馬。他在北方防禦海都叛軍時表現英勇，深得忽必烈與成宗信任，亦積極參與儒家與基督教的文化融合。"
+    },
+    "阿魯渾·阿加": {
+      "type": "person",
+      "description": "蒙古帝國在波斯地區的行政長官。在旭烈兀到來之前，他負責管理該地區的財政與稅收，確保了蒙古統治在波斯的穩固過渡。"
+    },
+    "腓力四世": {
+      "type": "person",
+      "description": "法國國王。他曾接見蒙古使節拉班·掃馬，並與伊兒汗國探討了聯合奪回聖地耶路撒冷的計畫，展現了東西方抗擊穆斯林的共同利益。"
+    },
+    "紀堯姆·布歇": {
+      "type": "person",
+      "description": "被蒙古人俘虜至哈拉和林的法國巴黎金匠。他在蒙古宮廷中設計並製作了著名的「銀樹」機關噴泉，是中西工藝交流的奇蹟。"
+    },
+    "教宗尼古拉四世": {
+      "type": "person",
+      "description": "13世紀末的羅馬教宗。他接見了拉班·掃馬，並派遣約翰·孟高維諾前往中國元朝大都傳教，積極推動了東方天主教的發展。"
+    },
+    "安德洛尼卡二世": {
+      "type": "person",
+      "description": "拜占庭帝國皇帝。他在位期間面臨奧斯曼突厥的崛起，試圖透過與伊兒汗國及金帳汗國聯姻來維護帝國的生存。"
+    },
+    "西奧多·梅托希特": {
+      "type": "person",
+      "description": "拜占庭帝國的知識分子、天文學家與政治家。他積極吸收從伊兒汗國傳回的波斯天文學知識，推動了拜占庭的學術復興。"
+    },
+    "格里高利·希奧尼亞德斯": {
+      "type": "person",
+      "description": "即卻俄尼亞底斯，拜占庭學者。他在大不里士學習阿拉伯與波斯天文學，並將圖西等人的星表帶回拜占庭，是知識西傳的關鍵人物。"
+    },
+    "約翰·阿克蘇赫": {
+      "type": "person",
+      "description": "拜占庭的突厥裔將領，展現了拜占庭帝國對多民族人才的包容與重用（較少出現在13世紀，可能指代泛突厥將領的影響）。"
+    },
+    "桂恰德": {
+      "type": "person",
+      "description": "（Guichard）可能是指法國的修道士或使節，曾在東西方外交中擔任翻譯或聯絡角色。"
+    },
+    "教宗額我略九世": {
+      "type": "person",
+      "description": "中世紀羅馬教宗。他推動了方濟各會與道明會向東方傳教的熱潮，為後來蒙古時代的東西方宗教接觸奠定了基礎。"
+    },
+    "愛德華一世": {
+      "type": "person",
+      "description": "英格蘭國王。他在加斯科涅（波爾多）接見了拉班·掃馬，並表示願意參與伊兒汗國提議的十字軍東征，但因國內戰亂未能成行。"
+    },
+    "馬可斯": {
+      "type": "person",
+      "description": "即雅巴拉哈三世的原名。這位來自元朝的汪古部景教徒，最終成為統管整個東方教會（涵蓋中東至中國）的總主教。"
+    },
+    "成吉思汗": {
+      "type": "person",
+      "description": "蒙古帝國的締造者。他統一了蒙古高原各部落，發動了震驚歐亞的大規模征服戰爭，打破了東西方的地理屏障，開啟了蒙古治世（Pax Mongolica）。"
+    },
+    "耶律楚材": {
+      "type": "person",
+      "description": "契丹族出身的蒙古帝國宰相。他勸說窩闊台汗保留中原農耕體系並實行稅收制度，阻止了蒙古軍隊將華北變為牧場的企圖。"
+    },
+    "闊里吉思王": {
+      "type": "person",
+      "description": "即汪古部首領闊里吉思，作為元朝的忠實藩鎮，不僅捍衛了帝國北疆，其統治區也是景教文化在東亞繁榮的縮影。"
+    },
+    "阿剌兀思剔吉忽里": {
+      "type": "person",
+      "description": "汪古部的早期首領。他選擇歸順成吉思汗，為蒙古帝國南下攻金提供了關鍵的情報與道路，家族世代與黃金家族聯姻。"
+    },
+    "闊闊真公主": {
+      "type": "person",
+      "description": "元朝卜魯罕部女子。受忽必烈之命，由馬可·波羅護送，走海路前往伊兒汗國嫁給阿魯渾汗（抵達時阿魯渾已死，改嫁合贊汗）。"
+    },
+    "海都汗": {
+      "type": "person",
+      "description": "窩闊台系的強權人物，堅持游牧傳統。他長期與元朝（忽必烈）及伊兒汗國對抗，其叛亂深刻影響了蒙古帝國的內部分裂與版圖格局。"
+    },
+    "朱元璋": {
+      "type": "person",
+      "description": "明朝開國皇帝。他領導農民起義推翻了元朝的統治，將蒙古勢力驅逐回漠北，建立了以漢人為主導的大明帝國，並實施里甲制恢復農業經濟。"
+    },
+    "雕版印刷": {
+      "type": "tech",
+      "description": "源於中國的印刷技術。在蒙古和平下傳入伊兒汗國，曾被用來印製波斯紙幣（交鈔），加速了知識傳播，也影響了後來歐洲的印刷發展。"
+    },
+    "紙幣": {
+      "type": "tech",
+      "description": "中國宋元時期廣泛流通的信用貨幣。伊兒汗國蓋海圖汗曾短暫嘗試發行波斯紙幣（Čāv），雖因經濟崩潰失敗，但促進了金融概念的西傳。"
+    },
+    "牌符驛政改革": {
+      "type": "tech",
+      "description": "合贊汗在伊兒汗國推行的改革。透過嚴格管理乘驛牌（牌符）的發放與限制濫用驛站資源，成功恢復了驛站系統的效率與帝國經濟。"
+    },
+    "天文翻譯": {
+      "type": "tech",
+      "description": "波斯與阿拉伯的天文學著作被翻譯成中文（如札馬魯丁的貢獻）與希臘文（如卻俄尼亞底斯的貢獻），是13-14世紀歐亞科學交流的核心。"
+    },
+    "伊兒汗星表": {
+      "type": "tech",
+      "description": "由納西爾丁·圖西在馬拉蓋觀象台主導編纂的精確天文星表。該星表融合了中亞、波斯與中國的觀測數據，在伊斯蘭世界與歐洲廣為流傳。"
+    },
+    "圖西雙圓": {
+      "type": "tech",
+      "description": "波斯數學家圖西發明的幾何模型。透過兩個內切圓的滾動來解釋行星的直線運動，為後來哥白尼發展日心說提供了關鍵的數學工具。"
+    },
+    "歐幾里得幾何": {
+      "type": "tech",
+      "description": "古希臘數學基礎。在蒙古時代，波斯學者將其整理並應用於球面幾何與天文計算，這些知識隨後又傳入了元朝與拜占庭。"
+    },
+    "景教": {
+      "type": "religion",
+      "description": "基督教東方亞述教會（Church of the East）在唐代中國的稱呼。該教派起源於西元5世紀的敘利亞，因聶斯脫里（Nestorius）的基督二性論被羅馬教廷判為異端，其信徒被迫沿著絲綢之路向東流亡。他們將古希臘的醫學與哲學翻譯為敘利亞文與阿拉伯文，是後來伊斯蘭黃金時代的學術啟蒙者。西元635年，阿羅本主教抵達長安覲見唐太宗，促成了『大秦景教流行中國碑』的建立。在蒙古帝國時期，景教在汪古部、克烈部等突厥蒙古部落中極度繁盛，成為連結歐洲與遠東的重要外交橋樑。"
+    },
+    "八思巴字": {
+      "type": "tech",
+      "description": "忽必烈下令創製的官方文字。基於藏文字母，旨在精確拼寫蒙古語、漢語等多種語言，展現了元朝試圖建立大一統帝國語言工具的雄心。"
+    },
+    "回回曆法": {
+      "type": "tech",
+      "description": "即伊斯蘭曆法。因其精確的月相與行星計算，被元朝官方採用，與中國傳統曆法並行，由回回司天台負責觀測與編纂。"
+    },
+    "授時曆": {
+      "type": "tech",
+      "description": "由元朝郭守敬主導編製的曆法。透過改良儀器與高表測影，計算出一年為365.2425天，與現代公曆完全一致，是中國曆法的巔峰之作。"
+    },
+    "交鈔": {
+      "type": "tech",
+      "description": "元朝發行的法定紙幣。忽必烈透過鹽稅與白銀作為準備金，建立起橫跨歐亞的龐大信用體系，是人類歷史上最早的廣泛紙幣實踐。"
+    },
+    "跨信仰神學辯論": {
+      "type": "tech",
+      "description": "1254年在哈拉和林由蒙哥汗主辦的辯論。天主教修士、景教徒、佛教徒與穆斯林同場競技，展現了蒙古帝國早期對宗教的包容與好奇。"
+    },
+    "毛筆書法觀察": {
+      "type": "tech",
+      "description": "中東歷史學家（如拉施特）對中國毛筆書法與雕版印刷的觀察與記錄，是當時伊斯蘭世界了解中國獨特書寫與文化載體的重要文獻。"
+    },
+    "伊斯蘭教": {
+      "type": "religion",
+      "description": "西元7世紀由穆罕默德在阿拉伯半島創立的一神教。不僅是宗教信仰，更是一套涵蓋政治、法律與社會規範的完整體系。其強大的擴張力在幾百年內建立起橫跨歐亞非的阿拔斯帝國，並透過「智慧之家」的翻譯運動，保存了大量希臘文獻，成為東西方文化交流的超級中介。"
+    },
+    "俄羅斯東正教": {
+      "type": "tech",
+      "description": "在金帳汗國統治期間（韃靼之軛），東正教會因獲得免稅特權與保護，勢力大增，成為維繫俄羅斯民族認同與後來莫斯科公國崛起的精神支柱。"
+    },
+    "海上貿易": {
+      "type": "tech",
+      "description": "元朝時期空前繁榮的經濟活動。透過泉州、廣州等市舶司，中國的絲綢、瓷器與中東、印度的香料進行大規模交換，形成了繁盛的海上絲路。"
+    },
+    "伊斯蘭建築": {
+      "type": "tech",
+      "description": "在蒙古統治後期，伊兒汗國與金帳汗國大力贊助清真寺與陵墓建設（如蘇丹尼耶陵墓），融合了波斯傳統與蒙古審美，影響深遠。"
+    },
+    "天主教": {
+      "type": "tech",
+      "description": "以羅馬教宗為首的基督宗教。在蒙古時代，天主教會積極派遣傳教士（如孟高維諾）前往大都與波斯，試圖將蒙古大汗轉變為抗擊穆斯林的盟友。"
+    },
+    "驛傳物流": {
+      "type": "tech",
+      "description": "支撐龐大蒙古帝國運作的動脈。透過密布歐亞的驛站（站赤），確保了軍事情報、使節往來、貢品傳遞與商業物資的高效流動。"
+    },
+    "黑死病傳播": {
+      "type": "tech",
+      "description": "14世紀中葉橫掃歐亞的鼠疫。普遍認為，隨著蒙古和平保障的貿易路線以及金帳汗國對卡法的圍攻，這場瘟疫沿著絲路與海路傳入了歐洲。"
+    },
+    "戶賦/包稅制": {
+      "type": "tech",
+      "description": "蒙古帝國在各地推行的稅收制度。常將收稅權承包給中亞與波斯商人（斡脫），這種制度雖然增加了財政收入，但也常導致對平民的沉重剝削。"
+    },
+    "驛站預算管理": {
+      "type": "tech",
+      "description": "隨著帝國擴張，驛站系統（站赤）消耗了巨大的馬匹與糧食。伊兒汗國合贊汗透過嚴格的牌符管理，遏制了貴族濫用驛站導致的經濟崩潰。"
+    },
+    "天主教外交": {
+      "type": "tech",
+      "description": "伊兒汗國與羅馬教廷及歐洲各國頻繁的使節往來（如拉班·掃馬西行）。雙方試圖建立軍事同盟以夾擊馬穆魯克王朝，雖未實現，但促進了互相了解。"
+    },
+    "跨信仰神學交流": {
+      "type": "tech",
+      "description": "在蒙古統治下，佛教、伊斯蘭教、景教與天主教在各大城市（如大都、哈拉和林、大不里士）共存與交流，出現了宗教圖騰與理念的融合。"
+    },
+    "東正教": {
+      "type": "tech",
+      "description": "拜占庭帝國與俄羅斯的主要信仰。拜占庭透過東正教公主的聯姻與蒙古汗國交好；而在俄羅斯，教會則在金帳汗國的寬容下迅速發展。"
+    },
+    "外交": {
+      "type": "tech",
+      "description": "蒙古帝國不僅透過征服，也透過和親、互派使節（如馬可·波羅、拉班·掃馬）與通行牌符，建立起橫跨歐亞大陸的外交網絡。"
+    },
+    "托勒密天文學": {
+      "type": "tech",
+      "description": "古希臘天文學家托勒密的理論。在馬拉蓋觀象台，波斯學者圖西等人對托勒密模型進行了修正（如圖西雙圓），為天文學的進步鋪平道路。"
+    },
+    "波斯計算方法": {
+      "type": "tech",
+      "description": "指波斯與阿拉伯數學家發展的幾何、代數與天文計算技術。這些方法隨後傳入元朝，協助郭守敬精確編纂了《授時曆》。"
+    },
+    "潛在突厥化": {
+      "type": "tech",
+      "description": "蒙古西征帶來了大量突厥部落。在金帳汗國與察合台汗國，少數的蒙古統治者最終在語言與文化上被佔多數的突厥人同化。"
+    },
+    "佛教": {
+      "type": "religion",
+      "description": "西元前6世紀由釋迦牟尼（Siddhartha Gautama）於古印度摩揭陀國一帶創立的宗教。佛教的核心教義『四聖諦』（苦、集、滅、道）與『八正道』，主張任何人皆可透過修行斷除煩惱，最終達到涅槃。這在當時極大地挑戰了婆羅門教嚴格且不平等的『瓦爾那（種姓）制度』。西元前3世紀，孔雀王朝的阿育王將佛教定為國教，並派出大量僧侶使團前往斯里蘭卡、中亞甚至希臘化世界傳教，使其從地方性信仰躍升為影響東亞與東南亞數千年文化的最重要跨國宗教力量。"
+    },
+    "宗教融合": {
+      "type": "tech",
+      "description": "蒙古和平時期，各種宗教在帝國境內自由傳播。在藝術品與石刻墓碑上，經常可見十字架與蓮花並存等宗教符號交融的現象。"
+    },
+    "天主教傳教": {
+      "type": "tech",
+      "description": "方濟各會與道明會修士深入亞洲腹地。約翰·孟高維諾在元大都建立了天主教堂並被任命為大主教，成功為數千名汪古部與阿蘭人施洗。"
+    },
+    "喬治亞正教": {
+      "type": "tech",
+      "description": "高加索地區的基督教派。喬治亞王國在被蒙古征服後，其騎兵成為伊兒汗國軍隊的重要組成部分，並在對抗穆斯林時表現積極。"
+    },
+    "手抄本製作": {
+      "type": "tech",
+      "description": "在中世紀，手抄本是知識傳播的核心。伊兒汗國的拉希迪莊園內聚集了大量書法家與畫家，製作了精美的波斯細密畫與《史集》手抄本。"
+    },
+    "金屬工藝": {
+      "type": "tech",
+      "description": "融合了伊斯蘭圖騰與蒙古草原風格的手工藝。哈拉和林與摩蘇爾的工匠們擅長製作精美的金銀器，最著名的代表為紀堯姆·布歇的「銀樹」。"
+    },
+    "跨文化治理": {
+      "type": "tech",
+      "description": "蒙古帝國為了統治龐大而多樣的疆域，大量任用色目人（如阿拉伯人、波斯人）與漢人官員，形成了一套多元包容卻又層級分明的統治體系。"
+    },
+    "伊斯蘭曆法": {
+      "type": "tech",
+      "description": "基於月相的曆法（回回曆）。在元朝，忽必烈設立了回回司天台，利用阿拉伯天文學的精確觀測，輔助中國傳統曆法的編纂與修正。"
+    },
+    "地理時差計算": {
+      "type": "tech",
+      "description": "隨著帝國版圖橫跨歐亞，波斯與中國的天文學家開始意識到各城市間的經度差異，並在星表與曆法中導入了時差計算的概念。"
+    },
+    "宗教融合藝術": {
+      "type": "tech",
+      "description": "在波斯細密畫或泉州石刻墓碑上，經常可以看到伊斯蘭的幾何紋樣、基督教的十字架與佛教的蓮花、飛天等不同文化元素的完美結合。"
+    },
+    "敘利亞文字": {
+      "type": "tech",
+      "description": "東方教會（景教）使用的宗教語言文字。它不僅是教徒的通用文字，也是回鶻字母的源頭，進而影響了蒙古文字的創立。"
+    },
+    "絲綢紡織": {
+      "type": "tech",
+      "description": "中國傳統的高級工藝。在蒙古治下，大批中國絲織工匠被遷往中亞與波斯，使中國圖案（如龍、鳳）與伊斯蘭風格融合，熱銷於歐洲市場。"
+    },
+    "急遞制度": {
+      "type": "tech",
+      "description": "蒙古驛站中專責傳遞緊急軍情與聖旨的特急通訊系統。信使日夜兼程，甚至每天可換乘數十次馬匹，展現了帝國對資訊掌控的重視。"
+    },
+    "驛馬管理": {
+      "type": "tech",
+      "description": "驛站系統（站赤）運作的基石。帝國要求各地政府與百姓提供龐大的馬匹、草料與人力，以維持這個橫跨歐亞的交通巨獸運轉。"
+    },
+    "牌符憑證": {
+      "type": "tech",
+      "description": "即「乘驛牌」（Paiza）。由大汗頒發的金、銀、銅牌，持有者有權在帝國境內免費徵用驛站的馬匹、食宿與嚮導，是權力與暢通無阻的象徵。"
+    },
+    "造船技術": {
+      "type": "tech",
+      "description": "元朝為了掌控海上貿易與發動海外征伐（如日本、爪哇），大力發展了造船業。巨大的遠洋帆船配備了水密隔艙與羅盤，航行於印度洋與太平洋。"
+    },
+    "航海術": {
+      "type": "tech",
+      "description": "結合了中國的指南針技術與阿拉伯的星象導航。使得元朝時期的商船能夠脫離海岸線進行深海航行，極大地促進了海上絲綢之路的繁榮。"
+    },
+    "市舶稅收": {
+      "type": "tech",
+      "description": "元朝政府在泉州、廣州等沿海港口設立市舶司，對進出口商品徵收關稅（抽分）。這是元朝國庫重要的財政收入來源。"
+    },
+    "海上絲路": {
+      "type": "tech",
+      "description": "連接中國東南沿海、東南亞、印度教與波斯灣的海上貿易航線。在陸路驛站之外，成為香料、瓷器與絲綢運輸的黃金水道。"
+    },
+    "香料貿易": {
+      "type": "tech",
+      "description": "中世紀最暴利的商業活動。東南亞與印度的胡椒、丁香等香料，經由海上絲路運至中東，再由威尼斯與熱那亞商人轉銷歐洲。"
+    },
+    "跨國貿易": {
+      "type": "tech",
+      "description": "在「蒙古和平」（Pax Mongolica）的保障下，歐亞大陸的安全得到空前提升，商人可以攜帶交鈔或白銀，安全地從義大利一路貿易至中國大都。"
+    },
+    "游牧軍事": {
+      "type": "tech",
+      "description": "蒙古軍隊的致勝核心。依賴高機動性的輕騎兵、卓越的複合弓射術、嚴密的組織紀律以及殘酷的心理戰與圍城技術，橫掃歐亞大陸。"
+    },
+    "過境外交": {
+      "type": "tech",
+      "description": "各國使節（如馬可·波羅）在穿越不同汗國領地時，依賴大汗頒發的牌符與信件，獲得各地的物資補給與軍事保護，確保外交任務順利。"
+    },
+    "高表測影": {
+      "type": "tech",
+      "description": "元朝天文學家郭守敬採用的測量技術。透過建造高大的「表」（如登封觀星台），精確測量冬至日影長度，從而準確計算出回歸年的長度。"
+    },
+    "球面三角學": {
+      "type": "tech",
+      "description": "源自伊斯蘭世界的數學分支。被廣泛應用於天文學中以計算星體位置與麥加朝向。郭守敬在編纂《授時曆》時也吸收了這門先進技術。"
+    },
+    "里甲制": {
+      "type": "tech",
+      "description": "明朝初年朱元璋建立的基層行政與稅收組織制度。以110戶為一里，旨在恢復受戰爭破壞的農業經濟，加強對鄉村的戶籍與勞役控制。"
+    },
+    "火器廣泛應用": {
+      "type": "tech",
+      "description": "中國發明的火藥在宋元時期開始被應用於管形火器（如突火槍、火銃）。蒙古西征時，將這些早期的熱兵器技術帶到了中東與東歐。隨後，歐洲與鄂圖曼土耳其在這些基礎上進行了改良，發展出大型攻城火炮與火繩槍。1453年，鄂圖曼帝國正是利用巨型『烏爾班大砲』轟塌了君士坦丁堡的堅固城牆，標誌著冷兵器與高牆城堡時代的終結。"
+    },
+    "拉希迪莊園": {
+      "type": "infrastructure",
+      "description": "伊兒汗國宰相拉施特在大不里士建立的巨大知識與建築群。內部設有醫院、圖書館與抄寫室，是14世紀波斯最重要的學術與翻譯中心。"
+    },
+    "大不里士觀象台": {
+      "type": "infrastructure",
+      "description": "繼馬拉蓋之後，伊兒汗國在大不里士建立的天文觀測機構。拜占庭學者卻俄尼亞底斯在此學習，將波斯天文學成果傳回歐洲。"
+    },
+    "印鈔局": {
+      "type": "infrastructure",
+      "description": "元朝與伊兒汗國專責印製紙幣（交鈔/Čāv）的官方機構。象徵著國家對貨幣發行權的壟斷與龐大信用經濟體系的建立。"
+    },
+    "馬拉蓋觀象台": {
+      "type": "infrastructure",
+      "description": "旭烈兀在納西爾丁·圖西建議下建立的巨型天文台。擁有當時最精良的觀測儀器與四十萬卷藏書，是13世紀世界最高水平的科學研究中心。"
+    },
+    "景教宗主教座堂": {
+      "type": "infrastructure",
+      "description": "東方教會（景教）的最高宗教中心，位於巴格達。在雅巴拉哈三世統治時期，這裡成為連接中東與東亞數十萬景教徒的精神樞紐。"
+    },
+    "回回司天台": {
+      "type": "infrastructure",
+      "description": "元大都專門負責伊斯蘭曆法與天文觀測的官方機構。與傳統的漢人司天監並立，反映了忽必烈對阿拉伯先進天文科學的重視與吸收。"
+    },
+    "站赤/驛站中樞": {
+      "type": "infrastructure",
+      "description": "蒙古帝國交通網絡的核心系統。每隔一段距離設立驛站，提供馬匹、食宿與嚮導，是維繫龐大帝國行政、軍事與商業命脈的骨幹。"
+    },
+    "萬安宮": {
+      "type": "infrastructure",
+      "description": "元大都內的皇家宮殿建築之一。展現了蒙古皇帝對中原宮殿建築形制的吸收，同時也融合了草原帳篷與異域裝飾的特色。"
+    },
+    "驛站總樞紐": {
+      "type": "infrastructure",
+      "description": "哈拉和林與元大都是帝國驛站系統的最核心節點。所有通往中亞、波斯、俄羅斯與中國各地的主要驛道皆從這些中樞向外輻射。"
+    },
+    "驛站": {
+      "type": "infrastructure",
+      "description": "（Jam）蒙古帝國在全國密布的交通與通訊節點。它不僅是情報傳遞的接力站，也為商旅與各國使節提供了安全的庇護與後勤補給。"
+    },
+    "伊斯蘭蘇非大學": {
+      "type": "infrastructure",
+      "description": "中亞與西亞地區的高等伊斯蘭學府（馬德拉薩）。在蒙古統治後期，伊兒汗國與金帳汗國的君主大力贊助此類學府以獲取宗教界的支持。"
+    },
+    "商埠": {
+      "type": "infrastructure",
+      "description": "進行跨國貿易與商品集散的重要城市與港口。如大不里士、卡法、泉州等，這些商埠的繁榮直接得益於蒙古和平保障的自由貿易政策。"
+    },
+    "完者都陵墓": {
+      "type": "infrastructure",
+      "description": "位於蘇丹尼耶的宏偉伊斯蘭建築。擁有巨大的雙層磚砌穹頂，是波斯建築史上的傑作，對後來印度泰姬陵等建築產生了深遠影響。"
+    },
+    "天主教大主教區": {
+      "type": "infrastructure",
+      "description": "教宗在元大都（汗八里）設立的教區，由約翰·孟高維諾擔任首任總主教。標誌著羅馬天主教首次在中國建立起有組織的傳教會。"
+    },
+    "夏宮": {
+      "type": "infrastructure",
+      "description": "如元朝的上都，是蒙古大汗為了避暑與維持游牧狩獵傳統而建立的行宮。大汗會在此度過炎夏，並接見外國使節與處理政務。"
+    },
+    "驛站網絡": {
+      "type": "infrastructure",
+      "description": "密佈於歐亞大陸的交通與物流微血管系統。它將帝國分散的各大汗國緊密聯繫在一起，是歷史上第一個真正意義上的洲際通訊網絡。"
+    },
+    "熱那亞商港": {
+      "type": "infrastructure",
+      "description": "義大利熱那亞人在黑海與地中海建立的貿易據點（如卡法）。他們壟斷了從金帳汗國運往歐洲的奴隸、絲綢與香料貿易。"
+    },
+    "綠洲驛站": {
+      "type": "infrastructure",
+      "description": "位於中亞沙漠邊緣，依賴珍貴水源建立的交通節點。為穿越乾旱地區的商隊與驛使提供了必不可少的補給與生存保障。"
+    },
+    "政府辦公機構": {
+      "type": "infrastructure",
+      "description": "帝國各地的行政管理中心（如達魯花赤的駐地）。負責當地的戶籍、稅收、治安與驛站維護，確保中央政令的有效下達。"
+    },
+    "呼羅珊驛站": {
+      "type": "infrastructure",
+      "description": "連接波斯、阿富汗與中亞的重要交通樞紐網絡。在頻繁的戰亂中，呼羅珊地區的驛站屢遭破壞，但隨後又被伊兒汗國重建。"
+    },
+    "王室宮廷": {
+      "type": "infrastructure",
+      "description": "蒙古大汗或各汗國君主的駐地。宮廷內部充滿了政治權謀，同時也是不同宗教學者與外國工匠匯聚、交流技藝的中心。"
+    },
+    "羅馬教廷": {
+      "type": "infrastructure",
+      "description": "歐洲天主教的最高權力中心。在蒙古時代，教廷積極介入東方事務，試圖將蒙古人轉化為基督徒，並策劃針對穆斯林的十字軍聯盟。"
+    },
+    "教堂": {
+      "type": "infrastructure",
+      "description": "基督宗教的禮拜場所。在蒙古帝國極度寬容的宗教政策下，景教、天主教與東正教的教堂在東亞與中亞各地拔地而起。"
+    },
+    "商港": {
+      "type": "infrastructure",
+      "description": "海路貿易的據點，如泉州、廣州、亞速。商船在此停泊、交易與補給，是海洋文明與大陸文明交匯的最前線。"
+    },
+    "綠洲商路": {
+      "type": "infrastructure",
+      "description": "穿越中亞乾旱地區的傳統絲綢之路。沿線的綠洲城鎮為龐大的商隊與駱駝提供了水源與貿易市場。"
+    },
+    "佛教寺院": {
+      "type": "infrastructure",
+      "description": "在元朝獲得大量土地與免稅特權的宗教建築。藏傳佛教寺院尤其受到皇室青睞，不僅是宗教中心，也擁有巨大的經濟影響力。"
+    },
+    "修道院": {
+      "type": "infrastructure",
+      "description": "基督教修士隱修與學習的場所。在伊兒汗國，拜占庭公主瑪麗亞曾資助建立東正教修道院，成為基督徒在波斯地區的庇護所。"
+    },
+    "作坊": {
+      "type": "infrastructure",
+      "description": "手工業生產的集中地。蒙古統治者常將各地俘虜來的優秀工匠集中於作坊中，進行大規模的武器、絲綢與金銀器生產。"
+    },
+    "古城防禦與驛路": {
+      "type": "infrastructure",
+      "description": "結合軍事防禦與交通傳遞的城鎮設施。在帝國邊境或動盪地區，驛站往往具備城堡的防禦功能，以保護使節與商旅的安全。"
+    },
+    "清真寺與市集": {
+      "type": "infrastructure",
+      "description": "伊斯蘭城市的核心生活與商業區。在蒙古統治後期，城市重建往往以清真寺為中心，周圍環繞著繁華的巴札（市集）。"
+    },
+    "中亞驛站": {
+      "type": "infrastructure",
+      "description": "絲綢之路中段的驛站網絡。連接著察合台汗國與周邊地區，在海都之亂等內戰中，這些驛站對於軍隊調度與情報傳遞至關重要。"
+    },
+    "景教教堂": {
+      "type": "infrastructure",
+      "description": "東方教會在各地建立的禮拜場所。在元大都、泉州與中亞綠洲，景教教堂曾十分活躍，信徒多為突厥部落與蒙古貴族。"
+    },
+    "石刻墓碑": {
+      "type": "infrastructure",
+      "description": "記錄了多元文化融合的歷史文物。例如泉州出土的景教墓碑，其上雕刻著十字架、蓮花以及敘利亞文與漢文，是當時文化交匯的實證。"
+    },
+    "邊防驛站": {
+      "type": "infrastructure",
+      "description": "位於帝國邊境，兼具軍事預警與交通功能的驛站。負責監控邊疆動態，並在敵軍入侵時第一時間向中樞傳遞烽火與情報。"
+    },
+    "京杭大運河": {
+      "type": "infrastructure",
+      "description": "元朝重修以連接江南糧倉與北方大都的人工水道。由郭守敬主持，徹底打通了南北水運，保障了元大都龐大的糧食與物資需求。"
+    },
+    "海運港口": {
+      "type": "infrastructure",
+      "description": "如泉州，負責龐大的海外貿易與南糧北運。元朝憑藉強大的海運能力，建立起以港口為節點的海洋霸權。"
+    },
+    "皇家大道": {
+      "type": "infrastructure",
+      "description": "連接帝國重要城市的核心官道。路面寬闊，驛站設施完善，專供皇家使節、軍隊與持有牌符的高級官員快速通行。"
+    },
+    "商埠海港": {
+      "type": "infrastructure",
+      "description": "結合商業與海運的沿海城市。不僅是貨物集散地，也是各國商人聚居、多種信仰交融的國際化大都會。"
+    },
+    "市舶司": {
+      "type": "infrastructure",
+      "description": "元朝管理海外貿易與徵收關稅的官方機構。負責檢查商船、發放貿易許可證，並對高利潤的香料、珠寶實施抽分（抽稅）。"
+    },
+    "供水驛棚": {
+      "type": "infrastructure",
+      "description": "在乾旱沙漠或戈壁地區，為商旅與驛馬提供水源的特殊設施。這是維持綠洲商路與中亞驛站運作不可或缺的生命線。"
+    },
+    "海港": {
+      "type": "infrastructure",
+      "description": "停泊海船的港口設施。元朝時期，東南沿海的海港日夜吞吐著來自印度洋與南洋的巨型商船。"
+    },
+    "驛道起點": {
+      "type": "infrastructure",
+      "description": "主要交通路線的發端，如大都。從這裡，無數的信使與商隊帶著大汗的旨意與絲綢，踏上前往歐洲與中東的漫漫長路。"
+    },
+    "游牧大營": {
+      "type": "infrastructure",
+      "description": "蒙古君主巡幸與駐紮的移動式帳篷營地 (Ordo)。這不僅是軍事大本營，也是帝國移動的政治與行政中心。"
+    },
+    "觀星台": {
+      "type": "infrastructure",
+      "description": "用於天文測量的專業建築。如郭守敬的登封觀星台，透過創新的建築結構與儀器，極大地提高了元朝天文觀測的精確度。"
+    },
+    "南京明城牆": {
+      "type": "infrastructure",
+      "description": "明朝初期朱元璋在南京修建的巨大防禦工事。它是世界上現存最長、規模最大的古代城牆，象徵著明帝國對防禦的重視。"
+    },
+    "明故宮": {
+      "type": "infrastructure",
+      "description": "明朝建立初期的皇家宮殿，位於南京。它是後來北京故宮的藍本，展現了漢族傳統宮殿建築的宏偉與對稱美學。"
+    },
+    "花剌子模": {
+      "type": "city",
+      "id": "urgench",
+      "description": "位於中亞阿姆河下游的古國。13世紀初被成吉思汗以報復使團被殺為由徹底摧毀，引發了蒙古第一次大規模西征。"
+    },
+    "中都": {
+      "type": "city",
+      "id": "dadu",
+      "description": "金朝的首都，位於今北京。被蒙古大軍攻陷後摧毀，後來忽必烈在原址附近營建了大都，成為元朝的政治中心。"
+    },
+    "亞速": {
+      "type": "city",
+      "id": "azov",
+      "description": "黑海與亞速海交界處的貿易港口，也是義大利城邦與金帳汗國進行黑海貿易的重要樞紐，將來自亞洲的貨物轉運至歐洲。"
+    },
+    "阿力麻里": {
+      "type": "city",
+      "id": "qayaligh",
+      "description": "位於伊犁河谷的中亞名城，曾是察合台汗國的都城之一。此地水草豐美，是連接新疆與中亞腹地的絲路重鎮。"
+    },
+    "伏爾加河": {
+      "type": "city",
+      "id": "sarai",
+      "description": "歐洲最長的河流。金帳汗國的首都薩萊即建於其畔，這條大河不僅為游牧民族提供了豐沛的水源，更是連接俄羅斯與裏海的貿易大動脈。"
+    },
+    "克孜勒庫姆沙漠": {
+      "type": "location_missing",
+      "description": "位於中亞阿姆河與錫爾河之間的巨大沙漠。成吉思汗在西征花剌子模時，曾率軍奇蹟般地穿越這片死亡之海，成功奇襲了布哈拉。"
+    },
+    "北京": {
+      "type": "city",
+      "id": "dadu",
+      "description": "即元大都、明清京師。自元朝起成為中國的政治中心，是匯聚了中原農耕文明與北方游牧文明的歷史文化名城。"
+    },
+    "造紙術": {
+      "type": "tech",
+      "description": "古代中國的四大發明之一。西元105年由東漢蔡倫改進。751年怛羅斯之戰後，造紙技術隨被俘工匠傳入撒馬爾罕，再經由阿拉伯帝國（巴格達、亞歷山大港）傳播至北非與西班牙。紙張的輕便與廉價，徹底取代了笨重的竹簡與昂貴的羊皮紙，成為中世紀伊斯蘭黃金時代與歐洲文藝復興知識爆發的最關鍵載體。"
+    },
+    "希臘化時代": {
+      "type": "people",
+      "description": "特指從西元前334年亞歷山大東征，至西元前30年羅馬吞併埃及托勒密王朝為止的三百多年歷史。亞歷山大將雅典的文化實體移植到東方，在廣袤的帝國疆域內建立了數十座『亞歷山大城』。例如，埃及的亞歷山大港建立了擁有數十萬卷莎草紙文獻的『繆斯神殿（大圖書館）』；在中亞的巴克特里亞王國，希臘工匠帶來了寫實雕塑技法，隨後與印度的佛教信仰結合，誕生了以希臘神阿波羅面容雕刻佛像的『犍陀羅藝術』，這是人類歷史上最偉大的一次實體跨國文化大融合。"
+    },
+    "經院哲學": {
+      "type": "religion",
+      "description": "中世紀歐洲佔主導地位的哲學流派。其核心特徵是試圖將古希臘哲學（特別是亞里士多德的理性邏輯）與基督教神學相結合。在托馬斯·阿奎那的《神學大全》中達到巔峰，推動了歐洲早期大學的建立與學術辯論傳統。"
+    },
+    "基督教": {
+      "type": "religion",
+      "description": "發源於西元1世紀巴勒斯坦地區。經歷了羅馬帝國早期的迫害，至313年《米蘭敕令》合法化並最終成為國教。1054年分裂為羅馬公教與東正教。基督教的神學宇宙觀與修道院制度，深刻形塑了整個歐洲的藝術、政治與哲學基礎。"
+    },
+    "自然法學說": {
+      "type": "religion",
+      "description": "源自古希臘斯多葛學派（創始人芝諾 Zeno），並在古羅馬時期由政治家兼哲學家西塞羅（Cicero）系統化的法律哲學。西塞羅在西元前50年代撰寫的《共和國》與《法律篇》中主張：宇宙間存在著一種由上帝或自然賦予、超越人類國王與議會所制定法（實定法）的普遍理性與道德法則，即『自然法』（Lex Naturalis）。這種法則對所有民族、所有時代都適用。它深刻影響了後世的《查士丁尼法典》，並在17世紀啟蒙時代由洛克等人演變為『天賦人權』的理論基礎，成為現代西方憲政、美國獨立宣言與國際法的靈魂。"
+    },
+    "宗教改革": {
+      "type": "religion",
+      "description": "16世紀由馬丁·路德、喀爾文等人發起的基督教改革運動。旨在反對羅馬教廷的腐敗（如贖罪券），強調「因信稱義」與《聖經》的絕對權威。這場運動導致了新教的誕生，並在隨後的一百年引發了遍及歐洲的宗教戰爭，最終催生了現代國家的主權觀念與宗教寬容思想。"
+    },
+    "科學革命": {
+      "type": "tech",
+      "description": "16至17世紀在歐洲發生的一系列思想與方法論的劇變。從哥白尼的日心說、伽利略的望遠鏡觀測，到牛頓的經典力學體系，人類開始用數學與實驗來理解宇宙，徹底打破了中世紀的經院哲學與神學宇宙觀。"
+    },
+    "西學東漸": {
+      "type": "tech",
+      "description": "明末清初，以利瑪竇為首的耶穌會士抵達中國，將西方的天文、數學、地理、火器等科學技術傳入中國的歷史過程。雖然最終因「禮儀之爭」而中斷，但這是中西兩大文明首次在較高層次的科學與哲學上的直接碰撞。"
+    },
+    "啟蒙運動": {
+      "type": "religion",
+      "description": "18世紀橫掃歐洲的思想解放運動。以法國為中心，孟德斯鳩、盧梭、伏爾泰等人主張以「理性」取代權威與迷信，提倡天賦人權、三權分立與契約論。這些思想成為美國獨立戰爭與法國大革命的思想武器。"
+    },
+    "工業革命": {
+      "type": "tech",
+      "description": "18世紀後半葉發源於英國的技術與經濟變革。瓦特改良的蒸汽機將人類帶入「機器時代」。工業革命不僅帶來了生產力的飛躍，更徹底改變了全球的地緣政治格局，迫使古老的東方帝國面臨前所未有的挑戰與轉型。"
+    },
+    "天工開物": {
+      "type": "tech",
+      "description": "明朝科學家宋應星於1637年出版的著作。書中圖文並茂地記錄了當時農業、手工業的各項生產技術。這部被譽為「中國17世紀工藝百科全書」的著作，反映了當時東亞在傳統工藝技術上的最高成就，後來甚至被翻譯傳入日本與歐洲。"
+    },
+    "哥倫布大交換": {
+      "type": "tech",
+      "description": "由歷史學家艾爾弗雷德·克羅斯比（Alfred Crosby）於1972年提出的概念，指1492年哥倫布抵達美洲後，東半球（舊大陸）與西半球（新大陸）之間發生的廣泛生物、農作物與人口的大規模實體轉移。在農業上，美洲的馬鈴薯、玉米與番薯傳入歐洲與亞洲，因其高耐寒與高產量徹底解決了舊大陸的飢荒，促成17-18世紀的全球人口大爆炸。在病理上，歐洲人帶來的天花、麻疹與流感等病菌，對缺乏抗體的美洲原住民社會造成了毀滅性的打擊，導致高達90%的原住民人口在一個世紀內消亡。"
+    },
+    "易洛魁聯盟": {
+      "type": "religion",
+      "description": "由北美東北部五個（後為六個）原住民族所組成的強大部落聯盟。他們制定了《和平大律法》，透過酋長議會以民主共識的模式運作。這種複雜的政治架構不僅展現了原住民的政治智慧，更間接啟發了美國開國元勳們的聯邦制與憲政思想。"
+    },
+    "清教徒主義": {
+      "type": "religion",
+      "description": "源自16世紀英國的宗教改革運動，主張清除國教會中殘留的天主教元素。為了追求宗教自由，大批清教徒搭乘「五月花號」等船隻前往北美。他們簽署的《五月花號公約》強調自治與契約精神，成為美國民主憲政的文化基因。"
+    },
+    "鍍金時代": {
+      "type": "tech",
+      "description": "指美國從南北戰爭結束（1865年）到20世紀初的一段時期。美國經歷了前所未有的工業化與經濟擴張，鐵路網絡密佈，財富急劇累積。但同時也伴隨著嚴重的貧富差距、勞工剝削與政治腐敗，最終催生了後續的進步主義改革。"
+    },
+    "軸心時代": {
+      "type": "religion",
+      "description": "德國哲學家卡爾·雅斯培（Karl Jaspers）在《歷史的起源與目標》中提出的概念。指在西元前800年至西元前200年之間，古希臘、古印度與古中國等文明在『缺乏直接地理接觸』的情況下，幾乎同時發生了飛躍式的思想突破。在中國有孔孟老莊，印度有釋迦牟尼與奧義書哲學，希臘則有蘇格拉底與柏拉圖。這些思想家不約而同地開始反思宇宙本源與人類道德的終極意義，將人類文明從神話時代推進到理性時代，至今仍是全人類精神與哲學的共同基石。"
+    },
+    "書同文車同軌": {
+      "type": "tech",
+      "description": "西元前221年秦始皇統一六國後，由丞相李斯主導的極端而高效的國家級標準化工程。『書同文』強制廢除東方六國（如齊、楚、燕）各異的大篆與異體字，以秦國官方的『小篆』為唯一標準，這使得廣大疆域內的政令傳達不再有翻譯障礙，奠定了漢字文化圈長期大一統的底層代碼。『車同軌』則規定所有車輛的兩輪間距必須統一為六尺，這意味著秦國的後勤補給車隊可以直接行駛在征服地區原有的車轍軌道上，極大地降低了跨區域軍事投射與商貿運輸的摩擦成本。"
+    },
+    "圖西雙圓 (Tusi couple)": {
+      "type": "tech",
+      "description": "由13世紀波斯天文學家納西爾丁·圖西（Nasir al-Din al-Tusi）在馬拉蓋觀象台發明的幾何數學模型。該模型證明了『兩個作勻速圓周運動的圓，可以產生直線的簡諧運動』。這項發明成功解決了托勒密宇宙體系中『偏心勻速圓』違反物理原則的致命缺陷。這個極具革命性的幾何模型後來透過拜占庭學者傳入歐洲，並在三個世紀後被哥白尼（Copernicus）幾乎原封不動地應用在他的《天體運行論》中，是伊斯蘭科學對歐洲科學革命最直接的貢獻之一。"
+    },
+    "伊兒汗星表 (Ilkhanic Tables)": {
+      "type": "tech",
+      "description": "又稱《伊兒汗曆議》，是由旭烈兀汗資助、納西爾丁·圖西帶領波斯、中國與阿拉伯學者在馬拉蓋觀象台歷時12年編纂完成的天文星表。它修正了托勒密星表的諸多錯誤，極大地提高了行星位置與日月食的預測精度。這部星表不僅在伊斯蘭世界廣泛使用，更隨著蒙古帝國的驛站網絡東傳至元大都，為郭守敬編纂《授時曆》提供了重要的參考數據，是13世紀全球化下科學數據跨國共享的典範。"
+    },
+    "高表測影 (Gnomon shadow measurement)": {
+      "type": "tech",
+      "description": "中國古代天文學測量日影以定四時的技術。在元代，郭守敬為了編纂極度精確的《授時曆》，在登封建立了高達四丈（約12.6公尺）的『觀星台』，並發明了『景符』利用針孔成像原理消除高表測影時邊緣模糊的問題。透過這項技術，郭守敬測出的回歸年長度為365.2425日，與現代精確計算僅差26秒，與歐洲三個世紀後才推行的格里曆（Gregorian calendar）完全一致。"
+    },
+    "球面三角學 (Spherical trigonometry)": {
+      "type": "tech",
+      "description": "用於研究球面多邊形（特別是球面三角形）邊角關係的數學分支。最初由古希臘數學家（如喜帕恰斯）提出，隨後在伊斯蘭黃金時代被阿拉伯與波斯學者（如阿布·瓦法）極大完善，用於精確計算麥加的朝向。在蒙古帝國時期，這門先進的數學技術隨阿拉伯學者傳入元朝，被郭守敬運用在《授時曆》的黃道與赤道座標轉換計算中，是中西數學交流的巔峰之作。"
+    },
+    "交鈔 (Jiaochao)": {
+      "type": "tech",
+      "description": "元朝發行的法定紙幣，也是人類歷史上第一次完全建立在『國家信用』而非貴金屬本位上的法定貨幣體系。忽必烈汗透過沒收金銀、強制流通的方式，讓交鈔成為龐大帝國唯一的合法貨幣。它極大地降低了長途貿易的交易成本，促成了元代商業的空前繁榮。然而，由於缺乏現代中央銀行的發行紀律與準備金制度，元朝末期濫發交鈔導致了惡性通貨膨脹，最終成為引發紅巾軍起義、帝國崩潰的經濟導火線。"
+    },
+    "紙幣 (Paper money/Čāv)": {
+      "type": "tech",
+      "description": "紙幣技術由宋朝（交子）發明並在元朝（交鈔）發揚光大。1294年，伊兒汗國的蓋海圖汗面臨財政危機，聽從大都來的孛羅丞相建議，在波斯大不里士強行發行名為『鈔（Čāv）』的紙幣，甚至在紙幣上印有漢字。然而，由於波斯商人完全不接受這種沒有黃金擔保的紙片，市場瞬間罷市，巴扎（市集）停擺，經濟完全癱瘓。兩個月後蓋海圖汗被迫收回成命，並隨即在政變中被殺。這場實驗成為人類歷史上最早的『惡性通貨膨脹與金融災難』紀錄之一。"
+    },
+    "牌符驛政改革 (Paiza reform)": {
+      "type": "tech",
+      "description": "蒙古帝國為統御橫跨歐亞的廣袤疆域而實施的交通後勤制度。『牌符』（Paiza）是由金、銀、銅製成的通行證，分為圓牌、長牌等不同等級。持牌者可在帝國境內廣設的『驛站』（Yam）網絡中，無條件徵用驛馬、糧食與嚮導。馬可·波羅等西方使者正是依靠這套高效的驛傳物流系統，才能以每天一百多英里的速度安全穿越亞洲大陸。這項制度極大地壓縮了歐亞大陸的地理距離。"
+    },
+    "經院哲學 (Scholasticism)": {
+      "type": "religion",
+      "description": "中世紀歐洲（11至15世紀）主導大學體系的哲學與神學思想。其核心特徵是試圖將剛從阿拉伯世界（特別是伊比利半島與西西里島）翻譯回來的古希臘亞里斯多德邏輯學，與基督教神學進行調和。代表人物托馬斯·阿奎那（Thomas Aquinas）在《神學大全》中，運用嚴密的邏輯演繹來證明上帝的存在。經院哲學雖然最終服務於神學，但其對邏輯思辨與理性論證的嚴格訓練，為後來的歐洲科學革命奠定了理性主義的底層土壤。"
+    },
+    "宗教改革 (Reformation)": {
+      "type": "religion",
+      "description": "16世紀爆發於歐洲，旨在反對羅馬天主教會腐敗（如販賣贖罪券）與教宗權威的基督教分裂運動。1517年，馬丁·路德在維騰堡張貼《九十五條論綱》，主張『因信稱義』與『唯獨聖經』，認為信徒可直接閱讀聖經與上帝對話，無需透過神職人員。這場運動藉由古騰堡活字印刷術迅速席捲歐洲，導致了新教（路德宗、喀爾文宗等）的誕生，不僅打破了羅馬教廷的思想壟斷，更促成了歐洲民族國家的崛起與長期的宗教戰爭。"
+    },
+    "清教徒主義 (Puritanism)": {
+      "type": "religion",
+      "description": "起源於16世紀英國的激進新教運動，深受喀爾文『預選說』影響。清教徒強烈反對英國國教保留的繁複天主教儀式與主教制，主張以最純粹（Purify）的方式實踐聖經教義。在英國遭受迫害後，大量清教徒於17世紀初搭乘『五月花號』等船隻流亡北美新英格蘭地區。他們在船上簽署的《五月花號公約》，奠定了『社會契約』與『自治』的基礎，這種帶有強烈宗教使命感（山巔之城）與自治精神的思想，最終演化為美國獨立與憲政的核心基因。"
+    },
+    "科學革命 (Scientific Revolution)": {
+      "type": "tech",
+      "description": "16至18世紀歐洲在數學、天文學、物理學與生物學領域發生的根本性思想變革，標誌著現代科學的誕生。從哥白尼提出『日心說』打破教會的地球中心論開始，經由克卜勒的行星運動定律、伽利略的望遠鏡觀測與實驗方法，最終由牛頓的《自然哲學的數學原理》（1687年）集大成，建立起用嚴密數學公式描述宇宙運行的古典力學體系。科學革命徹底將人類認識世界的方式從『神學權威』轉移到『經驗觀察與數學推理』。"
+    },
+    "工業革命 (Industrial Revolution)": {
+      "type": "tech",
+      "description": "18世紀中葉發源於英國的技術與社會經濟變革。其核心在於瓦特改良的蒸汽機，這讓人類首次擺脫了對生物動力（人力、獸力）與自然動力（風力、水力）的依賴，獲得了可控的、強大的機械動力。從紡織業的機械化開始，迅速蔓延至冶金與交通（鐵路、輪船）。工業革命不僅帶來了生產力的幾何級數增長，更引發了城市化、無產階級的誕生以及資本主義的全球擴張，是人類歷史上自農業革命以來最偉大的實體轉變。"
+    },
+    "景教 (Nestorian Christianity)": {
+      "type": "religion",
+      "description": "基督教東方亞述教會（Church of the East）的中文稱呼。西元5世紀，聶斯脫里主張的『基督二性論』被羅馬教廷判為異端，信徒遂向東流亡至波斯與中亞。他們是極優秀的學者，將古希臘醫學與哲學翻譯為敘利亞文與阿拉伯文。唐代貞觀九年（635年），阿羅本主教抵達長安，留下『大秦景教流行中國碑』。在蒙古帝國時期，景教在游牧部落（如克烈部、汪古部）中極度繁盛，蒙古西征時甚至引發了歐洲對『祭司王約翰』將來拯救基督教世界的戰略幻想。"
+    },
+    "東正教 (Eastern Orthodoxy)": {
+      "type": "religion",
+      "description": "基督教的三大流派之一。1054年東西教會大分裂後，以君士坦丁堡為中心的東部教會自稱為『正教』（意即保留最正統的教義）。與天主教的教宗絕對集權不同，東正教實行牧首（Patriarch）自治制，且深受拜占庭帝國的『政教合一』傳統影響。西元988年，基輔羅斯的弗拉基米爾大公受洗，東正教正式傳入斯拉夫世界。在君士坦丁堡陷落後，莫斯科自詡為『第三羅馬』，俄羅斯東正教遂成為整合俄羅斯帝國最核心的意識形態。"
+    },
+    "啟蒙運動 (Enlightenment)": {
+      "type": "religion",
+      "description": "17至18世紀席捲歐洲的一場深刻的思想文化運動。啟蒙思想家（如伏爾泰、盧梭、孟德斯鳩）深受科學革命中理性主義的啟發，開始用『理性』來檢視社會制度與權威。他們強烈反對君權神授與宗教狂熱，主張天賦人權、社會契約、三權分立與言論自由。這場運動不僅為《美國獨立宣言》（1776）與《法國人權宣言》（1789）提供了直接的理論武器，更是現代世俗化、民主化與自由主義法治社會的真正思想源頭。"
+    },
+    "雕版印刷 (Woodblock printing)": {
+      "type": "tech",
+      "description": "源自中國唐代，並在宋元時期高度成熟的印刷技術。工匠將文字反刻於木板上，塗墨後覆紙印刷。這項技術在蒙古帝國時期隨著伊兒汗國建立，傳入波斯地區。雖然波斯統治者曾在發行紙幣時嘗試使用，但因伊斯蘭世界對『手抄古蘭經』神聖性的堅持以及阿拉伯文書寫的連筆特性，雕版印刷未能在中東廣泛取代手抄本，直到活字印刷術在歐洲崛起。"
+    },
+    "黑死病傳播 (Spread of Black Death)": {
+      "type": "tech",
+      "description": "14世紀中葉席捲歐亞大陸的毀滅性瘟疫（鼠疫）。蒙古帝國建立的歐亞大驛站網絡與和平貿易路線，在促進經濟繁榮的同時，也成為了病菌傳播的高速公路。1346年，金帳汗國軍隊圍攻熱那亞人在黑海的貿易港口卡法（Caffa），將染病屍體用投石機擲入城內，隨後染病的熱那亞商船逃回義大利，導致瘟疫在數年內消滅了歐洲三分之一至一半的人口，深刻動搖了封建制度與教會權威。"
+    },
+    "阿拉伯數字 (Hindu-Arabic numerals)": {
+      "type": "tech",
+      "description": "現代世界通用的十進位記數系統，其本質應該稱為『印度-阿拉伯數字』。它由古印度數學家發明，最偉大的突破在於引入了『零（0）』的概念與『位值制』（同一個數字在不同位置代表不同大小）。8世紀時，這套系統傳入巴格達的『智慧之家』，被花拉子米等伊斯蘭學者廣泛使用。隨後在13世紀，義大利數學家斐波那契（Fibonacci）透過《算盤書》將其推廣至歐洲，徹底淘汰了無法進行複雜運算的羅馬數字，為現代數學與會計學奠定了基礎。"
+    },
+    "代數學 (Algebra)": {
+      "type": "tech",
+      "description": "數學的兩大基礎分支之一。其名稱『Algebra』直接音譯自9世紀波斯數學家花拉子米（Al-Khwarizmi）的阿拉伯文巨著《還原與對消計算捷要》（Al-Jabr）。在這本書中，他首次將代數從幾何學中獨立出來，用系統化的方程式來解決土地分配、遺產繼承與商業貿易問題。這本書在12世紀被翻譯為拉丁文傳入歐洲，成為所有歐洲大學的標準數學教材，為後續微積分與物理學的誕生提供了必備的數學工具。"
+    },
+    "人文主義 (Humanism)": {
+      "type": "religion",
+      "description": "14至16世紀文藝復興時期的核心哲學思潮。與中世紀經院哲學『以神為中心』、『強調原罪與禁慾』不同，人文主義者主張『以人為本』，強調人類的尊嚴、理智與創造力。他們透過重新發掘與翻譯古希臘羅馬的古典文獻（如柏拉圖、西塞羅的原稿），來尋找世俗生活的意義與道德指引。這種思想徹底解放了歐洲的思想禁錮，直接催生了近代科學革命與後來的啟蒙運動。"
+    },
+    "文藝復興 (Renaissance)": {
+      "type": "tech",
+      "description": "法文意為『重生』，指14世紀至17世紀在歐洲發生的一場深刻的文化運動。它發源於義大利的佛羅倫斯，核心特徵是復興古希臘羅馬的古典文化。拜占庭帝國衰亡時逃亡至義大利的學者，帶來的古籍原稿成為這場運動的催化劑。在藝術上，發展出了基於光學與幾何學的『透視法』（Linear perspective），讓繪畫與雕塑達到了前所未有的解剖學精確度；在思想上，人文主義取代了神權統治，標誌著歐洲從中世紀邁向現代社會的轉折點。"
+    },
+    "大憲章 (Magna Carta)": {
+      "type": "religion",
+      "description": "1215年英格蘭國王約翰在面臨貴族全面叛亂的壓力下，於蘭尼米德簽署的和平條約。這是人類歷史上最具標誌性的法律文件之一，其核心精神是『王在法下』（Rule of Law），即便是君主也必須遵守法律。其中最著名的第39條確立了『正當法律程序』（人身保護令的基礎），而第12條則確立了『未經貴族會議同意不得徵收免役稅』。這些思想在五百年後跨越大西洋，成為美國獨立戰爭中『無代表不納稅』的直接法理依據，並深植於美國憲法與權利法案之中。"
+    },
+    "醫學典範 (The Canon of Medicine)": {
+      "type": "tech",
+      "description": "11世紀波斯通才學者伊本·西那（Avicenna）所著的一部醫學百科全書。他將古希臘蓋倫（Galen）的醫學理論與印度、波斯的臨床實踐進行了前所未有的大規模整合。書中提出了疾病傳染性的概念，並制定了測試新藥的臨床七大基本原則。這部巨著被翻譯為拉丁文後，從12世紀到17世紀一直是歐洲各大學醫學院的標準與絕對權威教材，是伊斯蘭黃金時代對西方醫學最巨大的實體貢獻。"
+    },
+    "儒家 (Confucianism)": {
+      "type": "religion",
+      "description": "發源於春秋時期魯國（今曲阜）的哲學與倫理體系，由孔子創立、孟子與荀子集大成。在周朝宗法制度崩潰的『禮崩樂壞』時代，儒家試圖透過恢復『周禮』與建立以『仁』為核心的道德自覺來重建社會秩序。孟子進一步提出『民為貴，社稷次之，君為輕』的民本思想與『天命』觀念，認為君王若不施仁政，人民有權將其推翻。自漢武帝『罷黜百家，獨尊儒術』後，儒家思想成為東亞兩千年來文官制度、科舉考試與家庭倫理的最底層代碼。"
+    },
+    "道家 (Daoism)": {
+      "type": "religion",
+      "description": "與儒家相對立的春秋戰國核心哲學，代表人物為老子與莊子。老子在《道德經》中提出了『道』——這是宇宙的絕對本源與運行規律，超越了任何人格化的神明。道家主張『無為而治』，反對人為的干預、繁文縟節與戰爭，認為順應自然規律才能達到社會的和諧。莊子則進一步將其發展為追求個人絕對精神自由的哲學。道家思想不僅深刻影響了中國的藝術、中醫與養生學，其『不爭』與『辯證法』的思想至今仍極具啟發性。"
+    },
+    "法家 (Legalism)": {
+      "type": "tech",
+      "description": "戰國時期最具實用主義與權力色彩的政治思想流派。以商鞅、韓非子為代表，法家徹底摒棄了儒家的道德說教，認為人性本惡，唯有透過絕對理性的三根支柱來統治國家：嚴刑峻罰的『法』、君王駕馭臣下的隱密『術』、以及絕對君權的『勢』。在商鞅變法的推動下，法家思想幫助秦國建立了一套極度高效的軍國主義耕戰體系，最終成功吞併六國。法家雖在漢代後名義上被儒家取代，但實際上成為中國歷代帝王『外儒內法』的統治潛規則。"
+    },
+    "墨家 (Mohism)": {
+      "type": "religion",
+      "description": "春秋戰國時期由墨子創立的獨特流派，代表了底層平民與工匠的利益。墨家提出了超越時代的『兼愛』（無階級差別的博愛）與『非攻』（反對侵略戰爭）。令人驚嘆的是，這群和平主義者同時也是當代最頂尖的物理學家與工程師。為了阻止大國吞併小國，墨家發展出了極其發達的城防物理學與防禦器械（墨家防禦術），並在《墨經》中留下了關於光學（小孔成像）、力學與幾何學的精確記載。可惜在秦漢大一統後，墨家因其嚴密的準軍事組織色彩而遭到打壓至絕跡。"
+    },
+    "八思巴字 ('Phags-pa script)": {
+      "type": "tech",
+      "description": "人類文字史上極為罕見的『由上而下發明並推行』的跨語言編碼系統。1269年，元世祖忽必烈為了統一廣袤多民族帝國的書面語言，委託西藏國師八思巴（'Phags-pa）以藏文字母為基礎，創立了這套方形的拼音文字。它的野心極大，試圖精確拼寫蒙古語、漢語、藏語甚至波斯語。雖然它在元代被列為官方文字，並廣泛應用於聖旨、牌符與印章上，但因其難以書寫且民間慣用漢字，最終隨元朝滅亡而消失。"
+    },
+    "回回曆法 (Islamic Astronomy in China)": {
+      "type": "tech",
+      "description": "伊斯蘭天文學在元明兩代的統稱。1267年，波斯天文學家札馬魯丁（Jamal al-Din）向忽必烈進獻了七件先進的西域天文儀器（包含多環儀、星晷、渾天儀等），並帶來了以黃道座標系為基礎的阿拉伯星表。這打破了中國傳統沿用千年的赤道座標系，元朝因此設立了『回回司天台』，與漢人的司天監並立。這些中亞傳來的精密觀測數據，成為郭守敬編纂《授時曆》的關鍵技術支援。"
+    },
+    "水密隔艙 (Watertight compartments)": {
+      "type": "tech",
+      "description": "中國造船史上最偉大的發明之一，最早見於唐宋時期，並在元代泉州等港口廣泛應用於遠洋木帆船（福船）。工匠利用木板將船艙橫向分隔成多個互不透水的獨立艙室，若船體觸礁破裂，海水只會淹沒受損的單一艙室，極大地提高了遠洋航行的安全性。這項技術透過阿拉伯商人傳入歐洲，直到18世紀末期，西方海軍（如英國）才開始廣泛模仿並應用這項保障大航海時代的底層安全技術。"
+    },
+    "磁羅盤 (Magnetic compass)": {
+      "type": "tech",
+      "description": "源自中國的『四大發明』之一。早在北宋沈括的《夢溪筆談》中便記錄了人工磁化指南針與磁偏角的現象。到了南宋與元代，磁羅盤被廣泛應用於海上絲綢之路的商船導航。在此之前，各國水手只能依賴天氣晴朗時的『牽星術（天文導航）』；磁羅盤的普及，讓船隻能在陰雨連綿或大霧中精確定位並橫跨印度洋。這項技術經由阿拉伯人傳入歐洲，成為歐洲大航海時代發現美洲與環球航行的絕對前提。"
+    },
+    "托勒密天文學 (Ptolemaic astronomy)": {
+      "type": "tech",
+      "description": "由西元2世紀古希臘學者托勒密（Ptolemy）在亞歷山大港集大成構建的宇宙模型。其核心是『地心說』，並為了解釋行星在夜空中的『逆行』現象，發明了極其複雜的『本輪（Epicycle）』與『均輪（Deferent）』數學幾何系統。儘管基礎假設是錯誤的，但它在數學預測上極度精確，因此完美契合了後來基督教與伊斯蘭教神學的需求，統治了人類宇宙觀長達1400年，直到哥白尼與克卜勒才將其顛覆。"
+    },
+    "百年翻譯運動 (Translation Movement)": {
+      "type": "religion",
+      "description": "8世紀至10世紀，阿拔斯王朝在巴格達『智慧之家（House of Wisdom）』發起的一場史詩級的學術翻譯工程。在歷代哈里發的重金資助下，穆斯林、基督徒（景教徒）與猶太學者合作，將幾乎所有能找到的古希臘文獻（如亞里斯多德的哲學、歐幾里得的幾何學、蓋倫的醫學），以及波斯與印度的典籍，系統性地翻譯為阿拉伯文。這場運動不僅造就了伊斯蘭黃金時代，更讓古希臘文明在歐洲黑暗時代得以倖存，成為後來歐洲文藝復興的火種。"
+    },
+    "天主教外交 (Papal diplomacy)": {
+      "type": "religion",
+      "description": "13世紀中葉，面對蒙古帝國西征帶來的末日恐慌，羅馬教廷發起的一系列前所未有的地緣政治試探。教宗諾森四世派遣方濟各會修士柏郎嘉宾（John of Plano Carpini），隨後法國國王又派遣魯不魯乞（William of Rubruck），徒步騎馬橫跨數千公里的歐亞草原，抵達蒙古首都哈拉和林。雖然他們未能成功說服大汗皈依天主教，但他們帶回的《東方見聞錄》等報告，首次為歐洲人揭開了遠東的神秘面紗，打破了西方對東方的神話幻想，這是東西方世界最早的高層外交接觸。"
+    },
+    "天主教 (Catholicism)": {
+      "type": "religion",
+      "description": "基督教的三大流派之一，也是歷史最悠久、規模最大的分支。以羅馬主教（教宗）為絕對精神領袖，主張『宗徒傳承』。在中世紀歐洲，天主教不僅是宗教信仰，更是一個擁有巨大世俗權力、甚至能罷黜國王的跨國政治與經濟實體。從十字軍東征到派遣耶穌會士前往大明與美洲，天主教會在傳播歐洲文明與引發跨文化衝突中扮演了最核心的角色。"
+    },
+    "伊斯蘭教 (Islam)": {
+      "type": "religion",
+      "description": "西元7世紀初由先知穆罕默德在阿拉伯半島的麥加創立的一神教。其核心經典《古蘭經》強調對唯一真主阿拉的絕對順從。伊斯蘭教具有極強的擴張性與融合性，在極短的時間內建立了橫跨亞非歐的龐大帝國。在中世紀，伊斯蘭世界是歐亞大陸的貿易與學術樞紐，穆斯林學者在天文學、醫學、數學（代數）與哲學上的輝煌成就，深刻啟發了後來的歐洲科學革命。"
+    },
+    "理型論 (Platonic Idealism)": {
+      "type": "religion",
+      "description": "古希臘哲學家柏拉圖提出的核心唯心主義理論。柏拉圖在『洞穴寓言』中說明：我們肉眼所見的物質世界，就像是洞穴牆上的影子，是不完美且不斷變動的；而真正完美的、永恆不變的真實，存在於超越時空的『理型世界（World of Ideas / Forms）』中。例如，世間所有的圓形都不完美，但『圓的理型』是絕對完美的。這種認為『精神與概念先於物質而存在』的思想，深刻影響了後來的基督教神學（上帝作為最高理型）與整個西方唯心哲學史。"
+    },
+    "原子論 (Atomism)": {
+      "type": "religion",
+      "description": "由古希臘哲學家留基伯與德謨克利特（Democritus）在西元前5世紀提出的唯物主義宇宙觀。他們超越時代地認為，宇宙中沒有神明、沒有目的論，萬事萬物（包含靈魂）都是由不可分割的微小實體『原子（Atom）』與『虛空（Void）』所組成。一切變化都只是原子在虛空中因物理法則進行的隨機碰撞與重新組合。這種極端機械唯物的觀點在當時雖然被柏拉圖與亞里斯多德強烈反對，但卻在兩千年後的科學革命中，成為近代物理學與化學復活的理論基石。"
+    },
+    "心物二元論 (Mind-Body Dualism)": {
+      "type": "religion",
+      "description": "17世紀法國哲學家笛卡兒（René Descartes）提出的認識論本體論。笛卡兒透過絕對的懷疑，得出唯一不可懷疑的真理『我思故我在』。在此基礎上，他將世界嚴格劃分為兩種完全獨立的實體：不佔空間、具備思想能力的『心靈實體』，以及佔據空間、完全受物理法則支配的『物質實體（廣延）』。這種二分法一方面為近代唯心論確立了主體性，另一方面卻也解放了自然科學——科學家從此可以心安理得地將自然界甚至動物與人體，視為純粹的『無靈魂機器』進行解剖與數學計算。"
+    },
+    "經驗主義 (Empiricism)": {
+      "type": "religion",
+      "description": "與歐洲大陸的『理性主義』（如笛卡兒）相對立，主要發源於英國的認識論流派。代表人物約翰·洛克（John Locke）在《人類理解論》中提出著名的『白板說（Tabula rasa）』：人類剛出生時，心靈就像一張沒有任何字跡的白紙，絕對沒有任何『天賦觀念』。人類所有的知識、概念與道德，都100%來自於後天的感官經驗與對物質世界的觀察。這種強調觀察、歸納與實驗的思想，成為近代唯物主義與英國實驗科學（如牛頓力學）不可撼動的底層邏輯。"
+    },
+    "德國觀念論 (German Idealism)": {
+      "type": "tech",
+      "description": "18世紀末至19世紀中葉，由康德開創、黑格爾集大成的哲學運動，代表了西方唯心主義的最高峰。康德發動『哥白尼式革命』，主張我們無法認識客觀的『物自體』，世界的秩序是我們大腦的先驗框架『建構』出來的。黑格爾則進一步打破了物自體，提出『絕對精神（Absolute Spirit）』的宏大體系。他認為，宇宙的本體就是絕對精神，而人類歷史、藝術、宗教與國家的演進，都是絕對精神透過『正、反、合』的辯證法則，不斷克服矛盾、最終實現自我認識的過程。"
+    },
+    "辯證唯物主義 (Dialectical Materialism)": {
+      "type": "tech",
+      "description": "由卡爾·馬克思（Karl Marx）與恩格斯創立的哲學體系，標誌著唯物主義發展的最高階段。馬克思吸收了黑格爾強大的『辯證法（事物在矛盾中演進）』，但極其敏銳地將黑格爾顛倒的唯心體系『翻轉過來』。他主張『物質決定意識』：不是絕對精神推動歷史，而是『生產力與生產關係』的物質矛盾在推動歷史。這套理論認為，人類社會的一切上層建築（法律、宗教、國家、哲學），歸根結底都是由當時的『經濟基礎』所決定的。"
+    },
+    "庭院提銀法 (Patio process)": {
+      "type": "tech",
+      "description": "16世紀中葉在墨西哥發明的革命性化學冶金技術。傳統的熔煉法需要大量木材燃料，且無法處理低品位礦石。庭院提銀法利用『汞齊化（Amalgamation）』的化學原理：將粉碎的銀礦石鋪在巨大的石砌庭院中，加入食鹽、硫酸銅與大量水銀，透過騾馬長達數週的踩踏讓化學反應在常溫下進行，最後將形成的『銀汞齊』加熱，使水銀揮發留下純銀。這項化學工程技術極大地降低了提煉成本，是推動近代早期全球貿易網絡成型的核心技術底座。"
+    },
+    "美洲農學 (Mesoamerican agriculture)": {
+      "type": "tech",
+      "description": "前哥倫布時期美洲原住民經過數千年獨立發展出的高度發達植物馴化科學。與歐亞大陸依賴小麥與水稻不同，美洲原住民透過極為複雜的基因選擇，馴化了玉米、馬鈴薯、番茄、辣椒與可可。特別是玉米的馴化（從雜草『類蜀黍』改良而來），被現代基因學家視為人類歷史上最偉大的植物學工程。這些高熱量、高耐寒的農作物在16世紀傳入舊大陸後，徹底解決了歐洲與亞洲（如明清中國）的飢荒問題，引發了全球人口大爆炸。"
+    },
+    "廷巴克圖手抄本 (Timbuktu manuscripts)": {
+      "type": "tech",
+      "description": "13至16世紀保存在西非廷巴克圖的數十萬卷學術文獻的總稱。這些手抄本不僅包含《古蘭經》與伊斯蘭法學（Fiqh），更涵蓋了從中東傳入並在當地發展的天文學、光學、數學、醫學與植物學。書寫語言多為阿拉伯文或以阿拉伯字母拼寫的當地非洲語言（Ajami）。這項龐大的文本保存工程，徹底打破了『非洲沒有文字與學術歷史』的西方殖民者偏見，證明了漠南非洲曾深刻參與了伊斯蘭黃金時代的全球知識網絡。"
+    },
+    "印斯蘭建築 (Indo-Islamic Architecture)": {
+      "type": "tech",
+      "description": "南亞次大陸上一種將中亞/波斯幾何美學與印度本土工匠技藝完美融合的建築科學。波斯建築帶來了精確的數學幾何計算、巨大的圓頂、尖頂拱門以及象徵伊斯蘭宇宙觀的對稱幾何圖案。而印度本土工匠則注入了精湛的紅砂岩雕刻技術、蓮花圖案與懸挑式陽台（Jharokha）。這種跨文化的建築工程學在莫臥兒帝國時期達到巔峰，最著名的代表作『泰姬陵』便是精確幾何與光學設計的極致體現。"
+    },
+    "蘇菲與巴克提融合 (Sufi-Bhakti syncretism)": {
+      "type": "religion",
+      "description": "中世紀印度次大陸上發生的一場深刻的精神與哲學交融。伊斯蘭教的『蘇菲派（Sufism）』強調透過神秘主義的冥想與愛來直接體驗真主；而印度教的『巴克提運動（Bhakti movement）』同樣反對僵化的種姓制度，主張信徒能透過純粹的奉獻與神合一。這兩種來自不同文明底層的思想在德里與旁遮普一帶產生了強烈的哲學共鳴。這種思想的融合不僅促進了社會的寬容，更直接催生了強調人人平等、融合兩教教義的新興宗教——錫克教（Sikhism）。"
+    },
+    "沙斐儀派法學 (Shafi'i jurisprudence)": {
+      "type": "religion",
+      "description": "伊斯蘭遜尼派四大法學派別之一。該學派由9世紀學者沙斐儀創立，在法律演繹上極度重視聖訓（先知的言行），並建立了一套嚴謹的法理學方法論（Usool al-Fiqh）。這套法學體系隨著來自葉門與阿拉伯南部的海洋商人，沿著季風航線傳入印度洋與東南亞。在馬六甲蘇丹國的推行下，沙斐儀派法學成為東南亞（今印尼、馬來西亞）穆斯林社會規範、商業契約與婚姻繼承的最底層法律作業系統，延續至今。"
+    },
+    "峇峇娘惹文化 (Peranakan culture)": {
+      "type": "tech",
+      "description": "15世紀以來，華人移民（主要來自福建）在馬六甲海峽沿岸與當地馬來人通婚後，經過數百年演化出的一種高度複雜的『文化基因重組』現象。這是一種極具適應性的社會生存技術：他們在最核心的價值觀上嚴格堅守中國的儒家孝道、祖先崇拜與宗族網絡；但在外在的生活方式（如語言、服飾、香料運用與建築裝飾）上，則完全吸收了馬來與伊斯蘭文化，甚至融入了後來荷蘭與英國的殖民元素。這是人類學上關於『核心認同保存與外圍文化適應』最成功的跨國度文化融合案例。"
+    },
+    "瑣羅亞斯德教 (Zoroastrianism)": {
+      "type": "religion",
+      "description": "古代波斯帝國（阿契美尼德、薩珊王朝）的國教，中文古稱『祆教』或『拜火教』。這是一門對人類思想史影響深遠的宗教。它打破了古代多神教的混沌，提出極其強烈的『善惡二元論』：宇宙是至善的光明之神與極惡的黑暗之神對決的戰場，而人類必須用自由意志選擇加入善的陣營。其教義中關於『末日審判』、『天堂與地獄』以及『救世主降臨』的底層邏輯，在西元前五世紀的跨國交流中，強烈地滲透並形塑了後來的猶太教、基督教與伊斯蘭教神學。"
+    },
+    "波斯御道 (Royal Road)": {
+      "type": "tech",
+      "description": "由波斯國王大流士一世在西元前五世紀修築的古代『信息與物流高速公路』。這條從蘇薩直達小亞細亞薩迪斯、長達近2700公里的道路，沿途每隔約20公里就設有一座驛站。信使透過接力換馬的方式，能在7天內走完普通人需要3個月的路程。這項頂尖的跨國治理技術，比蒙古帝國的驛站系統早了一千五百多年，是維繫龐大波斯帝國政令傳達與思想交流的物理底座。"
+    },
+    "行省制度 (Satrap system)": {
+      "type": "tech",
+      "description": "波斯帝國發明的高效地方分權與中央集權平衡系統。帝國被劃分為二十多個行省（Satrapy），由國王指派的總督（Satrap）統治。總督掌握行政與司法大權，但軍權與稅收則由中央另派官員獨立負責以相互牽制。這套極度成熟的國家治理思想，不僅被亞歷山大大帝完全繼承，更隨著波斯的東擴傳入印度河流域，深深啟發了後來印度孔雀王朝的行政管理架構。"
+    },
+    "西方客觀歷史學誕生": {
+      "type": "religion",
+      "description": "西元前五世紀波希戰爭帶來的最偉大思想副產品。在希羅多德（Herodotus）之前，人類對過去的紀錄多半充斥著神話、諸神干預與宮廷讚歌。希羅多德為了探究希臘與波斯大戰的『真正原因』，首創了『Historia（古希臘語意為「調查、探究」）』的治學方法，親自遊歷埃及與巴比倫進行田野調查，用理性的因果邏輯取代神明干預，奠定了歷史學作為一門獨立人文科學的基礎。"
+    },
+    "天文翻譯 (Astronomical translation)": {
+      "type": "tech",
+      "description": "這是一項跨越語言與文明邊界的偉大科學工程。在中世紀，古希臘托勒密的天文學術無法直接被歐洲繼承，而是先由敘利亞學者翻譯成阿拉伯文，在巴格達的『智慧之家』被伊斯蘭學者吸收並改良。隨後，這些帶有最新觀測數據的阿拉伯星表，又隨著蒙古西征傳入東亞，由元代『回回司天台』翻譯為漢文。這種跨語際的科學傳播，是推動人類宇宙觀演進的最關鍵機制。"
+    },
+    "歐幾里得幾何 (Euclidean geometry)": {
+      "type": "tech",
+      "description": "源自西元前3世紀古希臘數學家歐幾里得的《幾何原本》。這套系統首創了基於少數公理，透過嚴密邏輯演繹出無數定理的數學體系。它不僅奠定了西方兩千年來的數學與物理學基礎，更隨著伊斯蘭學者的翻譯傳入中東，深刻影響了伊斯蘭建築的精密圓頂計算；到了明代，又由利瑪竇與徐光啟翻譯傳入中國，成為東方科學啟蒙的基石。"
+    },
+    "授時曆 (Shoushi calendar)": {
+      "type": "tech",
+      "description": "由元代天文學家郭守敬主導編纂的中國古代曆法最高峰。為了統治廣闊的疆域，郭守敬在全國設立了27個天文觀測站進行大規模的緯度測量，並參考了波斯學者帶來的阿拉伯黃道數據。《授時曆》計算出的一年長度為365.2425天，與現代精確數據只差26秒，甚至比歐洲的格里曆早了三百年。這部曆法隨後被明朝繼承，並傳入高麗與日本。"
+    },
+    "跨信仰神學辯論 (Interfaith debate)": {
+      "type": "religion",
+      "description": "在特定歷史時期，於極度寬容的帝國宮廷中進行的不同宗教學者的哲學對話。例如，1254年蒙古大汗蒙哥在哈拉和林舉辦了一場史無前例的神學大辯論，邀請了佛教徒、伊斯蘭教徒與天主教修士（魯不魯乞）同台競技。又如莫臥兒帝國阿克巴大帝在『真理之屋』舉辦的跨教派探討。這些辯論代表了人類試圖以理性來溝通絕對信仰的偉大嘗試。"
+    },
+    "跨信仰神學交流 (Interfaith dialogue)": {
+      "type": "religion",
+      "description": "同『跨信仰神學辯論』。這種交流往往發生在帝國權力極盛、自信心極強的時期。統治者不以單一宗教來壓迫異己，而是將不同信仰的學者聚集一堂，透過哲學邏輯來探討宇宙本源。這不僅促進了各宗教間的理解，更往往能催生出如錫克教般融合兩者精華的新興信仰，是人類文明史上最閃耀的理性時刻。"
+    },
+    "毛筆書法觀察 (Observation of brush writing)": {
+      "type": "tech",
+      "description": "西方文明首次接觸東亞書寫系統時的極度震撼。當歐洲使節與傳教士抵達蒙古帝國與大明時，他們驚訝地發現東亞人使用『獸毛製成的柔軟刷子（毛筆）』而非堅硬的羽毛筆來書寫。更讓他們震驚的是，這種文字不是拼音，而是『一個符號代表一個完整概念』的表意文字。這種觀察記錄在歐洲引發了極大好奇，開啟了西方對漢字文化圈長達數百年的探索。"
+    },
+    "俄羅斯東正教 (Russian Orthodoxy)": {
+      "type": "religion",
+      "description": "東正教（Orthodox Christianity）的最強大分支。1453年拜占庭帝國被鄂圖曼土耳其滅亡後，莫斯科公國伊凡三世迎娶了拜占庭末代公主，並宣布莫斯科為『第三羅馬』，正式繼承了東方基督教的正統地位。這不僅讓俄羅斯民族獲得了極其強烈的宗教認同與使命感，更為沙皇後續向西伯利亞與中亞的領土擴張，提供了『傳播唯一真理』的神學依據。"
+    },
+    "海上貿易 (Maritime trade)": {
+      "type": "tech",
+      "description": "依賴海洋季風與洋流網絡進行的物資與技術交換系統。相較於受制於地形與游牧民族掠奪的陸上絲路，海上貿易能以極低的成本運輸如瓷器、香料等大宗物資。從羅馬到印度的香料航線，到宋元時期的泉州-馬六甲航線，這條『藍色動脈』促成了比陸地更龐大、更快速的跨國度文化基因重組，最終直接引爆了歐洲的大航海時代。"
+    },
+    "伊斯蘭建築 (Islamic Architecture)": {
+      "type": "tech",
+      "description": "以巨大穹頂、精確尖頂拱門、繁複幾何圖案與阿拉伯書法為核心特徵的建築科學。由於伊斯蘭教義嚴格『禁止偶像崇拜（不可繪製人神形象）』，工匠們將裝飾藝術的重心轉向了純粹的數學比例與幾何之美。這種結合了波斯工程學的建築風格，不僅在廣大的中東地區開花結果，更向西深刻影響了西班牙的安達盧斯建築，向東則催生了印度的泰姬陵。"
+    },
+    "驛傳物流 (Express logistics)": {
+      "type": "tech",
+      "description": "古代大帝國為了統治廣闊疆域，不惜動用國家力量建立的極速通訊系統。從波斯帝國的『御道』到蒙古帝國的『站赤（Yam）』，這些系統透過沿途密集的驛站與接力換馬，讓軍事情報與中央政令能以每天超過兩百公里的超越時代速度橫跨歐亞大陸。這不僅是古代最高等級的物流管理，更是維繫跨國權力的神經網絡。"
+    },
+    "戶賦/包稅制 (Qubchur tax)": {
+      "type": "tech",
+      "description": "蒙古帝國等游牧政權為維持龐大帝國開銷而設計的稅收工程。不同於農業帝國複雜的土地稅，包稅制通常向定居農耕區或城鎮徵收固定的白銀或實物，並將稅收權力『承包』給善於理財的穆斯林商人（斡脫）。這套系統雖然極大提高了帝國的財政效率，但也加重了底層百姓的剝削，不過它客觀上極大地推動了歐亞大陸的白銀流通與商業信貸。"
+    },
+    "驛站預算管理 (Yam budget management)": {
+      "type": "tech",
+      "description": "為了維持蒙古帝國龐大『站赤』系統運作的高端財務管理技術。這涉及極度精密的資源調度：包括沿途數萬匹驛馬的草料分配、使節與官員的食宿補給，以及防止地方官員與商人濫用『牌符』的嚴格審計制度。這是古代世界規模最大的國家級物流財務管理，確保了帝國神經網絡的暢通無阻。"
+    },
+    "外交 (Diplomacy)": {
+      "type": "tech",
+      "description": "不同主權或文化實體之間，為了避免戰爭或謀求利益而進行的極限交涉技術。在沒有全球國際法的古代，從羅馬教宗派遣修士橫跨草原去見蒙古大汗以試探結盟，到大清帝國與沙俄簽訂《尼布楚條約》，外交是人類在暴力之外，唯一能建立跨國秩序與和平協議的理性技術。"
+    },
+    "佛教 (Buddhism)": {
+      "type": "religion",
+      "description": "西元前5世紀由釋迦牟尼在古印度（摩揭陀）創立的思想體系。佛教打破了婆羅門教的種姓隔離，主張透過冥想修行消除無明與慾望，最終跳脫輪迴達到『涅槃』的絕對平靜。隨著絲綢之路與海上航線，佛教（特別是強調普渡眾生的大乘佛教）傳入中國、日本與東南亞，與當地的儒道文化深度融合，成為支撐東亞兩千年底層精神世界的支柱。"
+    },
+    "宗教融合 (Religious syncretism)": {
+      "type": "religion",
+      "description": "兩種或多種截然不同的宗教，在長期的地緣接觸與文化碰撞後，產生的教義或儀式深層混合現象。例如在印度，強調神秘體驗的伊斯蘭蘇菲派與強調純粹奉獻的印度教巴克提派產生共鳴，最終催生了錫克教；又如在中南美洲，天主教神父為了傳教，將聖母形象與阿茲特克母神融合，創造出兼具兩種文化符號的『瓜達盧佩聖母』。"
+    },
+    "天主教傳教 (Catholic Missions)": {
+      "type": "religion",
+      "description": "由羅馬天主教會（如方濟各會、耶穌會、多明我會）推動的全球信仰擴張運動。這不僅是神學的傳播，傳教士們往往具備頂尖的學術素養。在明清中國，利瑪竇等人透過傳授西方幾何學與天文曆法來吸引士大夫；在美洲，他們則成為原住民語言與植物學的最早記錄者。天主教傳教是近代西方科學東傳與東方文化西傳的最關鍵載體。"
+    },
+    "喬治亞正教 (Georgian Orthodoxy)": {
+      "type": "religion",
+      "description": "高加索地區歷史最悠久的基督教分支之一。喬治亞地處歐亞大陸的絕對十字路口，長期夾在波斯帝國、伊斯蘭帝國與蒙古帝國之間。在這種極度險惡的地緣政治中，喬治亞正教不僅是宗教信仰，更成為維持喬治亞民族認同、抵抗外來同化的最堅實精神堡壘，其獨特的十字架與教堂建築展現了強大的文化韌性。"
+    },
+    "手抄本製作 (Manuscript illumination)": {
+      "type": "tech",
+      "description": "在古騰堡活字印刷術普及之前，知識傳承的唯一方式。僧侶或伊斯蘭學者在昂貴的羊皮紙上，以手工逐字抄寫典籍，並使用金箔與青金石繪製極其精美的泥金裝飾插圖（Illumination）。這不僅是極度耗時的知識儲存技術，更是中世紀歐洲與中東世界最高級的視覺藝術，每一本手抄本都價值連城。"
+    },
+    "金屬工藝 (Metalwork)": {
+      "type": "tech",
+      "description": "將金、銀、銅、鐵等礦石進行高溫冶煉與鍛造的底層硬核技術。金屬工藝的傳播直接決定了古代文明的軍事碾壓實力與經濟繁榮度。從歐亞草原斯基泰人精巧的動物紋金飾，到十字軍東征時令人聞風喪膽的大馬士革鋼劍，再到明代的高爐煉鐵，掌握金屬工藝就是掌握了古代世界的霸權密碼。"
+    },
+    "跨文化治理 (Cross-cultural administration)": {
+      "type": "tech",
+      "description": "古代超級帝國為了統治多語言、多宗教、多民族的廣袤疆域，而被迫演化出的包容性行政技術。例如波斯帝國的行省自治與宗教寬容，或是蒙古帝國任用色目人、推行八思巴字試圖統一書面語。這是一種極度複雜的政治工程學，考驗統治者如何在『維持核心統治權力』與『尊重邊陲文化差異』之間取得動態平衡。"
+    },
+    "地理時差計算 (Longitude time difference)": {
+      "type": "tech",
+      "description": "隨著天文觀測精度的提高與遠洋航海的需求，古代科學家開始意識到地球是圓的，且不同經度的地點存在時間差。伊斯蘭天文學家與後來的歐洲學者，透過同步觀測月食等罕見天文現象，精確推算出不同城市之間的經度距離。這代表了人類對地球空間感知的科學覺醒，是現代全球時區系統的最早雛形。"
+    },
+    "宗教融合藝術 (Syncretic art)": {
+      "type": "religion",
+      "description": "當兩種強勢文明發生碰撞時，在視覺藝術上產生的基因重組現象。最著名的例子發生在16世紀的墨西哥：西班牙傳教士為了讓阿茲特克人接受天主教，創造了『瓜達盧佩聖母』。這幅畫像中的聖母擁有原住民的膚色，並站在象徵阿茲特克神話的新月上。這種將征服者的神學裝入被征服者視覺符號的技術，是極高明的文化同化手段。"
+    },
+    "敘利亞文字 (Syriac script)": {
+      "type": "tech",
+      "description": "一種源自亞蘭字母、在中東與中亞廣泛使用的古老拼音文字。隨著東方亞述教會（景教）的傳教士沿著絲綢之路東進，敘利亞文字深刻影響了中亞游牧民族的文字發展。例如，回鶻文便是借鑒了敘利亞字母，而後來的蒙古文字與滿文，追根溯源，全都是這套中東文字的變體，展現了文字傳播的強大生命力。"
+    },
+    "絲綢紡織 (Silk weaving)": {
+      "type": "tech",
+      "description": "起源於中國的一項極度複雜的生物工程與織造技術。從栽桑、養蠶、繅絲到使用複雜的提花機織出華麗圖案，這是古代東亞最核心的技術機密。這項技術生產出的輕盈奢華布料，讓羅馬帝國的貴族為之瘋狂，直接催生了橫跨歐亞大陸的最重要經濟動脈——絲綢之路，推動了兩千年的東西方貿易。"
+    },
+    "急遞制度 (Express courier/Binchik)": {
+      "type": "tech",
+      "description": "古代帝國為了傳遞十萬火急的軍事情報，在常規驛站系統之上建立的『特權信使系統』。在蒙古帝國稱為『急遞鋪』，這些騎手身上往往綁著響鈴，日夜兼程，甚至擁有在城門關閉時強行要求開門的絕對路權。這是古代信息傳遞的物理極限，確保了邊疆叛亂或軍事行動能第一時間傳達給大汗。"
+    },
+    "驛馬管理 (Postal horse management)": {
+      "type": "tech",
+      "description": "維持帝國驛站系統運作的最底層後勤科學。這涉及極度龐大的畜牧與供應鏈管理：包括耐力馬匹的品種選育、數萬匹馬在極端氣候下的獸醫照護，以及確保沿途驛站有足夠的草料與淡水供應。沒有這套嚴密的馬匹管理工程，任何橫跨大陸的帝國神經網絡都會在幾個月內崩潰。"
+    },
+    "牌符憑證 (Paiza/Maktub)": {
+      "type": "tech",
+      "description": "蒙古帝國發行的最高等級『實體授權憑證』，通常以金、銀或銅鑄造，刻有猛獸圖騰與畏兀兒/八思巴文字。持有牌符的使節或官員，代表了大汗的絕對權威，可以合法徵用沿途驛站的所有馬匹、糧食與嚮導。這不僅是古代的VIP護照，更是確保跨國指令能被地方無條件執行的防偽認證系統。"
+    },
+    "造船技術 (Shipbuilding)": {
+      "type": "tech",
+      "description": "人類打破海洋地理隔閡的絕對工程前提。造船技術的每一次躍進都重塑了世界版圖：從阿拉伯人的三角帆讓船只能逆風航行，到中國宋元時期的『水密隔艙』極大提高了抗沉性與遠洋安全，再到歐洲人將這些技術融合打造出配備火炮的蓋倫帆船。造船學是古代木工、流體力學與材料科學的集大成者。"
+    },
+    "航海術 (Navigation)": {
+      "type": "tech",
+      "description": "讓人類能夠在毫無陸地標記的浩瀚海洋中精確定位的實踐科學。早期的航海家依賴對季風規律的掌握與『牽星術（觀測星象高度）』；直到中國發明的『磁羅盤』傳入並普及，船隻才終於能在陰雨連綿或大霧中保持航向。航海術是天文學、地理學與儀器製造的結合，直接孕育了歐洲的大航海時代。"
+    },
+    "市舶稅收 (Maritime customs)": {
+      "type": "tech",
+      "description": "中國宋元時期建立的先進海關與海洋貿易管理制度。政府在泉州、廣州等大港設立『市舶司』，透過向進出口的阿拉伯與波斯商船『抽解（徵收實物稅）』，並壟斷香料的專賣權。這套制度不僅為帝國帶來了極其豐厚的財政收入，也建立了一套成熟的海洋貿易法律規範，推動了東亞港口城市的空前繁榮。"
+    },
+    "海上絲路 (Maritime Silk Road)": {
+      "type": "tech",
+      "description": "連接中國東南沿海、東南亞、印度洋與波斯灣的龐大海洋貿易網絡。相較於受制於氣候與戰亂的陸上絲綢之路，海上絲路能以更大的載重量、更低的成本運輸瓷器、茶葉與香料等大宗物資。它是古代全球化最活躍的主動脈，不僅傳遞了財富，更是伊斯蘭教與東方科技散播的最佳物理載體。"
+    },
+    "香料貿易 (Spice trade)": {
+      "type": "tech",
+      "description": "為了獲取印尼（香料群島）與印度出產的胡椒、丁香、肉豆蔻而引發的全球商業網絡。在中世紀的歐洲，這些香料不僅用於保存肉類，更是極其昂貴的奢侈品與身分地位的象徵。這種對特定植物化學成分的狂熱渴望與暴利，驅使歐洲人試圖繞過奧斯曼土耳其的壟斷，直接引爆了葡萄牙與西班牙的地理大發現。"
+    },
+    "跨國貿易 (Transnational trade)": {
+      "type": "tech",
+      "description": "跨越政治邊界與地理障礙的長途商業活動。商隊與船隊不僅承載著絲綢與白銀，他們更是古代世界最強大的『文化與科技散播者』。伴隨著商人的腳步，數字系統（印度阿拉伯數字）、宗教（伊斯蘭教傳入東南亞），甚至致命的瘟疫（黑死病），都透過跨國貿易的微血管流向全世界。"
+    },
+    "游牧軍事 (Nomadic warfare)": {
+      "type": "tech",
+      "description": "誕生於歐亞大草原、以馬匹與反曲弓為絕對核心的軍事工程學。游牧軍隊摒棄了沉重的步兵方陣，利用一人多馬達成恐怖的戰略機動性，並結合了『曼古歹（假裝撤退射擊）』等戰術。從匈奴到蒙古帝國，這套極度殘酷且高效的軍事技術，屢次以少勝多，打破了歐亞大陸所有定居農業帝國的軍事平衡。"
+    },
+    "過境外交 (Transit diplomacy)": {
+      "type": "tech",
+      "description": "古代使節在前往最終目的地的萬里征途中，必須與沿途數十個部落與小國進行的政治交涉技術。為了獲取安全通行權、糧食補給與驛馬，使節必須懂得利用禮物、威脅或聯姻等手段。這考驗著使節對地緣政治與異國風俗的極限掌握，是橫跨歐亞大陸的探險家（如張騫、魯不魯乞）必備的求生技能。"
+    },
+    "透視法 (Linear perspective)": {
+      "type": "tech",
+      "description": "15世紀文藝復興時期，由佛羅倫斯建築師布魯內萊斯基發明、阿爾貝蒂理論化的革命性幾何繪畫技術。透過設定地平線與一個或多個『消失點』，藝術家首次能夠在二維的畫布上，精確且合乎數學比例地重現三維空間的深度。這不僅是西方繪畫技法的巔峰，更代表了歐洲人開始用嚴格的數學與幾何學來『客觀測量並理解世界』的科學覺醒。"
+    },
+    "伊斯蘭法學 (Islamic jurisprudence)": {
+      "type": "religion",
+      "description": "基於《古蘭經》與先知聖訓（Hadith）發展而出、極度嚴密的法律與道德體系（沙里亞法）。它由諸如沙斐儀等偉大學者建立法理學方法論（Usool al-Fiqh）。這套法學不僅規範了穆斯林的每日禮拜，更涵蓋了複雜的商業契約、婚姻繼承與刑法。在中世紀，它就是伊斯蘭世界運作的最底層『作業系統』，確保了從摩洛哥到馬六甲的商人都能在同一套法律信任框架下進行跨國貿易。"
+    },
+    "米利都自然哲學 (Milesian Naturalism)": {
+      "type": "religion",
+      "description": "西元前6世紀，在愛奧尼亞的米利都城，泰勒斯、阿那克西曼德與阿那克西美尼開創了人類思想史的第一個革命：他們拒絕以神話來解釋自然現象，轉而尋找萬物背後的『物質性第一原理（arché）』。泰勒斯主張萬物源於水，阿那克西曼德提出更抽象的『無限者（apeiron）』，阿那克西美尼則認為是氣。這三位被統稱為『米利都學派』，他們開啟了西方哲學與自然科學的傳統——用理性觀察而非超自然力量來理解世界。"
+    },
+    "萬物有靈論批判 (Hylozoism)": {
+      "type": "religion",
+      "description": "米利都學派的一個重要哲學立場。他們認為物質本身就蘊含著運動與生命的潛能，不需要外在的神靈來推動。這直接挑戰了古希臘傳統宗教中『眾神操控自然』的世界觀，是人類走向自然主義與唯物主義的最早一步。"
+    },
+    "畢達哥拉斯學派 (Pythagoreanism)": {
+      "type": "religion",
+      "description": "由畢達哥拉斯在南義大利克羅頓建立的半宗教半哲學團體。他們發現了弦的長度比與音高之間的數學關係，由此得出一個驚人的結論：『萬物皆數（All is number）』。宇宙的本質不是水或氣，而是數學比例與和諧。這個洞見不僅影響了柏拉圖的理型論，更為兩千年後伽利略所說的『自然之書是用數學語言寫成的』埋下了種子。"
+    },
+    "蘇格拉底方法 (Socratic Method)": {
+      "type": "religion",
+      "description": "由蘇格拉底開創的對話式哲學方法。他不直接給出答案，而是透過不斷追問來暴露對話者思想中的矛盾與預設。這種『助產術（maieutics）』迫使對方在邏輯的壓力下重新審視自己以為理所當然的信念。蘇格拉底方法成為西方批判性思維的源頭，至今仍是法學院教學的核心方法。"
+    },
+    "斯多葛主義 (Stoicism)": {
+      "type": "religion",
+      "description": "由芝諾（Zeno of Citium）在雅典創立的哲學流派。斯多葛主義主張宇宙由一種理性的火焰（Logos）所貫穿，人類應當順應自然、克制激情，專注於自己能控制的事物（德性），而對不能控制的事物（財富、名聲、死亡）保持超然。這套哲學傳入羅馬後，成為帝國精英的核心倫理信仰，塞內卡與馬可·奧勒留是其最著名的實踐者。"
+    },
+    "伊壁鳩魯主義 (Epicureanism)": {
+      "type": "religion",
+      "description": "由伊壁鳩魯在雅典創立的哲學流派。與斯多葛主義對立，伊壁鳩魯主張宇宙由原子構成（繼承了德謨克利特的原子論），靈魂會隨肉體一同消散，因此『死亡與我們無關』。人生的最高目標是追求適度的快樂（ataraxia，寧靜無擾），而非痛苦的禁欲。伊壁鳩魯的原子論物理學在文藝復興時期被重新發現，深刻影響了近代科學的機械論世界觀。"
+    },
+    "犬儒主義 (Cynicism)": {
+      "type": "religion",
+      "description": "由蘇格拉底的學生安提斯泰尼開創、以第歐根尼為最著名代表的激進哲學流派。犬儒主義者認為文明社會的一切習俗（財產、禮儀、社會地位）都是虛偽的枷鎖，人只有回歸最原始的自然狀態才能獲得真正的自由與德性。第歐根尼住在木桶裡、白天提著燈籠在雅典街頭尋找『真正的人』，成為西方反建制思想的永恆象徵。"
+    },
+    "教父哲學 (Patristic Philosophy)": {
+      "type": "religion",
+      "description": "西元2至8世紀，早期基督教神學家（教父們）為了回應希臘哲學的挑戰，將柏拉圖主義和新柏拉圖主義融入基督教神學的偉大嘗試。亞歷山大港的克萊門特與奧利金率先嘗試用希臘哲學語言來解釋基督教信仰，而奧古斯丁則在北非完成了最偉大的綜合——他用新柏拉圖主義的『光照說』來解釋上帝如何讓人類認識真理，奠定了中世紀基督教哲學的基礎。"
+    },
+    "諾斯底主義 (Gnosticism)": {
+      "type": "religion",
+      "description": "西元1至3世紀流行於地中海世界的一系列神秘主義宗教運動。諾斯底主義者認為物質世界是邪惡的『造物主（Demiurge）』所創造的監牢，而人類靈魂中蘊含著來自真正至高神的『靈知（gnosis）』火花。只有透過秘密的知識啟蒙，才能逃脫物質的束縛。這套思想深刻影響了基督教早期的神學辯論，並被正統教會視為最危險的異端。"
+    },
+    "奧古斯丁神學 (Augustinian Theology)": {
+      "type": "religion",
+      "description": "由北非主教奧古斯丁（354-430）建立的基督教神學體系。奧古斯丁融合了新柏拉圖主義與基督教信仰，提出了『原罪論』（人類因亞當的墮落而天生有罪）、『神恩論』（人類無法靠自身得救，只能依賴上帝的恩典）與『上帝之城』（歷史的最終目的是天國的實現）。這套神學統治了西方基督教世界長達千年，直到托馬斯·阿奎那引入亞里斯多德主義才產生根本性的轉變。"
+    },
+    "自然法傳統 (Natural Law Tradition)": {
+      "type": "religion",
+      "description": "源自斯多葛主義的哲學信念：存在一套超越人為律法的、由宇宙理性（Logos）所規定的永恆法則。這套法則適用於所有人類，不分種族與國界。西塞羅將它引入羅馬法學，奧古斯丁將它基督教化，托馬斯·阿奎那在中世紀賦予它最系統性的論述，最終它成為近代『天賦人權』與國際法的哲學根基。"
+    },
+    "斯多葛倫理學 (Stoic Ethics)": {
+      "type": "religion",
+      "description": "斯多葛主義的倫理核心。主張唯一真正的善是『德性（arete）』，唯一真正的惡是『邪惡（kakia）』，而健康、財富、死亡等外在事物都是『無關緊要的（adiaphora）』。這意味著即使在最極端的苦難中（如被暴君迫害），一個有德之人仍然可以是幸福的。塞內卡在被尼祿賜死時的從容，馬可·奧勒留在軍營中寫下的《沉思錄》，都是這套倫理學的活證。"
+    },
+    "伊斯蘭哲學 (Islamic Philosophy/Falsafa)": {
+      "type": "religion",
+      "description": "西元8至12世紀，阿拉伯語世界的學者在翻譯與吸收了希臘哲學（特別是亞里斯多德與新柏拉圖主義）後，發展出的一套極度精密的哲學傳統。肯迪被稱為『阿拉伯人的哲學家』，法拉比試圖調和柏拉圖的理想國與伊斯蘭政治，伊本·西那（阿維森納）建立了一套將亞里斯多德形上學與伊斯蘭神學完美融合的龐大體系。這套傳統是連接古希臘哲學與中世紀歐洲經院哲學的關鍵橋樑。"
+    },
+    "穆塔齊賴派 (Mu'tazila Rationalism)": {
+      "type": "religion",
+      "description": "伊斯蘭思想史上最重要的理性主義神學流派。穆塔齊賴派主張《古蘭經》是『被創造的』（而非永恆的），人類擁有自由意志，且理性是理解上帝旨意的最高工具。他們在阿拔斯王朝初期獲得官方支持，但後來被以艾什阿里為首的傳統主義者擊敗。然而，他們對理性的強調深刻影響了後世的伊斯蘭哲學家。"
+    },
+    "阿威羅伊主義 (Averroism)": {
+      "type": "religion",
+      "description": "基於伊本·魯世德（拉丁名阿威羅伊）對亞里斯多德注疏發展而來的哲學立場。阿威羅伊主義最激進的主張是『雙重真理論』：哲學可以得出與宗教不同的結論，且兩者都可以是真的（各自在自己的領域有效）。這個觀點在13世紀傳入巴黎大學後引爆了巨大爭議，教會曾於1270年與1277年兩次譴責阿威羅伊主義，但它實際上為哲學爭取到了獨立於神學的自主空間。"
+    },
+    "安達盧斯跨教共存 (Convivencia)": {
+      "type": "religion",
+      "description": "10至12世紀伊斯蘭統治下的伊比利亞半島（安達盧斯），穆斯林、基督徒與猶太人在相對寬容的政治環境下共同生活、交流學術的獨特文化現象。猶太哲學家邁蒙尼德在此用阿拉伯語撰寫了《迷途指津》，伊斯蘭學者與基督教修士在翻譯學校裡合作將阿拉伯語典籍翻譯為拉丁文。這種跨教共存是人類歷史上罕見的文明對話實驗。"
+    },
+    "托馬斯主義 (Thomism)": {
+      "type": "religion",
+      "description": "托馬斯·阿奎那（1225-1274）在巴黎大學建立的哲學神學體系。面對阿威羅伊主義對基督教信仰的挑戰，阿奎那沒有選擇排斥亞里斯多德，而是進行了一次偉大的調和：他論證理性與信仰並不矛盾，理性可以證明上帝的存在（如五路論證），而信仰則揭示了理性無法觸及的奧秘（如三位一體）。托馬斯主義至今仍是天主教的官方哲學。"
+    },
+    "文藝復興自然哲學 (Renaissance Natural Philosophy)": {
+      "type": "religion",
+      "description": "15至16世紀，在人文主義與新柏拉圖主義的刺激下，歐洲學者開始重新以觀察與實驗來研究自然世界。達文西的解剖學素描、哥白尼的日心說假說、伽利略的落體實驗，都是這場運動的產物。文藝復興自然哲學是連接中世紀經院哲學與近代科學革命的關鍵轉折點。"
+    },
+    "新柏拉圖主義復興 (Neoplatonic Revival)": {
+      "type": "religion",
+      "description": "15世紀佛羅倫斯的梅迪奇家族資助學者費奇諾將柏拉圖全集翻譯為拉丁文，引爆了一場對柏拉圖思想的重新狂熱。這次復興的核心信念是：宇宙是一個由美與愛所貫穿的和諧整體，藝術與哲學是靈魂上升至神性的階梯。這直接影響了波提切利的繪畫（如《維納斯的誕生》）與米開朗基羅的雕塑。"
+    },
+    "泛神論 (Pantheism)": {
+      "type": "religion",
+      "description": "由斯賓諾莎在《倫理學》中系統化的形上學立場。斯賓諾莎主張上帝與自然是同一回事（Deus sive Natura），不存在超越自然的人格化上帝。宇宙本身就是唯一的實體，萬物是它的模式。這個觀點在17世紀被視為無神論的等價物而遭到全面禁止，但卻深刻影響了歐洲啟蒙運動、浪漫主義以及愛因斯坦的宇宙觀。"
+    },
+    "自然權利論 (Natural Rights Theory)": {
+      "type": "religion",
+      "description": "由格勞秀斯在阿姆斯特丹開創、洛克在倫敦系統化的政治哲學。主張每個人生來就擁有不可剝奪的自然權利（生命、自由、財產），政府的唯一目的是保護這些權利。如果政府侵犯了這些權利，人民有權起義推翻它。這套理論直接成為美國獨立宣言與法國人權宣言的哲學基礎。"
+    },
+    "蘇格蘭啟蒙運動 (Scottish Enlightenment)": {
+      "type": "religion",
+      "description": "18世紀中葉在愛丁堡爆發的思想運動。與法國啟蒙運動的激進理性主義不同，蘇格蘭啟蒙更注重經驗觀察與社會科學。休謨以懷疑論顛覆了因果律，亞當·斯密以《國富論》奠定了古典經濟學，弗朗西斯·哈奇森發展了道德情感論。蘇格蘭啟蒙運動對美國建國之父（如富蘭克林、傑佛遜）產生了直接影響。"
+    },
+    "懷疑論 (Skepticism)": {
+      "type": "religion",
+      "description": "主張人類無法獲得絕對確定知識的哲學傳統。古典懷疑論由皮浪與塞克斯圖斯·恩披里柯在希臘創立，主張對一切判斷保持『懸擱（epoché）』。近代懷疑論由休謨推向極致，他論證即使是最基本的因果律也只是心理習慣而非客觀真理。休謨的懷疑論成為康德哲學的直接刺激源。"
+    },
+    "道德情感論 (Moral Sentimentalism)": {
+      "type": "religion",
+      "description": "由哈奇森開創、休謨與亞當·斯密發展的倫理學立場。反對理性主義倫理學（如康德），主張道德判斷的基礎不是理性計算，而是人類天生的同情心與道德情感。亞當·斯密在《道德情操論》中提出了『公正旁觀者（impartial spectator）』的概念，認為我們透過想像自己站在他人立場來做出道德判斷。"
+    },
+    "啟蒙運動 (The Enlightenment)": {
+      "type": "religion",
+      "description": "18世紀席捲歐洲的知識運動，其核心信念是：人類理性是改善社會的最高工具。啟蒙思想家們挑戰了宗教權威、專制王權與傳統迷信，主張宗教寬容、言論自由與科學進步。康德用一句話定義了啟蒙：『Sapere aude! 敢於運用你自己的理性！』啟蒙運動直接催生了美國獨立革命與法國大革命。"
+    },
+    "社會契約論 (Social Contract Theory)": {
+      "type": "religion",
+      "description": "由霍布斯、洛克與盧梭發展的政治哲學理論。主張國家並非神授，而是人民為了擺脫『自然狀態』中的混亂而自願訂立的契約。霍布斯認為人們讓渡全部權利給絕對君主；洛克認為人們只讓渡有限權利且保留反抗權；盧梭則提出『公意（volonté générale）』——人民的共同意志高於一切。這三種版本分別影響了專制主義、自由主義與民主主義。"
+    },
+    "百科全書派 (Encyclopédistes)": {
+      "type": "religion",
+      "description": "以狄德羅與達朗貝爾為首的法國啟蒙學者群體。他們編纂的《百科全書》（1751-1772）是人類史上第一次試圖將所有人類知識系統化地彙編成冊的偉大工程。這部巨著不僅是知識的集大成，更是一個政治武器——它透過理性的光芒暴露了封建制度與教會權威的荒謬。"
+    },
+    "功利主義 (Utilitarianism)": {
+      "type": "religion",
+      "description": "由傑里米·邊沁創立、約翰·斯圖亞特·密爾修正的倫理學理論。功利主義主張行為的對錯取決於它產生的『最大多數人的最大幸福』。邊沁試圖建立一套『快樂計算法（felicific calculus）』來量化快樂與痛苦；密爾則區分了快樂的質與量，著名地宣稱『做一個不滿足的蘇格拉底，勝過做一隻滿足的豬』。功利主義至今仍是公共政策分析的核心倫理框架。"
+    },
+    "自由主義 (Liberalism)": {
+      "type": "religion",
+      "description": "以個人自由與權利為最高價值的政治哲學傳統。從洛克的財產權、密爾的言論自由到20世紀羅爾斯的正義論，自由主義主張政府的權力必須受到限制，個人的思想、信仰與生活方式不應受到國家干涉。作為一種政治哲學，自由主義直接塑造了現代西方民主國家的憲政架構。"
+    },
+    "演化論的哲學衝擊 (Darwinian Philosophy)": {
+      "type": "religion",
+      "description": "1859年達爾文出版《物種起源》後，對歐洲哲學與神學產生的核心衝擊。達爾文的自然選擇理論不僅挑戰了上帝造人的神學信條，更根本性地瓦解了亞里斯多德以來『目的論（teleology）』的世界觀——自然界的複雜設計不需要一個智慧設計者，只需要盲目的變異與篩選。斯賓塞將演化論推廣為『社會達爾文主義』，雖然這是對達爾文的嚴重誤讀，但卻深刻影響了19世紀的政治與倫理。"
+    },
+    "黑格爾辯證法 (Hegelian Dialectics)": {
+      "type": "religion",
+      "description": "黑格爾（1770-1831）建立的哲學方法與歷史觀。他主張一切事物的發展都遵循『正題→反題→合題』的辯證運動：每一個觀念或制度都會在自身內部產生矛盾（反題），而矛盾的解決（合題）會產生更高層次的統一。黑格爾將這套邏輯應用於世界歷史，主張歷史是『絕對精神』逐步實現自我意識的過程。馬克思保留了辯證法的形式，但將『精神』替換為『物質生產關係』，創造了歷史唯物主義。"
+    },
+    "青年黑格爾派 (Young Hegelians)": {
+      "type": "religion",
+      "description": "1830-1840年代柏林大學中一群以黑格爾哲學為出發點、但走向激進批判的年輕學者。費爾巴哈將黑格爾的『絕對精神』還原為人類本質的自我投射（上帝是人創造的，不是反過來），馬克思則進一步主張『重要的不是解釋世界，而是改變世界』。青年黑格爾派是從觀念論走向唯物主義、從哲學走向革命的關鍵轉折。"
+    },
+    "費爾巴哈唯物主義 (Feuerbachian Materialism)": {
+      "type": "religion",
+      "description": "路德維希·費爾巴哈在《基督教的本質》（1841）中提出的革命性論點：不是上帝按自己的形象創造了人，而是人按自己的形象創造了上帝。宗教是人類將自己最美好的品質（愛、智慧、力量）投射到一個虛構實體上的結果。這種『投射論』直接影響了馬克思（宗教是人民的鴉片）和佛洛伊德（上帝是父親形象的投射）。"
+    },
+    "實證主義 (Positivism)": {
+      "type": "religion",
+      "description": "由法國哲學家奧古斯特·孔德在19世紀上半葉創立的哲學立場。孔德提出人類知識發展的『三階段法則』：神學階段（以神解釋）→形上學階段（以抽象概念解釋）→實證階段（以科學觀察與數據解釋）。實證主義主張只有能被觀察與實驗驗證的命題才是有意義的知識，所有超驗的形上學問題都應被拋棄。這套思想深刻影響了20世紀的邏輯實證主義與社會科學方法論。"
+    },
+    "存在主義 (Existentialism)": {
+      "type": "religion",
+      "description": "由齊克果在19世紀中葉哥本哈根開啟、20世紀由海德格與沙特在德法發揚光大的哲學運動。存在主義的核心主張是『存在先於本質』：人類沒有預設的目的或本質，每個人都被『拋擲』到這個荒謬的世界中，必須透過自己的選擇來創造意義。齊克果強調的是面對上帝時的個人焦慮與『信仰之躍』，沙特則走向無神論版本，強調絕對自由與絕對責任。"
+    },
+    "信仰之躍 (Leap of Faith)": {
+      "type": "religion",
+      "description": "齊克果的核心哲學概念。他認為理性永遠無法證明上帝的存在（這點他同意休謨與康德），但真正的信仰恰恰需要一種超越理性的、充滿焦慮的『躍入』。就像站在懸崖邊，你無法用邏輯證明對面是安全的，你只能選擇跳或不跳。齊克果認為，正是這種冒險的個人決斷，而非教會的教條或黑格爾的邏輯體系，才構成了真正的宗教生命。"
+    },
+    "理性主義 (Rationalism)": {
+      "type": "religion",
+      "description": "17世紀歐洲大陸由笛卡兒、斯賓諾莎與萊布尼茲為代表的哲學流派。理性主義者主張人類心靈天生擁有某些先於經驗的觀念（如數學公理、上帝觀念），而真正可靠的知識只能透過理性的演繹推理——而非感官經驗——來獲得。笛卡兒的『我思故我在（Cogito ergo sum）』是理性主義最著名的命題：即使懷疑一切，正在懷疑的那個『我』的存在是不可懷疑的。"
+    },
+    "光學儀器 (Optical instruments)": {
+      "type": "tech",
+      "description": "17世紀荷蘭的鏡片研磨技術達到了前所未有的精度。斯賓諾莎本人就是一位技藝精湛的鏡片研磨師，以此為生。荷蘭工匠製造的顯微鏡（列文虎克）與望遠鏡（惠更斯）不僅改變了人類觀察微觀與宏觀世界的能力，更催生了實驗科學的蓬勃發展。"
+    },
+    "泰勒斯 (Thales)": {
+      "type": "person",
+      "description": "西元前6世紀米利都的哲學家，被亞里斯多德譽為『第一位哲學家』。泰勒斯主張萬物的本原（arché）是水，並成功預測了一次日蝕。他代表了人類從神話思維走向理性思維的第一步。"
+    },
+    "阿那克西曼德 (Anaximander)": {
+      "type": "person",
+      "description": "泰勒斯的學生，提出萬物的本原不是任何具體的物質，而是一種不可限定的『無限者（apeiron）』。他還繪製了已知最早的世界地圖，並提出了一種原始的演化論——人類最初是從魚演化而來的。"
+    },
+    "阿那克西美尼 (Anaximenes)": {
+      "type": "person",
+      "description": "米利都學派的第三位哲學家，主張萬物的本原是氣（aer）。他透過氣的稀薄化與濃縮來解釋火、風、雲、水與土的生成，建立了第一個系統性的物質變化理論。"
+    },
+    "畢達哥拉斯 (Pythagoras)": {
+      "type": "person",
+      "description": "西元前6世紀的希臘哲學家與數學家。他發現了弦長與音高的數學比例關係，由此主張『萬物皆數』。畢達哥拉斯定理以他命名，但他的影響遠超數學——他的數學神秘主義深刻影響了柏拉圖的理型論。"
+    },
+    "芝諾 (Zeno of Citium)": {
+      "type": "person",
+      "description": "斯多葛學派的創始人。約西元前300年，他在雅典的『彩繪柱廊（Stoa Poikile）』授課，因此其學派得名『斯多葛（Stoa）』。他主張宇宙由理性的Logos所貫穿，人類應順應自然、克制激情。"
+    },
+    "伊壁鳩魯 (Epicurus)": {
+      "type": "person",
+      "description": "西元前341-270年的希臘哲學家。他在雅典城外建立了『花園學校』，主張人生的最高目標是ataraxia（寧靜無擾）。他認為宇宙由原子構成，神靈存在但不干預人間，死亡只是原子的解散因而不值得恐懼。"
+    },
+    "第歐根尼 (Diogenes)": {
+      "type": "person",
+      "description": "犬儒主義最著名的實踐者。他住在木桶裡，白天提著燈籠在雅典尋找『真正的人』。據說亞歷山大大帝曾問他想要什麼，他回答：『請你閃到一邊，不要擋住我的陽光。』他以行為藝術般的生活方式，徹底嘲諷了文明社會的虛偽。"
+    },
+    "普羅提諾 (Plotinus)": {
+      "type": "person",
+      "description": "新柏拉圖主義的創始人（204-270）。他在亞歷山大港學習後前往羅馬授課，建立了一套宇宙從『太一（The One）』逐層流溢而出的精密形上學體系。他的思想成為基督教神學、猶太神秘主義與伊斯蘭蘇菲主義的共同哲學源泉。"
+    },
+    "伊本·西那 (Avicenna/Ibn Sina)": {
+      "type": "person",
+      "description": "波斯哲學家與醫學家（980-1037），被稱為『醫學之王』。他的《醫典》是歐洲醫學院的標準教科書長達五百年，而他的哲學體系將亞里斯多德的形上學與伊斯蘭神學融合，對托馬斯·阿奎那產生了直接影響。"
+    },
+    "伊本·魯世德 (Averroes/Ibn Rushd)": {
+      "type": "person",
+      "description": "安達盧斯的伊斯蘭哲學家（1126-1198），被歐洲學者尊稱為『注釋者（The Commentator）』。他為亞里斯多德的幾乎所有著作撰寫了三層注釋（簡要、中級、大注疏），其拉丁文譯本在巴黎大學引爆了信仰與理性的世紀大辯論。"
+    },
+    "托馬斯·阿奎那 (Thomas Aquinas)": {
+      "type": "person",
+      "description": "中世紀最偉大的基督教哲學家（1225-1274）。他在巴黎大學面對阿威羅伊主義的挑戰，完成了基督教信仰與亞里斯多德理性的偉大綜合——《神學大全》。他的『五路論證』（用理性證明上帝存在）至今仍是天主教哲學的基石。"
+    },
+    "斯賓諾莎 (Baruch Spinoza)": {
+      "type": "person",
+      "description": "阿姆斯特丹的猶太裔哲學家（1632-1677）。因其泛神論觀點被猶太社區驅逐後，他以研磨鏡片為生，同時撰寫了西方哲學史上最嚴密的形上學著作《倫理學》，用幾何證明的方式推導出『上帝即自然』。"
+    },
+    "大衛·休謨 (David Hume)": {
+      "type": "person",
+      "description": "蘇格蘭哲學家（1711-1776），經驗主義的極致推手。他論證因果律只是心理習慣而非客觀真理，歸納法永遠無法獲得邏輯上的確定性。康德說是休謨將他從『獨斷的沉睡中喚醒』，促使他撰寫了《純粹理性批判》。"
+    },
+    "齊克果 (Søren Kierkegaard)": {
+      "type": "person",
+      "description": "丹麥哲學家（1813-1855），存在主義的先驅。他以極度個人化的筆觸，對抗黑格爾將一切納入理性體系的野心。他認為真正的存在是個人面對上帝時的焦慮與顫慄，而非學術討論中的抽象概念。"
+    },
+    "黑格爾 (Georg Wilhelm Friedrich Hegel)": {
+      "type": "person",
+      "description": "德國哲學家（1770-1831），德國觀念論的集大成者。他的辯證法（正題→反題→合題）與歷史哲學（歷史是絕對精神的自我實現）構成了19世紀最龐大的哲學體系，直接催生了馬克思主義與存在主義兩大反叛運動。"
+    },
+    "費爾巴哈 (Ludwig Feuerbach)": {
+      "type": "person",
+      "description": "德國哲學家（1804-1872），青年黑格爾派的核心人物。他主張不是上帝創造了人，而是人將自己最美好的品質投射到一個想像的實體上創造了上帝。這種『投射論』成為馬克思宗教批判的直接源頭。"
+    },
+    "易經哲學 (Philosophy of I Ching)": {
+      "type": "religion",
+      "description": "《易經》是中國最古老的經典之一，最初是占卜之書，但在春秋戰國時期被賦予了深邃的哲學意義。其核心思想是『變易（Change）』——宇宙萬物都在陰陽兩種力量的消長中不斷循環轉化。『生生之謂易』，它建立了一種動態的、整體的宇宙觀，成為後來儒家與道家共同的思想源頭。"
+    },
+    "陰陽五行 (Yin-Yang and Five Elements)": {
+      "type": "religion",
+      "description": "中國古代解釋宇宙運作的基礎框架。陰陽代表事物內部對立統一的兩極（如明暗、動靜）；五行（金木水火土）則代表物質系統的五種運行狀態與生克關係。這套學說在戰國時期由鄒衍集大成，後來深刻影響了中醫（如《黃帝內經》）、天文、政治（五德終始說）以及日常生活的方方面面。"
+    },
+    "道家自然觀 (Daoist Naturalism)": {
+      "type": "religion",
+      "description": "由老子與莊子開創的思想流派。道家認為宇宙的最高法則是『道（Dao）』，它是無形、無名、不可言說的自然規律。相較於儒家強調人為的道德與禮制，道家主張『無為而治』、『順應自然』。莊子進一步將其發展為追求個人精神絕對自由的相對主義，『齊物論』主張打破一切世俗的價值階層。"
+    },
+    "墨家兼愛非攻 (Mohism)": {
+      "type": "religion",
+      "description": "由墨子創立，代表平民與工匠利益的哲學流派。核心主張『兼愛』（超越血緣等級的普遍之愛）與『非攻』（反對侵略戰爭）。墨家具有強烈的宗教色彩（明鬼、天志）以及極其嚴密的邏輯學與幾何學知識。雖然在秦漢之後絕跡，但其俠義精神與科學思維在中國思想史上獨樹一幟。"
+    },
+    "名家辯學 (School of Names)": {
+      "type": "religion",
+      "description": "戰國時期的邏輯學派，以公孫龍與惠施為代表。他們專注於概念與語言的邏輯分析，提出了『白馬非馬』、『一尺之捶，日取其半，萬世不竭』等著名的邏輯悖論。名家揭示了語言與現實之間的裂痕，雖然常被批評為『詭辯』，但這是中國古代最接近純粹邏輯學的思想嘗試。"
+    },
+    "黃老之學 (Huang-Lao Daoism)": {
+      "type": "religion",
+      "description": "西漢初年盛行的政治哲學，結合了黃帝（被視為統治術的代表）與老子（道家）的思想。主張君王應當『無為而治』、『與民休息』。在經歷了秦朝的暴政與多年戰亂後，黃老之學為漢初的經濟復甦提供了完美的意識形態，直到漢武帝時期才被儒家取代。"
+    },
+    "天人感應 (Telepathy between Heaven and Man)": {
+      "type": "religion",
+      "description": "西漢思想家董仲舒建立的神學儒家體系核心。他主張『天』是有意志的人格神，君主是天的代表（天子）。如果君主施政不仁，天就會降下災異（如地震、日食）作為警告。這套理論一方面神化了皇權（君權神授），另一方面也為士大夫限制君權提供了一個神學藉口。"
+    },
+    "讖緯學 (Chenwei/Theology of Texts)": {
+      "type": "religion",
+      "description": "漢代流行的一種結合了神學、迷信與儒家經學的神秘主義思潮。『讖』是預言未來的隱語，『緯』是以神學附會儒家經典的著作。統治者常利用讖緯來證明自己政權的合法性（如『代漢者當塗高』），這使漢代儒學充滿了濃厚的宗教預言色彩。"
+    },
+    "魏晉玄學 (Wei-Jin Xuanxue)": {
+      "type": "religion",
+      "description": "西元3世紀，面對漢代帝國崩潰與儒家禮教的僵化，王弼、何晏等士大夫轉向老莊思想，開創的一場哲學解放運動。他們探討『有與無』的本體論問題，主張『以無為本』。玄學不僅是深奧的哲學，更演變成一種追求真性情、蔑視世俗禮教的生活方式（如竹林七賢的放蕩不羈）。"
+    },
+    "般若學 (Prajna)": {
+      "type": "religion",
+      "description": "佛教傳入中國早期的核心哲學，『般若』意為『空性智慧』。它主張萬事萬物都是因緣和合而成，沒有獨立不變的自性（自性空）。當時的中國學者常借用老莊玄學的『無』來理解般若的『空』，這種『格義』方法促進了佛教在中國知識份子中的傳播。"
+    },
+    "唯識宗 (Yogacara/Consciousness-Only)": {
+      "type": "religion",
+      "description": "由玄奘從印度那爛陀寺完整引進長安的佛教哲學體系。唯識宗主張『萬法唯識』，外在世界並非客觀存在，而是由我們內心深處的『阿賴耶識』（第八識）變現出來的。這是極度精密的心理學與認識論，但在玄奘死後因理論過於繁瑣而在中國衰落。"
+    },
+    "華嚴宗 (Huayan School)": {
+      "type": "religion",
+      "description": "中國本土創立的佛教宗派，以《華嚴經》為宗。法藏大師以『金獅子』為喻，向武則天闡釋了華嚴宗的核心哲學：『一即一切，一切即一』、『理事無礙，事事無礙』。它建立了一個無盡交涉、圓融無礙的全息宇宙觀，是中國佛教哲學思辨的最高峰。"
+    },
+    "禪宗 (Zen Buddhism)": {
+      "type": "religion",
+      "description": "最具中國本土特色的佛教宗派，相傳由達摩祖師傳入，在六祖慧能手中發揚光大。禪宗徹底拋棄了繁瑣的經文翻譯與義理分析，主張『不立文字，教外別傳，直指人心，見性成佛』。它將印度佛教的超然與中國老莊的自然主義完美結合，深刻影響了東亞的詩歌、繪畫與茶道。"
+    },
+    "宋明理學 (Neo-Confucianism)": {
+      "type": "religion",
+      "description": "11至16世紀儒家的偉大復興運動。面對佛教與道教在形上學上的挑戰，北宋五子與南宋朱熹吸收了佛道的宇宙觀，重新為儒家倫理建立了本體論基礎。朱熹主張『存天理，滅人欲』，認為宇宙的本體『理』也存在於每個人的心中，必須透過『格物致知』（窮究事物的道理）來達成聖人的境界。這套體系成為元明清三代的官方科舉標準。"
+    },
+    "陸王心學 (School of Mind)": {
+      "type": "religion",
+      "description": "宋明理學的另一分支，由南宋陸九淵開創，明代王陽明集大成。反對朱熹向外『格物』的繁瑣，王陽明主張『心外無理，心外無物』。道德真理不需要向外求索，只要回歸本心（致良知）就能獲得。更重要的是『知行合一』：真正的知必然表現為行動。這套充滿實踐爆發力的哲學，後來成為明治維新志士的精神武裝。"
+    },
+    "道教內丹術 (Daoist Internal Alchemy)": {
+      "type": "religion",
+      "description": "宋元時期道教的重大轉向。早期的道士煉製化學丹藥（外丹）以求長生不老，但常導致重金屬中毒。內丹術則將人體本身視為煉丹爐，以體內的『精、氣、神』為藥物，透過靜坐、冥想與呼吸吐納來達成精神的昇華與超越。全真道的創立者王重陽是這一轉向的關鍵人物。"
+    },
+    "考據學/清代樸學 (Evidential Research/Han Learning)": {
+      "type": "religion",
+      "description": "清代思想界的主流學風。明朝滅亡後，顧炎武等學者將亡國歸咎於陸王心學的『空談心性』。他們主張回到漢代的儒家經典，運用文字學、音韻學、訓詁學進行極其嚴謹的考證，以求得經典的真實原貌。這是一場中國內部的『文藝復興』與『科學精神』的萌芽，強調『實事求是，無徵不信』。"
+    },
+    "中體西用 (Chinese Learning as Substance, Western Learning for Application)": {
+      "type": "religion",
+      "description": "19世紀下半葉，面對西方列強的堅船利炮，清朝洋務派（如曾國藩、李鴻章）提出的文化妥協方案。主張保持中國傳統的儒家倫理與政治制度作為『體（根本）』，而引進西方的軍事、工業與科學技術作為『用（工具）』。這標誌著中國哲學第一次被迫面對現代西方科技的巨大衝擊。"
+    },
+    "日本朱子學 (Japanese Neo-Confucianism)": {
+      "type": "religion",
+      "description": "江戶時代（1603-1867），德川幕府為了鞏固嚴格的階級社會（士農工商），將強調『上下尊卑』與『大義名分』的朱子學立為官方正統學說。林羅山等儒學者為幕府建立了一套不可動搖的封建倫理秩序。"
+    },
+    "日本陽明學 (Japanese Yangmingism)": {
+      "type": "religion",
+      "description": "與作為官方意識形態的朱子學不同，強調『知行合一』與『心即理』的陽明學在日本成為一種充滿顛覆性與實踐力的哲學。幕末時期，吉田松陰等人利用陽明學激發了下級武士的革命熱情，『尊王攘夷』，直接推動了推翻幕府的明治維新。"
+    },
+    "老子 (Laozi)": {
+      "type": "person",
+      "description": "相傳為春秋末期的楚國人，《道德經》的作者。他提出『道』是宇宙的最高本源，主張『反者道之動』，認為柔弱勝過剛強。他的『無為』思想深刻影響了中國的政治哲學與個人修養。"
+    },
+    "莊子 (Zhuangzi)": {
+      "type": "person",
+      "description": "戰國時期的道家代表人物。透過《莊周夢蝶》、《庖丁解牛》等寓言，莊子表達了一種超越世俗價值、追求絕對精神自由的相對主義哲學，是中國文學與美學的浪漫主義源頭。"
+    },
+    "墨子 (Mozi)": {
+      "type": "person",
+      "description": "戰國初期思想家，出身平民工匠。他創立了組織嚴密的墨者團體，提倡『兼愛』（平等的愛）與『非攻』（反對侵略），並具備高超的防禦器械製造技術與邏輯學知識。"
+    },
+    "王弼 (Wang Bi)": {
+      "type": "person",
+      "description": "三國時期魏國的少年天才哲學家（226-249），24歲即英年早逝。他用《老子》的『無』來重新注釋《周易》與《論語》，確立了魏晉玄學『以無為本』的核心，徹底改變了中國哲學的走向。"
+    },
+    "玄奘 (Xuanzang)": {
+      "type": "person",
+      "description": "唐代高僧（602-664），為求取佛經原義，孤身西行五萬里抵達印度那爛陀寺。回國後他主持了歷史上規模最大的譯經場，創立了精密繁雜的唯識宗，並寫下《大唐西域記》。"
+    },
+    "朱熹 (Zhu Xi)": {
+      "type": "person",
+      "description": "南宋哲學家（1130-1200），宋明理學的集大成者。他將宇宙本體（理）與人類心性完美結合，其《四書章句集注》成為其後七百年科舉考試的絕對標準，對東亞文化圈產生了統治性的影響。"
+    },
+    "王陽明 (Wang Yangming)": {
+      "type": "person",
+      "description": "明代思想家與軍事家（1472-1529）。在被貶謫貴州龍場時悟道，提出『致良知』與『知行合一』。他不僅是心學大師，還親自帶兵平定了寧王之亂，是中國歷史上罕見的立德、立言、立功三不朽之人。"
+    },
+    "顧炎武 (Gu Yanwu)": {
+      "type": "person",
+      "description": "明末清初思想家（1613-1682）。痛心於明朝的滅亡，他提出『天下興亡，匹夫有責』，反對空談心性，提倡『經世致用』與嚴謹的考據學，成為清代樸學的開山祖師。"
+    },
+    "吉田松陰 (Yoshida Shoin)": {
+      "type": "person",
+      "description": "日本幕末時期的思想家（1830-1859）。他深受陽明學影響，開設『松下村塾』，培養了高杉晉作、伊藤博文等一大批明治維新的核心領袖。後因策劃暗殺幕府官員而被處死。"
+    },
+    "奧義書哲學 (Upanishadic Philosophy)": {
+      "type": "religion",
+      "description": "西元前8-6世紀印度古老文獻《奧義書》中的哲學思想。它將早期吠陀宗教繁瑣的外在祭祀，內化為對宇宙終極真實的思辨。其核心命題是『梵我合一（Tat Tvam Asi）』：宇宙的最高實體（梵, Brahman）與個人靈魂的本質（我, Atman）在根本上是同一的。這是印度形上學的基石，影響了後世所有的印度思想。"
+    },
+    "早期佛教 (Early Buddhism)": {
+      "type": "religion",
+      "description": "西元前6世紀由釋迦牟尼創立。針對婆羅門教的種姓制度與實體宇宙觀，早期佛教提出了『四聖諦』（苦集滅道）與『緣起論』。它主張『諸行無常，諸法無我』——世界上沒有永恆不變的靈魂（神我），一切都是因緣條件的生滅。這是一種極度清醒的心理分析與解脫實踐，拒絕形上學的玄想。"
+    },
+    "耆那教 (Jainism)": {
+      "type": "religion",
+      "description": "與佛教同時代興起的沙門宗教，由大雄（伐達摩那）集大成。耆那教將『非暴力（Ahimsa）』推向極致，認為萬物（包括植物與微小生物）皆有靈魂（命我）。為了停止業力的積累並達成解脫，耆那教徒奉行極度嚴格的苦行與素食主義。其『相對論（Anekantavada）』主張真理是多面的，深刻影響了印度的寬容思想。"
+    },
+    "數論派 (Samkhya)": {
+      "type": "religion",
+      "description": "印度教正統六派哲學中最古老的一派。它建立了一套嚴密的二元論：宇宙由『原質（Prakriti，物質與能量的基質）』與『神我（Purusha，純粹的意識）』組成。當神我被原質的演化所迷惑時就會產生痛苦，解脫在於辨明兩者的絕對區別。這套宇宙發生論深刻影響了佛教與瑜伽派。"
+    },
+    "順世論 (Charvaka/Materialism)": {
+      "type": "religion",
+      "description": "古印度激進的唯物主義與無神論學派。他們拒絕吠陀權威，否定靈魂、輪迴與業力，主張世界僅由地、水、火、風四大元素構成。意識只是物質結合產生的副產品（就像酒發酵產生醉人的力量）。順世論主張人生的唯一目標就是在現世追求快樂，是印度思想史中一抹極度世俗化的色彩。"
+    },
+    "龍樹中觀學 (Madhyamaka)": {
+      "type": "religion",
+      "description": "大乘佛教最重要的哲學基礎，由2世紀的龍樹創立。中觀學以『八不中道』（不生不滅，不常不斷，不一不異，不來不出）破除一切對實體（自性）的執著。龍樹認為『空』不是虛無，而是『緣起』的同義詞——正因為萬物沒有絕對獨立的實體，萬物才可能發生聯繫。這套極度銳利的辯證法徹底改變了東方哲學的邏輯框架。"
+    },
+    "無著唯識學 (Yogacara)": {
+      "type": "religion",
+      "description": "大乘佛教的另一大支柱，由4世紀的無著與世親創立。針對中觀學可能導致的虛無主義誤解，唯識學主張『境空心有』：外在的客觀世界是空的，但我們認識世界的主觀意識作用（識）是存在的。他們將人類心理劃分為極度精密的八識系統，特別是潛意識的『阿賴耶識』。這可以被視為古代世界最深刻的現象學與精神分析。"
+    },
+    "密教 (Vajrayana)": {
+      "type": "religion",
+      "description": "大乘佛教在7世紀後與印度教怛特羅（Tantra）思想融合產生的晚期形態。密教不再單純依賴漫長的理性思辨與禁慾，而是主張透過咒語（真言）、手印與曼荼羅，甚至利用人類的慾望與身體能量，來達成『即身成佛』的頓悟。密教在那爛陀寺晚期極度興盛，隨後傳入西藏與日本（真言宗）。"
+    },
+    "不二論 (Advaita Vedanta)": {
+      "type": "religion",
+      "description": "8世紀由商羯羅（Adi Shankara）建立的印度教哲學體系。他吸收了佛教中觀學的邏輯（常被稱為『暗中的佛教徒』），嚴格論證了『奧義書』的終極真理：宇宙中唯一的真實是沒有屬性的『梵』。我們所看到的多樣化世界只是一種宇宙級的幻象（摩耶, Maya）。靈魂與梵絕對不二。這套哲學成功擊敗了佛教，確立了印度教的正統地位。"
+    },
+    "限定不二論 (Vishishtadvaita)": {
+      "type": "religion",
+      "description": "11世紀由羅摩努闍（Ramanuja）提出的吠檀多哲學。反對商羯羅將世界視為幻象的冷酷觀點，羅摩努闍主張梵是有位格的上帝（通常指毗濕奴），而世界與個別靈魂是上帝真實的『身體』或屬性。兩者既一又異。這為對神充滿感情的敬愛（巴克提）提供了堅實的哲學基礎。"
+    },
+    "蘇菲與巴克提融合 (Sufi-Bhakti Synthesis)": {
+      "type": "religion",
+      "description": "中世紀晚期印度次大陸最動人的文化現象。伊斯蘭教的蘇菲派（強調透過愛與神秘體驗與真主合一）與印度教的巴克提運動（強調對特定神祇的狂熱敬愛）在底層社會產生了強烈的共鳴。迦比爾等詩人嘲笑婆羅門與毛拉的虛偽教條，宣唱『神在我們每個人的心裡』。這種融合打破了宗教藩籬，成為印度平民最深層的信仰底色。"
+    },
+    "錫克教 (Sikhism)": {
+      "type": "religion",
+      "description": "15世紀末由納納克（Guru Nanak）在旁遮普地區創立的宗教。錫克教直接吸收了蘇菲派與巴克提運動的精華，主張一神論，但徹底廢除了印度教的種姓制度與繁瑣祭祀。錫克教徒強調人人平等、誠實勞動與佩劍保衛正義。這是一個從純粹的精神融合走向社會與軍事改革的獨特宗教實踐。"
+    },
+    "伐達摩那/大雄 (Mahavira)": {
+      "type": "person",
+      "description": "耆那教的第24代祖師（尊稱為大雄，西元前599-527），與釋迦牟尼同時代。他放棄了王子的地位，進行了長達12年的極度苦行，最終獲得完全的覺悟。他確立了耆那教『不殺生』、『不妄語』等五誓戒，其教導至今仍指引著印度數百萬耆那教徒。"
+    },
+    "龍樹 (Nagarjuna)": {
+      "type": "person",
+      "description": "西元2世紀的南印度佛教哲學家，被大乘佛教尊為『八宗共祖』。他運用極其銳利的反證法邏輯，在《中論》中徹底摧毀了任何對『實體自性』的執著，建立了『空性』的哲學框架。他的思想深度足以與西方的康德比肩。"
+    },
+    "無著 (Asanga)": {
+      "type": "person",
+      "description": "西元4世紀的佛教大乘論師，唯識宗的共同創立者。傳說他在禪定中上升至兜率天聽彌勒菩薩講法。他與弟弟世親共同將人類的意識結構進行了極其細密的解剖，將大乘佛教從中觀的『破』轉向唯識的『立』。"
+    },
+    "商羯羅 (Adi Shankara)": {
+      "type": "person",
+      "description": "西元8世紀的印度教偉大改革家與哲學家。雖然年僅32歲便逝世，但他遊歷全印度，在無數次哲學辯論中擊敗佛教與其他學派，建立了『不二論（Advaita）』的絕對統治地位，並建立了四大修道院，被視為印度教復興的關鍵人物。"
+    },
+    "羅摩努闍 (Ramanuja)": {
+      "type": "person",
+      "description": "西元11世紀的印度教哲學家。他對商羯羅冷峻的『幻象論』提出強烈批評，認為神對人類充滿了愛，人類也應該以虔誠（巴克提）來回應神。他的『限定不二論』為印度教的信神運動提供了完美的理論支撐。"
+    },
+    "迦比爾 (Kabir)": {
+      "type": "person",
+      "description": "15世紀印度最偉大的神秘主義詩人。他出身穆斯林織工家庭，卻深受印度教巴克提運動影響。他的詩歌尖銳地嘲諷印度教與伊斯蘭教的教條主義，主張超越宗教形式去尋找內心的神。至今印度教徒與穆斯林都將他視為聖人。"
+    },
+    "納納克 (Guru Nanak)": {
+      "type": "person",
+      "description": "錫克教的第一代祖師（1469-1539）。他在一次神秘體驗中獲得啟示：『沒有印度教徒，也沒有穆斯林，只有神的路。』他畢生遊歷南亞甚至遠赴麥加，傳播平等、友愛與真理的教導，奠定了錫克教的基礎。"
+    },
+    "印度-阿拉伯數字 (Hindu-Arabic numerals)": {
+      "type": "tech",
+      "description": "源於古印度（包含至關重要的『零』的概念），經由阿拉伯帝國（如花剌子米）傳入歐洲的十進位記數系統。相較於繁瑣的羅馬數字，它極大地簡化了計算過程，是現代數學、商業會計與科學計算不可或缺的基礎工具。"
+    },
+    "伊斯蘭光學 (Islamic Optics)": {
+      "type": "tech",
+      "description": "11世紀海什木（Ibn al-Haytham）在《光學》一書中建立的科學體系。他打破了古希臘人認為『眼睛發出光線去看東西』的錯誤觀點，利用暗室實驗證明了光線是從物體反射進入眼睛的。他建立了早期實驗科學的標準，為現代光學奠定了基礎。"
+    },
+    "經典力學 (Classical Mechanics)": {
+      "type": "tech",
+      "description": "由牛頓在1687年《自然哲學的數學原理》中建立的物理學體系。透過三大運動定律與萬有引力定律，牛頓證明了天上行星的運行與地上蘋果的掉落遵循著完全相同的數學規律。這建立了一個像鐘錶一樣精確運作的機械宇宙觀。"
+    },
+    "微積分 (Calculus)": {
+      "type": "tech",
+      "description": "由牛頓與萊布尼茲在17世紀末各自獨立發明的數學工具。它是研究『變化』的數學，能夠精確計算曲線下的面積（積分）與運動物體的瞬時速度（微分）。沒有微積分，就不可能發展出現代物理學與工程學。"
+    },
+    "啟蒙科學 (Enlightenment Science)": {
+      "type": "tech",
+      "description": "18世紀法國啟蒙運動時期，科學被視為驅散愚昧、推動人類進步的最高理性。如拉瓦節推翻了『燃素說』建立現代化學；百科全書派則致力於將所有科學知識普及給大眾。科學不再只是學者的專利，而成為社會改革的推動力。"
+    },
+    "造紙術 (Papermaking)": {
+      "type": "tech",
+      "description": "西元105年由東漢蔡倫改進的技術，使用樹皮、破布等廉價植物纖維製造紙張。它取代了笨重的竹簡與昂貴的羊皮紙，使得知識的載體變得輕便且極為廉價，是人類文化史上第一次資訊儲存革命。"
+    },
+    "活字印刷術 (Movable Type Printing)": {
+      "type": "tech",
+      "description": "11世紀北宋畢昇發明的技術。將單個漢字刻在膠泥上，燒硬後排版印刷，印完可拆解重組。這極大地節省了雕版的時間與木材。雖然在漢字體系中推廣較慢，但其『模塊化組合』的理念是人類工程學的偉大創舉。"
+    },
+    "古騰堡印刷機 (Gutenberg Press)": {
+      "type": "tech",
+      "description": "15世紀中期德國古騰堡發明的印刷系統。他使用銻鉛合金鑄造字母活字，並結合了葡萄酒壓榨機的機械結構。這項技術在字母文字體系中引發了資訊爆炸，直接推動了宗教改革（人人皆可閱讀聖經）與科學革命。"
+    },
+    "指南針 (Magnetic Compass)": {
+      "type": "tech",
+      "description": "利用磁石指示南北方向的儀器。北宋沈括在《夢溪筆談》中首次詳細記載了人工磁化與磁偏角現象。指南針的應用使得船隻在陰雨天或深海中也能確定航向，是開啟大航海時代與全球貿易網絡的關鍵技術鑰匙。"
+    },
+    "複式簿記 (Double-entry Bookkeeping)": {
+      "type": "tech",
+      "description": "起源於中世紀義大利（如威尼斯），由帕西奧利系統化的會計方法。每一筆交易都必須在『借方』與『貸方』同時記錄，確保帳目平衡。這不僅是一種記帳技術，更是現代資本主義企業計算利潤、評估風險與擴張規模的數學基礎。"
+    },
+    "大航海時代 (Age of Discovery)": {
+      "type": "tech",
+      "description": "15至17世紀，歐洲船隊突破地中海，跨越大西洋與太平洋尋找新航線的歷史時期。它將孤立的各大洲（歐、亞、非、美）首次緊密地連結在一個全球性的貿易與殖民網絡中，徹底改變了人類歷史的軌跡與生態系（哥倫布大交換）。"
+    },
+    "蒸汽機 (Steam Engine)": {
+      "type": "tech",
+      "description": "工業革命的心臟。1760年代，瓦特改良了早期的紐科門蒸汽機，使其熱效率大幅提升，並能輸出連續的旋轉動力。蒸汽機打破了工廠必須建在河流旁邊的限制，為所有現代工業與交通運輸（火車、輪船）提供了無限的人造動力。"
+    },
+    "蔡倫 (Cai Lun)": {
+      "type": "person",
+      "description": "東漢宦官，於西元105年向漢和帝獻上改進後的紙張。他利用樹皮、麻頭、破布與舊漁網為原料，極大地降低了造紙成本，被視為現代造紙術的發明者，深刻改變了世界文明的進程。"
+    },
+    "畢昇 (Bi Sheng)": {
+      "type": "person",
+      "description": "北宋平民發明家（約990-1051），發明了膠泥活字印刷術。沈括在《夢溪筆談》中詳細記載了他的工藝。畢昇的發明是人類歷史上最早的活字印刷技術，比歐洲古騰堡早了四百年。"
+    },
+    "花剌子米 (Al-Khwarizmi)": {
+      "type": "person",
+      "description": "9世紀巴格達『智慧之家』的波斯數學家與天文學家。他的著作將印度數字引入伊斯蘭世界與歐洲；他的名字演變為『演算法 (Algorithm)』，而他的書名演變為『代數 (Algebra)』。"
+    },
+    "海什木 (Ibn al-Haytham)": {
+      "type": "person",
+      "description": "11世紀的阿拉伯博學家，被尊為『現代光學之父』。他嚴格區分了理論假說與實驗驗證，其《光學》一書對後世的羅吉爾·培根、克卜勒與伽利略產生了深遠影響。"
+    },
+    "盧卡·帕西奧利 (Luca Pacioli)": {
+      "type": "person",
+      "description": "15世紀義大利數學家與方濟各會修士，達文西的數學老師。他被譽為『會計學之父』，出版了第一部系統介紹威尼斯複式簿記法的著作，為現代會計制度奠定了基礎。"
+    },
+    "哥倫布 (Christopher Columbus)": {
+      "type": "person",
+      "description": "義大利航海家，在西班牙王室贊助下，於1492年試圖向西航行尋找亞洲，卻意外抵達美洲大陸。他的航行引發了『哥倫布大交換』，永久性地改變了全球的人口、物種與文化版圖。"
+    },
+    "伽利略 (Galileo Galilei)": {
+      "type": "person",
+      "description": "義大利物理學家與天文學家（1564-1642）。他製造了天文望遠鏡，發現了木星衛星與月球環形山，證明了哥白尼的日心說。他確立了以數學為語言、以實驗為檢驗標準的現代科學方法。"
+    },
+    "牛頓 (Isaac Newton)": {
+      "type": "person",
+      "description": "英國物理學家與數學家（1643-1727）。他發明了微積分，發現了萬有引力定律，並在《自然哲學的數學原理》中統一了天體與地球的運動規律。他是科學革命的最高峰，其理論統治了物理學達兩百年之久。"
+    },
+    "瓦特 (James Watt)": {
+      "type": "person",
+      "description": "蘇格蘭發明家與機械工程師（1736-1819）。他發明了帶有分離冷凝器的改良蒸汽機，使其成為工業革命中最高效、最普及的動力來源。國際單位制中的功率單位『瓦特 (W)』即以他的名字命名。"
+    },
+    "演化論 (Evolutionary Biology)": {
+      "type": "tech",
+      "description": "1859年由達爾文在《物種起源》中提出的偉大科學理論。它指出地球上所有的生物都來自共同的祖先，並透過『物競天擇、適者生存』的自然選擇過程不斷演化。演化論徹底推翻了神創論，是人類對自身在自然界位置的最深刻覺醒。"
+    },
+    "電磁學 (Electromagnetism)": {
+      "type": "tech",
+      "description": "19世紀物理學的最高成就。法拉第發現了電磁感應現象，而馬克士威則用一組優美的偏微分方程（馬克士威方程組）將電、磁與光統一起來，證明光也是一種電磁波。這為20世紀的電氣化時代與愛因斯坦的相對論鋪平了道路。"
+    },
+    "熱力學 (Thermodynamics)": {
+      "type": "tech",
+      "description": "起源於對蒸汽機效率研究的物理學分支。它確立了能量守恆定律（第一定律）與熵增原理（第二定律），揭示了時間的不可逆性以及宇宙最終將走向『熱寂』的悲觀命運。"
+    },
+    "統計力學 (Statistical Mechanics)": {
+      "type": "tech",
+      "description": "由波茲曼等人建立的物理學分支。它將微觀粒子的無序熱運動透過機率統計的方法，與宏觀的熱力學現象連結起來，第一次從原子尺度解釋了『熵』的物理意義。"
+    },
+    "古典經濟學 (Classical Economics)": {
+      "type": "religion",
+      "description": "18世紀末由亞當·斯密創立的現代經濟學體系。主張『看不見的手』會引導追求私利的個人無意中促進社會整體的財富增長。它提倡自由貿易與勞動分工，成為大英帝國與全球資本主義的理論基礎。"
+    },
+    "馬克思主義政治經濟學 (Marxist Political Economy)": {
+      "type": "religion",
+      "description": "馬克思與恩格斯對資本主義進行的毀滅性批判。在《資本論》中，他們提出了『剩餘價值理論』，論證了資本家剝削工人的本質，並預言資本主義的內在矛盾必將導致其崩潰，最終走向無產階級革命與共產主義。"
+    },
+    "實證主義社會學 (Positivist Sociology)": {
+      "type": "religion",
+      "description": "19世紀法國哲學家孔德創立的思潮。他認為人類社會的發展必須像物理學一樣，建立在可觀察、可驗證的經驗事實之上，拒絕任何神學與形上學的空想。這是社會學作為一門獨立科學的開端。"
+    },
+    "實驗心理學 (Experimental Psychology)": {
+      "type": "religion",
+      "description": "1879年馮特在萊比錫創立的學科。在此之前，靈魂與心智是哲學家的專利；馮特則透過嚴格的實驗室儀器與『內省法』，試圖量化測量人類的感知與意識速度，讓心理學正式成為科學家族的一員。"
+    },
+    "精神分析學 (Psychoanalysis)": {
+      "type": "religion",
+      "description": "19世紀末維也納醫生佛洛伊德創立的心理學派。他提出人類的思想與行為很大程度上受制於被壓抑的『潛意識』與『性本能 (Libido)』。透過夢的解析與自由聯想，精神分析不僅是臨床療法，更成為20世紀西方文學、藝術與電影的靈感源泉。"
+    },
+    "浪漫主義 (Romanticism)": {
+      "type": "religion",
+      "description": "18世紀末至19世紀中葉席捲歐洲的藝術與文學思潮。作為對啟蒙運動『絕對理性』與工業革命『機械化』的反叛，浪漫主義強烈推崇個人的情感、直覺、對大自然的敬畏以及對中世紀神秘主義的嚮往。"
+    },
+    "印象派 (Impressionism)": {
+      "type": "religion",
+      "description": "19世紀下半葉發源於法國巴黎的繪畫運動。印象派畫家（如莫內）走出畫室，放棄了傳統的清晰輪廓與透視法，轉而捕捉光線與色彩在瞬間的動態變化。這是現代藝術反叛學院派傳統的開端。"
+    },
+    "威廉·馮特 (Wilhelm Wundt)": {
+      "type": "person",
+      "description": "德國心理學家（1832-1920），被譽為『現代心理學之父』。他在萊比錫大學建立了第一個心理學實驗室，將心理學與哲學分家，開啟了用科學實驗研究人類意識的時代。"
+    },
+    "西格蒙德·佛洛伊德 (Sigmund Freud)": {
+      "type": "person",
+      "description": "奧地利神經學家（1856-1939），精神分析學派的創始人。他發現了『潛意識』這片人類心智的廣大暗大陸，其《夢的解析》徹底改變了現代人對自身理性的認知。"
+    },
+    "路德維希·波茲曼 (Ludwig Boltzmann)": {
+      "type": "person",
+      "description": "奧地利物理學家（1844-1906）。在原子論還未被完全接受的年代，他堅定地用統計方法解釋了熱力學第二定律。因其理論不被當時主流理解，最終患抑鬱症自盡。如今他的熵公式 S=k log W 被刻在他的墓碑上。"
+    },
+    "弗里德里希·恩格斯 (Friedrich Engels)": {
+      "type": "person",
+      "description": "德國思想家與革命家（1820-1895）。馬克思最親密的戰友，曾根據自己在曼徹斯特紡織廠的觀察寫下《英國工人階級狀況》。在馬克思逝世後，他整理並出版了《資本論》的後兩卷。"
+    },
+    "查爾斯·達爾文 (Charles Darwin)": {
+      "type": "person",
+      "description": "英國生物學家（1809-1882）。經過五年的小獵犬號環球航行與二十年的謹慎研究，他發表了《物種起源》，提出的『物競天擇』演化論成為了整個現代生物學的基石。"
+    },
+    "詹姆斯·馬克士威 (James Clerk Maxwell)": {
+      "type": "person",
+      "description": "蘇格蘭物理學家（1831-1879）。他用四條簡潔的方程式（馬克士威方程組）完美統一了電學與磁學，並預言了電磁波的存在，是牛頓與愛因斯坦之間最偉大的物理學家。"
+    },
+    "奧古斯特·孔德 (Auguste Comte)": {
+      "type": "person",
+      "description": "法國哲學家（1798-1857）。實證主義與現代社會學的奠基人，他提出人類思想發展的『三階段定律』（神學、形上學、實證科學），深刻影響了19世紀的社會科學走向。"
+    },
+    "亞當·斯密 (Adam Smith)": {
+      "type": "person",
+      "description": "蘇格蘭哲學家與經濟學家（1723-1790）。其1776年出版的《國富論》標誌著古典經濟學的誕生，他提出的『看不見的手』與勞動分工理論，至今仍是自由市場資本主義的聖經。"
+    },
+    "克勞德·莫內 (Claude Monet)": {
+      "type": "person",
+      "description": "法國畫家（1840-1926），印象派的代表人物與創始人之一。其畫作《印象·日出》為該流派命了名。他畢生致力於捕捉光與色的瞬間視覺印象，晚年的《睡蓮》系列更是達到了半抽象的藝術高峰。"
+    },
+    "相對論 (Theory of Relativity)": {
+      "type": "tech",
+      "description": "愛因斯坦提出的現代物理學兩大支柱之一（分為狹義與廣義）。它顛覆了牛頓的絕對時空觀，證明時間與空間是相對的，且質量與能量可以互相轉換（E=mc²）。廣義相對論更進一步將引力解釋為時空的扭曲。"
+    },
+    "量子力學 (Quantum Mechanics)": {
+      "type": "tech",
+      "description": "研究微觀世界（原子與次原子粒子）物理現象的理論。它揭示了自然界在極小尺度下呈現出的機率性、波粒二象性與量子糾纏。它顛覆了古典物理的決定論，是現代半導體、雷射與量子運算的理論基礎。"
+    },
+    "原子能與核物理 (Nuclear Physics)": {
+      "type": "tech",
+      "description": "20世紀藉由對原子核結構的研究，人類掌握了核裂變與核聚變技術。這不僅催生了具有毀滅性的核子武器（改變了冷戰的地緣政治），也提供了核能發電這種強大的新能源。"
+    },
+    "DNA雙螺旋結構 (DNA Double Helix)": {
+      "type": "tech",
+      "description": "1953年由華生、克里克與富蘭克林共同揭示的生命分子結構。這一發現證明了遺傳資訊是透過四種鹼基（A,T,C,G）的序列進行編碼與複製的，標誌著生物學進入了分子層級，為基因工程鋪平了道路。"
+    },
+    "電腦科學 (Computer Science)": {
+      "type": "tech",
+      "description": "發源於圖靈機理論與馮紐曼架構的全新學科。它將邏輯運算與物理硬體（真空管到電晶體）結合，使人類能夠以前所未有的速度處理海量資訊，引發了第三次工業革命。"
+    },
+    "網際網路 (Internet)": {
+      "type": "tech",
+      "description": "起源於美國軍方的ARPANET計畫，隨後發展為全球互聯的TCP/IP網路。它徹底打破了地理與時間的限制，將全人類連結在一個即時的資訊共享網絡中，深刻改變了商業、媒體與社交模式。"
+    },
+    "人工智慧 (Artificial Intelligence)": {
+      "type": "tech",
+      "description": "旨在創造能夠模擬人類智慧與學習能力的機器的科學。從早期的專家系統到21世紀初基於大數據與類神經網路的深度學習，AI 正在成為推動第四次工業革命的核心引擎。"
+    },
+    "現象學 (Phenomenology)": {
+      "type": "religion",
+      "description": "20世紀初由胡塞爾創立的哲學流派。主張回到事物本身（To the things themselves），嚴格分析人類意識的『意向性』與直接經驗，而不預設任何科學或形上學的前提。它深刻影響了後來的存在主義與詮釋學。"
+    },
+    "邏輯實證主義 (Logical Positivism)": {
+      "type": "religion",
+      "description": "起源於維也納學圈的哲學流派。他們主張，只有那些能夠透過經驗驗證的命題（如科學事實）或邏輯同義反覆（如數學）才是有意義的。他們試圖用嚴格的邏輯語言來淨化哲學，拒絕所有形上學探討。"
+    },
+    "分析哲學 (Analytic Philosophy)": {
+      "type": "religion",
+      "description": "20世紀英美哲學的主流。以羅素與維根斯坦為代表，主張哲學的首要任務是分析語言與邏輯的結構。他們認為許多傳統哲學問題只是因為語言的濫用而產生的『假問題』，一旦釐清了語言，問題就會自然消失。"
+    },
+    "結構主義 (Structuralism)": {
+      "type": "religion",
+      "description": "20世紀中葉興起於法國的思潮。受語言學家索緒爾啟發，結構主義者（如李維史陀）認為，人類的文化、神話、社會關係甚至無意識，都受制於某種深層的、不以個人意志為轉移的『結構』，個人只是這些結構的載體。"
+    },
+    "後現代主義 (Postmodernism)": {
+      "type": "religion",
+      "description": "20世紀下半葉對『現代性』與啟蒙理性的全面質疑與反叛。後現代主義拒絕任何宏大敘事（如進步史觀、絕對真理），強調真理的相對性、權力與論述的交織（如傅柯），並在藝術上表現為拼貼、反諷與解構。"
+    },
+    "阿爾伯特·愛因斯坦 (Albert Einstein)": {
+      "type": "person",
+      "description": "德國猶太裔物理學家（1879-1955）。20世紀最偉大的科學家，憑一己之力創立了狹義與廣義相對論，並為量子力學奠定了基礎。他是現代物理學的同義詞，也是和平主義的堅定倡導者。"
+    },
+    "尼爾斯·波耳 (Niels Bohr)": {
+      "type": "person",
+      "description": "丹麥物理學家（1885-1962）。量子力學的哥本哈根學派領袖，提出了原子的波耳模型與『互補原理』。他的研究所成為了20世紀初全球頂尖物理學家朝聖的麥加。"
+    },
+    "艾倫·圖靈 (Alan Turing)": {
+      "type": "person",
+      "description": "英國數學家與邏輯學家（1912-1954），被譽為『計算機科學與人工智慧之父』。他提出了圖靈機概念，並在二戰期間破譯了德國的恩尼格瑪密碼機。後因同性戀身份遭到迫害而自殺。"
+    },
+    "約翰·馮·紐曼 (John von Neumann)": {
+      "type": "person",
+      "description": "匈牙利裔美籍數學家與博學家（1903-1957）。他在量子力學、賽局理論以及曼哈頓計劃中做出了巨大貢獻，更重要的是，他確立了現代電腦的『馮紐曼架構』，影響至今。"
+    },
+    "詹姆斯·華生 (James Watson)": {
+      "type": "person",
+      "description": "美國分子生物學家（1928-）。年僅25歲時與克里克在劍橋共同發現了DNA的雙螺旋結構，為現代基因工程打開了大門，並因此獲得諾貝爾獎。"
+    },
+    "讓-保羅·沙特 (Jean-Paul Sartre)": {
+      "type": "person",
+      "description": "法國哲學家與劇作家（1905-1980）。無神論存在主義的代表人物，提出『存在先於本質』，強調人在荒謬的宇宙中擁有絕對的自由，但也必須為自己的選擇承擔絕對的責任。"
+    },
+    "路德維希·維根斯坦 (Ludwig Wittgenstein)": {
+      "type": "person",
+      "description": "奧地利裔英國哲學家（1889-1951）。20世紀最具傳奇色彩的哲學天才，憑藉《邏輯哲學論》與《哲學研究》兩度徹底改變了西方哲學的方向，引發了語言哲學的革命。"
+    },
+    "米歇爾·傅柯 (Michel Foucault)": {
+      "type": "person",
+      "description": "法國哲學家與歷史學家（1926-1984）。後現代主義的核心人物，他深入研究了瘋狂、醫療、監獄與性，揭示了『權力』與『知識』是如何緊密勾結來控制與規訓人類身體的。"
+    },
+    "解析幾何 (Analytic Geometry)": {
+      "type": "tech",
+      "description": "17世紀由笛卡兒與費馬創立的數學分支。它將幾何圖形轉化為代數方程，使人們能夠用座標系統與函數來研究曲線與空間關係。這是微積分誕生的直接前提。"
+    },
+    "化學革命 (Chemical Revolution)": {
+      "type": "tech",
+      "description": "18世紀末由拉瓦節主導的化學學科革命。他推翻了延續百年的「燃素說」，建立了質量守恆定律與氧化理論，使化學從煉金術轉變為一門嚴格的定量科學。"
+    },
+    "黑火藥 (Black Gunpowder)": {
+      "type": "tech",
+      "description": "中國古代四大發明之一。最早出現在唐代煉丹文獻中，由硝石、硫磺與木炭混合而成。經由蒙古帝國傳入阿拉伯與歐洲後，徹底改變了戰爭方式與政治權力結構。"
+    },
+    "候風地動儀 (Seismoscope)": {
+      "type": "tech",
+      "description": "東漢張衡於西元132年發明的世界上最早的地震探測儀器。它利用內部擺錘機制感測遠方地震波，並透過龍嘴吐珠指示方向。這是人類利用機械裝置記錄自然現象的先驅。"
+    },
+    "天文望遠鏡 (Astronomical Telescope)": {
+      "type": "tech",
+      "description": "17世紀初由荷蘭工匠改良、伽利略首次用於天文觀測的光學儀器。伽利略透過它發現了木星衛星與月球環形山，為哥白尼的日心說提供了關鍵的觀測證據。"
+    },
+    "中國化佛教 (Sinicized Buddhism)": {
+      "type": "religion",
+      "description": "佛教自漢代傳入中國後，經過數百年與本土儒道思想的融合，發展出天台宗、華嚴宗、禪宗、淨土宗等具有中國特色的宗派。這些宗派不再是印度佛教的翻版，而是深刻融合了中國哲學的新創造。"
+    },
+    "印度教 (Hinduism)": {
+      "type": "religion",
+      "description": "源自古印度吠陀文明的宗教傳統，是世界上最古老的主要宗教之一。它融合了《奧義書》的哲學思辨、種姓制度的社會組織與豐富的神話傳說，涵蓋了從一神論到多神論的廣泛信仰光譜。"
+    },
+    "大乘佛教 (Mahayana Buddhism)": {
+      "type": "religion",
+      "description": "西元前後興起的佛教改革運動。與強調個人解脫的上座部佛教不同，大乘佛教提出「菩薩道」——先度眾生再求自度。它發展出中觀、唯識等精密的哲學體系，並沿絲路傳入中國、韓國與日本。"
+    },
+    "卡拉維爾帆船 (Caravel)": {
+      "type": "tech",
+      "description": "15世紀葡萄牙發展的革命性帆船。它結合了歐洲的方帆與阿拉伯的三角帆，吃水淺、操縱靈活，能夠逆風航行。這是大航海時代的核心技術，使葡萄牙船隊得以探索非洲海岸並繞過好望角。"
+    },
+    "鐵路運輸系統 (Railway System)": {
+      "type": "tech",
+      "description": "19世紀初隨蒸汽機車發明而誕生的陸上交通革命。1830年英國建成世界上第一條客運鐵路（利物浦至曼徹斯特），徹底改變了人類的時空觀念、物流效率與城市化進程。"
+    },
+    "幾何原本 (Elements)": {
+      "type": "tech",
+      "description": "古希臘數學家歐幾里得於西元前300年左右在亞歷山大港編寫的數學巨著。它首次將幾何學公理化，用少數不證自明的公理推導出龐大的幾何定理體系。這是人類歷史上最成功的教科書，深刻影響了西方兩千年的科學與邏輯思維。"
+    },
+    "史記 (Records of the Grand Historian)": {
+      "type": "tech",
+      "description": "西漢司馬遷編寫的中國第一部紀傳體通史。記載了從黃帝到漢武帝時期的歷史。其「究天人之際，通古今之變，成一家之言」的宏大視野，奠定了中國兩千年史學寫作的基本範式。"
+    },
+    "天文學大成 (Almagest)": {
+      "type": "tech",
+      "description": "西元2世紀由托勒密在亞歷山大港編寫的天文學著作。它總結了古希臘的天文知識，確立了以地球為宇宙中心的「地心說」數學模型。這套模型主宰了西方與伊斯蘭世界的天文學長達一千四百年，直到哥白尼提出日心說。"
+    },
+    "天體運行論 (On the Revolutions of the Heavenly Spheres)": {
+      "type": "tech",
+      "description": "波蘭天文學家哥白尼於1543年臨終前出版的著作。書中正式提出了「日心說」，將地球從宇宙中心降格為一顆普通行星。這本書引發了科學革命，徹底顛覆了人類的宇宙觀與神學基礎。"
+    },
+    "自然哲學的數學原理 (Principia Mathematica)": {
+      "type": "tech",
+      "description": "牛頓於1687年出版的劃時代巨著（常簡稱為《原理》）。書中提出了運動三大定律與萬有引力定律，用嚴密的數學語言統一了天體運行與地面物體的力學法則。它標誌著科學革命的最高峰與古典力學體系的建立。"
+    },
+    "人類理解論 (An Essay Concerning Human Understanding)": {
+      "type": "religion",
+      "description": "英國哲學家約翰·洛克於1690年出版的哲學名著。書中反對笛卡兒的「天賦觀念」，主張人的心靈初生時是一塊「白板」（Tabula rasa），所有知識都來自後天經驗。這確立了英國經驗主義傳統。"
+    },
+    "論法的精神 (The Spirit of the Laws)": {
+      "type": "religion",
+      "description": "法國啟蒙思想家孟德斯鳩於1748年出版的政治哲學著作。書中系統地提出了行政、立法、司法「三權分立」與制衡的理論，成為後來美國憲法與現代民主制度的基石。"
+    },
+    "國富論 (The Wealth of Nations)": {
+      "type": "religion",
+      "description": "蘇格蘭經濟學家亞當·斯密於1776年出版的著作。書中提出了「看不見的手」引導市場資源配置，並強調勞動分工與自由貿易的重要性。它標誌著古典經濟學的誕生，為資本主義奠定了理論基礎。"
+    },
+    "獨立宣言 (Declaration of Independence)": {
+      "type": "religion",
+      "description": "1776年北美十三州宣告脫離英國統治的政治文件。起草人傑佛遜深受洛克啟蒙思想影響，在文中宣稱「人人生而平等，享有生命、自由與追求幸福的不可剝奪之權利」。它成為了全球民主革命的精神燈塔。"
+    },
+    "純粹理性批判 (Critique of Pure Reason)": {
+      "type": "religion",
+      "description": "德國哲學家康德於1781年出版的哲學巨著。書中對人類理性的認識能力進行了徹底的審查，指出我們只能認識「現象」而無法認識「物自體」。這場「哥白尼式革命」統合了理性主義與經驗主義，開啟了德國古典哲學。"
+    },
+    "物種起源 (On the Origin of Species)": {
+      "type": "tech",
+      "description": "英國生物學家達爾文於1859年出版的科學鉅著。書中提出了「物競天擇」的演化論，證明所有生物都源自共同祖先。這徹底顛覆了神創論，是人類思想史上一次巨大的範式轉移。"
+    },
+    "資本論 (Das Kapital)": {
+      "type": "religion",
+      "description": "卡爾·馬克思對資本主義進行政治經濟學批判的巨著（第一卷於1867年出版）。書中提出了「剩餘價值理論」，揭示了資本家剝削工人的秘密與資本主義的內在矛盾。這本書深刻影響了20世紀的全球政治格局。"
+    },
+    "夢的解析 (The Interpretation of Dreams)": {
+      "type": "religion",
+      "description": "奧地利心理學家佛洛伊德於1899年出版的著作。書中提出夢是「通往潛意識的皇家大道」，並揭示了被壓抑的慾望與心理防衛機制。這本書創立了精神分析學派，深遠地影響了現代心理學、文學與藝術。"
+    },
+    "聖經 (Bible)": {
+      "type": "religion",
+      "description": "猶太教與基督教的神聖文本。古騰堡在1455年使用活字印刷術印製了第一批《四十二行聖經》，這不僅是西方印刷史的里程碑，也打破了教會對經典解釋的壟斷，直接促成了後來的宗教改革。"
+    },
+    "馬可·波羅遊記 (Travels of Marco Polo)": {
+      "type": "tech",
+      "description": "13世紀末威尼斯商人馬可·波羅口述的東方見聞錄。書中描繪了元朝中國的繁華富庶，極大地刺激了歐洲人的想像力。這本書成為了後來哥倫布等航海家尋找東方新航路的精神動力。"
+    },
+    "夢溪筆談 (Dream Pool Essays)": {
+      "type": "tech",
+      "description": "北宋科學家沈括撰寫的百科全書式筆記。書中詳細記載了畢昇的膠泥活字印刷術，以及指南針的磁偏角現象。它是了解中國古代科學技術（特別是宋代科技高峰）最珍貴的文獻。"
+    },
+    "四書章句集注 (Collected Commentaries on the Four Books)": {
+      "type": "religion",
+      "description": "南宋哲學家朱熹對《大學》、《中庸》、《論語》、《孟子》所作的詳細注釋。這部書將儒家思想系統化、哲學化（即「理學」），並在元明清三代成為科舉考試的絕對標準，統治中國思想界達數百年之久。"
+    },
+    "九十五條論綱 (Ninety-five Theses)": {
+      "type": "religion",
+      "description": "1517年馬丁·路德在維騰堡張貼的神學辯論提綱，強烈抨擊教廷販賣贖罪券的腐敗。這份文件藉由新興的印刷術迅速傳遍歐洲，成為引爆宗教改革的導火線。"
+    },
+    "孔子 (Confucius)": {
+      "type": "person",
+      "description": "春秋時期魯國的思想家、教育家，儒家學派的創始人。他提倡「仁」與「禮」，主張以德治國、有教無類。其言行被弟子記錄在《論語》中，深刻塑造了東亞兩千年的政治倫理與文化性格。"
+    },
+    "孟子 (Mencius)": {
+      "type": "person",
+      "description": "戰國時期儒家代表人物，有「亞聖」之稱。他提出「性善論」，主張「民為貴，社稷次之，君為輕」的民本思想，將儒家倫理推向了更具理想主義與批判性的高度。"
+    },
+    "董仲舒 (Dong Zhongshu)": {
+      "type": "person",
+      "description": "西漢思想家。他將陰陽五行學說融入儒學，提出「天人感應」與「大一統」理論，說服漢武帝「罷黜百家，獨尊儒術」，使儒家正式成為中國兩千年帝制社會的正統意識形態。"
+    },
+    "蘇格拉底 (Socrates)": {
+      "type": "person",
+      "description": "古希臘哲學的奠基者之一。他沒有留下任何著作，但透過在雅典街頭與人進行無休止的「詰問」（蘇格拉底方法），迫使人們反思自己的無知與美德的本質。最終他因「腐蝕青年」的罪名被雅典民主法庭判處死刑。"
+    },
+    "柏拉圖 (Plato)": {
+      "type": "person",
+      "description": "古希臘哲學家，蘇格拉底的學生，亞里斯多德的老師。他創立了雅典學院，並提出了著名的「理型論」（Theory of Forms）與《理想國》的哲學王統治理念。他的思想奠定了整個西方唯心主義哲學的基礎。"
+    },
+    "亞里斯多德 (Aristotle)": {
+      "type": "person",
+      "description": "古希臘哲學的集大成者，柏拉圖的學生，亞歷山大大帝的老師。他對邏輯學、物理學、生物學、倫理學與政治學進行了系統性的分類與研究，被譽為「百科全書式」的學者。他的思想統治了西方與伊斯蘭世界學術界達近兩千年。"
+    },
+    "笛卡兒 (René Descartes)": {
+      "type": "person",
+      "description": "17世紀法國哲學家、數學家與科學家，被譽為「現代哲學之父」。他發明了解析幾何，並在哲學上提出「我思故我在」的心物二元論，開創了歐洲近代哲學的理性主義傳統。"
+    },
+    "洛克 (John Locke)": {
+      "type": "person",
+      "description": "17世紀英國哲學家，經驗主義的奠基者。他主張人心如「白板」，知識源於後天經驗。在政治上，他提出生命、自由、財產的「自然權利」與社會契約論，深刻影響了美國獨立與現代民主制度。"
+    },
+    "康德 (Immanuel Kant)": {
+      "type": "person",
+      "description": "18世紀德國哲學家，啟蒙運動的巔峰人物。他的《純粹理性批判》調和了理性主義與經驗主義，指出人類只能認識現象界，而無法觸及物自體。這場「哥白尼式革命」深刻改變了西方哲學的軌跡。"
+    },
+    "達摩 (Bodhidharma)": {
+      "type": "person",
+      "description": "南印度僧人，傳說於西元6世紀航海抵達中國，成為中國佛教禪宗的初祖。他提倡「不立文字，教外別傳，直指人心，見性成佛」，深刻塑造了東亞佛教的修行面貌。"
+    },
+    "法藏 (Fazang)": {
+      "type": "person",
+      "description": "唐代高僧，中國佛教華嚴宗的實際創立者。他以「金獅子」為喻向武則天講解華嚴深奧的「事事無礙、重重無盡」法界觀，將中國佛教哲學推向了最高峰。"
+    },
+    "新柏拉圖主義 (Neoplatonism)": {
+      "type": "religion",
+      "description": "西元3世紀由普羅提諾創立的哲學流派。它將柏拉圖的理型論發展為一種神秘主義的流溢說，認為宇宙萬物都從至高的「太一」（The One）流溢而出。它深刻影響了後來的基督教與伊斯蘭教神學。"
+    },
+    "抽象表現主義 (Abstract Expressionism)": {
+      "type": "tech",
+      "description": "二戰後興起於美國紐約的藝術運動。它徹底放棄了具象描繪，強調透過顏料的潑灑與強烈的筆觸來表達藝術家內在的潛意識與情感。標誌著世界藝術中心從巴黎轉移至紐約。"
+    },
+    "巴克提運動 (Bhakti Movement)": {
+      "type": "religion",
+      "description": "中世紀印度教的一場宗教改革運動。它反對僵化的種姓制度與繁瑣的婆羅門儀式，主張信徒透過對神的虔誠熱愛（巴克提）就能獲得解脫。它對後來錫克教的誕生有深遠影響。"
+    },
+    "蘇菲主義 (Sufism)": {
+      "type": "religion",
+      "description": "伊斯蘭教的神秘主義派別。強調透過內心的修煉、苦行、冥想甚至旋轉舞蹈，來達到與真主直接相合的境界。它在伊斯蘭文化向邊疆（如中亞、南亞）的傳播過程中扮演了關鍵角色。"
+    },
+    "資訊理論 (Information Theory)": {
+      "type": "tech",
+      "description": "1948年由克勞德·香農（Claude Shannon）創立的數學理論。它首次將「資訊」定義為可量化的實體（以位元 bit 為單位），奠定了現代數據壓縮、通訊與網路技術的理論基礎。"
+    },
+    "白銀帝國 (Silver Empire)": {
+      "type": "tech",
+      "description": "指明朝中後期，由於商品經濟發達與「一條鞭法」的實施，導致國內對白銀產生巨大需求。這促使美洲與日本的白銀大量流入中國，將中國捲入了早期的全球化貿易網絡。"
+    },
+    "馬克思 (Karl Marx)": {
+      "type": "person",
+      "description": "19世紀德國哲學家、政治經濟學家、社會學家。他與恩格斯共同起草了《共產黨宣言》，並在《資本論》中深刻剖析了資本主義的內在矛盾。他的思想引發了20世紀席捲全球的共產主義運動。"
+    },
+    "卡爾·馬克思 (Karl Marx)": {
+      "type": "person",
+      "description": "19世紀德國哲學家、政治經濟學家、社會學家。他與恩格斯共同起草了《共產黨宣言》，並在《資本論》中深刻剖析了資本主義的內在矛盾。他的思想引發了20世紀席捲全球的共產主義運動。"
+    },
+    "釋迦牟尼 (Gautama Buddha)": {
+      "type": "person",
+      "description": "佛教創始人。原為古印度迦毗羅衛國王子，為了尋求解脫生老病死的痛苦而離開宮廷修行，最終在菩提樹下覺悟。他提出「四聖諦」與「八正道」，為人類指引了一條斷除煩惱的道路。"
+    },
+    "古騰堡 (Johannes Gutenberg)": {
+      "type": "person",
+      "description": "15世紀德國發明家。他將鉛銻合金鑄字、油性墨水與壓榨機結合，發明了歐洲的機械活字印刷術。這項發明打破了知識的壟斷，直接催生了科學革命與宗教改革。"
+    },
+    "拉瓦節 (Antoine Lavoisier)": {
+      "type": "person",
+      "description": "18世紀法國化學家，被譽為「現代化學之父」。他推翻了燃素說，提出了氧化理論，並發表了質量守恆定律。最終在法國大革命期間被送上斷頭台。"
+    }
+  }
+}

@@ -7,51 +7,9 @@
         116.4074,
         39.9042
       ],
-      "description": "元朝的首都，由忽必烈汗下令建造。作為蒙古帝國的政治中心，大都是當時世界上最繁華、最多元文化的國際大都市之一，馬可·波羅等西方使節曾造訪此地。",
+      "description": "元朝的首都，由忽必烈汗下令建造。藏傳佛教高僧八思巴曾於此弘法，並受命創製統一文字。",
       "people": [
-        "忽必烈汗 (Kublai Khan)",
-        "八思巴 (Drogön Chögyal Phagpa)",
-        "札馬魯丁 (Zhamaluding)",
-        "郭守敬 (Guo Shoujing)",
-        "馬可·波羅 (Marco Polo)"
-      ],
-      "tech": [
-        "八思巴字 ('Phags-pa script)",
-        "回回曆法 (Islamic Astronomy)",
-        "授時曆 (Shoushi calendar)",
-        "交鈔 (Jiaochao)"
-      ],
-      "infrastructure": [
-        "回回司天台 (Islamic Astronomical Bureau)",
-        "印鈔局",
-        "站赤/驛站中樞 (Yam Hub)"
-      ]
-    },
-    {
-      "id": "tabriz",
-      "name": "大不里士",
-      "coordinates": [
-        46.2919,
-        38.0773
-      ],
-      "description": "伊兒汗國的首都與重要科學情報樞紐。這裡是東西方貿易、文化與科技交流的中心，孛羅丞相在此介紹交鈔，拉施特在此建立拉希迪莊園，成為當時波斯地區的文化與知識重鎮。",
-      "people": [
-        "拉施特 (Rashid al-Din Hamadani)",
-        "孛羅丞相 (Bolad Chingsang)",
-        "蓋海圖汗 (Gaykhatu)",
-        "合贊汗 (Ghazan Khan)",
-        "卻俄尼亞底斯 (Gregory Chioniades)"
-      ],
-      "tech": [
-        "雕版印刷 (Woodblock printing)",
-        "紙幣 (Paper money/Čāv)",
-        "牌符驛政改革 (Paiza reform)",
-        "天文翻譯 (Astronomical translation)"
-      ],
-      "infrastructure": [
-        "拉希迪莊園 (Rab'-e Rashidi)",
-        "大不里士觀象台 (Tabriz Observatory)",
-        "印鈔局 (Čāv-Khāna)"
+        "八思巴 (Drogön Chögyal Phagpa)"
       ]
     },
     {
@@ -61,18 +19,9 @@
         46.266,
         37.383
       ],
-      "description": "位於伊朗西北部的歷史名城，旭烈兀在此資助波斯學者納西爾丁·圖西建立當時世界上最先進的馬拉蓋觀象台，成為伊斯蘭世界與蒙古帝國的天文學中心。",
+      "description": "位於伊朗西北部的歷史名城，波斯哲學家納西爾丁·圖西曾於此建立觀象台，其倫理學著作《納西爾倫理學》融合希臘與伊斯蘭哲學傳統。",
       "people": [
-        "旭烈兀 (Hulegu Khan)",
         "納西爾丁·圖西 (Nasir al-Din al-Tusi)"
-      ],
-      "tech": [
-        "伊兒汗星表 (Ilkhanic Tables)",
-        "圖西雙圓 (Tusi couple)",
-        "歐幾里得幾何 (Euclidean geometry)"
-      ],
-      "infrastructure": [
-        "馬拉蓋觀象台 (Maragheh observatory)"
       ]
     },
     {
@@ -82,106 +31,11 @@
         66.9749,
         39.6542
       ],
-      "description": "絲綢之路上最古老、最繁華的城市之一。位於中亞腹地，歷經蒙古西征破壞後，仍在察合台汗國與後來的帖木兒帝國中扮演核心角色。",
+      "description": "絲綢之路上最古老、最繁華的城市之一。儒學家耶律楚材曾隨蒙古西征至此，以儒家治國理念影響蒙古帝國的治理。",
       "people": [
-        "成吉思汗 (Genghis Khan)",
         "耶律楚材 (Yelü Chucai)"
-      ],
-      "tech": [
-        "伊斯蘭曆法 (Islamic Astronomy)",
-        "地理時差計算 (Longitude time difference)"
-      ],
-      "infrastructure": [
-        "中亞驛站 (Central Asian yam)"
-      ]
-    },
-    {
-      "id": "gaocheng",
-      "name": "告成 (登封)",
-      "coordinates": [
-        113.0298,
-        34.4533
-      ],
-      "description": "元朝天文學家郭守敬在此建立了登封觀星台。透過高表測影技術，精確觀測日影長度，為編纂《授時曆》提供了重要的數據基礎。",
-      "people": [
-        "郭守敬 (Guo Shoujing)"
-      ],
-      "tech": [
-        "高表測影 (Gnomon shadow measurement)",
-        "球面三角學 (Spherical trigonometry)"
-      ],
-      "infrastructure": [
-        "觀星台 (Gaocheng Astronomical Observatory)"
-      ]
-    },
-    {
-      "id": "karakorum",
-      "name": "哈拉和林",
-      "coordinates": [
-        102.8478,
-        47.2103
-      ],
-      "description": "蒙古帝國早期的首都，由窩闊台汗建立。作為帝國的政治樞紐與驛站網絡的中心，吸引了來自歐亞大陸各地的商人、工匠與使節。",
-      "people": [
-        "蒙哥汗 (Mongke Khan)",
-        "威廉·魯不魯乞 (William of Rubruck)"
-      ],
-      "tech": [
-        "跨信仰神學辯論 (Interfaith debate)",
-        "毛筆書法觀察 (Observation of brush writing)"
-      ],
-      "infrastructure": [
-        "萬安宮 (Tumen Amgalan Ord)",
-        "驛站總樞紐 (Yam Hub)"
-      ]
-    },
-    {
-      "id": "tus",
-      "name": "圖斯 (呼羅珊)",
-      "coordinates": [
-        59.5247,
-        36.4522
-      ],
-      "description": "波斯東北部呼羅珊地區的古城，是眾多伊斯蘭學者、詩人與科學家的故鄉。著名的天文學家納西爾丁·圖西即誕生於此。",
-      "people": [
-        "闊里吉思 (Körgüz)",
-        "阿魯渾·阿加 (Arghun Aqa)"
-      ],
-      "tech": [
-        "戶賦/包稅制 (Qubchur tax)",
-        "驛站預算管理 (Yam budget management)"
-      ],
-      "infrastructure": [
-        "政府辦公機構 (Government office)",
-        "呼羅珊驛站 (Khurasan yam)"
       ]
     }
   ],
-  "routes": [
-    {
-      "source": "dadu",
-      "target": "tabriz",
-      "label": "印刷術與金融實驗：元代駐波斯丞相孛羅將大都的「交鈔」與雕版印刷技術引入大不里士。蓋海圖汗依此發行印有漢字與阿拉伯文的波斯紙幣（Čāv），雖致經濟崩潰，卻讓拉施特在《史集》中留下了中國印刷術的珍貴紀錄。"
-    },
-    {
-      "source": "samarqand",
-      "target": "dadu",
-      "label": "天文儀器與人才東傳：西域天文學家札馬魯丁從中亞來到元大都，向忽必烈進獻七種西域天文儀器（如星盤、天球儀）及《萬年曆》，並出任首任回回司天台長，推動了伊斯蘭與中國天文學的平行發展。"
-    },
-    {
-      "source": "maragha",
-      "target": "tabriz",
-      "label": "數理幾何西傳歐洲：拜占庭學者卻俄尼亞底斯（Gregory Chioniades）在伊兒汗國觀象台學習，將納西爾丁·圖西發明的「圖西雙圓」幾何模型及星盤技術翻譯成希臘文帶回君士坦丁堡，深遠影響了歐洲天文學與哥白尼日心說。"
-    },
-    {
-      "source": "tus",
-      "target": "tabriz",
-      "label": "驛政與牌符（Paiza）制度改革：為解決使臣濫用驛站，合贊汗整頓驛政，規定驛馬限額並發放刻有持牌人姓名的新式牌符，同時設立極速驛遞（Bīnchīk Yām）與步遞系統，大幅提升了帝國的通訊紀律。"
-    },
-    {
-      "source": "dadu",
-      "target": "karakorum",
-      "label": "文字創製與身分憑證：藏傳佛教高僧八思巴受忽必烈之命創製「八思巴字」。這種字母不僅被指定為統一帝國各語種的官方文字，更廣泛鑄刻於各驛道使者佩戴的金銀牌符（Gerege）上，成為大汗權威的直接視覺象徵。"
-    }
-  ]
+  "routes": []
 }

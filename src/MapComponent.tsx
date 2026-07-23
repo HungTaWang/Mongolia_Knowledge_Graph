@@ -54,7 +54,6 @@ export default function MapComponent({ data, selectedCity, onCityClick, filters,
 
   const getColorByType = (type: string | undefined) => {
     switch (type) {
-      case 'tech': return '#0ea5e9'; // Blue
       case 'religion': return '#a855f7'; // Purple
       case 'people': return '#f59e0b'; // Amber/Orange
       case 'trade':

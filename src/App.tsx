@@ -4,7 +4,7 @@ import MapComponent from './MapComponent';
 import MiniGraph from './MiniGraph';
 import GlobalGraph from './GlobalGraph';
 import data from './data.json';
-import { Users, Lightbulb, Route as RouteIcon, X, Map as MapIcon, Network } from 'lucide-react';
+import { Users, Route as RouteIcon, X, Map as MapIcon, Network } from 'lucide-react';
 
 const rawGlossaryKeys = Object.keys((data as any).glossary || {});
 const glossaryAliasMap: Record<string, string> = {};
@@ -24,7 +24,7 @@ const glossaryRegex = allGlossaryKeys.length > 0 ? new RegExp(`(${allGlossaryKey
 export default function App() {
   const [selectedCity, setSelectedCity] = useState<any>(null);
   const [modalContent, setModalContent] = useState<{title: string, desc: string, type: string} | null>(null);
-  const [viewMode, setViewMode] = useState<'map' | 'thoughts' | 'tech' | 'people'>('map');
+  const [viewMode, setViewMode] = useState<'map' | 'thoughts' | 'people'>('map');
   
   // Time Slider State
   const [currentYear, setCurrentYear] = useState(2000);
@@ -40,7 +40,6 @@ export default function App() {
 
   // Filters for route types
   const [filters, setFilters] = useState<Record<string, boolean>>({
-    tech: true,
     religion: true,
     people: true
   });
@@ -132,9 +131,7 @@ export default function App() {
           <button className={`view-mode-btn ${viewMode === 'thoughts' ? 'active thoughts-active' : ''}`} onClick={() => setViewMode('thoughts')}>
             <Network size={16} /> <span className="btn-text">思想</span>
           </button>
-          <button className={`view-mode-btn ${viewMode === 'tech' ? 'active tech-active' : ''}`} onClick={() => setViewMode('tech')}>
-            <Network size={16} /> <span className="btn-text">技術</span>
-          </button>
+
           <button className={`view-mode-btn ${viewMode === 'people' ? 'active people-active' : ''}`} onClick={() => setViewMode('people')}>
             <Network size={16} /> <span className="btn-text">人物</span>
           </button>
@@ -179,10 +176,7 @@ export default function App() {
         {viewMode === 'map' && (
           <div className="filters-panel">
             <h3>傳播路線過濾</h3>
-            <label className="filter-item">
-              <input type="checkbox" checked={filters.tech} onChange={() => toggleFilter('tech')} />
-              <span style={{ color: '#0ea5e9', fontWeight: 'bold' }}>─</span> 技術與科學 (Tech)
-            </label>
+
             <label className="filter-item">
               <input type="checkbox" checked={filters.religion} onChange={() => toggleFilter('religion')} />
               <span style={{ color: '#a855f7', fontWeight: 'bold' }}>─</span> 宗教與思想 (Religion)
@@ -250,19 +244,7 @@ export default function App() {
                 </>
               )}
 
-              {selectedCity.tech && selectedCity.tech.length > 0 && (
-                <>
-                  <h3 className="section-title"><Lightbulb size={18} color="var(--badge-tech)" /> 人文與技術</h3>
-                  <div className="badge-container">
-                    {selectedCity.tech.map((t: string, i: number) => {
-                      const baseName = t.split('(')[0].trim();
-                      return (
-                        <span key={i} className="badge clickable-entity-badge" style={{ backgroundColor: 'var(--badge-tech)' }} onClick={() => handleEntityClick(baseName)}>{t}</span>
-                      );
-                    })}
-                  </div>
-                </>
-              )}
+
 
               <h3 className="section-title" style={{ marginTop: '32px' }}>
                 <RouteIcon size={18} color="var(--accent-color)" /> 相關傳播路線
@@ -274,7 +256,7 @@ export default function App() {
                   const direction = isSource ? '前往' : '來自';
                   
                   return (
-                    <li key={i} style={{ borderLeft: `3px solid ${route.type === 'tech' ? '#0ea5e9' : route.type === 'religion' ? '#a855f7' : route.type === 'people' ? '#f59e0b' : '#94a3b8'}` }}>
+                    <li key={i} style={{ borderLeft: `3px solid ${route.type === 'religion' ? '#a855f7' : route.type === 'people' ? '#f59e0b' : '#94a3b8'}` }}>
                       <span className="route-name">{direction} <strong
                         style={{ cursor: 'pointer', color: 'var(--accent-color)', textDecoration: 'underline' }}
                         onClick={() => {
