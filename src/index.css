@@ -795,3 +795,87 @@ body {
   }
 }
 
+/* Graph Global Layout Styles */
+.graph-title-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+  color: #334155;
+  text-shadow: 0 1px 2px rgba(255,255,255,0.8);
+  pointer-events: none;
+}
+.graph-title-container h2 {
+  font-size: 24px;
+}
+
+.graph-legend {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #cbd5e1;
+  color: #334155;
+  pointer-events: none;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.legend-title {
+  font-size: 13px;
+  font-weight: bold;
+  border-bottom: 1px solid #cbd5e1;
+  padding-bottom: 4px;
+  margin-bottom: 4px;
+}
+
+.legend-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+}
+
+.legend-color-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+  .graph-title-container {
+    display: none; /* Hide on mobile to save space, view mode selector is enough */
+  }
+
+  .graph-legend {
+    display: none; /* Hide legend completely on mobile screens */
+  }
+
+  .legend-title {
+    font-size: 11px;
+    margin-bottom: 2px;
+  }
+  
+  .legend-container {
+    gap: 4px;
+  }
+  
+  .legend-item {
+    font-size: 10px;
+    gap: 4px;
+  }
+  
+  .legend-color-dot {
+    width: 8px;
+    height: 8px;
+  }
+}
+

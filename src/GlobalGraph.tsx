@@ -8,6 +8,50 @@ interface GlobalGraphProps {
   onEntityClick: (entityName: string) => void;
 }
 
+const branchMapping: Record<string, string> = {
+  // Western
+  "米利都自然哲學 (Milesian Naturalism)": "Western", "畢達哥拉斯學派 (Pythagoreanism)": "Western", "蘇格拉底方法 (Socratic Method)": "Western", "理型論 (Platonic Idealism)": "Western", "原子論 (Atomism)": "Western", "斯多葛主義 (Stoicism)": "Western", "斯多葛倫理學 (Stoic Ethics)": "Western", "自然法傳統 (Natural Law Tradition)": "Western", "自然權利論 (Natural Rights Theory)": "Western", "新柏拉圖主義 (Neoplatonism)": "Western", "教父哲學 (Patristic Philosophy)": "Western", "奧古斯丁神學 (Augustinian Theology)": "Western", "經院哲學 (Scholasticism)": "Western", "托馬斯主義 (Thomism)": "Western", "新柏拉圖主義復興 (Neoplatonic Revival)": "Western", "人文主義 (Humanism)": "Western", "文藝復興自然哲學 (Renaissance Natural Philosophy)": "Western", "心物二元論 (Mind-Body Dualism)": "Western", "理性主義 (Rationalism)": "Western", "泛神論 (Pantheism)": "Western", "德國觀念論 (German Idealism)": "Western", "伊壁鳩魯主義 (Epicureanism)": "Western", "經驗主義 (Empiricism)": "Western", "懷疑論 (Skepticism)": "Western", "蘇格蘭啟蒙運動 (Scottish Enlightenment)": "Western", "邏輯實證主義 (Logical Positivism)": "Western", "啟蒙運動 (The Enlightenment)": "Western", "功利主義 (Utilitarianism)": "Western", "自由主義 (Liberalism)": "Western", "道德情感論 (Moral Sentimentalism)": "Western", "社會契約論 (Social Contract Theory)": "Western", "百科全書派 (Encyclopédistes)": "Western", "實證主義 (Positivism)": "Western", "古典經濟學 (Classical Economics)": "Western", "馬克思主義政治經濟學 (Marxist Political Economy)": "Western", "黑格爾辯證法 (Hegelian Dialectics)": "Western", "青年黑格爾派 (Young Hegelians)": "Western", "存在主義 (Existentialism)": "Western", "辯證唯物主義 (Dialectical Materialism)": "Western", "費爾巴哈唯物主義 (Feuerbachian Materialism)": "Western", "信仰之躍 (Leap of Faith)": "Western", "現象學 (Phenomenology)": "Western", "結構主義 (Structuralism)": "Western", "後現代主義 (Postmodernism)": "Western", "實驗心理學 (Experimental Psychology)": "Western", "精神分析學 (Psychoanalysis)": "Western", "分析哲學 (Analytic Philosophy)": "Western", "犬儒主義 (Cynicism)": "Western",
+  "泰勒斯 (Thales)": "Western", "畢達哥拉斯 (Pythagoras)": "Western", "蘇格拉底 (Socrates)": "Western", "柏拉圖 (Plato)": "Western", "第歐根尼 (Diogenes)": "Western", "亞里斯多德 (Aristotle)": "Western", "托馬斯·阿奎那 (Thomas Aquinas)": "Western", "笛卡兒 (René Descartes)": "Western", "斯賓諾莎 (Baruch Spinoza)": "Western", "大衛·休謨 (David Hume)": "Western", "洛克 (John Locke)": "Western", "康德 (Immanuel Kant)": "Western", "黑格爾 (Georg Wilhelm Friedrich Hegel)": "Western", "費爾巴哈 (Ludwig Feuerbach)": "Western", "齊克果 (Søren Kierkegaard)": "Western", "卡爾·馬克思 (Karl Marx)": "Western", "伏爾泰 (Voltaire)": "Western", "盧梭 (Jean-Jacques Rousseau)": "Western", "亞當·斯密 (Adam Smith)": "Western", "弗里德里希·恩格斯 (Friedrich Engels)": "Western", "奧古斯特·孔德 (Auguste Comte)": "Western", "威廉·馮特 (Wilhelm Wundt)": "Western", "西格蒙德·佛洛伊德 (Sigmund Freud)": "Western", "讓-保羅·沙特 (Jean-Paul Sartre)": "Western", "米歇爾·傅柯 (Michel Foucault)": "Western",
+  
+  // Islamic
+  "穆塔齊賴派 (Mu'tazila Rationalism)": "Islamic", "伊斯蘭哲學 (Islamic Philosophy/Falsafa)": "Islamic", "阿威羅伊主義 (Averroism)": "Islamic", "蘇菲主義 (Sufism)": "Islamic",
+  "肯迪 (Al-Kindi)": "Islamic", "法拉比 (Al-Farabi)": "Islamic", "伊本·西那 (Avicenna/Ibn Sina)": "Islamic", "伊本·魯世德 (Averroes/Ibn Rushd)": "Islamic",
+
+  // Eastern (Chinese/East Asian)
+  "易經哲學 (Philosophy of I Ching)": "Eastern", "陰陽五行 (Yin-Yang and Five Elements)": "Eastern", "道家自然觀 (Daoist Naturalism)": "Eastern", "儒家 (Confucianism)": "Eastern", "法家 (Legalism)": "Eastern", "天人感應 (Telepathy between Heaven and Man)": "Eastern", "經學 (Classical Studies)": "Eastern", "魏晉玄學 (Wei-Jin Xuanxue)": "Eastern", "黃老之學 (Huang-Lao Daoism)": "Eastern", "般若學 (Prajna)": "Eastern", "華嚴宗 (Huayan School)": "Eastern", "禪宗 (Zen Buddhism)": "Eastern", "中國化佛教 (Sinicized Buddhism)": "Eastern", "宋明理學 (Neo-Confucianism)": "Eastern", "陸王心學 (School of Mind)": "Eastern", "日本朱子學 (Japanese Neo-Confucianism)": "Eastern", "考據學/清代樸學 (Evidential Research/Han Learning)": "Eastern", "日本陽明學 (Japanese Yangmingism)": "Eastern", "中體西用 (Chinese Learning as Substance, Western Learning for Application)": "Eastern", "墨家兼愛非攻 (Mohism)": "Eastern", "名家辯學 (School of Names)": "Eastern", "讖緯學 (Chenwei/Theology of Texts)": "Eastern", "道教內丹術 (Daoist Internal Alchemy)": "Eastern", "朝鮮朱子學 (Korean Neo-Confucianism)": "Eastern",
+  "老子 (Laozi)": "Eastern", "莊子 (Zhuangzi)": "Eastern", "王弼 (Wang Bi)": "Eastern", "孔子 (Confucius)": "Eastern", "孟子 (Mencius)": "Eastern", "荀子 (Xunzi)": "Eastern", "董仲舒 (Dong Zhongshu)": "Eastern", "朱熹 (Zhu Xi)": "Eastern", "王陽明 (Wang Yangming)": "Eastern", "顧炎武 (Gu Yanwu)": "Eastern", "吉田松陰 (Yoshida Shoin)": "Eastern", "玄奘 (Xuanzang)": "Eastern", "法藏 (Fazang)": "Eastern", "慧能 (Huineng)": "Eastern", "墨子 (Mozi)": "Eastern", "惠施 (Hui Shi)": "Eastern", "公孫龍 (Gongsun Long)": "Eastern", "鄒衍 (Zou Yan)": "Eastern", "韓非子 (Han Feizi)": "Eastern", "張載 (Zhang Zai)": "Eastern", "程頤 (Cheng Yi)": "Eastern", "程顥 (Cheng Hao)": "Eastern", "陸九淵 (Lu Jiuyuan)": "Eastern", "黃宗羲 (Huang Zongxi)": "Eastern", "退溪李滉 (Yi Hwang/Toegye)": "Eastern", "栗谷李珥 (Yi I/Yulgok)": "Eastern",
+
+  // Indian
+  "奧義書哲學 (Upanishadic Philosophy)": "Indian", "早期佛教 (Early Buddhism)": "Indian", "耆那教 (Jainism)": "Indian", "數論派 (Samkhya)": "Indian", "不二論 (Advaita Vedanta)": "Indian", "大乘佛教 (Mahayana Buddhism)": "Indian", "龍樹中觀學 (Madhyamaka)": "Indian", "無著唯識學 (Yogacara)": "Indian", "唯識宗 (Yogacara/Consciousness-Only)": "Indian", "限定不二論 (Vishishtadvaita)": "Indian", "巴克提運動 (Bhakti Movement)": "Indian",
+  "錫克教 (Sikhism)": "Indian",
+  "釋迦牟尼 (Gautama Buddha)": "Indian", "龍樹 (Nagarjuna)": "Indian", "無著 (Asanga)": "Indian", "達摩 (Bodhidharma)": "Indian", "商羯羅 (Adi Shankara)": "Indian", "羅摩努闍 (Ramanuja)": "Indian", "迦比爾 (Kabir)": "Indian", "納納克 (Guru Nanak)": "Indian",
+
+  // Synthesis
+  "蘇菲與巴克提融合 (Sufi-Bhakti Synthesis)": "Synthesis"
+};
+
+const getBranch = (itemName: string) => branchMapping[itemName] || 'Unknown';
+const getYByBranch = (branch: string) => {
+  switch (branch) {
+    case 'Western': return -220;
+    case 'Islamic': return -70;
+    case 'Synthesis': return 0;
+    case 'Indian': return 70;
+    case 'Eastern': return 220;
+    default: return 0;
+  }
+};
+const getColorByBranch = (branch: string) => {
+  switch (branch) {
+    case 'Western': return '#3b82f6'; // Blue
+    case 'Islamic': return '#10b981'; // Emerald
+    case 'Synthesis': return '#8b5cf6'; // Purple
+    case 'Indian': return '#f59e0b'; // Amber
+    case 'Eastern': return '#ef4444'; // Red
+    default: return '#94a3b8'; // Slate
+  }
+};
+
 // 承先啟後的繼承關係對照表
 const successions: Record<string, string[]> = {
   // ============================================
@@ -74,18 +118,21 @@ const successions: Record<string, string[]> = {
   // ============================================
 
   "易經哲學 (Philosophy of I Ching)": ["陰陽五行 (Yin-Yang and Five Elements)", "道家自然觀 (Daoist Naturalism)", "儒家 (Confucianism)"],
+  "儒家 (Confucianism)": ["天人感應 (Telepathy between Heaven and Man)", "墨家兼愛非攻 (Mohism)"],
+  "墨家兼愛非攻 (Mohism)": ["名家辯學 (School of Names)"],
   "法家 (Legalism)": ["儒家 (Confucianism)"],
-  "儒家 (Confucianism)": ["天人感應 (Telepathy between Heaven and Man)"],
   "陰陽五行 (Yin-Yang and Five Elements)": ["天人感應 (Telepathy between Heaven and Man)"],
   "天人感應 (Telepathy between Heaven and Man)": ["經學 (Classical Studies)"],
-  "經學 (Classical Studies)": ["魏晉玄學 (Wei-Jin Xuanxue)"],
-  "道家自然觀 (Daoist Naturalism)": ["黃老之學 (Huang-Lao Daoism)", "魏晉玄學 (Wei-Jin Xuanxue)"],
+  "經學 (Classical Studies)": ["魏晉玄學 (Wei-Jin Xuanxue)", "讖緯學 (Chenwei/Theology of Texts)"],
+  "道家自然觀 (Daoist Naturalism)": ["黃老之學 (Huang-Lao Daoism)", "魏晉玄學 (Wei-Jin Xuanxue)", "道教內丹術 (Daoist Internal Alchemy)"],
   "黃老之學 (Huang-Lao Daoism)": ["魏晉玄學 (Wei-Jin Xuanxue)"],
   "魏晉玄學 (Wei-Jin Xuanxue)": ["般若學 (Prajna)"],
   "大乘佛教 (Mahayana Buddhism)": ["般若學 (Prajna)"],
   "般若學 (Prajna)": ["唯識宗 (Yogacara/Consciousness-Only)", "華嚴宗 (Huayan School)", "禪宗 (Zen Buddhism)", "中國化佛教 (Sinicized Buddhism)"],
   "中國化佛教 (Sinicized Buddhism)": ["宋明理學 (Neo-Confucianism)"],
-  "宋明理學 (Neo-Confucianism)": ["陸王心學 (School of Mind)", "日本朱子學 (Japanese Neo-Confucianism)"],
+  "道教內丹術 (Daoist Internal Alchemy)": ["宋明理學 (Neo-Confucianism)"],
+  "宋明理學 (Neo-Confucianism)": ["陸王心學 (School of Mind)", "日本朱子學 (Japanese Neo-Confucianism)", "朝鮮朱子學 (Korean Neo-Confucianism)"],
+  "朝鮮朱子學 (Korean Neo-Confucianism)": ["日本朱子學 (Japanese Neo-Confucianism)"],
   "陸王心學 (School of Mind)": ["考據學/清代樸學 (Evidential Research/Han Learning)", "日本陽明學 (Japanese Yangmingism)"],
   "日本陽明學 (Japanese Yangmingism)": ["中體西用 (Chinese Learning as Substance, Western Learning for Application)"],
 
@@ -137,11 +184,20 @@ const successions: Record<string, string[]> = {
 
   "老子 (Laozi)": ["莊子 (Zhuangzi)"],
   "莊子 (Zhuangzi)": ["王弼 (Wang Bi)"],
-  "孔子 (Confucius)": ["孟子 (Mencius)"],
+  "孔子 (Confucius)": ["孟子 (Mencius)", "墨子 (Mozi)"],
+  "墨子 (Mozi)": ["惠施 (Hui Shi)"],
+  "惠施 (Hui Shi)": ["公孫龍 (Gongsun Long)"],
   "孟子 (Mencius)": ["荀子 (Xunzi)"],
-  "荀子 (Xunzi)": ["董仲舒 (Dong Zhongshu)"],
-  "朱熹 (Zhu Xi)": ["王陽明 (Wang Yangming)"],
-  "王陽明 (Wang Yangming)": ["顧炎武 (Gu Yanwu)", "吉田松陰 (Yoshida Shoin)"],
+  "荀子 (Xunzi)": ["董仲舒 (Dong Zhongshu)", "韓非子 (Han Feizi)"],
+  "鄒衍 (Zou Yan)": ["董仲舒 (Dong Zhongshu)"],
+  "張載 (Zhang Zai)": ["程頤 (Cheng Yi)", "程顥 (Cheng Hao)"],
+  "程頤 (Cheng Yi)": ["朱熹 (Zhu Xi)"],
+  "程顥 (Cheng Hao)": ["陸九淵 (Lu Jiuyuan)"],
+  "陸九淵 (Lu Jiuyuan)": ["王陽明 (Wang Yangming)"],
+  "朱熹 (Zhu Xi)": ["王陽明 (Wang Yangming)", "退溪李滉 (Yi Hwang/Toegye)"],
+  "退溪李滉 (Yi Hwang/Toegye)": ["栗谷李珥 (Yi I/Yulgok)"],
+  "栗谷李珥 (Yi I/Yulgok)": ["吉田松陰 (Yoshida Shoin)"],
+  "王陽明 (Wang Yangming)": ["顧炎武 (Gu Yanwu)", "黃宗羲 (Huang Zongxi)", "吉田松陰 (Yoshida Shoin)"],
 
   // ============================================
   // 👤 印度哲學人物傳承
@@ -192,7 +248,7 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
 
       items.forEach((item: string) => {
         if (!nodesMap.has(item)) {
-          nodesMap.set(item, { id: item, name: item, group: type, val: 20 });
+          nodesMap.set(item, { id: item, name: item, branch: getBranch(item), val: 20 });
         } else {
           const existingNode = nodesMap.get(item);
           existingNode.val = Math.min(60, existingNode.val + 5);
@@ -226,20 +282,26 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
   }, [data, type, currentYear]);
 
   useEffect(() => {
-    if (fgRef.current) {
+    if (fgRef.current && graphData.nodes) {
       fgRef.current.d3Force('charge').strength(-800);
       fgRef.current.d3Force('link').distance(80);
+      
+      const strength = 0.5;
+      const yForce = (alpha: number) => {
+        graphData.nodes.forEach((node: any) => {
+          if (node.branch) {
+            const targetY = getYByBranch(node.branch);
+            if (node.y !== undefined) {
+              node.vy += (targetY - node.y) * strength * alpha;
+            }
+          }
+        });
+      };
+      fgRef.current.d3Force('yBranch', yForce);
+      
       fgRef.current.d3ReheatSimulation();
     }
   }, [type, graphData]);
-
-  const getThemeColor = () => {
-    switch (type) {
-      case 'thoughts': return '#9333ea';
-      case 'people': return '#ea580c';
-      default: return '#94a3b8';
-    }
-  };
 
   const getThemeTitle = () => {
     switch (type) {
@@ -249,16 +311,24 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
     }
   };
 
+  const legendItems = [
+    { label: '西方 (Western)', color: getColorByBranch('Western') },
+    { label: '伊斯蘭 (Islamic)', color: getColorByBranch('Islamic') },
+    { label: '跨界融合 (Synthesis)', color: getColorByBranch('Synthesis') },
+    { label: '印度 (Indian)', color: getColorByBranch('Indian') },
+    { label: '東亞 (Eastern)', color: getColorByBranch('Eastern') }
+  ];
+
   return (
     <div ref={containerRef} style={{ width: '100%', height: '100%', background: '#f1f5f9', position: 'relative' }}>
-      <div style={{ position: 'absolute', top: 20, left: 20, zIndex: 10, color: '#334155', textShadow: '0 1px 2px rgba(255,255,255,0.8)', pointerEvents: 'none' }}>
-        <h2 style={{ margin: 0, fontSize: '24px', fontWeight: 'bold' }}>{getThemeTitle()}</h2>
+      <div className="graph-title-container">
+        <h2 style={{ margin: 0, fontWeight: 'bold' }}>{getThemeTitle()}</h2>
         <p style={{ margin: '8px 0 0 0', opacity: 0.8 }}>
           {type === 'thoughts' 
-            ? '思想因果流：節點連線代表思想演進與歷史承先啟後關係' 
-            : '人物師承流：節點連線代表人物傳承與歷史承先啟後關係'}
+            ? '' 
+            : ''}
           <br/>
-          （截至 {currentYear < 0 ? `B.C. ${Math.abs(currentYear)}` : `A.D. ${currentYear}`} 年）
+          
         </p>
       </div>
 
@@ -289,7 +359,7 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
           );
           ctx.fill();
 
-          ctx.strokeStyle = getThemeColor();
+          ctx.strokeStyle = getColorByBranch(node.branch);
           ctx.lineWidth = 1.5 / globalScale;
           ctx.stroke();
 
@@ -312,7 +382,13 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
         }}
         
         // Boost link visibility
-        linkColor={(link: any) => link.isSuccession ? getThemeColor() : 'rgba(148, 163, 184, 0.5)'}
+        linkColor={(link: any) => {
+          if (link.isSuccession) {
+            const branch = link.source.branch || getBranch(typeof link.source === 'string' ? link.source : link.source.id);
+            return getColorByBranch(branch);
+          }
+          return 'rgba(148, 163, 184, 0.3)';
+        }}
         linkWidth={(link: any) => link.isSuccession ? 3 : 1.5}
         linkDirectionalArrowLength={(link: any) => link.isSuccession ? 8 : 0}
         linkDirectionalArrowRelPos={1}
@@ -330,12 +406,17 @@ export default function GlobalGraph({ data, type, currentYear, onEntityClick }: 
         enablePanInteraction={true}
       />
       
-      <div style={{ position: 'absolute', bottom: 20, right: 20, zIndex: 10, background: 'rgba(255, 255, 255, 0.9)', padding: '12px', borderRadius: '8px', border: '1px solid #cbd5e1', color: '#334155', pointerEvents: 'none', boxShadow: '0 4px 6px rgba(0,0,0,0.05)' }}>
-        <div style={{ display: 'flex', alignItems: 'center' }}>
-          <div style={{ position: 'relative', width: 24, height: 2, background: getThemeColor(), marginRight: '8px' }}>
-             <div style={{ position: 'absolute', right: 0, top: -4, width: 0, height: 0, borderTop: '5px solid transparent', borderBottom: '5px solid transparent', borderLeft: `8px solid ${getThemeColor()}` }}></div>
+      <div className="graph-legend">
+        <div className="legend-container">
+          <div className="legend-title">
+            支線與文化圖例
           </div>
-          <span style={{ fontSize: '14px', fontWeight: 'bold' }}>承先啟後連線 (歷史傳承)</span>
+          {legendItems.map((item, index) => (
+            <div className="legend-item" key={index}>
+              <div className="legend-color-dot" style={{ backgroundColor: item.color }}></div>
+              <span>{item.label}</span>
+            </div>
+          ))}
         </div>
       </div>
     </div>
